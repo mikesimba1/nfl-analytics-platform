@@ -1,0 +1,4 @@
+game_id,home_team,away_team,week,season,travel_distance,home_rest_days,away_rest_days,is_primetime,is_divisional,home_schedule_strength,away_schedule_strength,playoff_implications,revenge_game,home_field_advantage
+KC_BUF_2024_22,BUF,KC,22,2024,1050,7,7,False,False,0.52,0.52,True,False,2.2
+MIA_NYJ_2024_22,NYJ,MIA,22,2024,1090,7,7,False,True,0.52,0.52,True,False,1.5
+DAL_PHI_2024_22,PHI,DAL,22,2024,1300,7,7,True,True,0.52,0.52,True,False,1.5

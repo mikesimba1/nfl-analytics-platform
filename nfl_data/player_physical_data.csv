@@ -1,0 +1,6 @@
+player_name,position,team,height,weight,age,experience,college,draft_year,draft_round,draft_pick,forty_time,vertical_jump,broad_jump,bench_press,three_cone,twenty_shuttle,contract_year,injury_history,playing_style
+Patrick Mahomes,QB,KC,74,225,29,7,Texas Tech,2017,1,10,4.8,32.0,120,,7.15,4.6,False,Minor ankle (2019),Mobile pocket passer
+Travis Kelce,TE,KC,77,260,35,11,Cincinnati,2013,3,63,4.61,35.0,123,16.0,7.1,4.45,False,Knee surgery (2013),"Route runner, mismatch creator"
+Josh Allen,QB,BUF,77,237,28,6,Wyoming,2018,1,7,4.75,33.5,118,,7.0,4.54,False,Elbow injury (2022),"Dual-threat, strong arm"
+Tyreek Hill,WR,MIA,70,185,30,8,West Alabama,2016,5,165,4.29,37.0,132,10.0,6.7,4.25,False,Hamstring issues,"Speed, deep threat"
+Stefon Diggs,WR,BUF,72,191,31,9,Maryland,2015,5,146,4.46,34.5,126,12.0,6.85,4.35,False,Oblique strain (2023),"Route precision, reliable hands"

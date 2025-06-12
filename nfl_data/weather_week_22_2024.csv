@@ -1,0 +1,4 @@
+game_id,home_team,away_team,week,season,dome_game,temperature,wind_speed,precipitation,humidity,weather_impact_score,weather_description
+KC_BUF_2024_22,BUF,KC,22,2024,False,28,12,0,65,4.0,"Freezing, Breezy"
+MIA_NYJ_2024_22,NYJ,MIA,22,2024,False,50,8,0,60,1.0,Clear
+DAL_PHI_2024_22,PHI,DAL,22,2024,False,50,8,0,60,1.0,Clear

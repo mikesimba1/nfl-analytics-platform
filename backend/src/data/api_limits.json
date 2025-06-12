@@ -1,0 +1,12 @@
+{
+  "daily": {
+    "used": 0,
+    "limit": 16
+  },
+  "monthly": {
+    "used": 4,
+    "limit": 500
+  },
+  "lastDailyReset": "Thu Jun 12 2025",
+  "lastMonthlyReset": "2025-06-12T03:20:28.645Z"
+}
