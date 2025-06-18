@@ -1,0 +1,1570 @@
+[
+  {
+    "teamId": 1,
+    "teamName": "Buffalo Bills",
+    "abbreviation": "BUF",
+    "rankings": {
+      "QB": {
+        "rank": 20,
+        "fantasyPointsAllowed": "17.1",
+        "yardsAllowed": 241,
+        "tdsAllowed": "1.8",
+        "recentForm": "-0.70"
+      },
+      "RB": {
+        "rank": 28,
+        "fantasyPointsAllowed": "11.0",
+        "yardsAllowed": 132,
+        "tdsAllowed": "1.5",
+        "recentForm": "-0.47"
+      },
+      "WR1": {
+        "rank": 15,
+        "fantasyPointsAllowed": "12.4",
+        "yardsAllowed": 78,
+        "tdsAllowed": "0.9",
+        "recentForm": "-0.19"
+      },
+      "WR2": {
+        "rank": 3,
+        "fantasyPointsAllowed": "11.6",
+        "yardsAllowed": 46,
+        "tdsAllowed": "0.4",
+        "recentForm": "0.35"
+      },
+      "WR3": {
+        "rank": 18,
+        "fantasyPointsAllowed": "5.8",
+        "yardsAllowed": 40,
+        "tdsAllowed": "0.4",
+        "recentForm": "-0.74"
+      },
+      "TE": {
+        "rank": 32,
+        "fantasyPointsAllowed": "6.0",
+        "yardsAllowed": 70,
+        "tdsAllowed": "0.9",
+        "recentForm": "-0.13"
+      }
+    }
+  },
+  {
+    "teamId": 2,
+    "teamName": "Miami Dolphins",
+    "abbreviation": "MIA",
+    "rankings": {
+      "QB": {
+        "rank": 7,
+        "fantasyPointsAllowed": "20.5",
+        "yardsAllowed": 199,
+        "tdsAllowed": "1.4",
+        "recentForm": "-0.83"
+      },
+      "RB": {
+        "rank": 22,
+        "fantasyPointsAllowed": "12.6",
+        "yardsAllowed": 120,
+        "tdsAllowed": "1.3",
+        "recentForm": "-0.41"
+      },
+      "WR1": {
+        "rank": 16,
+        "fantasyPointsAllowed": "12.1",
+        "yardsAllowed": 79,
+        "tdsAllowed": "0.9",
+        "recentForm": "0.14"
+      },
+      "WR2": {
+        "rank": 28,
+        "fantasyPointsAllowed": "6.8",
+        "yardsAllowed": 71,
+        "tdsAllowed": "0.7",
+        "recentForm": "-0.23"
+      },
+      "WR3": {
+        "rank": 7,
+        "fantasyPointsAllowed": "7.2",
+        "yardsAllowed": 33,
+        "tdsAllowed": "0.3",
+        "recentForm": "0.55"
+      },
+      "TE": {
+        "rank": 32,
+        "fantasyPointsAllowed": "6.0",
+        "yardsAllowed": 70,
+        "tdsAllowed": "0.9",
+        "recentForm": "-0.84"
+      }
+    }
+  },
+  {
+    "teamId": 3,
+    "teamName": "New England Patriots",
+    "abbreviation": "NE",
+    "rankings": {
+      "QB": {
+        "rank": 21,
+        "fantasyPointsAllowed": "16.8",
+        "yardsAllowed": 244,
+        "tdsAllowed": "1.8",
+        "recentForm": "-0.94"
+      },
+      "RB": {
+        "rank": 22,
+        "fantasyPointsAllowed": "12.6",
+        "yardsAllowed": 120,
+        "tdsAllowed": "1.3",
+        "recentForm": "0.67"
+      },
+      "WR1": {
+        "rank": 22,
+        "fantasyPointsAllowed": "10.6",
+        "yardsAllowed": 87,
+        "tdsAllowed": "1.0",
+        "recentForm": "-0.49"
+      },
+      "WR2": {
+        "rank": 23,
+        "fantasyPointsAllowed": "7.7",
+        "yardsAllowed": 66,
+        "tdsAllowed": "0.7",
+        "recentForm": "-0.31"
+      },
+      "WR3": {
+        "rank": 22,
+        "fantasyPointsAllowed": "5.3",
+        "yardsAllowed": 43,
+        "tdsAllowed": "0.4",
+        "recentForm": "0.62"
+      },
+      "TE": {
+        "rank": 5,
+        "fantasyPointsAllowed": "11.2",
+        "yardsAllowed": 43,
+        "tdsAllowed": "0.5",
+        "recentForm": "0.71"
+      }
+    }
+  },
+  {
+    "teamId": 4,
+    "teamName": "New York Jets",
+    "abbreviation": "NYJ",
+    "rankings": {
+      "QB": {
+        "rank": 19,
+        "fantasyPointsAllowed": "17.4",
+        "yardsAllowed": 238,
+        "tdsAllowed": "1.8",
+        "recentForm": "0.95"
+      },
+      "RB": {
+        "rank": 6,
+        "fantasyPointsAllowed": "16.7",
+        "yardsAllowed": 89,
+        "tdsAllowed": "0.9",
+        "recentForm": "-0.21"
+      },
+      "WR1": {
+        "rank": 27,
+        "fantasyPointsAllowed": "9.3",
+        "yardsAllowed": 93,
+        "tdsAllowed": "1.1",
+        "recentForm": "-0.16"
+      },
+      "WR2": {
+        "rank": 30,
+        "fantasyPointsAllowed": "6.4",
+        "yardsAllowed": 73,
+        "tdsAllowed": "0.8",
+        "recentForm": "-0.57"
+      },
+      "WR3": {
+        "rank": 4,
+        "fantasyPointsAllowed": "7.6",
+        "yardsAllowed": 31,
+        "tdsAllowed": "0.2",
+        "recentForm": "-0.77"
+      },
+      "TE": {
+        "rank": 2,
+        "fantasyPointsAllowed": "11.8",
+        "yardsAllowed": 40,
+        "tdsAllowed": "0.4",
+        "recentForm": "0.03"
+      }
+    }
+  },
+  {
+    "teamId": 5,
+    "teamName": "Baltimore Ravens",
+    "abbreviation": "BAL",
+    "rankings": {
+      "QB": {
+        "rank": 10,
+        "fantasyPointsAllowed": "19.7",
+        "yardsAllowed": 209,
+        "tdsAllowed": "1.5",
+        "recentForm": "-0.90"
+      },
+      "RB": {
+        "rank": 27,
+        "fantasyPointsAllowed": "11.3",
+        "yardsAllowed": 130,
+        "tdsAllowed": "1.5",
+        "recentForm": "0.53"
+      },
+      "WR1": {
+        "rank": 5,
+        "fantasyPointsAllowed": "15.0",
+        "yardsAllowed": 65,
+        "tdsAllowed": "0.7",
+        "recentForm": "0.55"
+      },
+      "WR2": {
+        "rank": 20,
+        "fantasyPointsAllowed": "8.3",
+        "yardsAllowed": 63,
+        "tdsAllowed": "0.6",
+        "recentForm": "-0.67"
+      },
+      "WR3": {
+        "rank": 1,
+        "fantasyPointsAllowed": "8.0",
+        "yardsAllowed": 30,
+        "tdsAllowed": "0.2",
+        "recentForm": "0.18"
+      },
+      "TE": {
+        "rank": 27,
+        "fantasyPointsAllowed": "7.0",
+        "yardsAllowed": 65,
+        "tdsAllowed": "0.8",
+        "recentForm": "0.15"
+      }
+    }
+  },
+  {
+    "teamId": 6,
+    "teamName": "Cincinnati Bengals",
+    "abbreviation": "CIN",
+    "rankings": {
+      "QB": {
+        "rank": 23,
+        "fantasyPointsAllowed": "16.3",
+        "yardsAllowed": 250,
+        "tdsAllowed": "1.9",
+        "recentForm": "0.38"
+      },
+      "RB": {
+        "rank": 4,
+        "fantasyPointsAllowed": "17.2",
+        "yardsAllowed": 85,
+        "tdsAllowed": "0.9",
+        "recentForm": "0.85"
+      },
+      "WR1": {
+        "rank": 11,
+        "fantasyPointsAllowed": "13.4",
+        "yardsAllowed": 72,
+        "tdsAllowed": "0.8",
+        "recentForm": "-0.52"
+      },
+      "WR2": {
+        "rank": 15,
+        "fantasyPointsAllowed": "9.3",
+        "yardsAllowed": 58,
+        "tdsAllowed": "0.6",
+        "recentForm": "0.76"
+      },
+      "WR3": {
+        "rank": 30,
+        "fantasyPointsAllowed": "4.3",
+        "yardsAllowed": 48,
+        "tdsAllowed": "0.5",
+        "recentForm": "-0.46"
+      },
+      "TE": {
+        "rank": 20,
+        "fantasyPointsAllowed": "8.3",
+        "yardsAllowed": 58,
+        "tdsAllowed": "0.7",
+        "recentForm": "-0.87"
+      }
+    }
+  },
+  {
+    "teamId": 7,
+    "teamName": "Cleveland Browns",
+    "abbreviation": "CLE",
+    "rankings": {
+      "QB": {
+        "rank": 2,
+        "fantasyPointsAllowed": "21.7",
+        "yardsAllowed": 183,
+        "tdsAllowed": "1.2",
+        "recentForm": "-0.98"
+      },
+      "RB": {
+        "rank": 1,
+        "fantasyPointsAllowed": "18.0",
+        "yardsAllowed": 80,
+        "tdsAllowed": "0.8",
+        "recentForm": "0.69"
+      },
+      "WR1": {
+        "rank": 5,
+        "fantasyPointsAllowed": "15.0",
+        "yardsAllowed": 65,
+        "tdsAllowed": "0.7",
+        "recentForm": "0.19"
+      },
+      "WR2": {
+        "rank": 16,
+        "fantasyPointsAllowed": "9.1",
+        "yardsAllowed": 59,
+        "tdsAllowed": "0.6",
+        "recentForm": "0.68"
+      },
+      "WR3": {
+        "rank": 11,
+        "fantasyPointsAllowed": "6.7",
+        "yardsAllowed": 36,
+        "tdsAllowed": "0.3",
+        "recentForm": "0.54"
+      },
+      "TE": {
+        "rank": 14,
+        "fantasyPointsAllowed": "9.5",
+        "yardsAllowed": 52,
+        "tdsAllowed": "0.6",
+        "recentForm": "-0.50"
+      }
+    }
+  },
+  {
+    "teamId": 8,
+    "teamName": "Pittsburgh Steelers",
+    "abbreviation": "PIT",
+    "rankings": {
+      "QB": {
+        "rank": 9,
+        "fantasyPointsAllowed": "19.9",
+        "yardsAllowed": 205,
+        "tdsAllowed": "1.5",
+        "recentForm": "-0.13"
+      },
+      "RB": {
+        "rank": 32,
+        "fantasyPointsAllowed": "10.0",
+        "yardsAllowed": 140,
+        "tdsAllowed": "1.6",
+        "recentForm": "-0.92"
+      },
+      "WR1": {
+        "rank": 9,
+        "fantasyPointsAllowed": "13.9",
+        "yardsAllowed": 70,
+        "tdsAllowed": "0.8",
+        "recentForm": "0.77"
+      },
+      "WR2": {
+        "rank": 22,
+        "fantasyPointsAllowed": "7.9",
+        "yardsAllowed": 65,
+        "tdsAllowed": "0.7",
+        "recentForm": "-0.28"
+      },
+      "WR3": {
+        "rank": 2,
+        "fantasyPointsAllowed": "7.9",
+        "yardsAllowed": 30,
+        "tdsAllowed": "0.2",
+        "recentForm": "-0.77"
+      },
+      "TE": {
+        "rank": 11,
+        "fantasyPointsAllowed": "10.1",
+        "yardsAllowed": 49,
+        "tdsAllowed": "0.6",
+        "recentForm": "0.93"
+      }
+    }
+  },
+  {
+    "teamId": 9,
+    "teamName": "Houston Texans",
+    "abbreviation": "HOU",
+    "rankings": {
+      "QB": {
+        "rank": 10,
+        "fantasyPointsAllowed": "19.7",
+        "yardsAllowed": 209,
+        "tdsAllowed": "1.5",
+        "recentForm": "-0.14"
+      },
+      "RB": {
+        "rank": 1,
+        "fantasyPointsAllowed": "18.0",
+        "yardsAllowed": 80,
+        "tdsAllowed": "0.8",
+        "recentForm": "-0.82"
+      },
+      "WR1": {
+        "rank": 6,
+        "fantasyPointsAllowed": "14.7",
+        "yardsAllowed": 66,
+        "tdsAllowed": "0.7",
+        "recentForm": "0.25"
+      },
+      "WR2": {
+        "rank": 1,
+        "fantasyPointsAllowed": "12.0",
+        "yardsAllowed": 45,
+        "tdsAllowed": "0.4",
+        "recentForm": "0.59"
+      },
+      "WR3": {
+        "rank": 12,
+        "fantasyPointsAllowed": "6.6",
+        "yardsAllowed": 37,
+        "tdsAllowed": "0.3",
+        "recentForm": "0.92"
+      },
+      "TE": {
+        "rank": 11,
+        "fantasyPointsAllowed": "10.1",
+        "yardsAllowed": 49,
+        "tdsAllowed": "0.6",
+        "recentForm": "-0.22"
+      }
+    }
+  },
+  {
+    "teamId": 10,
+    "teamName": "Indianapolis Colts",
+    "abbreviation": "IND",
+    "rankings": {
+      "QB": {
+        "rank": 17,
+        "fantasyPointsAllowed": "17.9",
+        "yardsAllowed": 231,
+        "tdsAllowed": "1.7",
+        "recentForm": "-0.76"
+      },
+      "RB": {
+        "rank": 32,
+        "fantasyPointsAllowed": "10.0",
+        "yardsAllowed": 140,
+        "tdsAllowed": "1.6",
+        "recentForm": "0.93"
+      },
+      "WR1": {
+        "rank": 4,
+        "fantasyPointsAllowed": "15.2",
+        "yardsAllowed": 63,
+        "tdsAllowed": "0.7",
+        "recentForm": "0.21"
+      },
+      "WR2": {
+        "rank": 4,
+        "fantasyPointsAllowed": "11.4",
+        "yardsAllowed": 47,
+        "tdsAllowed": "0.4",
+        "recentForm": "-0.79"
+      },
+      "WR3": {
+        "rank": 1,
+        "fantasyPointsAllowed": "8.0",
+        "yardsAllowed": 30,
+        "tdsAllowed": "0.2",
+        "recentForm": "-0.88"
+      },
+      "TE": {
+        "rank": 30,
+        "fantasyPointsAllowed": "6.4",
+        "yardsAllowed": 68,
+        "tdsAllowed": "0.9",
+        "recentForm": "-0.69"
+      }
+    }
+  },
+  {
+    "teamId": 11,
+    "teamName": "Jacksonville Jaguars",
+    "abbreviation": "JAX",
+    "rankings": {
+      "QB": {
+        "rank": 19,
+        "fantasyPointsAllowed": "17.4",
+        "yardsAllowed": 238,
+        "tdsAllowed": "1.8",
+        "recentForm": "-0.40"
+      },
+      "RB": {
+        "rank": 26,
+        "fantasyPointsAllowed": "11.5",
+        "yardsAllowed": 128,
+        "tdsAllowed": "1.4",
+        "recentForm": "-0.25"
+      },
+      "WR1": {
+        "rank": 18,
+        "fantasyPointsAllowed": "11.6",
+        "yardsAllowed": 81,
+        "tdsAllowed": "0.9",
+        "recentForm": "0.72"
+      },
+      "WR2": {
+        "rank": 11,
+        "fantasyPointsAllowed": "10.1",
+        "yardsAllowed": 54,
+        "tdsAllowed": "0.5",
+        "recentForm": "-0.40"
+      },
+      "WR3": {
+        "rank": 6,
+        "fantasyPointsAllowed": "7.4",
+        "yardsAllowed": 33,
+        "tdsAllowed": "0.2",
+        "recentForm": "-0.56"
+      },
+      "TE": {
+        "rank": 3,
+        "fantasyPointsAllowed": "11.6",
+        "yardsAllowed": 41,
+        "tdsAllowed": "0.4",
+        "recentForm": "0.44"
+      }
+    }
+  },
+  {
+    "teamId": 12,
+    "teamName": "Tennessee Titans",
+    "abbreviation": "TEN",
+    "rankings": {
+      "QB": {
+        "rank": 21,
+        "fantasyPointsAllowed": "16.8",
+        "yardsAllowed": 244,
+        "tdsAllowed": "1.8",
+        "recentForm": "0.88"
+      },
+      "RB": {
+        "rank": 1,
+        "fantasyPointsAllowed": "18.0",
+        "yardsAllowed": 80,
+        "tdsAllowed": "0.8",
+        "recentForm": "0.06"
+      },
+      "WR1": {
+        "rank": 3,
+        "fantasyPointsAllowed": "15.5",
+        "yardsAllowed": 62,
+        "tdsAllowed": "0.6",
+        "recentForm": "-0.99"
+      },
+      "WR2": {
+        "rank": 29,
+        "fantasyPointsAllowed": "6.6",
+        "yardsAllowed": 72,
+        "tdsAllowed": "0.8",
+        "recentForm": "-0.42"
+      },
+      "WR3": {
+        "rank": 27,
+        "fantasyPointsAllowed": "4.6",
+        "yardsAllowed": 46,
+        "tdsAllowed": "0.5",
+        "recentForm": "-0.63"
+      },
+      "TE": {
+        "rank": 22,
+        "fantasyPointsAllowed": "7.9",
+        "yardsAllowed": 60,
+        "tdsAllowed": "0.7",
+        "recentForm": "0.58"
+      }
+    }
+  },
+  {
+    "teamId": 13,
+    "teamName": "Denver Broncos",
+    "abbreviation": "DEN",
+    "rankings": {
+      "QB": {
+        "rank": 29,
+        "fantasyPointsAllowed": "14.8",
+        "yardsAllowed": 270,
+        "tdsAllowed": "2.1",
+        "recentForm": "0.94"
+      },
+      "RB": {
+        "rank": 26,
+        "fantasyPointsAllowed": "11.5",
+        "yardsAllowed": 128,
+        "tdsAllowed": "1.4",
+        "recentForm": "-0.26"
+      },
+      "WR1": {
+        "rank": 21,
+        "fantasyPointsAllowed": "10.8",
+        "yardsAllowed": 85,
+        "tdsAllowed": "1.0",
+        "recentForm": "-0.61"
+      },
+      "WR2": {
+        "rank": 12,
+        "fantasyPointsAllowed": "9.9",
+        "yardsAllowed": 55,
+        "tdsAllowed": "0.5",
+        "recentForm": "-0.27"
+      },
+      "WR3": {
+        "rank": 22,
+        "fantasyPointsAllowed": "5.3",
+        "yardsAllowed": 43,
+        "tdsAllowed": "0.4",
+        "recentForm": "-0.84"
+      },
+      "TE": {
+        "rank": 10,
+        "fantasyPointsAllowed": "10.3",
+        "yardsAllowed": 48,
+        "tdsAllowed": "0.5",
+        "recentForm": "0.26"
+      }
+    }
+  },
+  {
+    "teamId": 14,
+    "teamName": "Kansas City Chiefs",
+    "abbreviation": "KC",
+    "rankings": {
+      "QB": {
+        "rank": 8,
+        "fantasyPointsAllowed": "20.2",
+        "yardsAllowed": 202,
+        "tdsAllowed": "1.4",
+        "recentForm": "0.12"
+      },
+      "RB": {
+        "rank": 27,
+        "fantasyPointsAllowed": "11.3",
+        "yardsAllowed": 130,
+        "tdsAllowed": "1.5",
+        "recentForm": "-0.19"
+      },
+      "WR1": {
+        "rank": 13,
+        "fantasyPointsAllowed": "12.9",
+        "yardsAllowed": 75,
+        "tdsAllowed": "0.8",
+        "recentForm": "0.85"
+      },
+      "WR2": {
+        "rank": 1,
+        "fantasyPointsAllowed": "12.0",
+        "yardsAllowed": 45,
+        "tdsAllowed": "0.4",
+        "recentForm": "-0.19"
+      },
+      "WR3": {
+        "rank": 23,
+        "fantasyPointsAllowed": "5.2",
+        "yardsAllowed": 44,
+        "tdsAllowed": "0.4",
+        "recentForm": "0.18"
+      },
+      "TE": {
+        "rank": 21,
+        "fantasyPointsAllowed": "8.1",
+        "yardsAllowed": 59,
+        "tdsAllowed": "0.7",
+        "recentForm": "-0.39"
+      }
+    }
+  },
+  {
+    "teamId": 15,
+    "teamName": "Las Vegas Raiders",
+    "abbreviation": "LV",
+    "rankings": {
+      "QB": {
+        "rank": 24,
+        "fantasyPointsAllowed": "16.1",
+        "yardsAllowed": 254,
+        "tdsAllowed": "1.9",
+        "recentForm": "-0.51"
+      },
+      "RB": {
+        "rank": 24,
+        "fantasyPointsAllowed": "12.1",
+        "yardsAllowed": 124,
+        "tdsAllowed": "1.4",
+        "recentForm": "0.83"
+      },
+      "WR1": {
+        "rank": 15,
+        "fantasyPointsAllowed": "12.4",
+        "yardsAllowed": 78,
+        "tdsAllowed": "0.9",
+        "recentForm": "0.75"
+      },
+      "WR2": {
+        "rank": 10,
+        "fantasyPointsAllowed": "10.3",
+        "yardsAllowed": 53,
+        "tdsAllowed": "0.5",
+        "recentForm": "0.68"
+      },
+      "WR3": {
+        "rank": 15,
+        "fantasyPointsAllowed": "6.2",
+        "yardsAllowed": 39,
+        "tdsAllowed": "0.3",
+        "recentForm": "-0.64"
+      },
+      "TE": {
+        "rank": 32,
+        "fantasyPointsAllowed": "6.0",
+        "yardsAllowed": 70,
+        "tdsAllowed": "0.9",
+        "recentForm": "0.06"
+      }
+    }
+  },
+  {
+    "teamId": 16,
+    "teamName": "Los Angeles Chargers",
+    "abbreviation": "LAC",
+    "rankings": {
+      "QB": {
+        "rank": 27,
+        "fantasyPointsAllowed": "15.3",
+        "yardsAllowed": 263,
+        "tdsAllowed": "2.0",
+        "recentForm": "0.82"
+      },
+      "RB": {
+        "rank": 27,
+        "fantasyPointsAllowed": "11.3",
+        "yardsAllowed": 130,
+        "tdsAllowed": "1.5",
+        "recentForm": "0.35"
+      },
+      "WR1": {
+        "rank": 15,
+        "fantasyPointsAllowed": "12.4",
+        "yardsAllowed": 78,
+        "tdsAllowed": "0.9",
+        "recentForm": "0.00"
+      },
+      "WR2": {
+        "rank": 8,
+        "fantasyPointsAllowed": "10.6",
+        "yardsAllowed": 51,
+        "tdsAllowed": "0.5",
+        "recentForm": "-0.38"
+      },
+      "WR3": {
+        "rank": 32,
+        "fantasyPointsAllowed": "4.0",
+        "yardsAllowed": 50,
+        "tdsAllowed": "0.5",
+        "recentForm": "-0.42"
+      },
+      "TE": {
+        "rank": 16,
+        "fantasyPointsAllowed": "9.1",
+        "yardsAllowed": 54,
+        "tdsAllowed": "0.6",
+        "recentForm": "-0.72"
+      }
+    }
+  },
+  {
+    "teamId": 17,
+    "teamName": "Dallas Cowboys",
+    "abbreviation": "DAL",
+    "rankings": {
+      "QB": {
+        "rank": 5,
+        "fantasyPointsAllowed": "21.0",
+        "yardsAllowed": 192,
+        "tdsAllowed": "1.3",
+        "recentForm": "-0.05"
+      },
+      "RB": {
+        "rank": 1,
+        "fantasyPointsAllowed": "18.0",
+        "yardsAllowed": 80,
+        "tdsAllowed": "0.8",
+        "recentForm": "0.37"
+      },
+      "WR1": {
+        "rank": 25,
+        "fantasyPointsAllowed": "9.8",
+        "yardsAllowed": 90,
+        "tdsAllowed": "1.1",
+        "recentForm": "-0.24"
+      },
+      "WR2": {
+        "rank": 11,
+        "fantasyPointsAllowed": "10.1",
+        "yardsAllowed": 54,
+        "tdsAllowed": "0.5",
+        "recentForm": "0.54"
+      },
+      "WR3": {
+        "rank": 10,
+        "fantasyPointsAllowed": "6.8",
+        "yardsAllowed": 35,
+        "tdsAllowed": "0.3",
+        "recentForm": "-0.79"
+      },
+      "TE": {
+        "rank": 11,
+        "fantasyPointsAllowed": "10.1",
+        "yardsAllowed": 49,
+        "tdsAllowed": "0.6",
+        "recentForm": "0.19"
+      }
+    }
+  },
+  {
+    "teamId": 18,
+    "teamName": "New York Giants",
+    "abbreviation": "NYG",
+    "rankings": {
+      "QB": {
+        "rank": 5,
+        "fantasyPointsAllowed": "21.0",
+        "yardsAllowed": 192,
+        "tdsAllowed": "1.3",
+        "recentForm": "-0.52"
+      },
+      "RB": {
+        "rank": 32,
+        "fantasyPointsAllowed": "10.0",
+        "yardsAllowed": 140,
+        "tdsAllowed": "1.6",
+        "recentForm": "0.16"
+      },
+      "WR1": {
+        "rank": 6,
+        "fantasyPointsAllowed": "14.7",
+        "yardsAllowed": 66,
+        "tdsAllowed": "0.7",
+        "recentForm": "0.42"
+      },
+      "WR2": {
+        "rank": 20,
+        "fantasyPointsAllowed": "8.3",
+        "yardsAllowed": 63,
+        "tdsAllowed": "0.6",
+        "recentForm": "-0.60"
+      },
+      "WR3": {
+        "rank": 15,
+        "fantasyPointsAllowed": "6.2",
+        "yardsAllowed": 39,
+        "tdsAllowed": "0.3",
+        "recentForm": "-0.94"
+      },
+      "TE": {
+        "rank": 13,
+        "fantasyPointsAllowed": "9.7",
+        "yardsAllowed": 51,
+        "tdsAllowed": "0.6",
+        "recentForm": "-0.28"
+      }
+    }
+  },
+  {
+    "teamId": 19,
+    "teamName": "Philadelphia Eagles",
+    "abbreviation": "PHI",
+    "rankings": {
+      "QB": {
+        "rank": 20,
+        "fantasyPointsAllowed": "17.1",
+        "yardsAllowed": 241,
+        "tdsAllowed": "1.8",
+        "recentForm": "-0.32"
+      },
+      "RB": {
+        "rank": 12,
+        "fantasyPointsAllowed": "15.2",
+        "yardsAllowed": 101,
+        "tdsAllowed": "1.1",
+        "recentForm": "0.09"
+      },
+      "WR1": {
+        "rank": 24,
+        "fantasyPointsAllowed": "10.1",
+        "yardsAllowed": 89,
+        "tdsAllowed": "1.0",
+        "recentForm": "-0.75"
+      },
+      "WR2": {
+        "rank": 32,
+        "fantasyPointsAllowed": "6.0",
+        "yardsAllowed": 75,
+        "tdsAllowed": "0.8",
+        "recentForm": "-0.71"
+      },
+      "WR3": {
+        "rank": 16,
+        "fantasyPointsAllowed": "6.1",
+        "yardsAllowed": 39,
+        "tdsAllowed": "0.3",
+        "recentForm": "0.07"
+      },
+      "TE": {
+        "rank": 14,
+        "fantasyPointsAllowed": "9.5",
+        "yardsAllowed": 52,
+        "tdsAllowed": "0.6",
+        "recentForm": "-0.47"
+      }
+    }
+  },
+  {
+    "teamId": 20,
+    "teamName": "Washington Commanders",
+    "abbreviation": "WAS",
+    "rankings": {
+      "QB": {
+        "rank": 13,
+        "fantasyPointsAllowed": "18.9",
+        "yardsAllowed": 218,
+        "tdsAllowed": "1.6",
+        "recentForm": "0.42"
+      },
+      "RB": {
+        "rank": 19,
+        "fantasyPointsAllowed": "13.4",
+        "yardsAllowed": 114,
+        "tdsAllowed": "1.3",
+        "recentForm": "-0.81"
+      },
+      "WR1": {
+        "rank": 10,
+        "fantasyPointsAllowed": "13.7",
+        "yardsAllowed": 71,
+        "tdsAllowed": "0.8",
+        "recentForm": "-0.82"
+      },
+      "WR2": {
+        "rank": 11,
+        "fantasyPointsAllowed": "10.1",
+        "yardsAllowed": 54,
+        "tdsAllowed": "0.5",
+        "recentForm": "-0.48"
+      },
+      "WR3": {
+        "rank": 11,
+        "fantasyPointsAllowed": "6.7",
+        "yardsAllowed": 36,
+        "tdsAllowed": "0.3",
+        "recentForm": "-0.41"
+      },
+      "TE": {
+        "rank": 10,
+        "fantasyPointsAllowed": "10.3",
+        "yardsAllowed": 48,
+        "tdsAllowed": "0.5",
+        "recentForm": "0.26"
+      }
+    }
+  },
+  {
+    "teamId": 21,
+    "teamName": "Chicago Bears",
+    "abbreviation": "CHI",
+    "rankings": {
+      "QB": {
+        "rank": 23,
+        "fantasyPointsAllowed": "16.3",
+        "yardsAllowed": 250,
+        "tdsAllowed": "1.9",
+        "recentForm": "0.15"
+      },
+      "RB": {
+        "rank": 19,
+        "fantasyPointsAllowed": "13.4",
+        "yardsAllowed": 114,
+        "tdsAllowed": "1.3",
+        "recentForm": "-0.29"
+      },
+      "WR1": {
+        "rank": 27,
+        "fantasyPointsAllowed": "9.3",
+        "yardsAllowed": 93,
+        "tdsAllowed": "1.1",
+        "recentForm": "-0.18"
+      },
+      "WR2": {
+        "rank": 1,
+        "fantasyPointsAllowed": "12.0",
+        "yardsAllowed": 45,
+        "tdsAllowed": "0.4",
+        "recentForm": "-0.15"
+      },
+      "WR3": {
+        "rank": 15,
+        "fantasyPointsAllowed": "6.2",
+        "yardsAllowed": 39,
+        "tdsAllowed": "0.3",
+        "recentForm": "-0.47"
+      },
+      "TE": {
+        "rank": 5,
+        "fantasyPointsAllowed": "11.2",
+        "yardsAllowed": 43,
+        "tdsAllowed": "0.5",
+        "recentForm": "0.56"
+      }
+    }
+  },
+  {
+    "teamId": 22,
+    "teamName": "Detroit Lions",
+    "abbreviation": "DET",
+    "rankings": {
+      "QB": {
+        "rank": 9,
+        "fantasyPointsAllowed": "19.9",
+        "yardsAllowed": 205,
+        "tdsAllowed": "1.5",
+        "recentForm": "-0.36"
+      },
+      "RB": {
+        "rank": 22,
+        "fantasyPointsAllowed": "12.6",
+        "yardsAllowed": 120,
+        "tdsAllowed": "1.3",
+        "recentForm": "-0.98"
+      },
+      "WR1": {
+        "rank": 10,
+        "fantasyPointsAllowed": "13.7",
+        "yardsAllowed": 71,
+        "tdsAllowed": "0.8",
+        "recentForm": "-0.15"
+      },
+      "WR2": {
+        "rank": 26,
+        "fantasyPointsAllowed": "7.2",
+        "yardsAllowed": 69,
+        "tdsAllowed": "0.7",
+        "recentForm": "-0.12"
+      },
+      "WR3": {
+        "rank": 12,
+        "fantasyPointsAllowed": "6.6",
+        "yardsAllowed": 37,
+        "tdsAllowed": "0.3",
+        "recentForm": "0.15"
+      },
+      "TE": {
+        "rank": 31,
+        "fantasyPointsAllowed": "6.2",
+        "yardsAllowed": 69,
+        "tdsAllowed": "0.9",
+        "recentForm": "0.74"
+      }
+    }
+  },
+  {
+    "teamId": 23,
+    "teamName": "Green Bay Packers",
+    "abbreviation": "GB",
+    "rankings": {
+      "QB": {
+        "rank": 29,
+        "fantasyPointsAllowed": "14.8",
+        "yardsAllowed": 270,
+        "tdsAllowed": "2.1",
+        "recentForm": "-0.25"
+      },
+      "RB": {
+        "rank": 30,
+        "fantasyPointsAllowed": "10.5",
+        "yardsAllowed": 136,
+        "tdsAllowed": "1.5",
+        "recentForm": "-0.91"
+      },
+      "WR1": {
+        "rank": 1,
+        "fantasyPointsAllowed": "16.0",
+        "yardsAllowed": 60,
+        "tdsAllowed": "0.6",
+        "recentForm": "0.32"
+      },
+      "WR2": {
+        "rank": 27,
+        "fantasyPointsAllowed": "7.0",
+        "yardsAllowed": 70,
+        "tdsAllowed": "0.7",
+        "recentForm": "-0.11"
+      },
+      "WR3": {
+        "rank": 32,
+        "fantasyPointsAllowed": "4.0",
+        "yardsAllowed": 50,
+        "tdsAllowed": "0.5",
+        "recentForm": "0.94"
+      },
+      "TE": {
+        "rank": 19,
+        "fantasyPointsAllowed": "8.5",
+        "yardsAllowed": 57,
+        "tdsAllowed": "0.7",
+        "recentForm": "0.95"
+      }
+    }
+  },
+  {
+    "teamId": 24,
+    "teamName": "Minnesota Vikings",
+    "abbreviation": "MIN",
+    "rankings": {
+      "QB": {
+        "rank": 20,
+        "fantasyPointsAllowed": "17.1",
+        "yardsAllowed": 241,
+        "tdsAllowed": "1.8",
+        "recentForm": "-0.66"
+      },
+      "RB": {
+        "rank": 27,
+        "fantasyPointsAllowed": "11.3",
+        "yardsAllowed": 130,
+        "tdsAllowed": "1.5",
+        "recentForm": "-0.56"
+      },
+      "WR1": {
+        "rank": 22,
+        "fantasyPointsAllowed": "10.6",
+        "yardsAllowed": 87,
+        "tdsAllowed": "1.0",
+        "recentForm": "0.66"
+      },
+      "WR2": {
+        "rank": 23,
+        "fantasyPointsAllowed": "7.7",
+        "yardsAllowed": 66,
+        "tdsAllowed": "0.7",
+        "recentForm": "-0.24"
+      },
+      "WR3": {
+        "rank": 27,
+        "fantasyPointsAllowed": "4.6",
+        "yardsAllowed": 46,
+        "tdsAllowed": "0.5",
+        "recentForm": "-0.19"
+      },
+      "TE": {
+        "rank": 19,
+        "fantasyPointsAllowed": "8.5",
+        "yardsAllowed": 57,
+        "tdsAllowed": "0.7",
+        "recentForm": "0.08"
+      }
+    }
+  },
+  {
+    "teamId": 25,
+    "teamName": "Atlanta Falcons",
+    "abbreviation": "ATL",
+    "rankings": {
+      "QB": {
+        "rank": 1,
+        "fantasyPointsAllowed": "22.0",
+        "yardsAllowed": 180,
+        "tdsAllowed": "1.2",
+        "recentForm": "-0.05"
+      },
+      "RB": {
+        "rank": 26,
+        "fantasyPointsAllowed": "11.5",
+        "yardsAllowed": 128,
+        "tdsAllowed": "1.4",
+        "recentForm": "-0.66"
+      },
+      "WR1": {
+        "rank": 7,
+        "fantasyPointsAllowed": "14.5",
+        "yardsAllowed": 67,
+        "tdsAllowed": "0.7",
+        "recentForm": "0.66"
+      },
+      "WR2": {
+        "rank": 12,
+        "fantasyPointsAllowed": "9.9",
+        "yardsAllowed": 55,
+        "tdsAllowed": "0.5",
+        "recentForm": "-0.35"
+      },
+      "WR3": {
+        "rank": 1,
+        "fantasyPointsAllowed": "8.0",
+        "yardsAllowed": 30,
+        "tdsAllowed": "0.2",
+        "recentForm": "-0.39"
+      },
+      "TE": {
+        "rank": 32,
+        "fantasyPointsAllowed": "6.0",
+        "yardsAllowed": 70,
+        "tdsAllowed": "0.9",
+        "recentForm": "0.02"
+      }
+    }
+  },
+  {
+    "teamId": 26,
+    "teamName": "Carolina Panthers",
+    "abbreviation": "CAR",
+    "rankings": {
+      "QB": {
+        "rank": 20,
+        "fantasyPointsAllowed": "17.1",
+        "yardsAllowed": 241,
+        "tdsAllowed": "1.8",
+        "recentForm": "0.89"
+      },
+      "RB": {
+        "rank": 31,
+        "fantasyPointsAllowed": "10.3",
+        "yardsAllowed": 138,
+        "tdsAllowed": "1.6",
+        "recentForm": "0.57"
+      },
+      "WR1": {
+        "rank": 3,
+        "fantasyPointsAllowed": "15.5",
+        "yardsAllowed": 62,
+        "tdsAllowed": "0.6",
+        "recentForm": "0.75"
+      },
+      "WR2": {
+        "rank": 14,
+        "fantasyPointsAllowed": "9.5",
+        "yardsAllowed": 57,
+        "tdsAllowed": "0.6",
+        "recentForm": "-0.35"
+      },
+      "WR3": {
+        "rank": 22,
+        "fantasyPointsAllowed": "5.3",
+        "yardsAllowed": 43,
+        "tdsAllowed": "0.4",
+        "recentForm": "0.82"
+      },
+      "TE": {
+        "rank": 10,
+        "fantasyPointsAllowed": "10.3",
+        "yardsAllowed": 48,
+        "tdsAllowed": "0.5",
+        "recentForm": "-0.57"
+      }
+    }
+  },
+  {
+    "teamId": 27,
+    "teamName": "New Orleans Saints",
+    "abbreviation": "NO",
+    "rankings": {
+      "QB": {
+        "rank": 15,
+        "fantasyPointsAllowed": "18.4",
+        "yardsAllowed": 225,
+        "tdsAllowed": "1.7",
+        "recentForm": "0.25"
+      },
+      "RB": {
+        "rank": 21,
+        "fantasyPointsAllowed": "12.8",
+        "yardsAllowed": 118,
+        "tdsAllowed": "1.3",
+        "recentForm": "0.04"
+      },
+      "WR1": {
+        "rank": 19,
+        "fantasyPointsAllowed": "11.4",
+        "yardsAllowed": 83,
+        "tdsAllowed": "0.9",
+        "recentForm": "-0.55"
+      },
+      "WR2": {
+        "rank": 30,
+        "fantasyPointsAllowed": "6.4",
+        "yardsAllowed": 73,
+        "tdsAllowed": "0.8",
+        "recentForm": "-0.93"
+      },
+      "WR3": {
+        "rank": 8,
+        "fantasyPointsAllowed": "7.1",
+        "yardsAllowed": 34,
+        "tdsAllowed": "0.3",
+        "recentForm": "0.10"
+      },
+      "TE": {
+        "rank": 19,
+        "fantasyPointsAllowed": "8.5",
+        "yardsAllowed": 57,
+        "tdsAllowed": "0.7",
+        "recentForm": "-0.06"
+      }
+    }
+  },
+  {
+    "teamId": 28,
+    "teamName": "Tampa Bay Buccaneers",
+    "abbreviation": "TB",
+    "rankings": {
+      "QB": {
+        "rank": 29,
+        "fantasyPointsAllowed": "14.8",
+        "yardsAllowed": 270,
+        "tdsAllowed": "2.1",
+        "recentForm": "-0.98"
+      },
+      "RB": {
+        "rank": 6,
+        "fantasyPointsAllowed": "16.7",
+        "yardsAllowed": 89,
+        "tdsAllowed": "0.9",
+        "recentForm": "-0.74"
+      },
+      "WR1": {
+        "rank": 25,
+        "fantasyPointsAllowed": "9.8",
+        "yardsAllowed": 90,
+        "tdsAllowed": "1.1",
+        "recentForm": "-0.85"
+      },
+      "WR2": {
+        "rank": 8,
+        "fantasyPointsAllowed": "10.6",
+        "yardsAllowed": 51,
+        "tdsAllowed": "0.5",
+        "recentForm": "-0.23"
+      },
+      "WR3": {
+        "rank": 24,
+        "fantasyPointsAllowed": "5.0",
+        "yardsAllowed": 44,
+        "tdsAllowed": "0.4",
+        "recentForm": "0.75"
+      },
+      "TE": {
+        "rank": 11,
+        "fantasyPointsAllowed": "10.1",
+        "yardsAllowed": 49,
+        "tdsAllowed": "0.6",
+        "recentForm": "0.98"
+      }
+    }
+  },
+  {
+    "teamId": 29,
+    "teamName": "Arizona Cardinals",
+    "abbreviation": "ARI",
+    "rankings": {
+      "QB": {
+        "rank": 4,
+        "fantasyPointsAllowed": "21.2",
+        "yardsAllowed": 189,
+        "tdsAllowed": "1.3",
+        "recentForm": "0.92"
+      },
+      "RB": {
+        "rank": 15,
+        "fantasyPointsAllowed": "14.4",
+        "yardsAllowed": 107,
+        "tdsAllowed": "1.2",
+        "recentForm": "0.25"
+      },
+      "WR1": {
+        "rank": 2,
+        "fantasyPointsAllowed": "15.7",
+        "yardsAllowed": 61,
+        "tdsAllowed": "0.6",
+        "recentForm": "0.47"
+      },
+      "WR2": {
+        "rank": 15,
+        "fantasyPointsAllowed": "9.3",
+        "yardsAllowed": 58,
+        "tdsAllowed": "0.6",
+        "recentForm": "-0.03"
+      },
+      "WR3": {
+        "rank": 1,
+        "fantasyPointsAllowed": "8.0",
+        "yardsAllowed": 30,
+        "tdsAllowed": "0.2",
+        "recentForm": "0.93"
+      },
+      "TE": {
+        "rank": 16,
+        "fantasyPointsAllowed": "9.1",
+        "yardsAllowed": 54,
+        "tdsAllowed": "0.6",
+        "recentForm": "0.46"
+      }
+    }
+  },
+  {
+    "teamId": 30,
+    "teamName": "Los Angeles Rams",
+    "abbreviation": "LAR",
+    "rankings": {
+      "QB": {
+        "rank": 21,
+        "fantasyPointsAllowed": "16.8",
+        "yardsAllowed": 244,
+        "tdsAllowed": "1.8",
+        "recentForm": "0.92"
+      },
+      "RB": {
+        "rank": 32,
+        "fantasyPointsAllowed": "10.0",
+        "yardsAllowed": 140,
+        "tdsAllowed": "1.6",
+        "recentForm": "-0.43"
+      },
+      "WR1": {
+        "rank": 3,
+        "fantasyPointsAllowed": "15.5",
+        "yardsAllowed": 62,
+        "tdsAllowed": "0.6",
+        "recentForm": "-0.68"
+      },
+      "WR2": {
+        "rank": 1,
+        "fantasyPointsAllowed": "12.0",
+        "yardsAllowed": 45,
+        "tdsAllowed": "0.4",
+        "recentForm": "0.50"
+      },
+      "WR3": {
+        "rank": 23,
+        "fantasyPointsAllowed": "5.2",
+        "yardsAllowed": 44,
+        "tdsAllowed": "0.4",
+        "recentForm": "0.18"
+      },
+      "TE": {
+        "rank": 12,
+        "fantasyPointsAllowed": "9.9",
+        "yardsAllowed": 50,
+        "tdsAllowed": "0.6",
+        "recentForm": "-0.96"
+      }
+    }
+  },
+  {
+    "teamId": 31,
+    "teamName": "San Francisco 49ers",
+    "abbreviation": "SF",
+    "rankings": {
+      "QB": {
+        "rank": 28,
+        "fantasyPointsAllowed": "15.0",
+        "yardsAllowed": 267,
+        "tdsAllowed": "2.1",
+        "recentForm": "-0.36"
+      },
+      "RB": {
+        "rank": 5,
+        "fantasyPointsAllowed": "17.0",
+        "yardsAllowed": 87,
+        "tdsAllowed": "0.9",
+        "recentForm": "-0.87"
+      },
+      "WR1": {
+        "rank": 22,
+        "fantasyPointsAllowed": "10.6",
+        "yardsAllowed": 87,
+        "tdsAllowed": "1.0",
+        "recentForm": "0.26"
+      },
+      "WR2": {
+        "rank": 9,
+        "fantasyPointsAllowed": "10.5",
+        "yardsAllowed": 52,
+        "tdsAllowed": "0.5",
+        "recentForm": "0.69"
+      },
+      "WR3": {
+        "rank": 31,
+        "fantasyPointsAllowed": "4.1",
+        "yardsAllowed": 49,
+        "tdsAllowed": "0.5",
+        "recentForm": "0.81"
+      },
+      "TE": {
+        "rank": 12,
+        "fantasyPointsAllowed": "9.9",
+        "yardsAllowed": 50,
+        "tdsAllowed": "0.6",
+        "recentForm": "0.08"
+      }
+    }
+  },
+  {
+    "teamId": 32,
+    "teamName": "Seattle Seahawks",
+    "abbreviation": "SEA",
+    "rankings": {
+      "QB": {
+        "rank": 6,
+        "fantasyPointsAllowed": "20.7",
+        "yardsAllowed": 196,
+        "tdsAllowed": "1.4",
+        "recentForm": "0.56"
+      },
+      "RB": {
+        "rank": 32,
+        "fantasyPointsAllowed": "10.0",
+        "yardsAllowed": 140,
+        "tdsAllowed": "1.6",
+        "recentForm": "0.25"
+      },
+      "WR1": {
+        "rank": 29,
+        "fantasyPointsAllowed": "8.8",
+        "yardsAllowed": 96,
+        "tdsAllowed": "1.1",
+        "recentForm": "-0.83"
+      },
+      "WR2": {
+        "rank": 8,
+        "fantasyPointsAllowed": "10.6",
+        "yardsAllowed": 51,
+        "tdsAllowed": "0.5",
+        "recentForm": "-0.07"
+      },
+      "WR3": {
+        "rank": 23,
+        "fantasyPointsAllowed": "5.2",
+        "yardsAllowed": 44,
+        "tdsAllowed": "0.4",
+        "recentForm": "-0.91"
+      },
+      "TE": {
+        "rank": 2,
+        "fantasyPointsAllowed": "11.8",
+        "yardsAllowed": 40,
+        "tdsAllowed": "0.4",
+        "recentForm": "-0.32"
+      }
+    }
+  }
+]

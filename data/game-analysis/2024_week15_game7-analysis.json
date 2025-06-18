@@ -1,0 +1,971 @@
+{
+  "gameInfo": {
+    "id": "2024_week15_game7",
+    "matchup": "KC @ DEN",
+    "date": "2025-06-16T00:36:41.830Z",
+    "lines": {
+      "spread": "2.1",
+      "total": "46.0",
+      "moneyline": {
+        "home": 84,
+        "away": -53
+      }
+    }
+  },
+  "gameContext": {
+    "spread": 2.1,
+    "total": 46,
+    "impliedTotals": {
+      "home": "21.9",
+      "away": "24.1"
+    },
+    "gameScript": {
+      "type": "competitive",
+      "confidence": "high",
+      "impact": "Balanced game script expected"
+    },
+    "paceFactor": {
+      "expectedPlays": 66,
+      "paceRating": "average"
+    },
+    "environment": {
+      "venue": "Denver Broncos Stadium",
+      "weather": {
+        "conditions": "Clear",
+        "temperature": 65,
+        "wind": 5,
+        "impact": "minimal"
+      },
+      "primetime": false
+    }
+  },
+  "keyInsights": [
+    {
+      "type": "player_spotlight",
+      "title": "KC Key Players",
+      "description": "Top projected performers: DeAndre Ridley (20.6 pts), Austin Ertz (17.6 pts), Nick Jackson (15.9 pts), Jonathan Adams (12.0 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    },
+    {
+      "type": "player_spotlight",
+      "title": "DEN Key Players",
+      "description": "Top projected performers: Davante Kelce (20.3 pts), Rob Prescott (19.6 pts), Darren Ekeler (17.1 pts), Ezekiel Taylor (9.2 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    }
+  ],
+  "playerAnalysis": {
+    "KC": {
+      "QB": [
+        {
+          "player": {
+            "id": "KC_QB_1",
+            "name": "DeAndre Ridley",
+            "team": "KC",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "285.3",
+            "passingTDs": "1.78",
+            "interceptions": "1.05",
+            "rushingYards": "27.4",
+            "rushingTDs": "0.24",
+            "fantasyPoints": "20.6"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #29 QB defense",
+            "rank": 29
+          },
+          "keyFactors": [
+            "Favorable matchup vs #29 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 285,
+              "over": -110,
+              "under": -110,
+              "projection": 285.3
+            },
+            "passingTDs": {
+              "line": 1.5,
+              "over": -115,
+              "under": -105,
+              "projection": 1.78
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "KC_RB_1",
+            "name": "Austin Ertz",
+            "team": "KC",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "74.8",
+            "rushingTDs": "0.56",
+            "carries": "17.8",
+            "receivingYards": "34.6",
+            "receptions": "1.9",
+            "receivingTDs": "0.24",
+            "fantasyPoints": "17.6"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #26 RB defense",
+            "rank": 26
+          },
+          "keyFactors": [
+            "Favorable matchup vs #26 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 72.5,
+              "over": -110,
+              "under": -110,
+              "projection": 74.8
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -105,
+              "under": -115,
+              "projection": 1.9
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "KC_RB_2",
+            "name": "Kyle Higbee 2",
+            "team": "KC",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "27.4",
+            "rushingTDs": "0.15",
+            "carries": "3.5",
+            "receivingYards": "9.6",
+            "receptions": "1.5",
+            "receivingTDs": "0.07",
+            "fantasyPoints": "6.5"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #26 RB defense",
+            "rank": 26
+          },
+          "keyFactors": [
+            "Favorable matchup vs #26 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 22.5,
+              "over": -110,
+              "under": -110,
+              "projection": 27.4
+            },
+            "receptions": {
+              "line": 1,
+              "over": -105,
+              "under": -115,
+              "projection": 1.5
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "KC_WR_1",
+            "name": "Nick Jackson",
+            "team": "KC",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "66.0",
+            "receptions": "5.1",
+            "targets": "10.9",
+            "receivingTDs": "0.70",
+            "fantasyPoints": "15.9"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #21 WR defense",
+            "rank": 21
+          },
+          "keyFactors": [
+            "High target share indicates consistent volume"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 62.5,
+              "over": -110,
+              "under": -110,
+              "projection": 66
+            },
+            "receptions": {
+              "line": 4.5,
+              "over": -110,
+              "under": -110,
+              "projection": 5.1
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "KC_WR_3",
+            "name": "Russell Allen 3",
+            "team": "KC",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "36.1",
+            "receptions": "1.4",
+            "targets": "4.0",
+            "receivingTDs": "0.07",
+            "fantasyPoints": "5.4"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #22 WR defense",
+            "rank": 22
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 32.5,
+              "over": -110,
+              "under": -110,
+              "projection": 36.1
+            },
+            "receptions": {
+              "line": 1,
+              "over": -110,
+              "under": -110,
+              "projection": 1.4
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "KC_WR_2",
+            "name": "Alvin Kittle 2",
+            "team": "KC",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "41.8",
+            "receptions": "4.4",
+            "targets": "4.4",
+            "receivingTDs": "0.26",
+            "fantasyPoints": "10.1"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #22 WR defense",
+            "rank": 22
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 37.5,
+              "over": -110,
+              "under": -110,
+              "projection": 41.8
+            },
+            "receptions": {
+              "line": 4,
+              "over": -110,
+              "under": -110,
+              "projection": 4.4
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "KC_TE_1",
+            "name": "Jonathan Adams",
+            "team": "KC",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "53.8",
+            "receptions": "3.4",
+            "targets": "3.5",
+            "receivingTDs": "0.53",
+            "fantasyPoints": "12.0"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #10 TE defense",
+            "rank": 10
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 52.5,
+              "over": -110,
+              "under": -110,
+              "projection": 53.8
+            },
+            "receptions": {
+              "line": 3,
+              "over": -110,
+              "under": -110,
+              "projection": 3.4
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "KC_TE_2",
+            "name": "Tyler Hill 2",
+            "team": "KC",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "9.1",
+            "receptions": "1.5",
+            "targets": "1.8",
+            "receivingTDs": "0.17",
+            "fantasyPoints": "3.4"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #10 TE defense",
+            "rank": 10
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 7.5,
+              "over": -110,
+              "under": -110,
+              "projection": 9.1
+            },
+            "receptions": {
+              "line": 1,
+              "over": -110,
+              "under": -110,
+              "projection": 1.5
+            }
+          }
+        }
+      ]
+    },
+    "DEN": {
+      "QB": [
+        {
+          "player": {
+            "id": "DEN_QB_1",
+            "name": "Rob Prescott",
+            "team": "DEN",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "262.7",
+            "passingTDs": "1.53",
+            "interceptions": "0.56",
+            "rushingYards": "16.3",
+            "rushingTDs": "0.41",
+            "fantasyPoints": "19.6"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #8 QB defense",
+            "rank": 8
+          },
+          "keyFactors": [
+            "Faces tough #8 defense"
+          ],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 255,
+              "over": -110,
+              "under": -110,
+              "projection": 262.7
+            },
+            "passingTDs": {
+              "line": 1,
+              "over": -115,
+              "under": -105,
+              "projection": 1.53
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "DEN_RB_1",
+            "name": "Davante Kelce",
+            "team": "DEN",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "87.4",
+            "rushingTDs": "0.70",
+            "carries": "15.9",
+            "receivingYards": "42.4",
+            "receptions": "2.0",
+            "receivingTDs": "0.18",
+            "fantasyPoints": "20.3"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #27 RB defense",
+            "rank": 27
+          },
+          "keyFactors": [
+            "Favorable matchup vs #27 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 82.5,
+              "over": -110,
+              "under": -110,
+              "projection": 87.4
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -105,
+              "under": -115,
+              "projection": 2
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "DEN_RB_2",
+            "name": "Kyle Brady 2",
+            "team": "DEN",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "24.5",
+            "rushingTDs": "0.16",
+            "carries": "5.0",
+            "receivingYards": "8.9",
+            "receptions": "1.6",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "6.4"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #27 RB defense",
+            "rank": 27
+          },
+          "keyFactors": [
+            "Favorable matchup vs #27 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 22.5,
+              "over": -110,
+              "under": -110,
+              "projection": 24.5
+            },
+            "receptions": {
+              "line": 1,
+              "over": -105,
+              "under": -115,
+              "projection": 1.6
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "DEN_WR_1",
+            "name": "Darren Ekeler",
+            "team": "DEN",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "86.4",
+            "receptions": "6.3",
+            "targets": "4.8",
+            "receivingTDs": "0.36",
+            "fantasyPoints": "17.1"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #13 WR defense",
+            "rank": 13
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 82.5,
+              "over": -110,
+              "under": -110,
+              "projection": 86.4
+            },
+            "receptions": {
+              "line": 6,
+              "over": -110,
+              "under": -110,
+              "projection": 6.3
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "DEN_WR_2",
+            "name": "Jonathan Metcalf 2",
+            "team": "DEN",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "35.5",
+            "receptions": "4.3",
+            "targets": "3.1",
+            "receivingTDs": "0.37",
+            "fantasyPoints": "10.1"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #23 WR defense",
+            "rank": 23
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 32.5,
+              "over": -110,
+              "under": -110,
+              "projection": 35.5
+            },
+            "receptions": {
+              "line": 4,
+              "over": -110,
+              "under": -110,
+              "projection": 4.3
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "DEN_WR_3",
+            "name": "Tom Higbee 3",
+            "team": "DEN",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "35.2",
+            "receptions": "1.7",
+            "targets": "2.7",
+            "receivingTDs": "0.22",
+            "fantasyPoints": "6.5"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #23 WR defense",
+            "rank": 23
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 32.5,
+              "over": -110,
+              "under": -110,
+              "projection": 35.2
+            },
+            "receptions": {
+              "line": 1,
+              "over": -110,
+              "under": -110,
+              "projection": 1.7
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "DEN_TE_1",
+            "name": "Ezekiel Taylor",
+            "team": "DEN",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "27.1",
+            "receptions": "4.7",
+            "targets": "4.7",
+            "receivingTDs": "0.30",
+            "fantasyPoints": "9.2"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #21 TE defense",
+            "rank": 21
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 22.5,
+              "over": -110,
+              "under": -110,
+              "projection": 27.1
+            },
+            "receptions": {
+              "line": 4,
+              "over": -110,
+              "under": -110,
+              "projection": 4.7
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "DEN_TE_2",
+            "name": "Josh Barkley 2",
+            "team": "DEN",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "8.8",
+            "receptions": "1.4",
+            "targets": "1.9",
+            "receivingTDs": "0.07",
+            "fantasyPoints": "2.7"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #21 TE defense",
+            "rank": 21
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 7.5,
+              "over": -110,
+              "under": -110,
+              "projection": 8.8
+            },
+            "receptions": {
+              "line": 1,
+              "over": -110,
+              "under": -110,
+              "projection": 1.4
+            }
+          }
+        }
+      ]
+    }
+  },
+  "bettingAngles": [
+    {
+      "player": "Rob Prescott",
+      "team": "DEN",
+      "position": "QB",
+      "prop": "passingYards",
+      "bookLine": 255,
+      "projection": "262.7",
+      "edge": "7.7",
+      "edgePercent": "3.0%",
+      "recommendation": "OVER",
+      "confidence": 90,
+      "reasoning": "Projection exceeds book line by 7.7 units"
+    }
+  ],
+  "correlationPlays": [
+    {
+      "type": "QB_WR1_Stack",
+      "team": "KC",
+      "players": [
+        {
+          "name": "DeAndre Ridley",
+          "position": "QB",
+          "projection": "20.6"
+        },
+        {
+          "name": "Nick Jackson",
+          "position": "WR",
+          "projection": "15.9"
+        }
+      ],
+      "combinedProjection": "36.5",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "KC",
+      "players": [
+        {
+          "name": "Nick Jackson",
+          "position": "WR1",
+          "projection": "15.9"
+        },
+        {
+          "name": "Russell Allen 3",
+          "position": "WR2",
+          "projection": "5.4"
+        }
+      ],
+      "combinedProjection": "21.3",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "May limit upside"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "KC",
+      "players": [
+        {
+          "name": "DeAndre Ridley",
+          "position": "QB",
+          "projection": "20.6"
+        },
+        {
+          "name": "Jonathan Adams",
+          "position": "TE",
+          "projection": "12.0"
+        }
+      ],
+      "combinedProjection": "32.6",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    },
+    {
+      "type": "QB_WR1_Stack",
+      "team": "DEN",
+      "players": [
+        {
+          "name": "Rob Prescott",
+          "position": "QB",
+          "projection": "19.6"
+        },
+        {
+          "name": "Darren Ekeler",
+          "position": "WR",
+          "projection": "17.1"
+        }
+      ],
+      "combinedProjection": "36.7",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "DEN",
+      "players": [
+        {
+          "name": "Darren Ekeler",
+          "position": "WR1",
+          "projection": "17.1"
+        },
+        {
+          "name": "Jonathan Metcalf 2",
+          "position": "WR2",
+          "projection": "10.1"
+        }
+      ],
+      "combinedProjection": "27.2",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "May limit upside"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "DEN",
+      "players": [
+        {
+          "name": "Rob Prescott",
+          "position": "QB",
+          "projection": "19.6"
+        },
+        {
+          "name": "Ezekiel Taylor",
+          "position": "TE",
+          "projection": "9.2"
+        }
+      ],
+      "combinedProjection": "28.8",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    }
+  ],
+  "summary": {
+    "matchup": "KC @ DEN",
+    "gameScript": "competitive",
+    "totalProjection": 46,
+    "keyPlayers": [
+      {
+        "name": "DeAndre Ridley",
+        "team": "KC",
+        "position": "QB",
+        "projection": "20.6",
+        "confidence": 95
+      },
+      {
+        "name": "Davante Kelce",
+        "team": "DEN",
+        "position": "RB",
+        "projection": "20.3",
+        "confidence": 90
+      },
+      {
+        "name": "Rob Prescott",
+        "team": "DEN",
+        "position": "QB",
+        "projection": "19.6",
+        "confidence": 90
+      },
+      {
+        "name": "Austin Ertz",
+        "team": "KC",
+        "position": "RB",
+        "projection": "17.6",
+        "confidence": 90
+      },
+      {
+        "name": "Darren Ekeler",
+        "team": "DEN",
+        "position": "WR",
+        "projection": "17.1",
+        "confidence": 90
+      }
+    ],
+    "topBets": [],
+    "riskFactors": []
+  }
+}

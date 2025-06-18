@@ -1,13 +1,15 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { Activity, Target, BarChart3, Clock, AlertCircle, CheckCircle, Wifi } from 'lucide-react'
+import { Activity, Target, BarChart3, Clock, AlertCircle, CheckCircle, Wifi, Shield, Crown } from 'lucide-react'
 import nflDataService from '../src/services/nflDataService'
 
 // Simplified components
 import Dashboard from './components/Dashboard'
 import GameAnalysis from './components/GameAnalysis'
 import PlayerProps from './components/PlayerProps'
+import DataQualityDashboard from './components/DataQualityDashboard'
+import SubscriptionPreview from './components/SubscriptionPreview'
 
 export default function NFLAnalyticsPlatform() {
   const [activeTab, setActiveTab] = useState('home')
@@ -89,7 +91,9 @@ export default function NFLAnalyticsPlatform() {
   const tabs = [
     { id: 'home', name: 'Home', icon: Activity },
     { id: 'analysis', name: 'Game Analysis', icon: BarChart3 },
-    { id: 'props', name: 'Player Props', icon: Target }
+    { id: 'props', name: 'Player Props', icon: Target },
+    { id: 'quality', name: 'Platform Trust', icon: Shield },
+    { id: 'subscription', name: 'Subscription', icon: Crown }
   ]
 
   const renderContent = () => {
@@ -100,6 +104,10 @@ export default function NFLAnalyticsPlatform() {
         return <GameAnalysis />
       case 'props':
         return <PlayerProps />
+      case 'quality':
+        return <DataQualityDashboard />
+      case 'subscription':
+        return <SubscriptionPreview />
       default:
         return <Dashboard />
     }

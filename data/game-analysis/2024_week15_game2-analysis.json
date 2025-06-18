@@ -1,0 +1,994 @@
+{
+  "gameInfo": {
+    "id": "2024_week15_game2",
+    "matchup": "NYJ @ NE",
+    "date": "2025-06-15T00:36:41.830Z",
+    "lines": {
+      "spread": "5.7",
+      "total": "50.1",
+      "moneyline": {
+        "home": -134,
+        "away": -82
+      }
+    }
+  },
+  "gameContext": {
+    "spread": 5.7,
+    "total": 50.1,
+    "impliedTotals": {
+      "home": "22.2",
+      "away": "27.9"
+    },
+    "gameScript": {
+      "type": "high_scoring",
+      "confidence": "medium",
+      "impact": "Both teams likely to throw frequently"
+    },
+    "paceFactor": {
+      "expectedPlays": 68,
+      "paceRating": "fast"
+    },
+    "environment": {
+      "venue": "New England Patriots Stadium",
+      "weather": {
+        "conditions": "Clear",
+        "temperature": 65,
+        "wind": 5,
+        "impact": "minimal"
+      },
+      "primetime": false
+    }
+  },
+  "keyInsights": [
+    {
+      "type": "game_script",
+      "title": "High-Scoring Environment",
+      "description": "Game total of 50.1 suggests both teams will need to score frequently",
+      "impact": "Positive for all skill position players",
+      "confidence": "High"
+    },
+    {
+      "type": "pace",
+      "title": "Fast-Paced Game Expected",
+      "description": "Projected 68 plays creates more opportunities",
+      "impact": "Increases volume for all players",
+      "confidence": "Medium"
+    },
+    {
+      "type": "player_spotlight",
+      "title": "NYJ Key Players",
+      "description": "Top projected performers: DK Chubb (18.7 pts), Austin Ertz (18.6 pts), Christian Metcalf (15.5 pts), Patrick Prescott (14.5 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    },
+    {
+      "type": "player_spotlight",
+      "title": "NE Key Players",
+      "description": "Top projected performers: Justin Allen (23.9 pts), Davante Gronkowski (18.1 pts), Darren Pitts (13.1 pts), Rob Allen (11.6 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    }
+  ],
+  "playerAnalysis": {
+    "NYJ": {
+      "QB": [
+        {
+          "player": {
+            "id": "NYJ_QB_1",
+            "name": "DK Chubb",
+            "team": "NYJ",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "219.5",
+            "passingTDs": "2.19",
+            "interceptions": "0.73",
+            "rushingYards": "12.1",
+            "rushingTDs": "0.24",
+            "fantasyPoints": "18.7"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #21 QB defense",
+            "rank": 21
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 215,
+              "over": -110,
+              "under": -110,
+              "projection": 219.5
+            },
+            "passingTDs": {
+              "line": 1.5,
+              "over": -115,
+              "under": -105,
+              "projection": 2.19
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "NYJ_RB_1",
+            "name": "Austin Ertz",
+            "team": "NYJ",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "63.6",
+            "rushingTDs": "0.90",
+            "carries": "8.2",
+            "receivingYards": "34.9",
+            "receptions": "2.4",
+            "receivingTDs": "0.16",
+            "fantasyPoints": "18.6"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #22 RB defense",
+            "rank": 22
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 62.5,
+              "over": -110,
+              "under": -110,
+              "projection": 63.6
+            },
+            "receptions": {
+              "line": 2,
+              "over": -105,
+              "under": -115,
+              "projection": 2.4
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NYJ_RB_2",
+            "name": "Dak Evans 2",
+            "team": "NYJ",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "26.3",
+            "rushingTDs": "0.15",
+            "carries": "7.4",
+            "receivingYards": "12.0",
+            "receptions": "0.6",
+            "receivingTDs": "0.07",
+            "fantasyPoints": "5.8"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #22 RB defense",
+            "rank": 22
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 22.5,
+              "over": -110,
+              "under": -110,
+              "projection": 26.3
+            },
+            "receptions": {
+              "line": 0,
+              "over": -105,
+              "under": -115,
+              "projection": 0.6
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "NYJ_WR_1",
+            "name": "Christian Metcalf",
+            "team": "NYJ",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "75.5",
+            "receptions": "5.8",
+            "targets": "6.7",
+            "receivingTDs": "0.35",
+            "fantasyPoints": "15.5"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #22 WR defense",
+            "rank": 22
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 72.5,
+              "over": -110,
+              "under": -110,
+              "projection": 75.5
+            },
+            "receptions": {
+              "line": 5.5,
+              "over": -110,
+              "under": -110,
+              "projection": 5.8
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NYJ_WR_2",
+            "name": "Mike Adams 2",
+            "team": "NYJ",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "38.1",
+            "receptions": "2.9",
+            "targets": "5.4",
+            "receivingTDs": "0.38",
+            "fantasyPoints": "9.0"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #23 WR defense",
+            "rank": 23
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 37.5,
+              "over": -110,
+              "under": -110,
+              "projection": 38.1
+            },
+            "receptions": {
+              "line": 2.5,
+              "over": -110,
+              "under": -110,
+              "projection": 2.9
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NYJ_WR_3",
+            "name": "Joe Jackson 3",
+            "team": "NYJ",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "33.6",
+            "receptions": "1.9",
+            "targets": "2.6",
+            "receivingTDs": "0.16",
+            "fantasyPoints": "6.2"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #22 WR defense",
+            "rank": 22
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 32.5,
+              "over": -110,
+              "under": -110,
+              "projection": 33.6
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -110,
+              "under": -110,
+              "projection": 1.9
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "NYJ_TE_1",
+            "name": "Patrick Prescott",
+            "team": "NYJ",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "70.9",
+            "receptions": "4.5",
+            "targets": "6.9",
+            "receivingTDs": "0.49",
+            "fantasyPoints": "14.5"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #5 TE defense",
+            "rank": 5
+          },
+          "keyFactors": [
+            "Faces tough #5 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 67.5,
+              "over": -110,
+              "under": -110,
+              "projection": 70.9
+            },
+            "receptions": {
+              "line": 4,
+              "over": -110,
+              "under": -110,
+              "projection": 4.5
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NYJ_TE_2",
+            "name": "Calvin Ekeler 2",
+            "team": "NYJ",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "8.6",
+            "receptions": "1.1",
+            "targets": "1.2",
+            "receivingTDs": "0.21",
+            "fantasyPoints": "3.2"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #5 TE defense",
+            "rank": 5
+          },
+          "keyFactors": [
+            "Faces tough #5 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 7.5,
+              "over": -110,
+              "under": -110,
+              "projection": 8.6
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -110,
+              "under": -110,
+              "projection": 1.1
+            }
+          }
+        }
+      ]
+    },
+    "NE": {
+      "QB": [
+        {
+          "player": {
+            "id": "NE_QB_1",
+            "name": "Davante Gronkowski",
+            "team": "NE",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "295.0",
+            "passingTDs": "1.26",
+            "interceptions": "0.67",
+            "rushingYards": "16.6",
+            "rushingTDs": "0.15",
+            "fantasyPoints": "18.1"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #19 QB defense",
+            "rank": 19
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 295,
+              "over": -110,
+              "under": -110,
+              "projection": 295
+            },
+            "passingTDs": {
+              "line": 1,
+              "over": -115,
+              "under": -105,
+              "projection": 1.26
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "NE_RB_1",
+            "name": "Darren Pitts",
+            "team": "NE",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "40.0",
+            "rushingTDs": "0.70",
+            "carries": "13.9",
+            "receivingYards": "26.8",
+            "receptions": "1.4",
+            "receivingTDs": "0.14",
+            "fantasyPoints": "13.1"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #6 RB defense",
+            "rank": 6
+          },
+          "keyFactors": [
+            "Faces tough #6 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 37.5,
+              "over": -110,
+              "under": -110,
+              "projection": 40
+            },
+            "receptions": {
+              "line": 1,
+              "over": -105,
+              "under": -115,
+              "projection": 1.4
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NE_RB_3",
+            "name": "George Brady 3",
+            "team": "NE",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "18.8",
+            "rushingTDs": "0.08",
+            "carries": "3.0",
+            "receivingYards": "8.0",
+            "receptions": "0.3",
+            "receivingTDs": "0.00",
+            "fantasyPoints": "3.5"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #6 RB defense",
+            "rank": 6
+          },
+          "keyFactors": [
+            "Faces tough #6 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 17.5,
+              "over": -110,
+              "under": -110,
+              "projection": 18.8
+            },
+            "receptions": {
+              "line": 0,
+              "over": -105,
+              "under": -115,
+              "projection": 0.3
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "NE_WR_1",
+            "name": "Justin Allen",
+            "team": "NE",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "113.0",
+            "receptions": "6.7",
+            "targets": "5.7",
+            "receivingTDs": "0.99",
+            "fantasyPoints": "23.9"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #27 WR defense",
+            "rank": 27
+          },
+          "keyFactors": [
+            "Favorable matchup vs #27 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 112.5,
+              "over": -110,
+              "under": -110,
+              "projection": 113
+            },
+            "receptions": {
+              "line": 6,
+              "over": -110,
+              "under": -110,
+              "projection": 6.7
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NE_WR_2",
+            "name": "Calvin Henry 2",
+            "team": "NE",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "56.0",
+            "receptions": "3.7",
+            "targets": "4.4",
+            "receivingTDs": "0.39",
+            "fantasyPoints": "11.6"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #30 WR defense",
+            "rank": 30
+          },
+          "keyFactors": [
+            "Favorable matchup vs #30 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 52.5,
+              "over": -110,
+              "under": -110,
+              "projection": 56
+            },
+            "receptions": {
+              "line": 3,
+              "over": -110,
+              "under": -110,
+              "projection": 3.7
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NE_WR_3",
+            "name": "DeAndre Hill 3",
+            "team": "NE",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "23.9",
+            "receptions": "2.1",
+            "targets": "2.6",
+            "receivingTDs": "0.14",
+            "fantasyPoints": "5.3"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #4 WR defense",
+            "rank": 4
+          },
+          "keyFactors": [
+            "Faces tough #4 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 22.5,
+              "over": -110,
+              "under": -110,
+              "projection": 23.9
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -110,
+              "under": -110,
+              "projection": 2.1
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "NE_TE_1",
+            "name": "Rob Allen",
+            "team": "NE",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "43.3",
+            "receptions": "3.9",
+            "targets": "6.2",
+            "receivingTDs": "0.56",
+            "fantasyPoints": "11.6"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #2 TE defense",
+            "rank": 2
+          },
+          "keyFactors": [
+            "Faces tough #2 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 42.5,
+              "over": -110,
+              "under": -110,
+              "projection": 43.3
+            },
+            "receptions": {
+              "line": 3.5,
+              "over": -110,
+              "under": -110,
+              "projection": 3.9
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NE_TE_2",
+            "name": "Christian Kelce 2",
+            "team": "NE",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "11.7",
+            "receptions": "1.2",
+            "targets": "2.0",
+            "receivingTDs": "0.14",
+            "fantasyPoints": "3.2"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #2 TE defense",
+            "rank": 2
+          },
+          "keyFactors": [
+            "Faces tough #2 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 7.5,
+              "over": -110,
+              "under": -110,
+              "projection": 11.7
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -110,
+              "under": -110,
+              "projection": 1.2
+            }
+          }
+        }
+      ]
+    }
+  },
+  "bettingAngles": [],
+  "correlationPlays": [
+    {
+      "type": "QB_WR1_Stack",
+      "team": "NYJ",
+      "players": [
+        {
+          "name": "DK Chubb",
+          "position": "QB",
+          "projection": "18.7"
+        },
+        {
+          "name": "Christian Metcalf",
+          "position": "WR",
+          "projection": "15.5"
+        }
+      ],
+      "combinedProjection": "34.2",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Both teams likely to throw frequently"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "NYJ",
+      "players": [
+        {
+          "name": "Christian Metcalf",
+          "position": "WR1",
+          "projection": "15.5"
+        },
+        {
+          "name": "Mike Adams 2",
+          "position": "WR2",
+          "projection": "9.0"
+        }
+      ],
+      "combinedProjection": "24.5",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "Favorable for passing volume"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "NYJ",
+      "players": [
+        {
+          "name": "DK Chubb",
+          "position": "QB",
+          "projection": "18.7"
+        },
+        {
+          "name": "Patrick Prescott",
+          "position": "TE",
+          "projection": "14.5"
+        }
+      ],
+      "combinedProjection": "33.2",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    },
+    {
+      "type": "QB_WR1_Stack",
+      "team": "NE",
+      "players": [
+        {
+          "name": "Davante Gronkowski",
+          "position": "QB",
+          "projection": "18.1"
+        },
+        {
+          "name": "Justin Allen",
+          "position": "WR",
+          "projection": "23.9"
+        }
+      ],
+      "combinedProjection": "42.0",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Both teams likely to throw frequently"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "NE",
+      "players": [
+        {
+          "name": "Justin Allen",
+          "position": "WR1",
+          "projection": "23.9"
+        },
+        {
+          "name": "Calvin Henry 2",
+          "position": "WR2",
+          "projection": "11.6"
+        }
+      ],
+      "combinedProjection": "35.5",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "Favorable for passing volume"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "NE",
+      "players": [
+        {
+          "name": "Davante Gronkowski",
+          "position": "QB",
+          "projection": "18.1"
+        },
+        {
+          "name": "Rob Allen",
+          "position": "TE",
+          "projection": "11.6"
+        }
+      ],
+      "combinedProjection": "29.7",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    }
+  ],
+  "summary": {
+    "matchup": "NYJ @ NE",
+    "gameScript": "high_scoring",
+    "totalProjection": 50.1,
+    "keyPlayers": [
+      {
+        "name": "Justin Allen",
+        "team": "NE",
+        "position": "WR",
+        "projection": "23.9",
+        "confidence": 85
+      },
+      {
+        "name": "DK Chubb",
+        "team": "NYJ",
+        "position": "QB",
+        "projection": "18.7",
+        "confidence": 85
+      },
+      {
+        "name": "Austin Ertz",
+        "team": "NYJ",
+        "position": "RB",
+        "projection": "18.6",
+        "confidence": 85
+      },
+      {
+        "name": "Davante Gronkowski",
+        "team": "NE",
+        "position": "QB",
+        "projection": "18.1",
+        "confidence": 85
+      },
+      {
+        "name": "Christian Metcalf",
+        "team": "NYJ",
+        "position": "WR",
+        "projection": "15.5",
+        "confidence": 85
+      }
+    ],
+    "topBets": [],
+    "riskFactors": []
+  }
+}

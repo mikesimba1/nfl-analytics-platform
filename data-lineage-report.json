@@ -1,0 +1,83 @@
+{
+  "sourceDataIntegrity": {
+    "score": 80,
+    "issues": [
+      "nfl_data/play_by_play/2024_play_by_play.csv: File not found"
+    ],
+    "files": {
+      "nfl_data/player_stats/2024_seasonal_stats.csv": {
+        "exists": true,
+        "records": 607,
+        "headers": 58
+      },
+      "nfl_data/player_stats/2024_weekly_stats.csv": {
+        "exists": true,
+        "records": 5480,
+        "headers": 53
+      },
+      "nfl_data/rosters/2024_rosters.csv": {
+        "exists": true,
+        "records": 996,
+        "headers": 37
+      },
+      "nfl_data/rosters/2024_snap_counts.csv": {
+        "exists": true,
+        "records": 26600,
+        "headers": 16
+      }
+    }
+  },
+  "transformationAccuracy": {
+    "score": 75,
+    "issues": [
+      "Enhanced roster calculation error: Expected avg 84.8, got 254.5",
+      "Enhanced roster calculation error: Expected avg 98.8, got 296.2",
+      "nfl_data/position_matchups.csv: Not generated"
+    ],
+    "validations": 13
+  },
+  "dataConsistency": {
+    "score": 0,
+    "issues": [
+      "nfl_data/real_defensive_rankings_2024.csv: Only 0.0% team consistency",
+      "nfl_data/team_ratings.csv: Only 0.0% team consistency",
+      "Statistical relationship error: Total (3138) ≠ Avg (254.45945945945945) × Games (37)",
+      "Statistical relationship error: Total (3654) ≠ Avg (296.2432432432432) × Games (37)"
+    ],
+    "crossChecks": 22
+  },
+  "calculationVerification": {
+    "score": 54,
+    "issues": [
+      "Catch Rate calculation error: Expected 0.63, got 62.70",
+      "Catch Rate calculation error: Expected 0.72, got 72.50",
+      "Catch Rate calculation error: Expected 0.63, got 62.90",
+      "Catch Rate calculation error: Expected 0.57, got 57.40",
+      "Catch Rate calculation error: Expected 0.88, got 87.60",
+      "Catch Rate calculation error: Expected 0.86, got 85.90",
+      "Catch Rate calculation error: Expected 0.91, got 90.70",
+      "Catch Rate calculation error: Expected 0.68, got 67.60",
+      "Catch Rate calculation error: Expected 0.60, got 60.40",
+      "Catch Rate calculation error: Expected 0.60, got 60.20",
+      "Catch Rate calculation error: Expected 0.60, got 59.50",
+      "Yards per Carry calculation error: Expected 1.29, got 3.88"
+    ],
+    "verified": 14
+  },
+  "overall": {
+    "score": 77,
+    "status": "GOOD",
+    "criticalIssues": [
+      "nfl_data/play_by_play/2024_play_by_play.csv: File not found",
+      "Enhanced roster calculation error: Expected avg 84.8, got 254.5",
+      "Enhanced roster calculation error: Expected avg 98.8, got 296.2",
+      "nfl_data/position_matchups.csv: Not generated",
+      "nfl_data/real_defensive_rankings_2024.csv: Only 0.0% team consistency",
+      "nfl_data/team_ratings.csv: Only 0.0% team consistency",
+      "Statistical relationship error: Total (3138) ≠ Avg (254.45945945945945) × Games (37)",
+      "Catch Rate calculation error: Expected 0.63, got 62.70",
+      "Catch Rate calculation error: Expected 0.72, got 72.50",
+      "Catch Rate calculation error: Expected 0.63, got 62.90"
+    ]
+  }
+}

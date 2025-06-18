@@ -1,0 +1,967 @@
+{
+  "gameInfo": {
+    "id": "2024_week15_game8",
+    "matchup": "LAC @ LV",
+    "date": "2025-06-17T00:36:41.830Z",
+    "lines": {
+      "spread": "1.6",
+      "total": "44.7",
+      "moneyline": {
+        "home": 160,
+        "away": 141
+      }
+    }
+  },
+  "gameContext": {
+    "spread": 1.6,
+    "total": 44.7,
+    "impliedTotals": {
+      "home": "21.6",
+      "away": "23.2"
+    },
+    "gameScript": {
+      "type": "competitive",
+      "confidence": "high",
+      "impact": "Balanced game script expected"
+    },
+    "paceFactor": {
+      "expectedPlays": 65,
+      "paceRating": "average"
+    },
+    "environment": {
+      "venue": "Las Vegas Raiders Stadium",
+      "weather": {
+        "conditions": "Clear",
+        "temperature": 65,
+        "wind": 5,
+        "impact": "minimal"
+      },
+      "primetime": true
+    }
+  },
+  "keyInsights": [
+    {
+      "type": "player_spotlight",
+      "title": "LAC Key Players",
+      "description": "Top projected performers: Nick Metcalf (21.8 pts), Kyle Chubb (19.6 pts), George Taylor (16.4 pts), Tyreek Ertz (7.6 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    },
+    {
+      "type": "player_spotlight",
+      "title": "LV Key Players",
+      "description": "Top projected performers: Justin Evans (19.0 pts), Zach Taylor (16.0 pts), Austin Adams (14.9 pts), Nick Barkley (11.2 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    }
+  ],
+  "playerAnalysis": {
+    "LAC": {
+      "QB": [
+        {
+          "player": {
+            "id": "LAC_QB_1",
+            "name": "Nick Metcalf",
+            "team": "LAC",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "292.8",
+            "passingTDs": "1.77",
+            "interceptions": "0.44",
+            "rushingYards": "12.8",
+            "rushingTDs": "0.44",
+            "fantasyPoints": "21.8"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #24 QB defense",
+            "rank": 24
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 285,
+              "over": -110,
+              "under": -110,
+              "projection": 292.8
+            },
+            "passingTDs": {
+              "line": 1.5,
+              "over": -115,
+              "under": -105,
+              "projection": 1.77
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "LAC_RB_1",
+            "name": "George Taylor",
+            "team": "LAC",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "59.7",
+            "rushingTDs": "0.43",
+            "carries": "11.2",
+            "receivingYards": "41.0",
+            "receptions": "3.3",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "16.4"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #24 RB defense",
+            "rank": 24
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 57.5,
+              "over": -110,
+              "under": -110,
+              "projection": 59.7
+            },
+            "receptions": {
+              "line": 3,
+              "over": -105,
+              "under": -115,
+              "projection": 3.3
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "LAC_RB_2",
+            "name": "Tyler Adams 2",
+            "team": "LAC",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "16.0",
+            "rushingTDs": "0.07",
+            "carries": "6.1",
+            "receivingYards": "12.3",
+            "receptions": "1.1",
+            "receivingTDs": "0.00",
+            "fantasyPoints": "4.3"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #24 RB defense",
+            "rank": 24
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 12.5,
+              "over": -110,
+              "under": -110,
+              "projection": 16
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -105,
+              "under": -115,
+              "projection": 1.1
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "LAC_WR_1",
+            "name": "Kyle Chubb",
+            "team": "LAC",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "106.6",
+            "receptions": "4.8",
+            "targets": "7.7",
+            "receivingTDs": "0.69",
+            "fantasyPoints": "19.6"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #15 WR defense",
+            "rank": 15
+          },
+          "keyFactors": [
+            "High target share indicates consistent volume"
+          ],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 102.5,
+              "over": -110,
+              "under": -110,
+              "projection": 106.6
+            },
+            "receptions": {
+              "line": 4.5,
+              "over": -110,
+              "under": -110,
+              "projection": 4.8
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "LAC_WR_2",
+            "name": "Rob Kamara 2",
+            "team": "LAC",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "62.7",
+            "receptions": "4.1",
+            "targets": "5.6",
+            "receivingTDs": "0.43",
+            "fantasyPoints": "13.0"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #15 WR defense",
+            "rank": 15
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 62.5,
+              "over": -110,
+              "under": -110,
+              "projection": 62.7
+            },
+            "receptions": {
+              "line": 3.5,
+              "over": -110,
+              "under": -110,
+              "projection": 4.1
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "LAC_WR_3",
+            "name": "Tua Henry 3",
+            "team": "LAC",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "29.6",
+            "receptions": "2.4",
+            "targets": "4.2",
+            "receivingTDs": "0.31",
+            "fantasyPoints": "7.2"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #15 WR defense",
+            "rank": 15
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 27.5,
+              "over": -110,
+              "under": -110,
+              "projection": 29.6
+            },
+            "receptions": {
+              "line": 2,
+              "over": -110,
+              "under": -110,
+              "projection": 2.4
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "LAC_TE_1",
+            "name": "Tyreek Ertz",
+            "team": "LAC",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "36.3",
+            "receptions": "2.5",
+            "targets": "8.0",
+            "receivingTDs": "0.25",
+            "fantasyPoints": "7.6"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #32 TE defense",
+            "rank": 32
+          },
+          "keyFactors": [
+            "Favorable matchup vs #32 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 32.5,
+              "over": -110,
+              "under": -110,
+              "projection": 36.3
+            },
+            "receptions": {
+              "line": 2,
+              "over": -110,
+              "under": -110,
+              "projection": 2.5
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "LAC_TE_2",
+            "name": "Stefon Elliott 2",
+            "team": "LAC",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "23.4",
+            "receptions": "1.1",
+            "targets": "2.5",
+            "receivingTDs": "0.09",
+            "fantasyPoints": "4.0"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #32 TE defense",
+            "rank": 32
+          },
+          "keyFactors": [
+            "Favorable matchup vs #32 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 22.5,
+              "over": -110,
+              "under": -110,
+              "projection": 23.4
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -110,
+              "under": -110,
+              "projection": 1.1
+            }
+          }
+        }
+      ]
+    },
+    "LV": {
+      "QB": [
+        {
+          "player": {
+            "id": "LV_QB_1",
+            "name": "Zach Taylor",
+            "team": "LV",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "189.9",
+            "passingTDs": "1.42",
+            "interceptions": "0.97",
+            "rushingYards": "28.8",
+            "rushingTDs": "0.30",
+            "fantasyPoints": "16.0"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #27 QB defense",
+            "rank": 27
+          },
+          "keyFactors": [
+            "Favorable matchup vs #27 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 185,
+              "over": -110,
+              "under": -110,
+              "projection": 189.9
+            },
+            "passingTDs": {
+              "line": 1,
+              "over": -115,
+              "under": -105,
+              "projection": 1.42
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "LV_RB_1",
+            "name": "Nick Barkley",
+            "team": "LV",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "39.8",
+            "rushingTDs": "0.32",
+            "carries": "11.2",
+            "receivingYards": "23.9",
+            "receptions": "1.9",
+            "receivingTDs": "0.16",
+            "fantasyPoints": "11.2"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #27 RB defense",
+            "rank": 27
+          },
+          "keyFactors": [
+            "Favorable matchup vs #27 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 37.5,
+              "over": -110,
+              "under": -110,
+              "projection": 39.8
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -105,
+              "under": -115,
+              "projection": 1.9
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "LV_RB_2",
+            "name": "Christian Ertz 2",
+            "team": "LV",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "30.3",
+            "rushingTDs": "0.32",
+            "carries": "4.7",
+            "receivingYards": "9.9",
+            "receptions": "0.6",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "7.0"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #27 RB defense",
+            "rank": 27
+          },
+          "keyFactors": [
+            "Favorable matchup vs #27 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 27.5,
+              "over": -110,
+              "under": -110,
+              "projection": 30.3
+            },
+            "receptions": {
+              "line": 0,
+              "over": -105,
+              "under": -115,
+              "projection": 0.6
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "LV_WR_1",
+            "name": "Justin Evans",
+            "team": "LV",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "96.2",
+            "receptions": "5.5",
+            "targets": "5.6",
+            "receivingTDs": "0.64",
+            "fantasyPoints": "19.0"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #15 WR defense",
+            "rank": 15
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 92.5,
+              "over": -110,
+              "under": -110,
+              "projection": 96.2
+            },
+            "receptions": {
+              "line": 5,
+              "over": -110,
+              "under": -110,
+              "projection": 5.5
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "LV_WR_2",
+            "name": "Stefon Metcalf 2",
+            "team": "LV",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "68.4",
+            "receptions": "3.7",
+            "targets": "3.6",
+            "receivingTDs": "0.31",
+            "fantasyPoints": "12.4"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #15 WR defense",
+            "rank": 15
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 67.5,
+              "over": -110,
+              "under": -110,
+              "projection": 68.4
+            },
+            "receptions": {
+              "line": 3,
+              "over": -110,
+              "under": -110,
+              "projection": 3.7
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "LV_WR_3",
+            "name": "Austin Barkley 3",
+            "team": "LV",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "35.3",
+            "receptions": "1.5",
+            "targets": "2.2",
+            "receivingTDs": "0.31",
+            "fantasyPoints": "6.9"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #32 WR defense",
+            "rank": 32
+          },
+          "keyFactors": [
+            "Favorable matchup vs #32 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 32.5,
+              "over": -110,
+              "under": -110,
+              "projection": 35.3
+            },
+            "receptions": {
+              "line": 1,
+              "over": -110,
+              "under": -110,
+              "projection": 1.5
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "LV_TE_1",
+            "name": "Austin Adams",
+            "team": "LV",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "57.6",
+            "receptions": "5.7",
+            "targets": "3.6",
+            "receivingTDs": "0.58",
+            "fantasyPoints": "14.9"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #16 TE defense",
+            "rank": 16
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 57.5,
+              "over": -110,
+              "under": -110,
+              "projection": 57.6
+            },
+            "receptions": {
+              "line": 5,
+              "over": -110,
+              "under": -110,
+              "projection": 5.7
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "LV_TE_2",
+            "name": "George Waller 2",
+            "team": "LV",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "16.8",
+            "receptions": "1.5",
+            "targets": "1.8",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "3.7"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #16 TE defense",
+            "rank": 16
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 12.5,
+              "over": -110,
+              "under": -110,
+              "projection": 16.8
+            },
+            "receptions": {
+              "line": 1,
+              "over": -110,
+              "under": -110,
+              "projection": 1.5
+            }
+          }
+        }
+      ]
+    }
+  },
+  "bettingAngles": [
+    {
+      "player": "Nick Metcalf",
+      "team": "LAC",
+      "position": "QB",
+      "prop": "passingYards",
+      "bookLine": 285,
+      "projection": "292.8",
+      "edge": "7.8",
+      "edgePercent": "2.7%",
+      "recommendation": "OVER",
+      "confidence": 90,
+      "reasoning": "Projection exceeds book line by 7.8 units"
+    }
+  ],
+  "correlationPlays": [
+    {
+      "type": "QB_WR1_Stack",
+      "team": "LAC",
+      "players": [
+        {
+          "name": "Nick Metcalf",
+          "position": "QB",
+          "projection": "21.8"
+        },
+        {
+          "name": "Kyle Chubb",
+          "position": "WR",
+          "projection": "19.6"
+        }
+      ],
+      "combinedProjection": "41.4",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "LAC",
+      "players": [
+        {
+          "name": "Kyle Chubb",
+          "position": "WR1",
+          "projection": "19.6"
+        },
+        {
+          "name": "Rob Kamara 2",
+          "position": "WR2",
+          "projection": "13.0"
+        }
+      ],
+      "combinedProjection": "32.6",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "May limit upside"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "LAC",
+      "players": [
+        {
+          "name": "Nick Metcalf",
+          "position": "QB",
+          "projection": "21.8"
+        },
+        {
+          "name": "Tyreek Ertz",
+          "position": "TE",
+          "projection": "7.6"
+        }
+      ],
+      "combinedProjection": "29.4",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    },
+    {
+      "type": "QB_WR1_Stack",
+      "team": "LV",
+      "players": [
+        {
+          "name": "Zach Taylor",
+          "position": "QB",
+          "projection": "16.0"
+        },
+        {
+          "name": "Justin Evans",
+          "position": "WR",
+          "projection": "19.0"
+        }
+      ],
+      "combinedProjection": "35.0",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "LV",
+      "players": [
+        {
+          "name": "Justin Evans",
+          "position": "WR1",
+          "projection": "19.0"
+        },
+        {
+          "name": "Stefon Metcalf 2",
+          "position": "WR2",
+          "projection": "12.4"
+        }
+      ],
+      "combinedProjection": "31.4",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "May limit upside"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "LV",
+      "players": [
+        {
+          "name": "Zach Taylor",
+          "position": "QB",
+          "projection": "16.0"
+        },
+        {
+          "name": "Austin Adams",
+          "position": "TE",
+          "projection": "14.9"
+        }
+      ],
+      "combinedProjection": "30.9",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    }
+  ],
+  "summary": {
+    "matchup": "LAC @ LV",
+    "gameScript": "competitive",
+    "totalProjection": 44.7,
+    "keyPlayers": [
+      {
+        "name": "Nick Metcalf",
+        "team": "LAC",
+        "position": "QB",
+        "projection": "21.8",
+        "confidence": 90
+      },
+      {
+        "name": "Kyle Chubb",
+        "team": "LAC",
+        "position": "WR",
+        "projection": "19.6",
+        "confidence": 90
+      },
+      {
+        "name": "Justin Evans",
+        "team": "LV",
+        "position": "WR",
+        "projection": "19.0",
+        "confidence": 90
+      },
+      {
+        "name": "George Taylor",
+        "team": "LAC",
+        "position": "RB",
+        "projection": "16.4",
+        "confidence": 90
+      },
+      {
+        "name": "Zach Taylor",
+        "team": "LV",
+        "position": "QB",
+        "projection": "16.0",
+        "confidence": 90
+      }
+    ],
+    "topBets": [],
+    "riskFactors": []
+  }
+}

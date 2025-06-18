@@ -1,0 +1,155 @@
+{
+  "overallScore": 92,
+  "timestamp": "2025-06-12T22:30:41.223Z",
+  "verificationResults": {
+    "sourceDataIntegrity": {
+      "score": 100,
+      "details": [
+        {
+          "file": "nfl_data/player_stats/2024_seasonal_stats.csv",
+          "score": 100,
+          "issues": [],
+          "recordCount": 607
+        },
+        {
+          "file": "nfl_data/player_stats/2024_weekly_stats.csv",
+          "score": 100,
+          "issues": [],
+          "recordCount": 5480
+        },
+        {
+          "file": "nfl_data/rosters/2024_rosters.csv",
+          "score": 100,
+          "issues": [],
+          "recordCount": 996
+        },
+        {
+          "file": "nfl_data/rosters/2024_snap_counts.csv",
+          "score": 100,
+          "issues": [],
+          "recordCount": 26600
+        }
+      ]
+    },
+    "derivedDataAccuracy": {
+      "score": 93,
+      "details": [
+        {
+          "file": "nfl_data/enhanced_rosters.csv",
+          "score": 100,
+          "validations": [
+            {
+              "test": "Required columns",
+              "passed": true,
+              "result": "All present"
+            },
+            {
+              "test": "Statistical ranges",
+              "passed": true,
+              "result": "100% within expected ranges"
+            }
+          ]
+        },
+        {
+          "file": "nfl_data/real_defensive_rankings_2024.csv",
+          "score": 80,
+          "validations": [
+            {
+              "test": "Team count",
+              "passed": true,
+              "result": "32/32 teams"
+            },
+            {
+              "test": "Ranking consistency",
+              "passed": false,
+              "result": "67% rankings valid"
+            }
+          ]
+        },
+        {
+          "file": "nfl_data/team_ratings.csv",
+          "score": 100,
+          "validations": [
+            {
+              "test": "Team count",
+              "passed": true,
+              "result": "32/32 teams"
+            },
+            {
+              "test": "Rating ranges",
+              "passed": true,
+              "result": "100% ratings in valid range (0-100)"
+            }
+          ]
+        }
+      ]
+    },
+    "crossReferenceValidation": {
+      "score": 100,
+      "details": [
+        {
+          "score": 100,
+          "commonTeams": 32,
+          "totalTeams": 32,
+          "consistency": 100
+        },
+        {
+          "score": 100,
+          "completeRecords": 346,
+          "totalRecords": 346,
+          "completeness": 100
+        }
+      ]
+    },
+    "statisticalConsistency": {
+      "score": 69,
+      "details": {
+        "distributions": {
+          "score": 75,
+          "validDistributions": 3,
+          "totalFields": 4
+        },
+        "correlations": {
+          "score": 33,
+          "validCorrelations": 1,
+          "totalPairs": 3
+        },
+        "calculations": {
+          "score": 100,
+          "correctCalculations": 20,
+          "totalChecked": 20
+        }
+      }
+    },
+    "businessLogicValidation": {
+      "score": 100,
+      "details": [
+        {
+          "rule": "NFL team count",
+          "passed": true,
+          "result": "All files have 32 teams"
+        },
+        {
+          "rule": "Position distribution",
+          "passed": true,
+          "result": "Found 4 unique positions"
+        },
+        {
+          "rule": "Statistical ranges",
+          "passed": true,
+          "result": "Fantasy points column not found (skipped)"
+        },
+        {
+          "rule": "Seasonal consistency",
+          "passed": true,
+          "result": "Max games: 17, Avg games: 15.0"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "totalFiles": 4,
+    "totalRecords": 33683,
+    "qualityLevel": "VERY GOOD"
+  }
+}

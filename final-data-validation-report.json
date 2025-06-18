@@ -1,0 +1,163 @@
+{
+  "files": {
+    "nfl_data/enhanced_rosters.csv": {
+      "exists": true,
+      "score": 100,
+      "status": "EXCELLENT",
+      "issues": [],
+      "stats": {
+        "totalRows": 346,
+        "columns": 21,
+        "headers": [
+          "games_played",
+          "position",
+          "avg_passing_yards",
+          "total_passing_yards",
+          "passing_tds",
+          "passing_consistency",
+          "avg_receiving_yards",
+          "total_receiving_yards",
+          "avg_targets",
+          "avg_receptions",
+          "receiving_tds",
+          "target_share",
+          "catch_rate",
+          "avg_rushing_yards",
+          "total_rushing_yards",
+          "rushing_tds",
+          "rushing_attempts",
+          "yards_per_carry",
+          "overall_score",
+          "name",
+          "team"
+        ]
+      }
+    },
+    "nfl_data/team_ratings.csv": {
+      "exists": true,
+      "score": 100,
+      "status": "EXCELLENT",
+      "issues": [],
+      "stats": {
+        "totalRows": 32,
+        "columns": 2,
+        "headers": [
+          "team",
+          "rating\r"
+        ]
+      }
+    },
+    "nfl_data/real_defensive_rankings_2024.csv": {
+      "exists": true,
+      "score": 100,
+      "status": "EXCELLENT",
+      "issues": [],
+      "stats": {
+        "totalRows": 32,
+        "columns": 19,
+        "headers": [
+          "team",
+          "games_analyzed",
+          "passing_yards_allowed_per_game",
+          "passing_tds_allowed_per_game",
+          "completions_allowed_per_game",
+          "attempts_allowed_per_game",
+          "receiving_yards_allowed_per_game",
+          "receptions_allowed_per_game",
+          "targets_allowed_per_game",
+          "receiving_tds_allowed_per_game",
+          "air_yards_allowed_per_game",
+          "yac_allowed_per_game",
+          "fantasy_points_allowed_per_game",
+          "passing_yards_rank",
+          "receiving_yards_rank",
+          "fantasy_points_rank",
+          "targets_allowed_rank",
+          "completions_rank",
+          "overall_defense_rank\r"
+        ]
+      }
+    },
+    "nfl_data/position_matchup_analysis_2024.csv": {
+      "exists": true,
+      "score": 100,
+      "status": "EXCELLENT",
+      "issues": [],
+      "stats": {
+        "totalRows": 2200,
+        "columns": 13,
+        "headers": [
+          "player_name",
+          "position",
+          "team",
+          "week",
+          "opponent",
+          "targets",
+          "receptions",
+          "receiving_yards",
+          "receiving_tds",
+          "target_share",
+          "opponent_defense_rank",
+          "opponent_targets_allowed_rank",
+          "matchup_favorability\r"
+        ]
+      }
+    },
+    "nfl_data/target_depth_analysis_2024.csv": {
+      "exists": true,
+      "score": 100,
+      "status": "EXCELLENT",
+      "issues": [],
+      "stats": {
+        "totalRows": 247,
+        "columns": 15,
+        "headers": [
+          "player_name",
+          "position",
+          "recent_team",
+          "targets",
+          "receptions",
+          "receiving_yards",
+          "receiving_tds",
+          "avg_depth_per_target",
+          "yac_per_reception",
+          "catch_rate",
+          "target_share",
+          "air_yards_share",
+          "wopr",
+          "yards_per_target",
+          "tds_per_target\r"
+        ]
+      }
+    },
+    "nfl_data/game_script_analysis_2024.csv": {
+      "exists": true,
+      "score": 100,
+      "status": "EXCELLENT",
+      "issues": [],
+      "stats": {
+        "totalRows": 32,
+        "columns": 12,
+        "headers": [
+          "recent_team",
+          "total_plays",
+          "total_yards",
+          "yards_per_play",
+          "pass_rate",
+          "completion_rate",
+          "fantasy_points",
+          "plays_per_game_rank",
+          "yards_per_play_rank",
+          "pass_rate_rank",
+          "pace_category",
+          "offensive_style\r"
+        ]
+      }
+    }
+  },
+  "overall": {
+    "score": 100,
+    "status": "EXCELLENT",
+    "issues": []
+  }
+}

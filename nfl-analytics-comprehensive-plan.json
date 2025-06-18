@@ -1,0 +1,379 @@
+{
+  "currentData": {
+    "nfl_data/enhanced_rosters.csv": {
+      "records": 346,
+      "columns": 23,
+      "size": 53212,
+      "headers": [
+        "player_name",
+        "player_id",
+        "games_played",
+        "position",
+        "avg_passing_yards"
+      ]
+    },
+    "nfl_data/real_defensive_rankings_2024.csv": {
+      "records": 32,
+      "columns": 19,
+      "size": 7384,
+      "headers": [
+        "team",
+        "games_analyzed",
+        "passing_yards_allowed_per_game",
+        "passing_tds_allowed_per_game",
+        "completions_allowed_per_game"
+      ]
+    },
+    "nfl_data/team_ratings.csv": {
+      "records": 32,
+      "columns": 2,
+      "size": 324,
+      "headers": [
+        "team",
+        "rating\r"
+      ]
+    },
+    "nfl_data/player_stats/2024_seasonal_stats.csv": {
+      "records": 607,
+      "columns": 58,
+      "size": 268688,
+      "headers": [
+        "player_id",
+        "season",
+        "season_type",
+        "completions",
+        "attempts"
+      ]
+    },
+    "nfl_data/player_stats/2024_weekly_stats.csv": {
+      "records": 5480,
+      "columns": 53,
+      "size": 1654299,
+      "headers": [
+        "player_id",
+        "player_name",
+        "player_display_name",
+        "position",
+        "position_group"
+      ]
+    },
+    "nfl_data/games/2024_schedule.csv": {
+      "records": 285,
+      "columns": 46,
+      "size": 94826,
+      "headers": [
+        "game_id",
+        "season",
+        "game_type",
+        "week",
+        "gameday"
+      ]
+    },
+    "nfl_data/target_depth_analysis_2024.csv": {
+      "records": 247,
+      "columns": 15,
+      "size": 42843,
+      "headers": [
+        "player_name",
+        "position",
+        "recent_team",
+        "targets",
+        "receptions"
+      ]
+    },
+    "nfl_data/position_matchup_analysis_2024.csv": {
+      "records": 2200,
+      "columns": 13,
+      "size": 141307,
+      "headers": [
+        "player_name",
+        "position",
+        "team",
+        "week",
+        "opponent"
+      ]
+    },
+    "nfl_data/game_script_analysis_2024.csv": {
+      "records": 32,
+      "columns": 12,
+      "size": 3161,
+      "headers": [
+        "recent_team",
+        "total_plays",
+        "total_yards",
+        "yards_per_play",
+        "pass_rate"
+      ]
+    },
+    "nfl_data/current_injuries.csv": {
+      "records": 2,
+      "columns": 10,
+      "size": 309,
+      "headers": [
+        "player_name",
+        "team",
+        "position",
+        "injury_type",
+        "status"
+      ]
+    },
+    "nfl_data/weather_week_22_2024.csv": {
+      "records": 3,
+      "columns": 12,
+      "size": 327,
+      "headers": [
+        "game_id",
+        "home_team",
+        "away_team",
+        "week",
+        "season"
+      ]
+    }
+  },
+  "capabilities": [
+    {
+      "category": "Player Performance Analysis",
+      "capabilities": [
+        "Individual player statistics and trends",
+        "Position-based performance comparisons",
+        "Fantasy football projections",
+        "Player efficiency metrics"
+      ],
+      "dataSource": "enhanced_rosters.csv, seasonal_stats.csv"
+    },
+    {
+      "category": "Team Analysis",
+      "capabilities": [
+        "Team offensive/defensive ratings",
+        "Team vs team matchup analysis",
+        "Defensive rankings and strengths",
+        "Team performance trends"
+      ],
+      "dataSource": "team_ratings.csv, defensive_rankings.csv"
+    },
+    {
+      "category": "Game Analysis",
+      "capabilities": [
+        "Schedule and game outcome analysis",
+        "Historical game data (2021-2024)",
+        "Game script analysis",
+        "Weather impact analysis"
+      ],
+      "dataSource": "schedule files, game_script_analysis.csv"
+    },
+    {
+      "category": "Advanced Metrics",
+      "capabilities": [
+        "Target depth analysis",
+        "Position matchup analysis",
+        "Injury impact assessment",
+        "Coaching intelligence metrics"
+      ],
+      "dataSource": "target_depth_analysis.csv, position_matchup_analysis.csv"
+    }
+  ],
+  "missingData": [
+    {
+      "category": "Real-Time Data",
+      "missing": [
+        "Live injury reports and status updates",
+        "Real-time betting odds and line movements",
+        "Live weather conditions for game day",
+        "Player availability (active/inactive lists)"
+      ],
+      "impact": "Limits real-time prediction accuracy"
+    },
+    {
+      "category": "Advanced Performance Metrics",
+      "missing": [
+        "Player tracking data (speed, acceleration)",
+        "Pressure rate and pass rush metrics",
+        "Coverage metrics and separation data",
+        "Red zone efficiency by situation"
+      ],
+      "impact": "Reduces depth of player evaluation"
+    },
+    {
+      "category": "Situational Data",
+      "missing": [
+        "Down and distance performance",
+        "Time of possession and game flow",
+        "Turnover and penalty data",
+        "Special teams performance metrics"
+      ],
+      "impact": "Limits game situation analysis"
+    },
+    {
+      "category": "Market Data",
+      "missing": [
+        "DraftKings/FanDuel pricing data",
+        "Public betting percentages",
+        "Sharp money indicators",
+        "Consensus projections from experts"
+      ],
+      "impact": "Reduces betting edge identification"
+    }
+  ],
+  "recommendedSources": [
+    {
+      "source": "ESPN API",
+      "data": [
+        "Real-time scores",
+        "Live injury reports",
+        "Player news"
+      ],
+      "cost": "Free",
+      "priority": "High",
+      "implementation": "Easy"
+    },
+    {
+      "source": "The Odds API",
+      "data": [
+        "Live betting odds",
+        "Line movements",
+        "Multiple sportsbooks"
+      ],
+      "cost": "$50-200/month",
+      "priority": "High",
+      "implementation": "Medium"
+    },
+    {
+      "source": "Pro Football Reference",
+      "data": [
+        "Advanced stats",
+        "Historical data",
+        "Situational metrics"
+      ],
+      "cost": "Free (with scraping)",
+      "priority": "High",
+      "implementation": "Hard"
+    },
+    {
+      "source": "OpenWeatherMap API",
+      "data": [
+        "Real-time weather",
+        "Forecasts",
+        "Historical weather"
+      ],
+      "cost": "Free tier available",
+      "priority": "Medium",
+      "implementation": "Easy"
+    },
+    {
+      "source": "DraftKings API",
+      "data": [
+        "DFS pricing",
+        "Contest data",
+        "Ownership percentages"
+      ],
+      "cost": "Partnership required",
+      "priority": "Medium",
+      "implementation": "Hard"
+    },
+    {
+      "source": "Next Gen Stats",
+      "data": [
+        "Player tracking",
+        "Advanced metrics",
+        "Pressure rates"
+      ],
+      "cost": "Expensive/Limited",
+      "priority": "Low",
+      "implementation": "Very Hard"
+    }
+  ],
+  "analyticsPlans": [
+    {
+      "name": "Predictive Game Modeling",
+      "description": "ML models to predict game outcomes and player performance",
+      "features": [
+        "Game winner prediction with confidence intervals",
+        "Over/under total points prediction",
+        "Player prop bet predictions",
+        "Upset probability calculations"
+      ],
+      "dataNeeded": [
+        "Historical games",
+        "Team ratings",
+        "Player stats",
+        "Weather"
+      ],
+      "complexity": "High",
+      "timeframe": "2-3 weeks"
+    },
+    {
+      "name": "Real-Time Betting Edge Detection",
+      "description": "Identify profitable betting opportunities as odds change",
+      "features": [
+        "Live odds monitoring and alerts",
+        "Expected value calculations",
+        "Line movement analysis",
+        "Sharp vs public money tracking"
+      ],
+      "dataNeeded": [
+        "Live odds",
+        "Historical odds",
+        "Betting percentages"
+      ],
+      "complexity": "Medium",
+      "timeframe": "1-2 weeks"
+    },
+    {
+      "name": "Fantasy Football Optimization",
+      "description": "Advanced DFS lineup optimization and projections",
+      "features": [
+        "Optimal lineup generation",
+        "Ownership projection models",
+        "Stack correlation analysis",
+        "GPP tournament strategy"
+      ],
+      "dataNeeded": [
+        "DFS pricing",
+        "Projections",
+        "Ownership data"
+      ],
+      "complexity": "Medium",
+      "timeframe": "1 week"
+    },
+    {
+      "name": "Injury Impact Analysis",
+      "description": "Quantify how injuries affect team and player performance",
+      "features": [
+        "Injury severity impact modeling",
+        "Replacement player analysis",
+        "Team performance without key players",
+        "Recovery timeline predictions"
+      ],
+      "dataNeeded": [
+        "Injury reports",
+        "Player performance",
+        "Team stats"
+      ],
+      "complexity": "High",
+      "timeframe": "2-3 weeks"
+    },
+    {
+      "name": "Weather Impact Modeling",
+      "description": "Analyze how weather conditions affect game outcomes",
+      "features": [
+        "Weather-adjusted projections",
+        "Dome vs outdoor performance",
+        "Wind/rain impact on passing games",
+        "Temperature effects on performance"
+      ],
+      "dataNeeded": [
+        "Weather data",
+        "Game outcomes",
+        "Player stats"
+      ],
+      "complexity": "Low",
+      "timeframe": "3-5 days"
+    }
+  ],
+  "timeline": {
+    "immediate": "1-2 weeks",
+    "shortTerm": "1-4 weeks",
+    "longTerm": "1-3 months"
+  },
+  "generatedAt": "2025-06-12T22:38:35.123Z"
+}

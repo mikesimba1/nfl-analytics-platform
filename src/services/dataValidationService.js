@@ -10,6 +10,29 @@ class DataValidationService {
     this.validationWarnings = []
     this.lastValidation = null
     this.validationHistory = []
+    this.validationRules = {
+      schedule: {
+        required: ['homeTeam', 'awayTeam', 'date', 'week'],
+        teamFormat: /^[A-Z]{2,3}$/,
+        weekRange: [1, 18]
+      },
+      odds: {
+        required: ['homeTeam', 'awayTeam', 'spread', 'total', 'moneyline'],
+        spreadRange: [-28, 28],
+        totalRange: [30, 70]
+      },
+      predictions: {
+        confidenceRange: [50, 95],
+        accuracyTracking: true
+      }
+    }
+    
+    this.dataQualityMetrics = {
+      freshness: 0,
+      completeness: 0,
+      accuracy: 0,
+      consistency: 0
+    }
   }
 
   // COMPREHENSIVE DATA VALIDATION
@@ -509,6 +532,318 @@ class DataValidationService {
 
   getLastValidation() {
     return this.lastValidation
+  }
+
+  // Validate incoming data and assign quality scores
+  validateData(data, type) {
+    const validation = {
+      isValid: true,
+      errors: [],
+      warnings: [],
+      qualityScore: 0,
+      trustLevel: 'UNKNOWN'
+    }
+
+    try {
+      // Basic structure validation
+      if (!data || !Array.isArray(data) && typeof data !== 'object') {
+        validation.isValid = false
+        validation.errors.push('Invalid data structure')
+        return validation
+      }
+
+      // Type-specific validation
+      switch (type) {
+        case 'schedule':
+          this.validateScheduleData(data, validation)
+          break
+        case 'odds':
+          this.validateOddsData(data, validation)
+          break
+        case 'predictions':
+          this.validatePredictionData(data, validation)
+          break
+        default:
+          validation.warnings.push(`Unknown data type: ${type}`)
+      }
+
+      // Calculate quality score
+      validation.qualityScore = this.calculateQualityScore(validation, type)
+      validation.trustLevel = this.determineTrustLevel(validation.qualityScore)
+
+      return validation
+    } catch (error) {
+      validation.isValid = false
+      validation.errors.push(`Validation error: ${error.message}`)
+      return validation
+    }
+  }
+
+  // Enhanced schedule validation for subscription reliability
+  validateScheduleData(data, validation) {
+    const games = Array.isArray(data) ? data : [data]
+    
+    games.forEach((game, index) => {
+      // Check required fields
+      this.validationRules.schedule.required.forEach(field => {
+        if (!game[field]) {
+          validation.errors.push(`Game ${index}: Missing ${field}`)
+        }
+      })
+
+      // Validate team format
+      if (game.homeTeam && !this.validationRules.schedule.teamFormat.test(game.homeTeam)) {
+        validation.errors.push(`Game ${index}: Invalid home team format`)
+      }
+      if (game.awayTeam && !this.validationRules.schedule.teamFormat.test(game.awayTeam)) {
+        validation.errors.push(`Game ${index}: Invalid away team format`)
+      }
+
+      // Validate week
+      if (game.week && (game.week < 1 || game.week > 18)) {
+        validation.errors.push(`Game ${index}: Invalid week ${game.week}`)
+      }
+
+      // Check for realistic dates
+      if (game.date) {
+        const gameDate = new Date(game.date)
+        const now = new Date()
+        const seasonStart = new Date('2024-09-05') // 2024 season start
+        const seasonEnd = new Date('2025-02-15')   // Through playoffs
+        
+        if (gameDate < seasonStart || gameDate > seasonEnd) {
+          validation.warnings.push(`Game ${index}: Date outside typical NFL season`)
+        }
+      }
+    })
+  }
+
+  // Enhanced odds validation for betting accuracy
+  validateOddsData(data, validation) {
+    const odds = Array.isArray(data) ? data : [data]
+    
+    odds.forEach((odd, index) => {
+      // Check required fields
+      this.validationRules.odds.required.forEach(field => {
+        if (!odd[field]) {
+          validation.errors.push(`Odds ${index}: Missing ${field}`)
+        }
+      })
+
+      // Validate spread range
+      if (odd.spread && typeof odd.spread === 'object') {
+        const homeSpread = odd.spread.home
+        const awaySpread = odd.spread.away
+        
+        if (Math.abs(homeSpread) > 28 || Math.abs(awaySpread) > 28) {
+          validation.warnings.push(`Odds ${index}: Unusual spread values`)
+        }
+        
+        // Spreads should be opposite
+        if (homeSpread + awaySpread !== 0) {
+          validation.errors.push(`Odds ${index}: Spread mismatch`)
+        }
+      }
+
+      // Validate total range
+      if (odd.total && typeof odd.total === 'object') {
+        const total = odd.total.over || odd.total.under
+        if (total && (total < 30 || total > 70)) {
+          validation.warnings.push(`Odds ${index}: Unusual total ${total}`)
+        }
+      }
+
+      // Validate moneylines make sense
+      if (odd.moneyline && typeof odd.moneyline === 'object') {
+        const homeML = odd.moneyline.home
+        const awayML = odd.moneyline.away
+        
+        // Both can't be negative (would guarantee profit)
+        if (homeML < 0 && awayML < 0) {
+          validation.errors.push(`Odds ${index}: Invalid moneyline combination`)
+        }
+      }
+    })
+  }
+
+  // Track prediction accuracy for subscription trust
+  validatePredictionData(data, validation) {
+    const predictions = Array.isArray(data) ? data : [data]
+    
+    predictions.forEach((pred, index) => {
+      // Confidence validation
+      if (pred.confidence) {
+        if (pred.confidence < 50 || pred.confidence > 95) {
+          validation.warnings.push(`Prediction ${index}: Unusual confidence ${pred.confidence}%`)
+        }
+      }
+
+      // Check for required prediction fields
+      if (!pred.spread && !pred.total && !pred.moneyline) {
+        validation.errors.push(`Prediction ${index}: No prediction values provided`)
+      }
+
+      // Validate prediction reasoning
+      if (!pred.reasoning && !pred.factors) {
+        validation.warnings.push(`Prediction ${index}: No reasoning provided`)
+      }
+    })
+  }
+
+  // Calculate data quality score (0-100)
+  calculateQualityScore(validation, type) {
+    let score = 100
+
+    // Deduct for errors
+    score -= validation.errors.length * 25
+
+    // Deduct for warnings
+    score -= validation.warnings.length * 10
+
+    // Type-specific scoring
+    switch (type) {
+      case 'schedule':
+        // Bonus for complete game information
+        break
+      case 'odds':
+        // Bonus for realistic odds ranges
+        break
+      case 'predictions':
+        // Bonus for detailed reasoning
+        break
+    }
+
+    return Math.max(0, Math.min(100, score))
+  }
+
+  // Determine trust level for subscription users
+  determineTrustLevel(score) {
+    if (score >= 90) return 'EXCELLENT'
+    if (score >= 75) return 'GOOD'
+    if (score >= 60) return 'FAIR'
+    if (score >= 40) return 'POOR'
+    return 'UNRELIABLE'
+  }
+
+  // Get data quality metrics for dashboard
+  getDataQualityMetrics() {
+    return {
+      overall: {
+        freshness: this.dataQualityMetrics.freshness,
+        completeness: this.dataQualityMetrics.completeness,
+        accuracy: this.dataQualityMetrics.accuracy,
+        consistency: this.dataQualityMetrics.consistency
+      },
+      trustScore: Math.round(
+        (this.dataQualityMetrics.freshness + 
+         this.dataQualityMetrics.completeness + 
+         this.dataQualityMetrics.accuracy + 
+         this.dataQualityMetrics.consistency) / 4
+      ),
+      lastUpdated: new Date().toISOString(),
+      recommendations: this.getQualityRecommendations()
+    }
+  }
+
+  // Provide improvement recommendations
+  getQualityRecommendations() {
+    const recommendations = []
+    
+    if (this.dataQualityMetrics.freshness < 80) {
+      recommendations.push('Update data sources more frequently')
+    }
+    if (this.dataQualityMetrics.completeness < 80) {
+      recommendations.push('Add missing data fields')
+    }
+    if (this.dataQualityMetrics.accuracy < 80) {
+      recommendations.push('Improve prediction model calibration')
+    }
+    if (this.dataQualityMetrics.consistency < 80) {
+      recommendations.push('Standardize data formats across sources')
+    }
+    
+    return recommendations
+  }
+
+  // Update quality metrics (called after data processing)
+  updateQualityMetrics(type, validationResult) {
+    const score = validationResult.qualityScore
+    
+    // Simple moving average for now
+    switch (type) {
+      case 'freshness':
+        this.dataQualityMetrics.freshness = (this.dataQualityMetrics.freshness + score) / 2
+        break
+      case 'completeness':
+        this.dataQualityMetrics.completeness = (this.dataQualityMetrics.completeness + score) / 2
+        break
+      case 'accuracy':
+        this.dataQualityMetrics.accuracy = (this.dataQualityMetrics.accuracy + score) / 2
+        break
+      case 'consistency':
+        this.dataQualityMetrics.consistency = (this.dataQualityMetrics.consistency + score) / 2
+        break
+    }
+  }
+
+  // Subscription-ready: Track prediction performance
+  trackPredictionAccuracy(predictions, outcomes) {
+    const results = {
+      total: predictions.length,
+      correct: 0,
+      accuracy: 0,
+      byConfidence: {
+        high: { total: 0, correct: 0 },
+        medium: { total: 0, correct: 0 },
+        low: { total: 0, correct: 0 }
+      }
+    }
+
+    predictions.forEach((prediction, index) => {
+      const outcome = outcomes[index]
+      if (!outcome) return
+
+      const isCorrect = this.evaluatePrediction(prediction, outcome)
+      if (isCorrect) results.correct++
+
+      // Track by confidence level
+      const confidenceLevel = this.getConfidenceLevel(prediction.confidence)
+      results.byConfidence[confidenceLevel].total++
+      if (isCorrect) results.byConfidence[confidenceLevel].correct++
+    })
+
+    results.accuracy = (results.correct / results.total) * 100
+
+    // Update accuracy metric
+    this.updateQualityMetrics('accuracy', { qualityScore: results.accuracy })
+
+    return results
+  }
+
+  // Evaluate if a prediction was correct
+  evaluatePrediction(prediction, outcome) {
+    // Spread prediction evaluation
+    if (prediction.spread && outcome.finalSpread !== undefined) {
+      const predictedWinner = prediction.spread > 0 ? prediction.awayTeam : prediction.homeTeam
+      const actualWinner = outcome.finalSpread > 0 ? outcome.awayTeam : outcome.homeTeam
+      return predictedWinner === actualWinner
+    }
+
+    // Total prediction evaluation
+    if (prediction.total && outcome.finalTotal !== undefined) {
+      const predictedOver = prediction.total > outcome.projectedTotal
+      const actualOver = outcome.finalTotal > outcome.projectedTotal
+      return predictedOver === actualOver
+    }
+
+    return false
+  }
+
+  // Get confidence level category
+  getConfidenceLevel(confidence) {
+    if (confidence >= 80) return 'high'
+    if (confidence >= 65) return 'medium'
+    return 'low'
   }
 }
 

@@ -1,0 +1,1446 @@
+[
+  {
+    "teamId": 1,
+    "teamName": "Buffalo Bills",
+    "abbreviation": "BUF",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "BUF_CB_1",
+        "playerName": "Tom Prescott",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Back",
+        "impactScore": "0.8",
+        "lastUpdate": "2025-06-07T19:21:40.278Z"
+      },
+      {
+        "playerId": "BUF_LB_2",
+        "playerName": "Dak Barkley 2",
+        "position": "LB",
+        "status": "IR",
+        "injury": "Ribs",
+        "impactScore": "2.0",
+        "lastUpdate": "2025-06-09T10:21:47.026Z"
+      }
+    ]
+  },
+  {
+    "teamId": 2,
+    "teamName": "Miami Dolphins",
+    "abbreviation": "MIA",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "MIA_QB_1",
+        "playerName": "Davante Rodgers",
+        "position": "QB",
+        "status": "IR",
+        "injury": "Knee",
+        "impactScore": "10.0",
+        "lastUpdate": "2025-06-07T02:00:13.536Z"
+      },
+      {
+        "playerId": "MIA_DL_2",
+        "playerName": "Joe Diggs 2",
+        "position": "DL",
+        "status": "IR",
+        "injury": "Back",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-11T09:18:14.285Z"
+      },
+      {
+        "playerId": "MIA_S_3",
+        "playerName": "Christian Kelce 3",
+        "position": "S",
+        "status": "Doubtful",
+        "injury": "Ribs",
+        "impactScore": "1.4",
+        "lastUpdate": "2025-06-09T00:14:34.426Z"
+      },
+      {
+        "playerId": "MIA_CB_4",
+        "playerName": "Tyler Waller 4",
+        "position": "CB",
+        "status": "IR",
+        "injury": "Wrist",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-11T05:20:31.285Z"
+      }
+    ]
+  },
+  {
+    "teamId": 3,
+    "teamName": "New England Patriots",
+    "abbreviation": "NE",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "NE_S_1",
+        "playerName": "Joe Chubb",
+        "position": "S",
+        "status": "IR",
+        "injury": "Hamstring",
+        "impactScore": "2.0",
+        "lastUpdate": "2025-06-12T03:15:48.235Z"
+      },
+      {
+        "playerId": "NE_DL_2",
+        "playerName": "George Hopkins 2",
+        "position": "DL",
+        "status": "Out",
+        "injury": "Hamstring",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-12T18:27:24.971Z"
+      },
+      {
+        "playerId": "NE_S_3",
+        "playerName": "Aaron Adams 3",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Ankle",
+        "impactScore": "0.6",
+        "lastUpdate": "2025-06-12T21:09:21.060Z"
+      },
+      {
+        "playerId": "NE_TE_4",
+        "playerName": "Kyle Henry 4",
+        "position": "TE",
+        "status": "Questionable",
+        "injury": "Ribs",
+        "impactScore": "1.2",
+        "lastUpdate": "2025-06-12T17:26:38.255Z"
+      },
+      {
+        "playerId": "NE_OL_5",
+        "playerName": "Josh Gronkowski 5",
+        "position": "OL",
+        "status": "Out",
+        "injury": "Concussion",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-10T17:32:21.808Z"
+      }
+    ]
+  },
+  {
+    "teamId": 4,
+    "teamName": "New York Jets",
+    "abbreviation": "NYJ",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "NYJ_DL_1",
+        "playerName": "Aaron McCaffrey",
+        "position": "DL",
+        "status": "Doubtful",
+        "injury": "Ankle",
+        "impactScore": "1.8",
+        "lastUpdate": "2025-06-07T15:48:21.795Z"
+      },
+      {
+        "playerId": "NYJ_S_2",
+        "playerName": "Tyreek Taylor 2",
+        "position": "S",
+        "status": "Out",
+        "injury": "Back",
+        "impactScore": "2.0",
+        "lastUpdate": "2025-06-10T11:35:26.908Z"
+      },
+      {
+        "playerId": "NYJ_LB_3",
+        "playerName": "Stefon Barkley 3",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Wrist",
+        "impactScore": "2.0",
+        "lastUpdate": "2025-06-08T21:57:06.059Z"
+      },
+      {
+        "playerId": "NYJ_OL_4",
+        "playerName": "Davante Allen 4",
+        "position": "OL",
+        "status": "IR",
+        "injury": "Wrist",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-12T08:12:04.973Z"
+      },
+      {
+        "playerId": "NYJ_RB_5",
+        "playerName": "Tyreek Kelce 5",
+        "position": "RB",
+        "status": "Doubtful",
+        "injury": "Ankle",
+        "impactScore": "4.2",
+        "lastUpdate": "2025-06-08T01:05:01.816Z"
+      },
+      {
+        "playerId": "NYJ_TE_6",
+        "playerName": "Tom Andrews 6",
+        "position": "TE",
+        "status": "IR",
+        "injury": "Back",
+        "impactScore": "4.0",
+        "lastUpdate": "2025-06-11T03:13:09.546Z"
+      }
+    ]
+  },
+  {
+    "teamId": 5,
+    "teamName": "Baltimore Ravens",
+    "abbreviation": "BAL",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "BAL_CB_1",
+        "playerName": "Stefon Elliott",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Hamstring",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-08T19:02:53.095Z"
+      },
+      {
+        "playerId": "BAL_WR_2",
+        "playerName": "DeAndre Gronkowski 2",
+        "position": "WR",
+        "status": "Doubtful",
+        "injury": "Ribs",
+        "impactScore": "3.5",
+        "lastUpdate": "2025-06-09T23:00:12.266Z"
+      },
+      {
+        "playerId": "BAL_QB_3",
+        "playerName": "Stefon Prescott 3",
+        "position": "QB",
+        "status": "Questionable",
+        "injury": "Ribs",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-12T21:55:26.169Z"
+      },
+      {
+        "playerId": "BAL_WR_4",
+        "playerName": "Stefon Ekeler 4",
+        "position": "WR",
+        "status": "IR",
+        "injury": "Back",
+        "impactScore": "5.0",
+        "lastUpdate": "2025-06-07T01:54:25.181Z"
+      },
+      {
+        "playerId": "BAL_QB_5",
+        "playerName": "DeAndre Metcalf 5",
+        "position": "QB",
+        "status": "Questionable",
+        "injury": "Knee",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-09T10:07:32.324Z"
+      }
+    ]
+  },
+  {
+    "teamId": 6,
+    "teamName": "Cincinnati Bengals",
+    "abbreviation": "CIN",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "CIN_DL_1",
+        "playerName": "Justin Henry",
+        "position": "DL",
+        "status": "Doubtful",
+        "injury": "Ribs",
+        "impactScore": "1.8",
+        "lastUpdate": "2025-06-09T06:10:41.840Z"
+      },
+      {
+        "playerId": "CIN_DL_2",
+        "playerName": "Lamar Gronkowski 2",
+        "position": "DL",
+        "status": "IR",
+        "injury": "Ankle",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-07T13:16:34.517Z"
+      }
+    ]
+  },
+  {
+    "teamId": 7,
+    "teamName": "Cleveland Browns",
+    "abbreviation": "CLE",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "CLE_OL_1",
+        "playerName": "DK Ekeler",
+        "position": "OL",
+        "status": "Questionable",
+        "injury": "Wrist",
+        "impactScore": "0.9",
+        "lastUpdate": "2025-06-11T09:25:14.617Z"
+      },
+      {
+        "playerId": "CLE_OL_2",
+        "playerName": "Nick Ertz 2",
+        "position": "OL",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impactScore": "0.9",
+        "lastUpdate": "2025-06-12T02:57:34.497Z"
+      },
+      {
+        "playerId": "CLE_DL_3",
+        "playerName": "Calvin Taylor 3",
+        "position": "DL",
+        "status": "Questionable",
+        "injury": "Hamstring",
+        "impactScore": "0.8",
+        "lastUpdate": "2025-06-09T02:56:16.968Z"
+      }
+    ]
+  },
+  {
+    "teamId": 8,
+    "teamName": "Pittsburgh Steelers",
+    "abbreviation": "PIT",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "PIT_CB_1",
+        "playerName": "Kyle Metcalf",
+        "position": "CB",
+        "status": "IR",
+        "injury": "Concussion",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-09T16:24:34.440Z"
+      },
+      {
+        "playerId": "PIT_TE_2",
+        "playerName": "Travis Chubb 2",
+        "position": "TE",
+        "status": "Doubtful",
+        "injury": "Hamstring",
+        "impactScore": "2.8",
+        "lastUpdate": "2025-06-12T01:57:24.793Z"
+      },
+      {
+        "playerId": "PIT_CB_3",
+        "playerName": "Christian Mahomes 3",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Hamstring",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-08T13:44:38.708Z"
+      },
+      {
+        "playerId": "PIT_RB_4",
+        "playerName": "Calvin Chubb 4",
+        "position": "RB",
+        "status": "Questionable",
+        "injury": "Wrist",
+        "impactScore": "1.8",
+        "lastUpdate": "2025-06-13T15:13:40.592Z"
+      },
+      {
+        "playerId": "PIT_OL_5",
+        "playerName": "Dak Ertz 5",
+        "position": "OL",
+        "status": "IR",
+        "injury": "Hamstring",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-13T15:07:26.963Z"
+      }
+    ]
+  },
+  {
+    "teamId": 9,
+    "teamName": "Houston Texans",
+    "abbreviation": "HOU",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "HOU_S_1",
+        "playerName": "Christian Evans",
+        "position": "S",
+        "status": "IR",
+        "injury": "Knee",
+        "impactScore": "2.0",
+        "lastUpdate": "2025-06-12T02:56:59.068Z"
+      },
+      {
+        "playerId": "HOU_RB_2",
+        "playerName": "DeAndre Metcalf 2",
+        "position": "RB",
+        "status": "Questionable",
+        "injury": "Back",
+        "impactScore": "1.8",
+        "lastUpdate": "2025-06-11T17:58:09.221Z"
+      }
+    ]
+  },
+  {
+    "teamId": 10,
+    "teamName": "Indianapolis Colts",
+    "abbreviation": "IND",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "IND_LB_1",
+        "playerName": "Justin Mahomes",
+        "position": "LB",
+        "status": "IR",
+        "injury": "Hamstring",
+        "impactScore": "2.0",
+        "lastUpdate": "2025-06-08T09:51:42.172Z"
+      },
+      {
+        "playerId": "IND_OL_2",
+        "playerName": "Derrick Allen 2",
+        "position": "OL",
+        "status": "IR",
+        "injury": "Knee",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-07T12:55:08.963Z"
+      },
+      {
+        "playerId": "IND_CB_3",
+        "playerName": "Christian Allen 3",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Concussion",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-07T11:49:53.367Z"
+      }
+    ]
+  },
+  {
+    "teamId": 11,
+    "teamName": "Jacksonville Jaguars",
+    "abbreviation": "JAX",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "JAX_LB_1",
+        "playerName": "Aaron Ertz",
+        "position": "LB",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impactScore": "0.6",
+        "lastUpdate": "2025-06-07T09:44:39.852Z"
+      },
+      {
+        "playerId": "JAX_OL_2",
+        "playerName": "Saquon Evans 2",
+        "position": "OL",
+        "status": "Doubtful",
+        "injury": "Ribs",
+        "impactScore": "2.1",
+        "lastUpdate": "2025-06-10T18:53:06.841Z"
+      },
+      {
+        "playerId": "JAX_LB_3",
+        "playerName": "Derrick Allen 3",
+        "position": "LB",
+        "status": "Doubtful",
+        "injury": "Concussion",
+        "impactScore": "1.4",
+        "lastUpdate": "2025-06-09T21:25:28.077Z"
+      },
+      {
+        "playerId": "JAX_CB_4",
+        "playerName": "Travis Allen 4",
+        "position": "CB",
+        "status": "Doubtful",
+        "injury": "Hamstring",
+        "impactScore": "1.8",
+        "lastUpdate": "2025-06-09T02:00:50.808Z"
+      }
+    ]
+  },
+  {
+    "teamId": 12,
+    "teamName": "Tennessee Titans",
+    "abbreviation": "TEN",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "TEN_QB_1",
+        "playerName": "Tua Henry",
+        "position": "QB",
+        "status": "Doubtful",
+        "injury": "Concussion",
+        "impactScore": "7.0",
+        "lastUpdate": "2025-06-12T00:08:36.749Z"
+      },
+      {
+        "playerId": "TEN_RB_2",
+        "playerName": "Davante Higbee 2",
+        "position": "RB",
+        "status": "IR",
+        "injury": "Knee",
+        "impactScore": "6.0",
+        "lastUpdate": "2025-06-11T04:39:07.315Z"
+      }
+    ]
+  },
+  {
+    "teamId": 13,
+    "teamName": "Denver Broncos",
+    "abbreviation": "DEN",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "DEN_DL_1",
+        "playerName": "Derrick Henry",
+        "position": "DL",
+        "status": "Out",
+        "injury": "Ribs",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-07T23:40:26.471Z"
+      },
+      {
+        "playerId": "DEN_OL_2",
+        "playerName": "Mark Barkley 2",
+        "position": "OL",
+        "status": "Questionable",
+        "injury": "Ankle",
+        "impactScore": "0.9",
+        "lastUpdate": "2025-06-10T23:37:57.392Z"
+      },
+      {
+        "playerId": "DEN_WR_3",
+        "playerName": "Ezekiel Kamara 3",
+        "position": "WR",
+        "status": "IR",
+        "injury": "Shoulder",
+        "impactScore": "5.0",
+        "lastUpdate": "2025-06-10T05:26:54.060Z"
+      },
+      {
+        "playerId": "DEN_S_4",
+        "playerName": "George Barkley 4",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Ankle",
+        "impactScore": "0.6",
+        "lastUpdate": "2025-06-09T03:31:55.831Z"
+      },
+      {
+        "playerId": "DEN_TE_5",
+        "playerName": "Zach Waller 5",
+        "position": "TE",
+        "status": "Out",
+        "injury": "Ankle",
+        "impactScore": "4.0",
+        "lastUpdate": "2025-06-10T05:16:50.753Z"
+      },
+      {
+        "playerId": "DEN_TE_6",
+        "playerName": "Lamar Diggs 6",
+        "position": "TE",
+        "status": "Out",
+        "injury": "Concussion",
+        "impactScore": "4.0",
+        "lastUpdate": "2025-06-10T16:20:44.398Z"
+      },
+      {
+        "playerId": "DEN_WR_7",
+        "playerName": "Aaron Prescott 7",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Back",
+        "impactScore": "5.0",
+        "lastUpdate": "2025-06-12T06:20:55.804Z"
+      }
+    ]
+  },
+  {
+    "teamId": 14,
+    "teamName": "Kansas City Chiefs",
+    "abbreviation": "KC",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "KC_TE_1",
+        "playerName": "Patrick Ekeler",
+        "position": "TE",
+        "status": "IR",
+        "injury": "Ribs",
+        "impactScore": "4.0",
+        "lastUpdate": "2025-06-07T19:18:06.755Z"
+      },
+      {
+        "playerId": "KC_QB_2",
+        "playerName": "Travis Ekeler 2",
+        "position": "QB",
+        "status": "Out",
+        "injury": "Ribs",
+        "impactScore": "10.0",
+        "lastUpdate": "2025-06-08T18:12:16.481Z"
+      }
+    ]
+  },
+  {
+    "teamId": 15,
+    "teamName": "Las Vegas Raiders",
+    "abbreviation": "LV",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "LV_S_1",
+        "playerName": "DeAndre Allen",
+        "position": "S",
+        "status": "Doubtful",
+        "injury": "Ankle",
+        "impactScore": "1.4",
+        "lastUpdate": "2025-06-12T04:27:23.395Z"
+      },
+      {
+        "playerId": "LV_QB_2",
+        "playerName": "Davante Mahomes 2",
+        "position": "QB",
+        "status": "Questionable",
+        "injury": "Wrist",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-11T15:34:21.749Z"
+      },
+      {
+        "playerId": "LV_TE_3",
+        "playerName": "Tua Barkley 3",
+        "position": "TE",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impactScore": "1.2",
+        "lastUpdate": "2025-06-12T20:27:00.311Z"
+      },
+      {
+        "playerId": "LV_CB_4",
+        "playerName": "Keenan Brady 4",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Wrist",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-09T12:08:44.579Z"
+      }
+    ]
+  },
+  {
+    "teamId": 16,
+    "teamName": "Los Angeles Chargers",
+    "abbreviation": "LAC",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "LAC_RB_1",
+        "playerName": "Rob Gronkowski",
+        "position": "RB",
+        "status": "Out",
+        "injury": "Shoulder",
+        "impactScore": "6.0",
+        "lastUpdate": "2025-06-11T06:09:43.970Z"
+      },
+      {
+        "playerId": "LAC_QB_2",
+        "playerName": "Aaron Higbee 2",
+        "position": "QB",
+        "status": "Doubtful",
+        "injury": "Shoulder",
+        "impactScore": "7.0",
+        "lastUpdate": "2025-06-12T03:25:41.337Z"
+      },
+      {
+        "playerId": "LAC_OL_3",
+        "playerName": "Tyreek Elliott 3",
+        "position": "OL",
+        "status": "Doubtful",
+        "injury": "Shoulder",
+        "impactScore": "2.1",
+        "lastUpdate": "2025-06-13T23:30:29.403Z"
+      }
+    ]
+  },
+  {
+    "teamId": 17,
+    "teamName": "Dallas Cowboys",
+    "abbreviation": "DAL",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "DAL_S_1",
+        "playerName": "Nick Ridley",
+        "position": "S",
+        "status": "Out",
+        "injury": "Ankle",
+        "impactScore": "2.0",
+        "lastUpdate": "2025-06-07T00:41:31.606Z"
+      },
+      {
+        "playerId": "DAL_WR_2",
+        "playerName": "Mike Ekeler 2",
+        "position": "WR",
+        "status": "Doubtful",
+        "injury": "Ankle",
+        "impactScore": "3.5",
+        "lastUpdate": "2025-06-12T09:00:03.096Z"
+      },
+      {
+        "playerId": "DAL_CB_3",
+        "playerName": "Joe Adams 3",
+        "position": "CB",
+        "status": "IR",
+        "injury": "Ribs",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-11T17:36:46.870Z"
+      },
+      {
+        "playerId": "DAL_TE_4",
+        "playerName": "Josh Ertz 4",
+        "position": "TE",
+        "status": "Out",
+        "injury": "Back",
+        "impactScore": "4.0",
+        "lastUpdate": "2025-06-12T12:18:37.125Z"
+      }
+    ]
+  },
+  {
+    "teamId": 18,
+    "teamName": "New York Giants",
+    "abbreviation": "NYG",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "NYG_OL_1",
+        "playerName": "Christian Ertz",
+        "position": "OL",
+        "status": "Questionable",
+        "injury": "Concussion",
+        "impactScore": "0.9",
+        "lastUpdate": "2025-06-13T23:31:04.246Z"
+      },
+      {
+        "playerId": "NYG_QB_2",
+        "playerName": "Christian Ekeler 2",
+        "position": "QB",
+        "status": "Questionable",
+        "injury": "Back",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-07T07:03:24.197Z"
+      },
+      {
+        "playerId": "NYG_OL_3",
+        "playerName": "Mike Waller 3",
+        "position": "OL",
+        "status": "Out",
+        "injury": "Back",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-08T05:04:26.491Z"
+      },
+      {
+        "playerId": "NYG_QB_4",
+        "playerName": "Saquon Adams 4",
+        "position": "QB",
+        "status": "Questionable",
+        "injury": "Back",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-12T21:09:37.056Z"
+      },
+      {
+        "playerId": "NYG_CB_5",
+        "playerName": "DeAndre Chubb 5",
+        "position": "CB",
+        "status": "Doubtful",
+        "injury": "Shoulder",
+        "impactScore": "1.8",
+        "lastUpdate": "2025-06-13T14:07:55.671Z"
+      },
+      {
+        "playerId": "NYG_QB_6",
+        "playerName": "Calvin Ertz 6",
+        "position": "QB",
+        "status": "IR",
+        "injury": "Wrist",
+        "impactScore": "10.0",
+        "lastUpdate": "2025-06-14T00:19:51.578Z"
+      },
+      {
+        "playerId": "NYG_S_7",
+        "playerName": "Darren Mahomes 7",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Knee",
+        "impactScore": "0.6",
+        "lastUpdate": "2025-06-09T13:42:42.035Z"
+      }
+    ]
+  },
+  {
+    "teamId": 19,
+    "teamName": "Philadelphia Eagles",
+    "abbreviation": "PHI",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "PHI_LB_1",
+        "playerName": "Stefon Allen",
+        "position": "LB",
+        "status": "IR",
+        "injury": "Shoulder",
+        "impactScore": "2.0",
+        "lastUpdate": "2025-06-12T03:03:35.183Z"
+      },
+      {
+        "playerId": "PHI_QB_2",
+        "playerName": "Rob Chubb 2",
+        "position": "QB",
+        "status": "Doubtful",
+        "injury": "Knee",
+        "impactScore": "7.0",
+        "lastUpdate": "2025-06-10T14:04:02.118Z"
+      },
+      {
+        "playerId": "PHI_QB_3",
+        "playerName": "Calvin Taylor 3",
+        "position": "QB",
+        "status": "Out",
+        "injury": "Concussion",
+        "impactScore": "10.0",
+        "lastUpdate": "2025-06-12T19:31:44.260Z"
+      },
+      {
+        "playerId": "PHI_LB_4",
+        "playerName": "Alvin Wilson 4",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Wrist",
+        "impactScore": "2.0",
+        "lastUpdate": "2025-06-07T17:37:35.629Z"
+      },
+      {
+        "playerId": "PHI_TE_5",
+        "playerName": "Lamar Andrews 5",
+        "position": "TE",
+        "status": "IR",
+        "injury": "Hamstring",
+        "impactScore": "4.0",
+        "lastUpdate": "2025-06-13T22:38:31.962Z"
+      }
+    ]
+  },
+  {
+    "teamId": 20,
+    "teamName": "Washington Commanders",
+    "abbreviation": "WAS",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "WAS_OL_1",
+        "playerName": "Keenan Waller",
+        "position": "OL",
+        "status": "Doubtful",
+        "injury": "Hamstring",
+        "impactScore": "2.1",
+        "lastUpdate": "2025-06-08T16:37:49.433Z"
+      },
+      {
+        "playerId": "WAS_CB_2",
+        "playerName": "Mike Brady 2",
+        "position": "CB",
+        "status": "IR",
+        "injury": "Ankle",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-12T20:55:27.977Z"
+      },
+      {
+        "playerId": "WAS_WR_3",
+        "playerName": "Derrick Barkley 3",
+        "position": "WR",
+        "status": "Questionable",
+        "injury": "Ribs",
+        "impactScore": "1.5",
+        "lastUpdate": "2025-06-12T17:04:49.644Z"
+      },
+      {
+        "playerId": "WAS_CB_4",
+        "playerName": "DeAndre Allen 4",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Wrist",
+        "impactScore": "0.8",
+        "lastUpdate": "2025-06-07T07:15:41.579Z"
+      }
+    ]
+  },
+  {
+    "teamId": 21,
+    "teamName": "Chicago Bears",
+    "abbreviation": "CHI",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "CHI_CB_1",
+        "playerName": "Nick Hopkins",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Wrist",
+        "impactScore": "0.8",
+        "lastUpdate": "2025-06-08T13:31:33.907Z"
+      },
+      {
+        "playerId": "CHI_RB_2",
+        "playerName": "Davante Prescott 2",
+        "position": "RB",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impactScore": "1.8",
+        "lastUpdate": "2025-06-12T11:44:35.044Z"
+      },
+      {
+        "playerId": "CHI_CB_3",
+        "playerName": "Tyreek Kelce 3",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Ankle",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-12T12:51:54.005Z"
+      },
+      {
+        "playerId": "CHI_CB_4",
+        "playerName": "Tom Chubb 4",
+        "position": "CB",
+        "status": "Doubtful",
+        "injury": "Ankle",
+        "impactScore": "1.8",
+        "lastUpdate": "2025-06-10T12:48:22.033Z"
+      },
+      {
+        "playerId": "CHI_CB_5",
+        "playerName": "Tyreek Andrews 5",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Back",
+        "impactScore": "0.8",
+        "lastUpdate": "2025-06-12T12:41:38.473Z"
+      },
+      {
+        "playerId": "CHI_LB_6",
+        "playerName": "Aaron Prescott 6",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Hamstring",
+        "impactScore": "2.0",
+        "lastUpdate": "2025-06-10T04:29:25.124Z"
+      },
+      {
+        "playerId": "CHI_LB_7",
+        "playerName": "Russell Kelce 7",
+        "position": "LB",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impactScore": "0.6",
+        "lastUpdate": "2025-06-08T09:53:49.338Z"
+      }
+    ]
+  },
+  {
+    "teamId": 22,
+    "teamName": "Detroit Lions",
+    "abbreviation": "DET",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "DET_OL_1",
+        "playerName": "Christian Taylor",
+        "position": "OL",
+        "status": "Out",
+        "injury": "Ribs",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-10T09:47:46.776Z"
+      },
+      {
+        "playerId": "DET_S_2",
+        "playerName": "Aaron Herbert 2",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impactScore": "0.6",
+        "lastUpdate": "2025-06-13T03:55:14.427Z"
+      }
+    ]
+  },
+  {
+    "teamId": 23,
+    "teamName": "Green Bay Packers",
+    "abbreviation": "GB",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "GB_TE_1",
+        "playerName": "Tyreek Pitts",
+        "position": "TE",
+        "status": "Questionable",
+        "injury": "Knee",
+        "impactScore": "1.2",
+        "lastUpdate": "2025-06-13T00:20:48.211Z"
+      },
+      {
+        "playerId": "GB_DL_2",
+        "playerName": "Jonathan Herbert 2",
+        "position": "DL",
+        "status": "Out",
+        "injury": "Ankle",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-10T05:45:39.641Z"
+      },
+      {
+        "playerId": "GB_WR_3",
+        "playerName": "Calvin Barkley 3",
+        "position": "WR",
+        "status": "IR",
+        "injury": "Concussion",
+        "impactScore": "5.0",
+        "lastUpdate": "2025-06-12T19:28:11.779Z"
+      },
+      {
+        "playerId": "GB_S_4",
+        "playerName": "Stefon Gronkowski 4",
+        "position": "S",
+        "status": "Out",
+        "injury": "Knee",
+        "impactScore": "2.0",
+        "lastUpdate": "2025-06-11T17:24:53.711Z"
+      },
+      {
+        "playerId": "GB_LB_5",
+        "playerName": "Keenan Allen 5",
+        "position": "LB",
+        "status": "Questionable",
+        "injury": "Ribs",
+        "impactScore": "0.6",
+        "lastUpdate": "2025-06-12T12:08:14.672Z"
+      },
+      {
+        "playerId": "GB_DL_6",
+        "playerName": "Calvin Jackson 6",
+        "position": "DL",
+        "status": "Doubtful",
+        "injury": "Wrist",
+        "impactScore": "1.8",
+        "lastUpdate": "2025-06-12T06:03:14.777Z"
+      }
+    ]
+  },
+  {
+    "teamId": 24,
+    "teamName": "Minnesota Vikings",
+    "abbreviation": "MIN",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "MIN_S_1",
+        "playerName": "Aaron McCaffrey",
+        "position": "S",
+        "status": "Doubtful",
+        "injury": "Ribs",
+        "impactScore": "1.4",
+        "lastUpdate": "2025-06-13T02:01:30.510Z"
+      },
+      {
+        "playerId": "MIN_DL_2",
+        "playerName": "Zach Pitts 2",
+        "position": "DL",
+        "status": "Doubtful",
+        "injury": "Shoulder",
+        "impactScore": "1.8",
+        "lastUpdate": "2025-06-07T19:58:47.594Z"
+      },
+      {
+        "playerId": "MIN_TE_3",
+        "playerName": "Tom Jackson 3",
+        "position": "TE",
+        "status": "Doubtful",
+        "injury": "Back",
+        "impactScore": "2.8",
+        "lastUpdate": "2025-06-08T06:27:04.782Z"
+      },
+      {
+        "playerId": "MIN_LB_4",
+        "playerName": "Mike Chubb 4",
+        "position": "LB",
+        "status": "IR",
+        "injury": "Back",
+        "impactScore": "2.0",
+        "lastUpdate": "2025-06-09T01:36:09.694Z"
+      }
+    ]
+  },
+  {
+    "teamId": 25,
+    "teamName": "Atlanta Falcons",
+    "abbreviation": "ATL",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "ATL_WR_1",
+        "playerName": "Mike Waller",
+        "position": "WR",
+        "status": "Questionable",
+        "injury": "Knee",
+        "impactScore": "1.5",
+        "lastUpdate": "2025-06-11T06:52:39.832Z"
+      },
+      {
+        "playerId": "ATL_CB_2",
+        "playerName": "Keenan Allen 2",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Ribs",
+        "impactScore": "0.8",
+        "lastUpdate": "2025-06-08T14:13:48.536Z"
+      },
+      {
+        "playerId": "ATL_S_3",
+        "playerName": "Davante Henry 3",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Hamstring",
+        "impactScore": "0.6",
+        "lastUpdate": "2025-06-07T12:10:37.351Z"
+      },
+      {
+        "playerId": "ATL_OL_4",
+        "playerName": "Saquon Metcalf 4",
+        "position": "OL",
+        "status": "Out",
+        "injury": "Back",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-08T06:29:00.857Z"
+      },
+      {
+        "playerId": "ATL_QB_5",
+        "playerName": "Aaron Ertz 5",
+        "position": "QB",
+        "status": "Out",
+        "injury": "Hamstring",
+        "impactScore": "10.0",
+        "lastUpdate": "2025-06-13T14:31:17.894Z"
+      }
+    ]
+  },
+  {
+    "teamId": 26,
+    "teamName": "Carolina Panthers",
+    "abbreviation": "CAR",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "CAR_DL_1",
+        "playerName": "Ezekiel Elliott",
+        "position": "DL",
+        "status": "Doubtful",
+        "injury": "Shoulder",
+        "impactScore": "1.8",
+        "lastUpdate": "2025-06-07T01:51:11.837Z"
+      },
+      {
+        "playerId": "CAR_DL_2",
+        "playerName": "Mike Waller 2",
+        "position": "DL",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impactScore": "0.8",
+        "lastUpdate": "2025-06-09T03:01:15.554Z"
+      },
+      {
+        "playerId": "CAR_CB_3",
+        "playerName": "DK Hill 3",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Ankle",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-12T11:34:14.361Z"
+      },
+      {
+        "playerId": "CAR_QB_4",
+        "playerName": "Darren Prescott 4",
+        "position": "QB",
+        "status": "Questionable",
+        "injury": "Knee",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-08T14:19:39.815Z"
+      },
+      {
+        "playerId": "CAR_WR_5",
+        "playerName": "DK McCaffrey 5",
+        "position": "WR",
+        "status": "Doubtful",
+        "injury": "Ankle",
+        "impactScore": "3.5",
+        "lastUpdate": "2025-06-11T03:30:56.870Z"
+      },
+      {
+        "playerId": "CAR_OL_6",
+        "playerName": "Calvin Pitts 6",
+        "position": "OL",
+        "status": "Questionable",
+        "injury": "Concussion",
+        "impactScore": "0.9",
+        "lastUpdate": "2025-06-07T11:13:32.810Z"
+      }
+    ]
+  },
+  {
+    "teamId": 27,
+    "teamName": "New Orleans Saints",
+    "abbreviation": "NO",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "NO_OL_1",
+        "playerName": "Dak Ridley",
+        "position": "OL",
+        "status": "Out",
+        "injury": "Shoulder",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-13T07:52:01.273Z"
+      },
+      {
+        "playerId": "NO_RB_2",
+        "playerName": "Kyle Wilson 2",
+        "position": "RB",
+        "status": "IR",
+        "injury": "Wrist",
+        "impactScore": "6.0",
+        "lastUpdate": "2025-06-13T07:09:37.351Z"
+      },
+      {
+        "playerId": "NO_LB_3",
+        "playerName": "Christian Pitts 3",
+        "position": "LB",
+        "status": "Questionable",
+        "injury": "Concussion",
+        "impactScore": "0.6",
+        "lastUpdate": "2025-06-11T11:00:27.710Z"
+      }
+    ]
+  },
+  {
+    "teamId": 28,
+    "teamName": "Tampa Bay Buccaneers",
+    "abbreviation": "TB",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "TB_RB_1",
+        "playerName": "Rob Brady",
+        "position": "RB",
+        "status": "Questionable",
+        "injury": "Knee",
+        "impactScore": "1.8",
+        "lastUpdate": "2025-06-10T03:14:13.582Z"
+      },
+      {
+        "playerId": "TB_QB_2",
+        "playerName": "Josh Andrews 2",
+        "position": "QB",
+        "status": "Out",
+        "injury": "Knee",
+        "impactScore": "10.0",
+        "lastUpdate": "2025-06-10T17:54:39.649Z"
+      }
+    ]
+  },
+  {
+    "teamId": 29,
+    "teamName": "Arizona Cardinals",
+    "abbreviation": "ARI",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "ARI_LB_1",
+        "playerName": "Alvin Jackson",
+        "position": "LB",
+        "status": "IR",
+        "injury": "Wrist",
+        "impactScore": "2.0",
+        "lastUpdate": "2025-06-07T18:43:21.243Z"
+      },
+      {
+        "playerId": "ARI_RB_2",
+        "playerName": "Josh Kittle 2",
+        "position": "RB",
+        "status": "Doubtful",
+        "injury": "Concussion",
+        "impactScore": "4.2",
+        "lastUpdate": "2025-06-13T00:47:33.786Z"
+      },
+      {
+        "playerId": "ARI_CB_3",
+        "playerName": "Rob Ekeler 3",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Ankle",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-07T20:05:55.601Z"
+      },
+      {
+        "playerId": "ARI_RB_4",
+        "playerName": "Keenan Kamara 4",
+        "position": "RB",
+        "status": "Questionable",
+        "injury": "Knee",
+        "impactScore": "1.8",
+        "lastUpdate": "2025-06-09T23:57:55.877Z"
+      },
+      {
+        "playerId": "ARI_S_5",
+        "playerName": "Stefon Wilson 5",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impactScore": "0.6",
+        "lastUpdate": "2025-06-08T07:32:16.200Z"
+      },
+      {
+        "playerId": "ARI_CB_6",
+        "playerName": "Rob McCaffrey 6",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Concussion",
+        "impactScore": "2.5",
+        "lastUpdate": "2025-06-08T10:03:00.297Z"
+      },
+      {
+        "playerId": "ARI_OL_7",
+        "playerName": "Stefon Kittle 7",
+        "position": "OL",
+        "status": "IR",
+        "injury": "Ankle",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-10T09:04:33.485Z"
+      }
+    ]
+  },
+  {
+    "teamId": 30,
+    "teamName": "Los Angeles Rams",
+    "abbreviation": "LAR",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "LAR_OL_1",
+        "playerName": "Mark Rodgers",
+        "position": "OL",
+        "status": "Doubtful",
+        "injury": "Hamstring",
+        "impactScore": "2.1",
+        "lastUpdate": "2025-06-09T16:14:41.248Z"
+      },
+      {
+        "playerId": "LAR_WR_2",
+        "playerName": "Keenan Ekeler 2",
+        "position": "WR",
+        "status": "Doubtful",
+        "injury": "Ribs",
+        "impactScore": "3.5",
+        "lastUpdate": "2025-06-10T23:12:15.160Z"
+      },
+      {
+        "playerId": "LAR_CB_3",
+        "playerName": "Rob Allen 3",
+        "position": "CB",
+        "status": "Doubtful",
+        "injury": "Hamstring",
+        "impactScore": "1.8",
+        "lastUpdate": "2025-06-12T21:46:49.569Z"
+      },
+      {
+        "playerId": "LAR_QB_4",
+        "playerName": "Tyler Kelce 4",
+        "position": "QB",
+        "status": "Questionable",
+        "injury": "Back",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-09T19:19:12.346Z"
+      },
+      {
+        "playerId": "LAR_WR_5",
+        "playerName": "Tom Hill 5",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Concussion",
+        "impactScore": "5.0",
+        "lastUpdate": "2025-06-07T16:38:06.736Z"
+      },
+      {
+        "playerId": "LAR_RB_6",
+        "playerName": "Travis Brady 6",
+        "position": "RB",
+        "status": "IR",
+        "injury": "Shoulder",
+        "impactScore": "6.0",
+        "lastUpdate": "2025-06-09T13:46:44.862Z"
+      }
+    ]
+  },
+  {
+    "teamId": 31,
+    "teamName": "San Francisco 49ers",
+    "abbreviation": "SF",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "SF_QB_1",
+        "playerName": "Travis Taylor",
+        "position": "QB",
+        "status": "Doubtful",
+        "injury": "Shoulder",
+        "impactScore": "7.0",
+        "lastUpdate": "2025-06-11T05:27:28.760Z"
+      },
+      {
+        "playerId": "SF_QB_2",
+        "playerName": "Austin Ridley 2",
+        "position": "QB",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-13T17:30:38.139Z"
+      }
+    ]
+  },
+  {
+    "teamId": 32,
+    "teamName": "Seattle Seahawks",
+    "abbreviation": "SEA",
+    "lastUpdated": "2025-06-14T00:36:41.831Z",
+    "injuries": [
+      {
+        "playerId": "SEA_CB_1",
+        "playerName": "Tyreek Higbee",
+        "position": "CB",
+        "status": "Doubtful",
+        "injury": "Hamstring",
+        "impactScore": "1.8",
+        "lastUpdate": "2025-06-12T04:10:06.177Z"
+      },
+      {
+        "playerId": "SEA_S_2",
+        "playerName": "Calvin Brady 2",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Concussion",
+        "impactScore": "0.6",
+        "lastUpdate": "2025-06-09T08:46:27.417Z"
+      },
+      {
+        "playerId": "SEA_OL_3",
+        "playerName": "Dak Jackson 3",
+        "position": "OL",
+        "status": "Out",
+        "injury": "Ankle",
+        "impactScore": "3.0",
+        "lastUpdate": "2025-06-10T00:21:21.258Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "id": 1,
+    "name": "Buffalo Bills",
+    "abbreviation": "BUF",
+    "stats": {
+      "wins": 10,
+      "losses": 4,
+      "offensiveRank": 16,
+      "defensiveRank": 17,
+      "pointsPerGame": "20.1",
+      "pointsAllowedPerGame": "24.9",
+      "yardsPerGame": 367,
+      "yardsAllowedPerGame": 372,
+      "turnoverDifferential": -4,
+      "redZoneEfficiency": "56.1"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Miami Dolphins",
+    "abbreviation": "MIA",
+    "stats": {
+      "wins": 10,
+      "losses": 4,
+      "offensiveRank": 22,
+      "defensiveRank": 17,
+      "pointsPerGame": "22.2",
+      "pointsAllowedPerGame": "22.7",
+      "yardsPerGame": 378,
+      "yardsAllowedPerGame": 368,
+      "turnoverDifferential": 3,
+      "redZoneEfficiency": "60.6"
+    }
+  },
+  {
+    "id": 3,
+    "name": "New England Patriots",
+    "abbreviation": "NE",
+    "stats": {
+      "wins": 11,
+      "losses": 3,
+      "offensiveRank": 9,
+      "defensiveRank": 6,
+      "pointsPerGame": "32.7",
+      "pointsAllowedPerGame": "19.7",
+      "yardsPerGame": 429,
+      "yardsAllowedPerGame": 290,
+      "turnoverDifferential": 3,
+      "redZoneEfficiency": "73.1"
+    }
+  },
+  {
+    "id": 4,
+    "name": "New York Jets",
+    "abbreviation": "NYJ",
+    "stats": {
+      "wins": 10,
+      "losses": 4,
+      "offensiveRank": 2,
+      "defensiveRank": 1,
+      "pointsPerGame": "27.3",
+      "pointsAllowedPerGame": "18.0",
+      "yardsPerGame": 416,
+      "yardsAllowedPerGame": 319,
+      "turnoverDifferential": 12,
+      "redZoneEfficiency": "73.5"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Baltimore Ravens",
+    "abbreviation": "BAL",
+    "stats": {
+      "wins": 5,
+      "losses": 9,
+      "offensiveRank": 25,
+      "defensiveRank": 29,
+      "pointsPerGame": "18.1",
+      "pointsAllowedPerGame": "27.1",
+      "yardsPerGame": 332,
+      "yardsAllowedPerGame": 393,
+      "turnoverDifferential": -8,
+      "redZoneEfficiency": "53.4"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Cincinnati Bengals",
+    "abbreviation": "CIN",
+    "stats": {
+      "wins": 2,
+      "losses": 12,
+      "offensiveRank": 29,
+      "defensiveRank": 27,
+      "pointsPerGame": "19.5",
+      "pointsAllowedPerGame": "33.0",
+      "yardsPerGame": 313,
+      "yardsAllowedPerGame": 378,
+      "turnoverDifferential": -5,
+      "redZoneEfficiency": "59.8"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Cleveland Browns",
+    "abbreviation": "CLE",
+    "stats": {
+      "wins": 13,
+      "losses": 1,
+      "offensiveRank": 3,
+      "defensiveRank": 7,
+      "pointsPerGame": "30.8",
+      "pointsAllowedPerGame": "18.5",
+      "yardsPerGame": 422,
+      "yardsAllowedPerGame": 307,
+      "turnoverDifferential": 5,
+      "redZoneEfficiency": "62.6"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Pittsburgh Steelers",
+    "abbreviation": "PIT",
+    "stats": {
+      "wins": 6,
+      "losses": 8,
+      "offensiveRank": 22,
+      "defensiveRank": 11,
+      "pointsPerGame": "23.2",
+      "pointsAllowedPerGame": "22.1",
+      "yardsPerGame": 327,
+      "yardsAllowedPerGame": 324,
+      "turnoverDifferential": -1,
+      "redZoneEfficiency": "57.5"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Houston Texans",
+    "abbreviation": "HOU",
+    "stats": {
+      "wins": 13,
+      "losses": 1,
+      "offensiveRank": 4,
+      "defensiveRank": 6,
+      "pointsPerGame": "27.4",
+      "pointsAllowedPerGame": "21.1",
+      "yardsPerGame": 431,
+      "yardsAllowedPerGame": 306,
+      "turnoverDifferential": 12,
+      "redZoneEfficiency": "60.6"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Indianapolis Colts",
+    "abbreviation": "IND",
+    "stats": {
+      "wins": 10,
+      "losses": 4,
+      "offensiveRank": 3,
+      "defensiveRank": 3,
+      "pointsPerGame": "27.4",
+      "pointsAllowedPerGame": "18.8",
+      "yardsPerGame": 421,
+      "yardsAllowedPerGame": 284,
+      "turnoverDifferential": 3,
+      "redZoneEfficiency": "64.1"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Jacksonville Jaguars",
+    "abbreviation": "JAX",
+    "stats": {
+      "wins": 7,
+      "losses": 7,
+      "offensiveRank": 12,
+      "defensiveRank": 12,
+      "pointsPerGame": "25.1",
+      "pointsAllowedPerGame": "23.8",
+      "yardsPerGame": 344,
+      "yardsAllowedPerGame": 350,
+      "turnoverDifferential": 0,
+      "redZoneEfficiency": "61.0"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Tennessee Titans",
+    "abbreviation": "TEN",
+    "stats": {
+      "wins": 7,
+      "losses": 7,
+      "offensiveRank": 21,
+      "defensiveRank": 16,
+      "pointsPerGame": "23.5",
+      "pointsAllowedPerGame": "24.3",
+      "yardsPerGame": 337,
+      "yardsAllowedPerGame": 352,
+      "turnoverDifferential": 0,
+      "redZoneEfficiency": "59.0"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Denver Broncos",
+    "abbreviation": "DEN",
+    "stats": {
+      "wins": 3,
+      "losses": 11,
+      "offensiveRank": 26,
+      "defensiveRank": 29,
+      "pointsPerGame": "17.3",
+      "pointsAllowedPerGame": "32.9",
+      "yardsPerGame": 281,
+      "yardsAllowedPerGame": 386,
+      "turnoverDifferential": -11,
+      "redZoneEfficiency": "46.2"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Kansas City Chiefs",
+    "abbreviation": "KC",
+    "stats": {
+      "wins": 2,
+      "losses": 12,
+      "offensiveRank": 28,
+      "defensiveRank": 24,
+      "pointsPerGame": "21.3",
+      "pointsAllowedPerGame": "26.2",
+      "yardsPerGame": 295,
+      "yardsAllowedPerGame": 402,
+      "turnoverDifferential": -4,
+      "redZoneEfficiency": "46.0"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Las Vegas Raiders",
+    "abbreviation": "LV",
+    "stats": {
+      "wins": 6,
+      "losses": 8,
+      "offensiveRank": 29,
+      "defensiveRank": 26,
+      "pointsPerGame": "21.7",
+      "pointsAllowedPerGame": "26.0",
+      "yardsPerGame": 319,
+      "yardsAllowedPerGame": 417,
+      "turnoverDifferential": -8,
+      "redZoneEfficiency": "47.8"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Los Angeles Chargers",
+    "abbreviation": "LAC",
+    "stats": {
+      "wins": 11,
+      "losses": 3,
+      "offensiveRank": 19,
+      "defensiveRank": 21,
+      "pointsPerGame": "22.1",
+      "pointsAllowedPerGame": "20.7",
+      "yardsPerGame": 320,
+      "yardsAllowedPerGame": 327,
+      "turnoverDifferential": 1,
+      "redZoneEfficiency": "57.7"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Dallas Cowboys",
+    "abbreviation": "DAL",
+    "stats": {
+      "wins": 12,
+      "losses": 2,
+      "offensiveRank": 9,
+      "defensiveRank": 4,
+      "pointsPerGame": "30.2",
+      "pointsAllowedPerGame": "17.8",
+      "yardsPerGame": 383,
+      "yardsAllowedPerGame": 303,
+      "turnoverDifferential": 4,
+      "redZoneEfficiency": "68.2"
+    }
+  },
+  {
+    "id": 18,
+    "name": "New York Giants",
+    "abbreviation": "NYG",
+    "stats": {
+      "wins": 2,
+      "losses": 12,
+      "offensiveRank": 28,
+      "defensiveRank": 24,
+      "pointsPerGame": "17.0",
+      "pointsAllowedPerGame": "27.0",
+      "yardsPerGame": 323,
+      "yardsAllowedPerGame": 376,
+      "turnoverDifferential": -4,
+      "redZoneEfficiency": "52.3"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Philadelphia Eagles",
+    "abbreviation": "PHI",
+    "stats": {
+      "wins": 2,
+      "losses": 12,
+      "offensiveRank": 31,
+      "defensiveRank": 31,
+      "pointsPerGame": "19.5",
+      "pointsAllowedPerGame": "31.6",
+      "yardsPerGame": 300,
+      "yardsAllowedPerGame": 420,
+      "turnoverDifferential": -3,
+      "redZoneEfficiency": "51.5"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Washington Commanders",
+    "abbreviation": "WAS",
+    "stats": {
+      "wins": 8,
+      "losses": 6,
+      "offensiveRank": 19,
+      "defensiveRank": 11,
+      "pointsPerGame": "23.6",
+      "pointsAllowedPerGame": "24.1",
+      "yardsPerGame": 379,
+      "yardsAllowedPerGame": 351,
+      "turnoverDifferential": -4,
+      "redZoneEfficiency": "55.8"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Chicago Bears",
+    "abbreviation": "CHI",
+    "stats": {
+      "wins": 8,
+      "losses": 6,
+      "offensiveRank": 20,
+      "defensiveRank": 18,
+      "pointsPerGame": "23.6",
+      "pointsAllowedPerGame": "24.9",
+      "yardsPerGame": 360,
+      "yardsAllowedPerGame": 321,
+      "turnoverDifferential": 1,
+      "redZoneEfficiency": "58.8"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Detroit Lions",
+    "abbreviation": "DET",
+    "stats": {
+      "wins": 5,
+      "losses": 9,
+      "offensiveRank": 28,
+      "defensiveRank": 31,
+      "pointsPerGame": "21.7",
+      "pointsAllowedPerGame": "28.4",
+      "yardsPerGame": 310,
+      "yardsAllowedPerGame": 381,
+      "turnoverDifferential": -4,
+      "redZoneEfficiency": "55.8"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Green Bay Packers",
+    "abbreviation": "GB",
+    "stats": {
+      "wins": 5,
+      "losses": 9,
+      "offensiveRank": 28,
+      "defensiveRank": 25,
+      "pointsPerGame": "19.3",
+      "pointsAllowedPerGame": "31.6",
+      "yardsPerGame": 338,
+      "yardsAllowedPerGame": 379,
+      "turnoverDifferential": -9,
+      "redZoneEfficiency": "54.8"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Minnesota Vikings",
+    "abbreviation": "MIN",
+    "stats": {
+      "wins": 12,
+      "losses": 2,
+      "offensiveRank": 7,
+      "defensiveRank": 3,
+      "pointsPerGame": "30.6",
+      "pointsAllowedPerGame": "21.4",
+      "yardsPerGame": 397,
+      "yardsAllowedPerGame": 330,
+      "turnoverDifferential": 12,
+      "redZoneEfficiency": "67.7"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Atlanta Falcons",
+    "abbreviation": "ATL",
+    "stats": {
+      "wins": 8,
+      "losses": 6,
+      "offensiveRank": 16,
+      "defensiveRank": 15,
+      "pointsPerGame": "23.6",
+      "pointsAllowedPerGame": "21.8",
+      "yardsPerGame": 326,
+      "yardsAllowedPerGame": 368,
+      "turnoverDifferential": 3,
+      "redZoneEfficiency": "53.1"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Carolina Panthers",
+    "abbreviation": "CAR",
+    "stats": {
+      "wins": 3,
+      "losses": 11,
+      "offensiveRank": 23,
+      "defensiveRank": 27,
+      "pointsPerGame": "16.4",
+      "pointsAllowedPerGame": "28.9",
+      "yardsPerGame": 315,
+      "yardsAllowedPerGame": 390,
+      "turnoverDifferential": -9,
+      "redZoneEfficiency": "45.5"
+    }
+  },
+  {
+    "id": 27,
+    "name": "New Orleans Saints",
+    "abbreviation": "NO",
+    "stats": {
+      "wins": 2,
+      "losses": 12,
+      "offensiveRank": 24,
+      "defensiveRank": 28,
+      "pointsPerGame": "18.1",
+      "pointsAllowedPerGame": "28.7",
+      "yardsPerGame": 287,
+      "yardsAllowedPerGame": 372,
+      "turnoverDifferential": -3,
+      "redZoneEfficiency": "55.3"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Tampa Bay Buccaneers",
+    "abbreviation": "TB",
+    "stats": {
+      "wins": 11,
+      "losses": 3,
+      "offensiveRank": 7,
+      "defensiveRank": 3,
+      "pointsPerGame": "33.2",
+      "pointsAllowedPerGame": "19.6",
+      "yardsPerGame": 373,
+      "yardsAllowedPerGame": 339,
+      "turnoverDifferential": 5,
+      "redZoneEfficiency": "68.2"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Arizona Cardinals",
+    "abbreviation": "ARI",
+    "stats": {
+      "wins": 10,
+      "losses": 4,
+      "offensiveRank": 21,
+      "defensiveRank": 15,
+      "pointsPerGame": "20.2",
+      "pointsAllowedPerGame": "20.3",
+      "yardsPerGame": 320,
+      "yardsAllowedPerGame": 322,
+      "turnoverDifferential": 0,
+      "redZoneEfficiency": "61.9"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Los Angeles Rams",
+    "abbreviation": "LAR",
+    "stats": {
+      "wins": 2,
+      "losses": 12,
+      "offensiveRank": 32,
+      "defensiveRank": 31,
+      "pointsPerGame": "18.0",
+      "pointsAllowedPerGame": "27.4",
+      "yardsPerGame": 300,
+      "yardsAllowedPerGame": 420,
+      "turnoverDifferential": -8,
+      "redZoneEfficiency": "56.7"
+    }
+  },
+  {
+    "id": 31,
+    "name": "San Francisco 49ers",
+    "abbreviation": "SF",
+    "stats": {
+      "wins": 10,
+      "losses": 4,
+      "offensiveRank": 2,
+      "defensiveRank": 3,
+      "pointsPerGame": "31.7",
+      "pointsAllowedPerGame": "16.6",
+      "yardsPerGame": 431,
+      "yardsAllowedPerGame": 332,
+      "turnoverDifferential": 12,
+      "redZoneEfficiency": "72.1"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Seattle Seahawks",
+    "abbreviation": "SEA",
+    "stats": {
+      "wins": 10,
+      "losses": 4,
+      "offensiveRank": 15,
+      "defensiveRank": 11,
+      "pointsPerGame": "21.2",
+      "pointsAllowedPerGame": "22.7",
+      "yardsPerGame": 340,
+      "yardsAllowedPerGame": 361,
+      "turnoverDifferential": 1,
+      "redZoneEfficiency": "56.1"
+    }
+  }
+]

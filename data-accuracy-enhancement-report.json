@@ -1,0 +1,36 @@
+{
+  "originalScore": 89,
+  "improvementBonus": 7,
+  "newEstimatedScore": 96,
+  "improvements": {
+    "playerMapping": {
+      "applied": 1,
+      "total": 1
+    },
+    "crossValidation": {
+      "applied": 4,
+      "total": 8
+    },
+    "statisticalVerification": {
+      "applied": 6,
+      "total": 10
+    },
+    "dataLineage": {
+      "applied": 2,
+      "total": 2
+    },
+    "qualityAssurance": {
+      "applied": 1,
+      "total": 1
+    }
+  },
+  "improvementScores": {
+    "playerMapping": 100,
+    "crossValidation": 50,
+    "statisticalVerification": 60,
+    "dataLineage": 100,
+    "qualityAssurance": 100
+  },
+  "overallImprovement": 64,
+  "timestamp": "2025-06-12T22:22:00.917Z"
+}

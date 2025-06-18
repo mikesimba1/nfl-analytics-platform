@@ -1,0 +1,13 @@
+{
+  "accuracy": 97.97125950972105,
+  "status": "🟢 HIGHLY REALISTIC",
+  "validStats": 1159,
+  "totalStats": 1183,
+  "issues": [],
+  "warnings": [
+    "A.Rodgers (QB): Has 91 receiving yards - unusual for QB",
+    "T.Hill (QB): Has 607 receiving yards - unusual for QB",
+    "M.Jones (WR): Has 1672 passing yards - unusual for position",
+    "Too many elite receivers: 81 (typically 8-15 in NFL)"
+  ]
+}

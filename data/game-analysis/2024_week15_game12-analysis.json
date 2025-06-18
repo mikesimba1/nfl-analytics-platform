@@ -1,0 +1,976 @@
+{
+  "gameInfo": {
+    "id": "2024_week15_game12",
+    "matchup": "MIN @ GB",
+    "date": "2025-06-17T00:36:41.830Z",
+    "lines": {
+      "spread": "3.8",
+      "total": "46.9",
+      "moneyline": {
+        "home": 93,
+        "away": -32
+      }
+    }
+  },
+  "gameContext": {
+    "spread": 3.8,
+    "total": 46.9,
+    "impliedTotals": {
+      "home": "21.6",
+      "away": "25.3"
+    },
+    "gameScript": {
+      "type": "competitive",
+      "confidence": "high",
+      "impact": "Balanced game script expected"
+    },
+    "paceFactor": {
+      "expectedPlays": 66,
+      "paceRating": "average"
+    },
+    "environment": {
+      "venue": "Green Bay Packers Stadium",
+      "weather": {
+        "conditions": "Clear",
+        "temperature": 65,
+        "wind": 5,
+        "impact": "minimal"
+      },
+      "primetime": true
+    }
+  },
+  "keyInsights": [
+    {
+      "type": "player_spotlight",
+      "title": "MIN Key Players",
+      "description": "Top projected performers: Rob Andrews (19.1 pts), Calvin Diggs (17.0 pts), Josh Ridley (16.4 pts), Tom Metcalf (15.2 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    },
+    {
+      "type": "player_spotlight",
+      "title": "GB Key Players",
+      "description": "Top projected performers: Ezekiel Kelce (23.1 pts), Nick Henry (18.5 pts), Kyle Waller 2 (14.0 pts), Patrick Rodgers (9.9 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    }
+  ],
+  "playerAnalysis": {
+    "MIN": {
+      "QB": [
+        {
+          "player": {
+            "id": "MIN_QB_1",
+            "name": "Rob Andrews",
+            "team": "MIN",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "248.4",
+            "passingTDs": "1.65",
+            "interceptions": "0.53",
+            "rushingYards": "27.1",
+            "rushingTDs": "0.15",
+            "fantasyPoints": "19.1"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #29 QB defense",
+            "rank": 29
+          },
+          "keyFactors": [
+            "Favorable matchup vs #29 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 245,
+              "over": -110,
+              "under": -110,
+              "projection": 248.4
+            },
+            "passingTDs": {
+              "line": 1,
+              "over": -115,
+              "under": -105,
+              "projection": 1.65
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "MIN_RB_1",
+            "name": "Josh Ridley",
+            "team": "MIN",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "58.9",
+            "rushingTDs": "0.66",
+            "carries": "12.3",
+            "receivingYards": "39.3",
+            "receptions": "2.1",
+            "receivingTDs": "0.09",
+            "fantasyPoints": "16.4"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #30 RB defense",
+            "rank": 30
+          },
+          "keyFactors": [
+            "Favorable matchup vs #30 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 57.5,
+              "over": -110,
+              "under": -110,
+              "projection": 58.9
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -105,
+              "under": -115,
+              "projection": 2.1
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "MIN_RB_2",
+            "name": "Josh Brady 2",
+            "team": "MIN",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "24.3",
+            "rushingTDs": "0.16",
+            "carries": "7.9",
+            "receivingYards": "15.6",
+            "receptions": "0.9",
+            "receivingTDs": "0.09",
+            "fantasyPoints": "6.4"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #30 RB defense",
+            "rank": 30
+          },
+          "keyFactors": [
+            "Favorable matchup vs #30 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 22.5,
+              "over": -110,
+              "under": -110,
+              "projection": 24.3
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -105,
+              "under": -115,
+              "projection": 0.9
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "MIN_WR_1",
+            "name": "Calvin Diggs",
+            "team": "MIN",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "75.1",
+            "receptions": "5.1",
+            "targets": "7.1",
+            "receivingTDs": "0.74",
+            "fantasyPoints": "17.0"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #1 WR defense",
+            "rank": 1
+          },
+          "keyFactors": [
+            "Faces tough #1 defense",
+            "High target share indicates consistent volume"
+          ],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 72.5,
+              "over": -110,
+              "under": -110,
+              "projection": 75.1
+            },
+            "receptions": {
+              "line": 4.5,
+              "over": -110,
+              "under": -110,
+              "projection": 5.1
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "MIN_WR_2",
+            "name": "Patrick Pitts 2",
+            "team": "MIN",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "52.6",
+            "receptions": "4.3",
+            "targets": "5.7",
+            "receivingTDs": "0.56",
+            "fantasyPoints": "12.9"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #27 WR defense",
+            "rank": 27
+          },
+          "keyFactors": [
+            "Favorable matchup vs #27 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 52.5,
+              "over": -110,
+              "under": -110,
+              "projection": 52.6
+            },
+            "receptions": {
+              "line": 4,
+              "over": -110,
+              "under": -110,
+              "projection": 4.3
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "MIN_WR_3",
+            "name": "Darren Kelce 3",
+            "team": "MIN",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "35.8",
+            "receptions": "2.4",
+            "targets": "2.6",
+            "receivingTDs": "0.15",
+            "fantasyPoints": "6.9"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #32 WR defense",
+            "rank": 32
+          },
+          "keyFactors": [
+            "Favorable matchup vs #32 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 32.5,
+              "over": -110,
+              "under": -110,
+              "projection": 35.8
+            },
+            "receptions": {
+              "line": 2,
+              "over": -110,
+              "under": -110,
+              "projection": 2.4
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "MIN_TE_1",
+            "name": "Tom Metcalf",
+            "team": "MIN",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "60.0",
+            "receptions": "5.4",
+            "targets": "6.5",
+            "receivingTDs": "0.63",
+            "fantasyPoints": "15.2"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #19 TE defense",
+            "rank": 19
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 57.5,
+              "over": -110,
+              "under": -110,
+              "projection": 60
+            },
+            "receptions": {
+              "line": 5,
+              "over": -110,
+              "under": -110,
+              "projection": 5.4
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "MIN_TE_2",
+            "name": "DeAndre Hopkins 2",
+            "team": "MIN",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "8.3",
+            "receptions": "1.0",
+            "targets": "2.3",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "2.3"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #19 TE defense",
+            "rank": 19
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 7.5,
+              "over": -110,
+              "under": -110,
+              "projection": 8.3
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -110,
+              "under": -110,
+              "projection": 1
+            }
+          }
+        }
+      ]
+    },
+    "GB": {
+      "QB": [
+        {
+          "player": {
+            "id": "GB_QB_1",
+            "name": "Ezekiel Kelce",
+            "team": "GB",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "250.7",
+            "passingTDs": "2.18",
+            "interceptions": "0.93",
+            "rushingYards": "29.2",
+            "rushingTDs": "0.55",
+            "fantasyPoints": "23.1"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #20 QB defense",
+            "rank": 20
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 245,
+              "over": -110,
+              "under": -110,
+              "projection": 250.7
+            },
+            "passingTDs": {
+              "line": 1.5,
+              "over": -115,
+              "under": -105,
+              "projection": 2.18
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "GB_RB_1",
+            "name": "Nick Henry",
+            "team": "GB",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "91.2",
+            "rushingTDs": "0.44",
+            "carries": "19.4",
+            "receivingYards": "23.3",
+            "receptions": "3.3",
+            "receivingTDs": "0.18",
+            "fantasyPoints": "18.5"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #27 RB defense",
+            "rank": 27
+          },
+          "keyFactors": [
+            "Favorable matchup vs #27 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 87.5,
+              "over": -110,
+              "under": -110,
+              "projection": 91.2
+            },
+            "receptions": {
+              "line": 3,
+              "over": -105,
+              "under": -115,
+              "projection": 3.3
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "GB_RB_2",
+            "name": "Calvin Pitts 2",
+            "team": "GB",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "30.6",
+            "rushingTDs": "0.22",
+            "carries": "6.9",
+            "receivingYards": "12.9",
+            "receptions": "0.6",
+            "receivingTDs": "0.07",
+            "fantasyPoints": "6.7"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #27 RB defense",
+            "rank": 27
+          },
+          "keyFactors": [
+            "Favorable matchup vs #27 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 27.5,
+              "over": -110,
+              "under": -110,
+              "projection": 30.6
+            },
+            "receptions": {
+              "line": 0,
+              "over": -105,
+              "under": -115,
+              "projection": 0.6
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "GB_WR_2",
+            "name": "Kyle Waller 2",
+            "team": "GB",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "63.4",
+            "receptions": "4.4",
+            "targets": "5.6",
+            "receivingTDs": "0.55",
+            "fantasyPoints": "14.0"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #22 WR defense",
+            "rank": 22
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 62.5,
+              "over": -110,
+              "under": -110,
+              "projection": 63.4
+            },
+            "receptions": {
+              "line": 4,
+              "over": -110,
+              "under": -110,
+              "projection": 4.4
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "GB_WR_1",
+            "name": "Davante Elliott",
+            "team": "GB",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "45.8",
+            "receptions": "5.8",
+            "targets": "9.2",
+            "receivingTDs": "0.81",
+            "fantasyPoints": "15.2"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #23 WR defense",
+            "rank": 23
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 42.5,
+              "over": -110,
+              "under": -110,
+              "projection": 45.8
+            },
+            "receptions": {
+              "line": 5.5,
+              "over": -110,
+              "under": -110,
+              "projection": 5.8
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "GB_WR_3",
+            "name": "Tom Barkley 3",
+            "team": "GB",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "43.2",
+            "receptions": "2.1",
+            "targets": "3.8",
+            "receivingTDs": "0.16",
+            "fantasyPoints": "7.4"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #23 WR defense",
+            "rank": 23
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 42.5,
+              "over": -110,
+              "under": -110,
+              "projection": 43.2
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -110,
+              "under": -110,
+              "projection": 2.1
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "GB_TE_1",
+            "name": "Patrick Rodgers",
+            "team": "GB",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "47.1",
+            "receptions": "3.3",
+            "targets": "4.8",
+            "receivingTDs": "0.31",
+            "fantasyPoints": "9.9"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #19 TE defense",
+            "rank": 19
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 42.5,
+              "over": -110,
+              "under": -110,
+              "projection": 47.1
+            },
+            "receptions": {
+              "line": 3,
+              "over": -110,
+              "under": -110,
+              "projection": 3.3
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "GB_TE_2",
+            "name": "Saquon Allen 2",
+            "team": "GB",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "9.7",
+            "receptions": "1.0",
+            "targets": "1.7",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "2.5"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #19 TE defense",
+            "rank": 19
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 7.5,
+              "over": -110,
+              "under": -110,
+              "projection": 9.7
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -110,
+              "under": -110,
+              "projection": 1
+            }
+          }
+        }
+      ]
+    }
+  },
+  "bettingAngles": [
+    {
+      "player": "Ezekiel Kelce",
+      "team": "GB",
+      "position": "QB",
+      "prop": "passingYards",
+      "bookLine": 245,
+      "projection": "250.7",
+      "edge": "5.7",
+      "edgePercent": "2.3%",
+      "recommendation": "OVER",
+      "confidence": 90,
+      "reasoning": "Projection exceeds book line by 5.7 units"
+    }
+  ],
+  "correlationPlays": [
+    {
+      "type": "QB_WR1_Stack",
+      "team": "MIN",
+      "players": [
+        {
+          "name": "Rob Andrews",
+          "position": "QB",
+          "projection": "19.1"
+        },
+        {
+          "name": "Calvin Diggs",
+          "position": "WR",
+          "projection": "17.0"
+        }
+      ],
+      "combinedProjection": "36.1",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "MIN",
+      "players": [
+        {
+          "name": "Calvin Diggs",
+          "position": "WR1",
+          "projection": "17.0"
+        },
+        {
+          "name": "Patrick Pitts 2",
+          "position": "WR2",
+          "projection": "12.9"
+        }
+      ],
+      "combinedProjection": "29.9",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "May limit upside"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "MIN",
+      "players": [
+        {
+          "name": "Rob Andrews",
+          "position": "QB",
+          "projection": "19.1"
+        },
+        {
+          "name": "Tom Metcalf",
+          "position": "TE",
+          "projection": "15.2"
+        }
+      ],
+      "combinedProjection": "34.3",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    },
+    {
+      "type": "QB_WR1_Stack",
+      "team": "GB",
+      "players": [
+        {
+          "name": "Ezekiel Kelce",
+          "position": "QB",
+          "projection": "23.1"
+        },
+        {
+          "name": "Kyle Waller 2",
+          "position": "WR",
+          "projection": "14.0"
+        }
+      ],
+      "combinedProjection": "37.1",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "GB",
+      "players": [
+        {
+          "name": "Kyle Waller 2",
+          "position": "WR1",
+          "projection": "14.0"
+        },
+        {
+          "name": "Davante Elliott",
+          "position": "WR2",
+          "projection": "15.2"
+        }
+      ],
+      "combinedProjection": "29.2",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "May limit upside"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "GB",
+      "players": [
+        {
+          "name": "Ezekiel Kelce",
+          "position": "QB",
+          "projection": "23.1"
+        },
+        {
+          "name": "Patrick Rodgers",
+          "position": "TE",
+          "projection": "9.9"
+        }
+      ],
+      "combinedProjection": "33.0",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    }
+  ],
+  "summary": {
+    "matchup": "MIN @ GB",
+    "gameScript": "competitive",
+    "totalProjection": 46.9,
+    "keyPlayers": [
+      {
+        "name": "Ezekiel Kelce",
+        "team": "GB",
+        "position": "QB",
+        "projection": "23.1",
+        "confidence": 90
+      },
+      {
+        "name": "Rob Andrews",
+        "team": "MIN",
+        "position": "QB",
+        "projection": "19.1",
+        "confidence": 95
+      },
+      {
+        "name": "Nick Henry",
+        "team": "GB",
+        "position": "RB",
+        "projection": "18.5",
+        "confidence": 90
+      },
+      {
+        "name": "Calvin Diggs",
+        "team": "MIN",
+        "position": "WR",
+        "projection": "17.0",
+        "confidence": 95
+      },
+      {
+        "name": "Josh Ridley",
+        "team": "MIN",
+        "position": "RB",
+        "projection": "16.4",
+        "confidence": 95
+      }
+    ],
+    "topBets": [],
+    "riskFactors": []
+  }
+}

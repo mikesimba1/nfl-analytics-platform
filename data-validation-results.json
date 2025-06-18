@@ -1,0 +1,40 @@
+{
+  "teams": {
+    "status": "issues",
+    "issues": [
+      "Invalid rating for : undefined"
+    ],
+    "coverage": 106.25,
+    "lastUpdated": null
+  },
+  "players": {
+    "status": "issues",
+    "issues": [
+      "Missing columns: team"
+    ],
+    "coverage": 346,
+    "lastUpdated": null
+  },
+  "rosters": {
+    "status": "valid",
+    "issues": [],
+    "coverage": 109801,
+    "espnIntegration": true
+  },
+  "gameData": {
+    "status": "valid",
+    "issues": [],
+    "coverage": 2200,
+    "lastUpdated": null
+  },
+  "analytics": {
+    "status": "valid",
+    "issues": [],
+    "completeness": 100
+  },
+  "overall": {
+    "status": "good",
+    "score": 87,
+    "criticalIssues": []
+  }
+}

@@ -1,3 +1,4 @@
+import ESPNService from './espnService.js'
 // NFL Data Service - Automated data fetching from reliable sources
 class NFLDataService {
   constructor() {
@@ -5,7 +6,8 @@ class NFLDataService {
       schedule: 'https://site.api.espn.com/apis/site/v2/sports/football/nfl',
       odds: 'https://api.the-odds-api.com/v4/sports/americanfootball_nfl/odds',
       playerStats: 'https://site.api.espn.com/apis/site/v2/sports/football/nfl'
-    }
+        this.espnService = new ESPNService()
+  }
     this.cache = new Map()
     this.cacheTimeout = 5 * 60 * 1000 // 5 minutes
   }

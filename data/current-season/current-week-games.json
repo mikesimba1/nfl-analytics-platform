@@ -1,0 +1,418 @@
+[
+  {
+    "id": "2024_week15_game1",
+    "date": "2025-06-14T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 1,
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF"
+    },
+    "awayTeam": {
+      "id": 2,
+      "name": "Miami Dolphins",
+      "abbreviation": "MIA"
+    },
+    "status": "scheduled",
+    "venue": "Buffalo Bills Stadium",
+    "lines": {
+      "spread": "-4.2",
+      "total": "46.4",
+      "moneyline": {
+        "home": -117,
+        "away": 39
+      }
+    }
+  },
+  {
+    "id": "2024_week15_game2",
+    "date": "2025-06-15T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 3,
+      "name": "New England Patriots",
+      "abbreviation": "NE"
+    },
+    "awayTeam": {
+      "id": 4,
+      "name": "New York Jets",
+      "abbreviation": "NYJ"
+    },
+    "status": "scheduled",
+    "venue": "New England Patriots Stadium",
+    "lines": {
+      "spread": "5.7",
+      "total": "50.1",
+      "moneyline": {
+        "home": -134,
+        "away": -82
+      }
+    }
+  },
+  {
+    "id": "2024_week15_game3",
+    "date": "2025-06-16T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 5,
+      "name": "Baltimore Ravens",
+      "abbreviation": "BAL"
+    },
+    "awayTeam": {
+      "id": 6,
+      "name": "Cincinnati Bengals",
+      "abbreviation": "CIN"
+    },
+    "status": "scheduled",
+    "venue": "Baltimore Ravens Stadium",
+    "lines": {
+      "spread": "1.9",
+      "total": "51.7",
+      "moneyline": {
+        "home": -181,
+        "away": 196
+      }
+    }
+  },
+  {
+    "id": "2024_week15_game4",
+    "date": "2025-06-17T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 7,
+      "name": "Cleveland Browns",
+      "abbreviation": "CLE"
+    },
+    "awayTeam": {
+      "id": 8,
+      "name": "Pittsburgh Steelers",
+      "abbreviation": "PIT"
+    },
+    "status": "scheduled",
+    "venue": "Cleveland Browns Stadium",
+    "lines": {
+      "spread": "2.1",
+      "total": "49.2",
+      "moneyline": {
+        "home": -90,
+        "away": 156
+      }
+    }
+  },
+  {
+    "id": "2024_week15_game5",
+    "date": "2025-06-14T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 9,
+      "name": "Houston Texans",
+      "abbreviation": "HOU"
+    },
+    "awayTeam": {
+      "id": 10,
+      "name": "Indianapolis Colts",
+      "abbreviation": "IND"
+    },
+    "status": "scheduled",
+    "venue": "Houston Texans Stadium",
+    "lines": {
+      "spread": "1.9",
+      "total": "42.4",
+      "moneyline": {
+        "home": -125,
+        "away": 40
+      }
+    }
+  },
+  {
+    "id": "2024_week15_game6",
+    "date": "2025-06-15T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 11,
+      "name": "Jacksonville Jaguars",
+      "abbreviation": "JAX"
+    },
+    "awayTeam": {
+      "id": 12,
+      "name": "Tennessee Titans",
+      "abbreviation": "TEN"
+    },
+    "status": "scheduled",
+    "venue": "Jacksonville Jaguars Stadium",
+    "lines": {
+      "spread": "5.2",
+      "total": "43.1",
+      "moneyline": {
+        "home": 132,
+        "away": 122
+      }
+    }
+  },
+  {
+    "id": "2024_week15_game7",
+    "date": "2025-06-16T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 13,
+      "name": "Denver Broncos",
+      "abbreviation": "DEN"
+    },
+    "awayTeam": {
+      "id": 14,
+      "name": "Kansas City Chiefs",
+      "abbreviation": "KC"
+    },
+    "status": "scheduled",
+    "venue": "Denver Broncos Stadium",
+    "lines": {
+      "spread": "2.1",
+      "total": "46.0",
+      "moneyline": {
+        "home": 84,
+        "away": -53
+      }
+    }
+  },
+  {
+    "id": "2024_week15_game8",
+    "date": "2025-06-17T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 15,
+      "name": "Las Vegas Raiders",
+      "abbreviation": "LV"
+    },
+    "awayTeam": {
+      "id": 16,
+      "name": "Los Angeles Chargers",
+      "abbreviation": "LAC"
+    },
+    "status": "scheduled",
+    "venue": "Las Vegas Raiders Stadium",
+    "lines": {
+      "spread": "1.6",
+      "total": "44.7",
+      "moneyline": {
+        "home": 160,
+        "away": 141
+      }
+    }
+  },
+  {
+    "id": "2024_week15_game9",
+    "date": "2025-06-14T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 17,
+      "name": "Dallas Cowboys",
+      "abbreviation": "DAL"
+    },
+    "awayTeam": {
+      "id": 18,
+      "name": "New York Giants",
+      "abbreviation": "NYG"
+    },
+    "status": "scheduled",
+    "venue": "Dallas Cowboys Stadium",
+    "lines": {
+      "spread": "-2.0",
+      "total": "47.6",
+      "moneyline": {
+        "home": 73,
+        "away": 135
+      }
+    }
+  },
+  {
+    "id": "2024_week15_game10",
+    "date": "2025-06-15T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 19,
+      "name": "Philadelphia Eagles",
+      "abbreviation": "PHI"
+    },
+    "awayTeam": {
+      "id": 20,
+      "name": "Washington Commanders",
+      "abbreviation": "WAS"
+    },
+    "status": "scheduled",
+    "venue": "Philadelphia Eagles Stadium",
+    "lines": {
+      "spread": "-6.5",
+      "total": "48.4",
+      "moneyline": {
+        "home": -75,
+        "away": 53
+      }
+    }
+  },
+  {
+    "id": "2024_week15_game11",
+    "date": "2025-06-16T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 21,
+      "name": "Chicago Bears",
+      "abbreviation": "CHI"
+    },
+    "awayTeam": {
+      "id": 22,
+      "name": "Detroit Lions",
+      "abbreviation": "DET"
+    },
+    "status": "scheduled",
+    "venue": "Chicago Bears Stadium",
+    "lines": {
+      "spread": "5.3",
+      "total": "46.6",
+      "moneyline": {
+        "home": -117,
+        "away": 37
+      }
+    }
+  },
+  {
+    "id": "2024_week15_game12",
+    "date": "2025-06-17T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 23,
+      "name": "Green Bay Packers",
+      "abbreviation": "GB"
+    },
+    "awayTeam": {
+      "id": 24,
+      "name": "Minnesota Vikings",
+      "abbreviation": "MIN"
+    },
+    "status": "scheduled",
+    "venue": "Green Bay Packers Stadium",
+    "lines": {
+      "spread": "3.8",
+      "total": "46.9",
+      "moneyline": {
+        "home": 93,
+        "away": -32
+      }
+    }
+  },
+  {
+    "id": "2024_week15_game13",
+    "date": "2025-06-14T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 25,
+      "name": "Atlanta Falcons",
+      "abbreviation": "ATL"
+    },
+    "awayTeam": {
+      "id": 26,
+      "name": "Carolina Panthers",
+      "abbreviation": "CAR"
+    },
+    "status": "scheduled",
+    "venue": "Atlanta Falcons Stadium",
+    "lines": {
+      "spread": "6.6",
+      "total": "45.6",
+      "moneyline": {
+        "home": -159,
+        "away": -146
+      }
+    }
+  },
+  {
+    "id": "2024_week15_game14",
+    "date": "2025-06-15T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 27,
+      "name": "New Orleans Saints",
+      "abbreviation": "NO"
+    },
+    "awayTeam": {
+      "id": 28,
+      "name": "Tampa Bay Buccaneers",
+      "abbreviation": "TB"
+    },
+    "status": "scheduled",
+    "venue": "New Orleans Saints Stadium",
+    "lines": {
+      "spread": "5.5",
+      "total": "44.2",
+      "moneyline": {
+        "home": 7,
+        "away": -178
+      }
+    }
+  },
+  {
+    "id": "2024_week15_game15",
+    "date": "2025-06-16T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 29,
+      "name": "Arizona Cardinals",
+      "abbreviation": "ARI"
+    },
+    "awayTeam": {
+      "id": 30,
+      "name": "Los Angeles Rams",
+      "abbreviation": "LAR"
+    },
+    "status": "scheduled",
+    "venue": "Arizona Cardinals Stadium",
+    "lines": {
+      "spread": "-4.8",
+      "total": "46.2",
+      "moneyline": {
+        "home": -114,
+        "away": 36
+      }
+    }
+  },
+  {
+    "id": "2024_week15_game16",
+    "date": "2025-06-17T00:36:41.830Z",
+    "week": 15,
+    "season": 2024,
+    "homeTeam": {
+      "id": 31,
+      "name": "San Francisco 49ers",
+      "abbreviation": "SF"
+    },
+    "awayTeam": {
+      "id": 32,
+      "name": "Seattle Seahawks",
+      "abbreviation": "SEA"
+    },
+    "status": "scheduled",
+    "venue": "San Francisco 49ers Stadium",
+    "lines": {
+      "spread": "4.4",
+      "total": "51.0",
+      "moneyline": {
+        "home": 1,
+        "away": 118
+      }
+    }
+  }
+]

@@ -1,0 +1,973 @@
+{
+  "gameInfo": {
+    "id": "2024_week15_game11",
+    "matchup": "DET @ CHI",
+    "date": "2025-06-16T00:36:41.830Z",
+    "lines": {
+      "spread": "5.3",
+      "total": "46.6",
+      "moneyline": {
+        "home": -117,
+        "away": 37
+      }
+    }
+  },
+  "gameContext": {
+    "spread": 5.3,
+    "total": 46.6,
+    "impliedTotals": {
+      "home": "20.7",
+      "away": "25.9"
+    },
+    "gameScript": {
+      "type": "competitive",
+      "confidence": "high",
+      "impact": "Balanced game script expected"
+    },
+    "paceFactor": {
+      "expectedPlays": 66,
+      "paceRating": "average"
+    },
+    "environment": {
+      "venue": "Chicago Bears Stadium",
+      "weather": {
+        "conditions": "Clear",
+        "temperature": 65,
+        "wind": 5,
+        "impact": "minimal"
+      },
+      "primetime": false
+    }
+  },
+  "keyInsights": [
+    {
+      "type": "player_spotlight",
+      "title": "DET Key Players",
+      "description": "Top projected performers: Darren Taylor (19.1 pts), Ezekiel Kittle (17.4 pts), George Brady (15.8 pts), Tua Hopkins (9.3 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    },
+    {
+      "type": "player_spotlight",
+      "title": "CHI Key Players",
+      "description": "Top projected performers: Tyreek Taylor (18.2 pts), Davante Gronkowski (17.2 pts), Nick Adams (15.9 pts), Calvin Allen (13.6 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    }
+  ],
+  "playerAnalysis": {
+    "DET": {
+      "QB": [
+        {
+          "player": {
+            "id": "DET_QB_1",
+            "name": "Ezekiel Kittle",
+            "team": "DET",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "235.7",
+            "passingTDs": "1.34",
+            "interceptions": "0.64",
+            "rushingYards": "19.3",
+            "rushingTDs": "0.32",
+            "fantasyPoints": "17.4"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #23 QB defense",
+            "rank": 23
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 235,
+              "over": -110,
+              "under": -110,
+              "projection": 235.7
+            },
+            "passingTDs": {
+              "line": 1,
+              "over": -115,
+              "under": -105,
+              "projection": 1.34
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "DET_RB_1",
+            "name": "Darren Taylor",
+            "team": "DET",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "71.0",
+            "rushingTDs": "0.72",
+            "carries": "13.0",
+            "receivingYards": "31.8",
+            "receptions": "2.8",
+            "receivingTDs": "0.29",
+            "fantasyPoints": "19.1"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #19 RB defense",
+            "rank": 19
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 67.5,
+              "over": -110,
+              "under": -110,
+              "projection": 71
+            },
+            "receptions": {
+              "line": 2.5,
+              "over": -105,
+              "under": -115,
+              "projection": 2.8
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "DET_RB_2",
+            "name": "Stefon Hopkins 2",
+            "team": "DET",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "27.1",
+            "rushingTDs": "0.17",
+            "carries": "6.9",
+            "receivingYards": "16.6",
+            "receptions": "1.6",
+            "receivingTDs": "0.00",
+            "fantasyPoints": "7.0"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #19 RB defense",
+            "rank": 19
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 22.5,
+              "over": -110,
+              "under": -110,
+              "projection": 27.1
+            },
+            "receptions": {
+              "line": 1,
+              "over": -105,
+              "under": -115,
+              "projection": 1.6
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "DET_WR_1",
+            "name": "George Brady",
+            "team": "DET",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "92.5",
+            "receptions": "3.2",
+            "targets": "9.1",
+            "receivingTDs": "0.56",
+            "fantasyPoints": "15.8"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #27 WR defense",
+            "rank": 27
+          },
+          "keyFactors": [
+            "Favorable matchup vs #27 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 92.5,
+              "over": -110,
+              "under": -110,
+              "projection": 92.5
+            },
+            "receptions": {
+              "line": 2.5,
+              "over": -110,
+              "under": -110,
+              "projection": 3.2
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "DET_WR_2",
+            "name": "DK Kelce 2",
+            "team": "DET",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "81.1",
+            "receptions": "3.0",
+            "targets": "4.2",
+            "receivingTDs": "0.70",
+            "fantasyPoints": "15.3"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #27 WR defense",
+            "rank": 27
+          },
+          "keyFactors": [
+            "Favorable matchup vs #27 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 77.5,
+              "over": -110,
+              "under": -110,
+              "projection": 81.1
+            },
+            "receptions": {
+              "line": 2.5,
+              "over": -110,
+              "under": -110,
+              "projection": 3
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "DET_WR_3",
+            "name": "Nick Ekeler 3",
+            "team": "DET",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "20.3",
+            "receptions": "1.8",
+            "targets": "3.1",
+            "receivingTDs": "0.15",
+            "fantasyPoints": "4.7"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #15 WR defense",
+            "rank": 15
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 17.5,
+              "over": -110,
+              "under": -110,
+              "projection": 20.3
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -110,
+              "under": -110,
+              "projection": 1.8
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "DET_TE_1",
+            "name": "Tua Hopkins",
+            "team": "DET",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "46.9",
+            "receptions": "2.4",
+            "targets": "3.7",
+            "receivingTDs": "0.36",
+            "fantasyPoints": "9.3"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #5 TE defense",
+            "rank": 5
+          },
+          "keyFactors": [
+            "Faces tough #5 defense"
+          ],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 42.5,
+              "over": -110,
+              "under": -110,
+              "projection": 46.9
+            },
+            "receptions": {
+              "line": 2,
+              "over": -110,
+              "under": -110,
+              "projection": 2.4
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "DET_TE_2",
+            "name": "Darren Andrews 2",
+            "team": "DET",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "14.0",
+            "receptions": "0.9",
+            "targets": "1.0",
+            "receivingTDs": "0.20",
+            "fantasyPoints": "3.5"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #5 TE defense",
+            "rank": 5
+          },
+          "keyFactors": [
+            "Faces tough #5 defense"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 12.5,
+              "over": -110,
+              "under": -110,
+              "projection": 14
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -110,
+              "under": -110,
+              "projection": 0.9
+            }
+          }
+        }
+      ]
+    },
+    "CHI": {
+      "QB": [
+        {
+          "player": {
+            "id": "CHI_QB_1",
+            "name": "Tyreek Taylor",
+            "team": "CHI",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "252.0",
+            "passingTDs": "1.70",
+            "interceptions": "0.89",
+            "rushingYards": "11.9",
+            "rushingTDs": "0.32",
+            "fantasyPoints": "18.2"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #9 QB defense",
+            "rank": 9
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 245,
+              "over": -110,
+              "under": -110,
+              "projection": 252
+            },
+            "passingTDs": {
+              "line": 1,
+              "over": -115,
+              "under": -105,
+              "projection": 1.7
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "CHI_RB_1",
+            "name": "Davante Gronkowski",
+            "team": "CHI",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "76.8",
+            "rushingTDs": "0.51",
+            "carries": "9.4",
+            "receivingYards": "20.8",
+            "receptions": "3.9",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "17.2"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #22 RB defense",
+            "rank": 22
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 72.5,
+              "over": -110,
+              "under": -110,
+              "projection": 76.8
+            },
+            "receptions": {
+              "line": 3.5,
+              "over": -105,
+              "under": -115,
+              "projection": 3.9
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "CHI_RB_3",
+            "name": "Christian Ekeler 3",
+            "team": "CHI",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "17.2",
+            "rushingTDs": "0.18",
+            "carries": "4.2",
+            "receivingYards": "4.7",
+            "receptions": "0.4",
+            "receivingTDs": "0.00",
+            "fantasyPoints": "3.7"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #22 RB defense",
+            "rank": 22
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 12.5,
+              "over": -110,
+              "under": -110,
+              "projection": 17.2
+            },
+            "receptions": {
+              "line": 0,
+              "over": -105,
+              "under": -115,
+              "projection": 0.4
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "CHI_WR_1",
+            "name": "Nick Adams",
+            "team": "CHI",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "78.6",
+            "receptions": "6.1",
+            "targets": "7.9",
+            "receivingTDs": "0.32",
+            "fantasyPoints": "15.9"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #10 WR defense",
+            "rank": 10
+          },
+          "keyFactors": [
+            "High target share indicates consistent volume"
+          ],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 77.5,
+              "over": -110,
+              "under": -110,
+              "projection": 78.6
+            },
+            "receptions": {
+              "line": 5.5,
+              "over": -110,
+              "under": -110,
+              "projection": 6.1
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "CHI_WR_2",
+            "name": "Saquon Adams 2",
+            "team": "CHI",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "49.2",
+            "receptions": "2.9",
+            "targets": "6.0",
+            "receivingTDs": "0.52",
+            "fantasyPoints": "10.9"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #26 WR defense",
+            "rank": 26
+          },
+          "keyFactors": [
+            "Favorable matchup vs #26 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 47.5,
+              "over": -110,
+              "under": -110,
+              "projection": 49.2
+            },
+            "receptions": {
+              "line": 2.5,
+              "over": -110,
+              "under": -110,
+              "projection": 2.9
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "CHI_WR_3",
+            "name": "Tyler Andrews 3",
+            "team": "CHI",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "29.4",
+            "receptions": "1.8",
+            "targets": "3.9",
+            "receivingTDs": "0.23",
+            "fantasyPoints": "6.1"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #12 WR defense",
+            "rank": 12
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 27.5,
+              "over": -110,
+              "under": -110,
+              "projection": 29.4
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -110,
+              "under": -110,
+              "projection": 1.8
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "CHI_TE_1",
+            "name": "Calvin Allen",
+            "team": "CHI",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "48.5",
+            "receptions": "6.0",
+            "targets": "4.2",
+            "receivingTDs": "0.45",
+            "fantasyPoints": "13.6"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #31 TE defense",
+            "rank": 31
+          },
+          "keyFactors": [
+            "Favorable matchup vs #31 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 47.5,
+              "over": -110,
+              "under": -110,
+              "projection": 48.5
+            },
+            "receptions": {
+              "line": 5.5,
+              "over": -110,
+              "under": -110,
+              "projection": 6
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "CHI_TE_2",
+            "name": "Alvin Taylor 2",
+            "team": "CHI",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "13.2",
+            "receptions": "1.6",
+            "targets": "1.4",
+            "receivingTDs": "0.09",
+            "fantasyPoints": "3.5"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #31 TE defense",
+            "rank": 31
+          },
+          "keyFactors": [
+            "Favorable matchup vs #31 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 12.5,
+              "over": -110,
+              "under": -110,
+              "projection": 13.2
+            },
+            "receptions": {
+              "line": 1,
+              "over": -110,
+              "under": -110,
+              "projection": 1.6
+            }
+          }
+        }
+      ]
+    }
+  },
+  "bettingAngles": [
+    {
+      "player": "Tyreek Taylor",
+      "team": "CHI",
+      "position": "QB",
+      "prop": "passingYards",
+      "bookLine": 245,
+      "projection": "252.0",
+      "edge": "7.0",
+      "edgePercent": "2.9%",
+      "recommendation": "OVER",
+      "confidence": 90,
+      "reasoning": "Projection exceeds book line by 7.0 units"
+    }
+  ],
+  "correlationPlays": [
+    {
+      "type": "QB_WR1_Stack",
+      "team": "DET",
+      "players": [
+        {
+          "name": "Ezekiel Kittle",
+          "position": "QB",
+          "projection": "17.4"
+        },
+        {
+          "name": "George Brady",
+          "position": "WR",
+          "projection": "15.8"
+        }
+      ],
+      "combinedProjection": "33.2",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "DET",
+      "players": [
+        {
+          "name": "George Brady",
+          "position": "WR1",
+          "projection": "15.8"
+        },
+        {
+          "name": "DK Kelce 2",
+          "position": "WR2",
+          "projection": "15.3"
+        }
+      ],
+      "combinedProjection": "31.1",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "May limit upside"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "DET",
+      "players": [
+        {
+          "name": "Ezekiel Kittle",
+          "position": "QB",
+          "projection": "17.4"
+        },
+        {
+          "name": "Tua Hopkins",
+          "position": "TE",
+          "projection": "9.3"
+        }
+      ],
+      "combinedProjection": "26.7",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    },
+    {
+      "type": "QB_WR1_Stack",
+      "team": "CHI",
+      "players": [
+        {
+          "name": "Tyreek Taylor",
+          "position": "QB",
+          "projection": "18.2"
+        },
+        {
+          "name": "Nick Adams",
+          "position": "WR",
+          "projection": "15.9"
+        }
+      ],
+      "combinedProjection": "34.1",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "CHI",
+      "players": [
+        {
+          "name": "Nick Adams",
+          "position": "WR1",
+          "projection": "15.9"
+        },
+        {
+          "name": "Saquon Adams 2",
+          "position": "WR2",
+          "projection": "10.9"
+        }
+      ],
+      "combinedProjection": "26.8",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "May limit upside"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "CHI",
+      "players": [
+        {
+          "name": "Tyreek Taylor",
+          "position": "QB",
+          "projection": "18.2"
+        },
+        {
+          "name": "Calvin Allen",
+          "position": "TE",
+          "projection": "13.6"
+        }
+      ],
+      "combinedProjection": "31.8",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    }
+  ],
+  "summary": {
+    "matchup": "DET @ CHI",
+    "gameScript": "competitive",
+    "totalProjection": 46.6,
+    "keyPlayers": [
+      {
+        "name": "Darren Taylor",
+        "team": "DET",
+        "position": "RB",
+        "projection": "19.1",
+        "confidence": 90
+      },
+      {
+        "name": "Tyreek Taylor",
+        "team": "CHI",
+        "position": "QB",
+        "projection": "18.2",
+        "confidence": 90
+      },
+      {
+        "name": "Ezekiel Kittle",
+        "team": "DET",
+        "position": "QB",
+        "projection": "17.4",
+        "confidence": 90
+      },
+      {
+        "name": "Davante Gronkowski",
+        "team": "CHI",
+        "position": "RB",
+        "projection": "17.2",
+        "confidence": 90
+      },
+      {
+        "name": "Nick Adams",
+        "team": "CHI",
+        "position": "WR",
+        "projection": "15.9",
+        "confidence": 90
+      }
+    ],
+    "topBets": [],
+    "riskFactors": []
+  }
+}

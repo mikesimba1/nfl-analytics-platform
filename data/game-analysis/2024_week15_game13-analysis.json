@@ -1,0 +1,969 @@
+{
+  "gameInfo": {
+    "id": "2024_week15_game13",
+    "matchup": "CAR @ ATL",
+    "date": "2025-06-14T00:36:41.830Z",
+    "lines": {
+      "spread": "6.6",
+      "total": "45.6",
+      "moneyline": {
+        "home": -159,
+        "away": -146
+      }
+    }
+  },
+  "gameContext": {
+    "spread": 6.6,
+    "total": 45.6,
+    "impliedTotals": {
+      "home": "19.5",
+      "away": "26.1"
+    },
+    "gameScript": {
+      "type": "competitive",
+      "confidence": "high",
+      "impact": "Balanced game script expected"
+    },
+    "paceFactor": {
+      "expectedPlays": 65,
+      "paceRating": "average"
+    },
+    "environment": {
+      "venue": "Atlanta Falcons Stadium",
+      "weather": {
+        "conditions": "Clear",
+        "temperature": 65,
+        "wind": 5,
+        "impact": "minimal"
+      },
+      "primetime": false
+    }
+  },
+  "keyInsights": [
+    {
+      "type": "player_spotlight",
+      "title": "CAR Key Players",
+      "description": "Top projected performers: Nick Prescott (16.6 pts), Darren Henry (15.3 pts), Josh Hopkins (14.5 pts), Darren Andrews (12.9 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    },
+    {
+      "type": "player_spotlight",
+      "title": "ATL Key Players",
+      "description": "Top projected performers: Darren Andrews (23.4 pts), Tua Hill (16.7 pts), Calvin Allen 2 (14.3 pts), Calvin Allen (9.4 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    }
+  ],
+  "playerAnalysis": {
+    "CAR": {
+      "QB": [
+        {
+          "player": {
+            "id": "CAR_QB_1",
+            "name": "Nick Prescott",
+            "team": "CAR",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "245.1",
+            "passingTDs": "1.23",
+            "interceptions": "0.65",
+            "rushingYards": "18.2",
+            "rushingTDs": "0.22",
+            "fantasyPoints": "16.6"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #1 QB defense",
+            "rank": 1
+          },
+          "keyFactors": [
+            "Faces tough #1 defense"
+          ],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 245,
+              "over": -110,
+              "under": -110,
+              "projection": 245.1
+            },
+            "passingTDs": {
+              "line": 0.5,
+              "over": -115,
+              "under": -105,
+              "projection": 1.23
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "CAR_RB_1",
+            "name": "Darren Henry",
+            "team": "CAR",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "40.4",
+            "rushingTDs": "0.67",
+            "carries": "18.4",
+            "receivingYards": "29.1",
+            "receptions": "2.5",
+            "receivingTDs": "0.30",
+            "fantasyPoints": "15.3"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #26 RB defense",
+            "rank": 26
+          },
+          "keyFactors": [
+            "Favorable matchup vs #26 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 37.5,
+              "over": -110,
+              "under": -110,
+              "projection": 40.4
+            },
+            "receptions": {
+              "line": 2,
+              "over": -105,
+              "under": -115,
+              "projection": 2.5
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "CAR_RB_2",
+            "name": "Tua Hill 2",
+            "team": "CAR",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "16.4",
+            "rushingTDs": "0.26",
+            "carries": "6.7",
+            "receivingYards": "10.2",
+            "receptions": "1.4",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "6.1"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #26 RB defense",
+            "rank": 26
+          },
+          "keyFactors": [
+            "Favorable matchup vs #26 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 12.5,
+              "over": -110,
+              "under": -110,
+              "projection": 16.4
+            },
+            "receptions": {
+              "line": 1,
+              "over": -105,
+              "under": -115,
+              "projection": 1.4
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "CAR_WR_1",
+            "name": "Darren Andrews",
+            "team": "CAR",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "73.0",
+            "receptions": "3.5",
+            "targets": "9.3",
+            "receivingTDs": "0.35",
+            "fantasyPoints": "12.9"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #7 WR defense",
+            "rank": 7
+          },
+          "keyFactors": [
+            "Faces tough #7 defense"
+          ],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 72.5,
+              "over": -110,
+              "under": -110,
+              "projection": 73
+            },
+            "receptions": {
+              "line": 3,
+              "over": -110,
+              "under": -110,
+              "projection": 3.5
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "CAR_WR_2",
+            "name": "Mark Adams 2",
+            "team": "CAR",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "65.7",
+            "receptions": "3.2",
+            "targets": "5.3",
+            "receivingTDs": "0.15",
+            "fantasyPoints": "10.7"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #7 WR defense",
+            "rank": 7
+          },
+          "keyFactors": [
+            "Faces tough #7 defense"
+          ],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 62.5,
+              "over": -110,
+              "under": -110,
+              "projection": 65.7
+            },
+            "receptions": {
+              "line": 2.5,
+              "over": -110,
+              "under": -110,
+              "projection": 3.2
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "CAR_WR_3",
+            "name": "Kyle Higbee 3",
+            "team": "CAR",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "44.9",
+            "receptions": "2.8",
+            "targets": "3.1",
+            "receivingTDs": "0.33",
+            "fantasyPoints": "9.3"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #12 WR defense",
+            "rank": 12
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 42.5,
+              "over": -110,
+              "under": -110,
+              "projection": 44.9
+            },
+            "receptions": {
+              "line": 2.5,
+              "over": -110,
+              "under": -110,
+              "projection": 2.8
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "CAR_TE_1",
+            "name": "Josh Hopkins",
+            "team": "CAR",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "41.7",
+            "receptions": "6.1",
+            "targets": "8.5",
+            "receivingTDs": "0.71",
+            "fantasyPoints": "14.5"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #32 TE defense",
+            "rank": 32
+          },
+          "keyFactors": [
+            "Favorable matchup vs #32 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 37.5,
+              "over": -110,
+              "under": -110,
+              "projection": 41.7
+            },
+            "receptions": {
+              "line": 5.5,
+              "over": -110,
+              "under": -110,
+              "projection": 6.1
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "CAR_TE_2",
+            "name": "Mark Ridley 2",
+            "team": "CAR",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "17.0",
+            "receptions": "1.4",
+            "targets": "1.6",
+            "receivingTDs": "0.25",
+            "fantasyPoints": "4.6"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #32 TE defense",
+            "rank": 32
+          },
+          "keyFactors": [
+            "Favorable matchup vs #32 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 12.5,
+              "over": -110,
+              "under": -110,
+              "projection": 17
+            },
+            "receptions": {
+              "line": 1,
+              "over": -110,
+              "under": -110,
+              "projection": 1.4
+            }
+          }
+        }
+      ]
+    },
+    "ATL": {
+      "QB": [
+        {
+          "player": {
+            "id": "ATL_QB_1",
+            "name": "Darren Andrews",
+            "team": "ATL",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "332.0",
+            "passingTDs": "1.61",
+            "interceptions": "1.02",
+            "rushingYards": "21.7",
+            "rushingTDs": "0.59",
+            "fantasyPoints": "23.4"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #20 QB defense",
+            "rank": 20
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 325,
+              "over": -110,
+              "under": -110,
+              "projection": 332
+            },
+            "passingTDs": {
+              "line": 1,
+              "over": -115,
+              "under": -105,
+              "projection": 1.61
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "ATL_RB_1",
+            "name": "Tua Hill",
+            "team": "ATL",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "73.8",
+            "rushingTDs": "0.38",
+            "carries": "13.7",
+            "receivingYards": "36.7",
+            "receptions": "2.9",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "16.7"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #31 RB defense",
+            "rank": 31
+          },
+          "keyFactors": [
+            "Favorable matchup vs #31 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 72.5,
+              "over": -110,
+              "under": -110,
+              "projection": 73.8
+            },
+            "receptions": {
+              "line": 2.5,
+              "over": -105,
+              "under": -115,
+              "projection": 2.9
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "ATL_RB_2",
+            "name": "Jonathan Taylor 2",
+            "team": "ATL",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "24.7",
+            "rushingTDs": "0.24",
+            "carries": "7.8",
+            "receivingYards": "8.4",
+            "receptions": "1.4",
+            "receivingTDs": "0.09",
+            "fantasyPoints": "6.7"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #31 RB defense",
+            "rank": 31
+          },
+          "keyFactors": [
+            "Favorable matchup vs #31 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 22.5,
+              "over": -110,
+              "under": -110,
+              "projection": 24.7
+            },
+            "receptions": {
+              "line": 1,
+              "over": -105,
+              "under": -115,
+              "projection": 1.4
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "ATL_WR_2",
+            "name": "Calvin Allen 2",
+            "team": "ATL",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "73.5",
+            "receptions": "4.6",
+            "targets": "4.1",
+            "receivingTDs": "0.40",
+            "fantasyPoints": "14.3"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #3 WR defense",
+            "rank": 3
+          },
+          "keyFactors": [
+            "Faces tough #3 defense"
+          ],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 72.5,
+              "over": -110,
+              "under": -110,
+              "projection": 73.5
+            },
+            "receptions": {
+              "line": 4,
+              "over": -110,
+              "under": -110,
+              "projection": 4.6
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "ATL_WR_1",
+            "name": "Rob Rodgers",
+            "team": "ATL",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "60.9",
+            "receptions": "5.3",
+            "targets": "5.7",
+            "receivingTDs": "0.82",
+            "fantasyPoints": "16.3"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #14 WR defense",
+            "rank": 14
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 57.5,
+              "over": -110,
+              "under": -110,
+              "projection": 60.9
+            },
+            "receptions": {
+              "line": 5,
+              "over": -110,
+              "under": -110,
+              "projection": 5.3
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "ATL_WR_3",
+            "name": "Ezekiel Kelce 3",
+            "team": "ATL",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "24.6",
+            "receptions": "1.8",
+            "targets": "4.2",
+            "receivingTDs": "0.18",
+            "fantasyPoints": "5.3"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #22 WR defense",
+            "rank": 22
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 22.5,
+              "over": -110,
+              "under": -110,
+              "projection": 24.6
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -110,
+              "under": -110,
+              "projection": 1.8
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "ATL_TE_1",
+            "name": "Calvin Allen",
+            "team": "ATL",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "39.6",
+            "receptions": "2.3",
+            "targets": "5.4",
+            "receivingTDs": "0.53",
+            "fantasyPoints": "9.4"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #10 TE defense",
+            "rank": 10
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 37.5,
+              "over": -110,
+              "under": -110,
+              "projection": 39.6
+            },
+            "receptions": {
+              "line": 2,
+              "over": -110,
+              "under": -110,
+              "projection": 2.3
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "ATL_TE_2",
+            "name": "Calvin Kittle 2",
+            "team": "ATL",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "7.6",
+            "receptions": "0.7",
+            "targets": "1.2",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "1.9"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #10 TE defense",
+            "rank": 10
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 7.5,
+              "over": -110,
+              "under": -110,
+              "projection": 7.6
+            },
+            "receptions": {
+              "line": 0,
+              "over": -110,
+              "under": -110,
+              "projection": 0.7
+            }
+          }
+        }
+      ]
+    }
+  },
+  "bettingAngles": [
+    {
+      "player": "Darren Andrews",
+      "team": "ATL",
+      "position": "QB",
+      "prop": "passingYards",
+      "bookLine": 325,
+      "projection": "332.0",
+      "edge": "7.0",
+      "edgePercent": "2.2%",
+      "recommendation": "OVER",
+      "confidence": 90,
+      "reasoning": "Projection exceeds book line by 7.0 units"
+    }
+  ],
+  "correlationPlays": [
+    {
+      "type": "QB_WR1_Stack",
+      "team": "CAR",
+      "players": [
+        {
+          "name": "Nick Prescott",
+          "position": "QB",
+          "projection": "16.6"
+        },
+        {
+          "name": "Darren Andrews",
+          "position": "WR",
+          "projection": "12.9"
+        }
+      ],
+      "combinedProjection": "29.5",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "CAR",
+      "players": [
+        {
+          "name": "Darren Andrews",
+          "position": "WR1",
+          "projection": "12.9"
+        },
+        {
+          "name": "Mark Adams 2",
+          "position": "WR2",
+          "projection": "10.7"
+        }
+      ],
+      "combinedProjection": "23.6",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "May limit upside"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "CAR",
+      "players": [
+        {
+          "name": "Nick Prescott",
+          "position": "QB",
+          "projection": "16.6"
+        },
+        {
+          "name": "Josh Hopkins",
+          "position": "TE",
+          "projection": "14.5"
+        }
+      ],
+      "combinedProjection": "31.1",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    },
+    {
+      "type": "QB_WR1_Stack",
+      "team": "ATL",
+      "players": [
+        {
+          "name": "Darren Andrews",
+          "position": "QB",
+          "projection": "23.4"
+        },
+        {
+          "name": "Calvin Allen 2",
+          "position": "WR",
+          "projection": "14.3"
+        }
+      ],
+      "combinedProjection": "37.7",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "ATL",
+      "players": [
+        {
+          "name": "Calvin Allen 2",
+          "position": "WR1",
+          "projection": "14.3"
+        },
+        {
+          "name": "Rob Rodgers",
+          "position": "WR2",
+          "projection": "16.3"
+        }
+      ],
+      "combinedProjection": "30.6",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "May limit upside"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "ATL",
+      "players": [
+        {
+          "name": "Darren Andrews",
+          "position": "QB",
+          "projection": "23.4"
+        },
+        {
+          "name": "Calvin Allen",
+          "position": "TE",
+          "projection": "9.4"
+        }
+      ],
+      "combinedProjection": "32.8",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    }
+  ],
+  "summary": {
+    "matchup": "CAR @ ATL",
+    "gameScript": "competitive",
+    "totalProjection": 45.6,
+    "keyPlayers": [
+      {
+        "name": "Darren Andrews",
+        "team": "ATL",
+        "position": "QB",
+        "projection": "23.4",
+        "confidence": 90
+      },
+      {
+        "name": "Tua Hill",
+        "team": "ATL",
+        "position": "RB",
+        "projection": "16.7",
+        "confidence": 95
+      },
+      {
+        "name": "Nick Prescott",
+        "team": "CAR",
+        "position": "QB",
+        "projection": "16.6",
+        "confidence": 95
+      },
+      {
+        "name": "Rob Rodgers",
+        "team": "ATL",
+        "position": "WR",
+        "projection": "16.3",
+        "confidence": 90
+      },
+      {
+        "name": "Darren Henry",
+        "team": "CAR",
+        "position": "RB",
+        "projection": "15.3",
+        "confidence": 90
+      }
+    ],
+    "topBets": [],
+    "riskFactors": []
+  }
+}

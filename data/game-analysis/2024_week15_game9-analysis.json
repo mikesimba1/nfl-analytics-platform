@@ -1,0 +1,958 @@
+{
+  "gameInfo": {
+    "id": "2024_week15_game9",
+    "matchup": "NYG @ DAL",
+    "date": "2025-06-14T00:36:41.830Z",
+    "lines": {
+      "spread": "-2.0",
+      "total": "47.6",
+      "moneyline": {
+        "home": 73,
+        "away": 135
+      }
+    }
+  },
+  "gameContext": {
+    "spread": -2,
+    "total": 47.6,
+    "impliedTotals": {
+      "home": "24.8",
+      "away": "22.8"
+    },
+    "gameScript": {
+      "type": "competitive",
+      "confidence": "high",
+      "impact": "Balanced game script expected"
+    },
+    "paceFactor": {
+      "expectedPlays": 66,
+      "paceRating": "fast"
+    },
+    "environment": {
+      "venue": "Dallas Cowboys Stadium",
+      "weather": {
+        "conditions": "Clear",
+        "temperature": 65,
+        "wind": 5,
+        "impact": "minimal"
+      },
+      "primetime": false
+    }
+  },
+  "keyInsights": [
+    {
+      "type": "pace",
+      "title": "Fast-Paced Game Expected",
+      "description": "Projected 66 plays creates more opportunities",
+      "impact": "Increases volume for all players",
+      "confidence": "Medium"
+    },
+    {
+      "type": "player_spotlight",
+      "title": "NYG Key Players",
+      "description": "Top projected performers: Dak Allen (22.4 pts), Davante Andrews (18.3 pts), Dak Henry (11.3 pts), Patrick Metcalf (10.2 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    },
+    {
+      "type": "player_spotlight",
+      "title": "DAL Key Players",
+      "description": "Top projected performers: Travis Jackson (18.5 pts), DK Gronkowski (18.0 pts), Tua Diggs (14.4 pts), Rob Wilson (12.1 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    }
+  ],
+  "playerAnalysis": {
+    "NYG": {
+      "QB": [
+        {
+          "player": {
+            "id": "NYG_QB_1",
+            "name": "Dak Allen",
+            "team": "NYG",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "238.4",
+            "passingTDs": "2.17",
+            "interceptions": "0.65",
+            "rushingYards": "21.5",
+            "rushingTDs": "0.56",
+            "fantasyPoints": "22.4"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #5 QB defense",
+            "rank": 5
+          },
+          "keyFactors": [
+            "Faces tough #5 defense"
+          ],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 235,
+              "over": -110,
+              "under": -110,
+              "projection": 238.4
+            },
+            "passingTDs": {
+              "line": 1.5,
+              "over": -115,
+              "under": -105,
+              "projection": 2.17
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "NYG_RB_1",
+            "name": "Davante Andrews",
+            "team": "NYG",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "48.6",
+            "rushingTDs": "0.87",
+            "carries": "13.0",
+            "receivingYards": "34.0",
+            "receptions": "3.9",
+            "receivingTDs": "0.16",
+            "fantasyPoints": "18.3"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #1 RB defense",
+            "rank": 1
+          },
+          "keyFactors": [
+            "Faces tough #1 defense"
+          ],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 47.5,
+              "over": -110,
+              "under": -110,
+              "projection": 48.6
+            },
+            "receptions": {
+              "line": 3.5,
+              "over": -105,
+              "under": -115,
+              "projection": 3.9
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NYG_RB_2",
+            "name": "Aaron Chubb 2",
+            "team": "NYG",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "13.8",
+            "rushingTDs": "0.07",
+            "carries": "5.8",
+            "receivingYards": "8.1",
+            "receptions": "1.3",
+            "receivingTDs": "0.00",
+            "fantasyPoints": "3.9"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #1 RB defense",
+            "rank": 1
+          },
+          "keyFactors": [
+            "Faces tough #1 defense"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 12.5,
+              "over": -110,
+              "under": -110,
+              "projection": 13.8
+            },
+            "receptions": {
+              "line": 1,
+              "over": -105,
+              "under": -115,
+              "projection": 1.3
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "NYG_WR_1",
+            "name": "Patrick Metcalf",
+            "team": "NYG",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "43.6",
+            "receptions": "4.2",
+            "targets": "7.4",
+            "receivingTDs": "0.28",
+            "fantasyPoints": "10.2"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #11 WR defense",
+            "rank": 11
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 42.5,
+              "over": -110,
+              "under": -110,
+              "projection": 43.6
+            },
+            "receptions": {
+              "line": 3.5,
+              "over": -110,
+              "under": -110,
+              "projection": 4.2
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NYG_WR_2",
+            "name": "Rob Rodgers 2",
+            "team": "NYG",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "35.0",
+            "receptions": "4.7",
+            "targets": "7.3",
+            "receivingTDs": "0.37",
+            "fantasyPoints": "10.4"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #10 WR defense",
+            "rank": 10
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 32.5,
+              "over": -110,
+              "under": -110,
+              "projection": 35
+            },
+            "receptions": {
+              "line": 4,
+              "over": -110,
+              "under": -110,
+              "projection": 4.7
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NYG_WR_3",
+            "name": "DK Elliott 3",
+            "team": "NYG",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "21.5",
+            "receptions": "1.5",
+            "targets": "4.0",
+            "receivingTDs": "0.15",
+            "fantasyPoints": "4.5"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #10 WR defense",
+            "rank": 10
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 17.5,
+              "over": -110,
+              "under": -110,
+              "projection": 21.5
+            },
+            "receptions": {
+              "line": 1,
+              "over": -110,
+              "under": -110,
+              "projection": 1.5
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "NYG_TE_1",
+            "name": "Dak Henry",
+            "team": "NYG",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "50.3",
+            "receptions": "4.6",
+            "targets": "6.9",
+            "receivingTDs": "0.28",
+            "fantasyPoints": "11.3"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #11 TE defense",
+            "rank": 11
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 47.5,
+              "over": -110,
+              "under": -110,
+              "projection": 50.3
+            },
+            "receptions": {
+              "line": 4,
+              "over": -110,
+              "under": -110,
+              "projection": 4.6
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NYG_TE_2",
+            "name": "Russell McCaffrey 2",
+            "team": "NYG",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "7.7",
+            "receptions": "1.0",
+            "targets": "2.2",
+            "receivingTDs": "0.15",
+            "fantasyPoints": "2.7"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #11 TE defense",
+            "rank": 11
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 7.5,
+              "over": -110,
+              "under": -110,
+              "projection": 7.7
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -110,
+              "under": -110,
+              "projection": 1
+            }
+          }
+        }
+      ]
+    },
+    "DAL": {
+      "QB": [
+        {
+          "player": {
+            "id": "DAL_QB_1",
+            "name": "Travis Jackson",
+            "team": "DAL",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "248.2",
+            "passingTDs": "1.38",
+            "interceptions": "0.42",
+            "rushingYards": "9.8",
+            "rushingTDs": "0.48",
+            "fantasyPoints": "18.5"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #5 QB defense",
+            "rank": 5
+          },
+          "keyFactors": [
+            "Faces tough #5 defense"
+          ],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 245,
+              "over": -110,
+              "under": -110,
+              "projection": 248.2
+            },
+            "passingTDs": {
+              "line": 1,
+              "over": -115,
+              "under": -105,
+              "projection": 1.38
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "DAL_RB_1",
+            "name": "Tua Diggs",
+            "team": "DAL",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "48.3",
+            "rushingTDs": "0.46",
+            "carries": "8.2",
+            "receivingYards": "31.6",
+            "receptions": "1.8",
+            "receivingTDs": "0.31",
+            "fantasyPoints": "14.4"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #32 RB defense",
+            "rank": 32
+          },
+          "keyFactors": [
+            "Favorable matchup vs #32 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 47.5,
+              "over": -110,
+              "under": -110,
+              "projection": 48.3
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -105,
+              "under": -115,
+              "projection": 1.8
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "DAL_RB_2",
+            "name": "Dak Ertz 2",
+            "team": "DAL",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "13.6",
+            "rushingTDs": "0.33",
+            "carries": "5.5",
+            "receivingYards": "13.1",
+            "receptions": "1.6",
+            "receivingTDs": "0.09",
+            "fantasyPoints": "6.8"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #32 RB defense",
+            "rank": 32
+          },
+          "keyFactors": [
+            "Favorable matchup vs #32 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 12.5,
+              "over": -110,
+              "under": -110,
+              "projection": 13.6
+            },
+            "receptions": {
+              "line": 1,
+              "over": -105,
+              "under": -115,
+              "projection": 1.6
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "DAL_WR_1",
+            "name": "DK Gronkowski",
+            "team": "DAL",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "90.0",
+            "receptions": "7.1",
+            "targets": "7.9",
+            "receivingTDs": "0.32",
+            "fantasyPoints": "18.0"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #6 WR defense",
+            "rank": 6
+          },
+          "keyFactors": [
+            "Faces tough #6 defense"
+          ],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 87.5,
+              "over": -110,
+              "under": -110,
+              "projection": 90
+            },
+            "receptions": {
+              "line": 6.5,
+              "over": -110,
+              "under": -110,
+              "projection": 7.1
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "DAL_WR_2",
+            "name": "Alvin Herbert 2",
+            "team": "DAL",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "56.8",
+            "receptions": "4.0",
+            "targets": "5.3",
+            "receivingTDs": "0.26",
+            "fantasyPoints": "11.2"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #20 WR defense",
+            "rank": 20
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 52.5,
+              "over": -110,
+              "under": -110,
+              "projection": 56.8
+            },
+            "receptions": {
+              "line": 3.5,
+              "over": -110,
+              "under": -110,
+              "projection": 4
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "DAL_WR_3",
+            "name": "Mark Allen 3",
+            "team": "DAL",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "35.6",
+            "receptions": "1.8",
+            "targets": "3.3",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "5.8"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #15 WR defense",
+            "rank": 15
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 32.5,
+              "over": -110,
+              "under": -110,
+              "projection": 35.6
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -110,
+              "under": -110,
+              "projection": 1.8
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "DAL_TE_1",
+            "name": "Rob Wilson",
+            "team": "DAL",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "61.1",
+            "receptions": "3.0",
+            "targets": "5.6",
+            "receivingTDs": "0.50",
+            "fantasyPoints": "12.1"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #13 TE defense",
+            "rank": 13
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 57.5,
+              "over": -110,
+              "under": -110,
+              "projection": 61.1
+            },
+            "receptions": {
+              "line": 2.5,
+              "over": -110,
+              "under": -110,
+              "projection": 3
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "DAL_TE_2",
+            "name": "George Andrews 2",
+            "team": "DAL",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "15.4",
+            "receptions": "1.4",
+            "targets": "2.1",
+            "receivingTDs": "0.07",
+            "fantasyPoints": "3.4"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #13 TE defense",
+            "rank": 13
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 12.5,
+              "over": -110,
+              "under": -110,
+              "projection": 15.4
+            },
+            "receptions": {
+              "line": 1,
+              "over": -110,
+              "under": -110,
+              "projection": 1.4
+            }
+          }
+        }
+      ]
+    }
+  },
+  "bettingAngles": [],
+  "correlationPlays": [
+    {
+      "type": "QB_WR1_Stack",
+      "team": "NYG",
+      "players": [
+        {
+          "name": "Dak Allen",
+          "position": "QB",
+          "projection": "22.4"
+        },
+        {
+          "name": "Patrick Metcalf",
+          "position": "WR",
+          "projection": "10.2"
+        }
+      ],
+      "combinedProjection": "32.6",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "NYG",
+      "players": [
+        {
+          "name": "Patrick Metcalf",
+          "position": "WR1",
+          "projection": "10.2"
+        },
+        {
+          "name": "Rob Rodgers 2",
+          "position": "WR2",
+          "projection": "10.4"
+        }
+      ],
+      "combinedProjection": "20.6",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "Favorable for passing volume"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "NYG",
+      "players": [
+        {
+          "name": "Dak Allen",
+          "position": "QB",
+          "projection": "22.4"
+        },
+        {
+          "name": "Dak Henry",
+          "position": "TE",
+          "projection": "11.3"
+        }
+      ],
+      "combinedProjection": "33.7",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    },
+    {
+      "type": "QB_WR1_Stack",
+      "team": "DAL",
+      "players": [
+        {
+          "name": "Travis Jackson",
+          "position": "QB",
+          "projection": "18.5"
+        },
+        {
+          "name": "DK Gronkowski",
+          "position": "WR",
+          "projection": "18.0"
+        }
+      ],
+      "combinedProjection": "36.5",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "DAL",
+      "players": [
+        {
+          "name": "DK Gronkowski",
+          "position": "WR1",
+          "projection": "18.0"
+        },
+        {
+          "name": "Alvin Herbert 2",
+          "position": "WR2",
+          "projection": "11.2"
+        }
+      ],
+      "combinedProjection": "29.2",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "Favorable for passing volume"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "DAL",
+      "players": [
+        {
+          "name": "Travis Jackson",
+          "position": "QB",
+          "projection": "18.5"
+        },
+        {
+          "name": "Rob Wilson",
+          "position": "TE",
+          "projection": "12.1"
+        }
+      ],
+      "combinedProjection": "30.6",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    }
+  ],
+  "summary": {
+    "matchup": "NYG @ DAL",
+    "gameScript": "competitive",
+    "totalProjection": 47.6,
+    "keyPlayers": [
+      {
+        "name": "Dak Allen",
+        "team": "NYG",
+        "position": "QB",
+        "projection": "22.4",
+        "confidence": 95
+      },
+      {
+        "name": "Travis Jackson",
+        "team": "DAL",
+        "position": "QB",
+        "projection": "18.5",
+        "confidence": 95
+      },
+      {
+        "name": "Davante Andrews",
+        "team": "NYG",
+        "position": "RB",
+        "projection": "18.3",
+        "confidence": 95
+      },
+      {
+        "name": "DK Gronkowski",
+        "team": "DAL",
+        "position": "WR",
+        "projection": "18.0",
+        "confidence": 90
+      },
+      {
+        "name": "Tua Diggs",
+        "team": "DAL",
+        "position": "RB",
+        "projection": "14.4",
+        "confidence": 95
+      }
+    ],
+    "topBets": [],
+    "riskFactors": []
+  }
+}

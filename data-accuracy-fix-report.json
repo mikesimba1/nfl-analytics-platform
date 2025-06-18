@@ -1,0 +1,14 @@
+{
+  "totalFixes": 6,
+  "fixes": {
+    "columnConsistency": 3,
+    "statisticalRanges": 1,
+    "businessLogic": 1,
+    "correlations": 0,
+    "calculations": 1
+  },
+  "originalScore": 83,
+  "improvementBonus": 12,
+  "newEstimatedScore": 95,
+  "timestamp": "2025-06-12T22:24:00.124Z"
+}

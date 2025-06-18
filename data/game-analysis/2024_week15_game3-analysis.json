@@ -1,0 +1,1023 @@
+{
+  "gameInfo": {
+    "id": "2024_week15_game3",
+    "matchup": "CIN @ BAL",
+    "date": "2025-06-16T00:36:41.830Z",
+    "lines": {
+      "spread": "1.9",
+      "total": "51.7",
+      "moneyline": {
+        "home": -181,
+        "away": 196
+      }
+    }
+  },
+  "gameContext": {
+    "spread": 1.9,
+    "total": 51.7,
+    "impliedTotals": {
+      "home": "24.9",
+      "away": "26.8"
+    },
+    "gameScript": {
+      "type": "high_scoring",
+      "confidence": "medium",
+      "impact": "Both teams likely to throw frequently"
+    },
+    "paceFactor": {
+      "expectedPlays": 68,
+      "paceRating": "fast"
+    },
+    "environment": {
+      "venue": "Baltimore Ravens Stadium",
+      "weather": {
+        "conditions": "Clear",
+        "temperature": 65,
+        "wind": 5,
+        "impact": "minimal"
+      },
+      "primetime": false
+    }
+  },
+  "keyInsights": [
+    {
+      "type": "game_script",
+      "title": "High-Scoring Environment",
+      "description": "Game total of 51.7 suggests both teams will need to score frequently",
+      "impact": "Positive for all skill position players",
+      "confidence": "High"
+    },
+    {
+      "type": "pace",
+      "title": "Fast-Paced Game Expected",
+      "description": "Projected 68 plays creates more opportunities",
+      "impact": "Increases volume for all players",
+      "confidence": "Medium"
+    },
+    {
+      "type": "player_spotlight",
+      "title": "CIN Key Players",
+      "description": "Top projected performers: DK Barkley (18.7 pts), Russell Allen (16.3 pts), Austin Waller (15.0 pts), Lamar Kelce (14.4 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    },
+    {
+      "type": "player_spotlight",
+      "title": "BAL Key Players",
+      "description": "Top projected performers: Stefon Ekeler (18.8 pts), Justin Brady (18.7 pts), Russell Waller (15.2 pts), Stefon Hill (11.0 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    }
+  ],
+  "playerAnalysis": {
+    "CIN": {
+      "QB": [
+        {
+          "player": {
+            "id": "CIN_QB_1",
+            "name": "DK Barkley",
+            "team": "CIN",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "302.7",
+            "passingTDs": "1.43",
+            "interceptions": "1.09",
+            "rushingYards": "10.5",
+            "rushingTDs": "0.33",
+            "fantasyPoints": "18.7"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #10 QB defense",
+            "rank": 10
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 295,
+              "over": -110,
+              "under": -110,
+              "projection": 302.7
+            },
+            "passingTDs": {
+              "line": 1,
+              "over": -115,
+              "under": -105,
+              "projection": 1.43
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "CIN_RB_1",
+            "name": "Russell Allen",
+            "team": "CIN",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "43.0",
+            "rushingTDs": "0.83",
+            "carries": "11.4",
+            "receivingYards": "34.9",
+            "receptions": "1.6",
+            "receivingTDs": "0.33",
+            "fantasyPoints": "16.3"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #27 RB defense",
+            "rank": 27
+          },
+          "keyFactors": [
+            "Favorable matchup vs #27 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 42.5,
+              "over": -110,
+              "under": -110,
+              "projection": 43
+            },
+            "receptions": {
+              "line": 1,
+              "over": -105,
+              "under": -115,
+              "projection": 1.6
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "CIN_RB_2",
+            "name": "Kyle Rodgers 2",
+            "team": "CIN",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "22.6",
+            "rushingTDs": "0.15",
+            "carries": "7.3",
+            "receivingYards": "9.9",
+            "receptions": "1.2",
+            "receivingTDs": "0.00",
+            "fantasyPoints": "5.4"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #27 RB defense",
+            "rank": 27
+          },
+          "keyFactors": [
+            "Favorable matchup vs #27 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 22.5,
+              "over": -110,
+              "under": -110,
+              "projection": 22.6
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -105,
+              "under": -115,
+              "projection": 1.2
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "CIN_WR_1",
+            "name": "Austin Waller",
+            "team": "CIN",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "63.2",
+            "receptions": "4.8",
+            "targets": "8.1",
+            "receivingTDs": "0.65",
+            "fantasyPoints": "15.0"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #20 WR defense",
+            "rank": 20
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 62.5,
+              "over": -110,
+              "under": -110,
+              "projection": 63.2
+            },
+            "receptions": {
+              "line": 4.5,
+              "over": -110,
+              "under": -110,
+              "projection": 4.8
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "CIN_WR_2",
+            "name": "Calvin Herbert 2",
+            "team": "CIN",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "46.1",
+            "receptions": "2.1",
+            "targets": "5.9",
+            "receivingTDs": "0.52",
+            "fantasyPoints": "9.8"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #20 WR defense",
+            "rank": 20
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 42.5,
+              "over": -110,
+              "under": -110,
+              "projection": 46.1
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -110,
+              "under": -110,
+              "projection": 2.1
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "CIN_WR_3",
+            "name": "Lamar McCaffrey 3",
+            "team": "CIN",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "38.3",
+            "receptions": "2.3",
+            "targets": "4.1",
+            "receivingTDs": "0.30",
+            "fantasyPoints": "7.9"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #20 WR defense",
+            "rank": 20
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 37.5,
+              "over": -110,
+              "under": -110,
+              "projection": 38.3
+            },
+            "receptions": {
+              "line": 2,
+              "over": -110,
+              "under": -110,
+              "projection": 2.3
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "CIN_TE_1",
+            "name": "Lamar Kelce",
+            "team": "CIN",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "43.5",
+            "receptions": "5.1",
+            "targets": "3.4",
+            "receivingTDs": "0.83",
+            "fantasyPoints": "14.4"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #27 TE defense",
+            "rank": 27
+          },
+          "keyFactors": [
+            "Favorable matchup vs #27 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 42.5,
+              "over": -110,
+              "under": -110,
+              "projection": 43.5
+            },
+            "receptions": {
+              "line": 4.5,
+              "over": -110,
+              "under": -110,
+              "projection": 5.1
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "CIN_TE_2",
+            "name": "Derrick Barkley 2",
+            "team": "CIN",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "23.5",
+            "receptions": "1.1",
+            "targets": "1.8",
+            "receivingTDs": "0.18",
+            "fantasyPoints": "4.5"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #27 TE defense",
+            "rank": 27
+          },
+          "keyFactors": [
+            "Favorable matchup vs #27 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 22.5,
+              "over": -110,
+              "under": -110,
+              "projection": 23.5
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -110,
+              "under": -110,
+              "projection": 1.1
+            }
+          }
+        }
+      ]
+    },
+    "BAL": {
+      "QB": [
+        {
+          "player": {
+            "id": "BAL_QB_1",
+            "name": "Stefon Ekeler",
+            "team": "BAL",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "253.5",
+            "passingTDs": "1.67",
+            "interceptions": "0.80",
+            "rushingYards": "24.7",
+            "rushingTDs": "0.18",
+            "fantasyPoints": "18.8"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #23 QB defense",
+            "rank": 23
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 245,
+              "over": -110,
+              "under": -110,
+              "projection": 253.5
+            },
+            "passingTDs": {
+              "line": 1,
+              "over": -115,
+              "under": -105,
+              "projection": 1.67
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "BAL_RB_1",
+            "name": "Justin Brady",
+            "team": "BAL",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "84.7",
+            "rushingTDs": "0.31",
+            "carries": "16.2",
+            "receivingYards": "31.4",
+            "receptions": "3.4",
+            "receivingTDs": "0.31",
+            "fantasyPoints": "18.7"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #4 RB defense",
+            "rank": 4
+          },
+          "keyFactors": [
+            "Faces tough #4 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 82.5,
+              "over": -110,
+              "under": -110,
+              "projection": 84.7
+            },
+            "receptions": {
+              "line": 3,
+              "over": -105,
+              "under": -115,
+              "projection": 3.4
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "BAL_RB_2",
+            "name": "Patrick Ridley 2",
+            "team": "BAL",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "26.8",
+            "rushingTDs": "0.14",
+            "carries": "5.0",
+            "receivingYards": "7.1",
+            "receptions": "0.7",
+            "receivingTDs": "0.00",
+            "fantasyPoints": "4.9"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #4 RB defense",
+            "rank": 4
+          },
+          "keyFactors": [
+            "Faces tough #4 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 22.5,
+              "over": -110,
+              "under": -110,
+              "projection": 26.8
+            },
+            "receptions": {
+              "line": 0,
+              "over": -105,
+              "under": -115,
+              "projection": 0.7
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "BAL_WR_1",
+            "name": "Russell Waller",
+            "team": "BAL",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "84.3",
+            "receptions": "4.1",
+            "targets": "6.1",
+            "receivingTDs": "0.44",
+            "fantasyPoints": "15.2"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #11 WR defense",
+            "rank": 11
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities",
+            "High target share indicates consistent volume"
+          ],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 82.5,
+              "over": -110,
+              "under": -110,
+              "projection": 84.3
+            },
+            "receptions": {
+              "line": 3.5,
+              "over": -110,
+              "under": -110,
+              "projection": 4.1
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "BAL_WR_2",
+            "name": "Austin Hopkins 2",
+            "team": "BAL",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "57.9",
+            "receptions": "2.9",
+            "targets": "7.9",
+            "receivingTDs": "0.18",
+            "fantasyPoints": "9.8"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #15 WR defense",
+            "rank": 15
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 57.5,
+              "over": -110,
+              "under": -110,
+              "projection": 57.9
+            },
+            "receptions": {
+              "line": 2.5,
+              "over": -110,
+              "under": -110,
+              "projection": 2.9
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "BAL_WR_3",
+            "name": "DK Allen 3",
+            "team": "BAL",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "38.6",
+            "receptions": "2.0",
+            "targets": "2.7",
+            "receivingTDs": "0.21",
+            "fantasyPoints": "7.1"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #15 WR defense",
+            "rank": 15
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 37.5,
+              "over": -110,
+              "under": -110,
+              "projection": 38.6
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -110,
+              "under": -110,
+              "projection": 2
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "BAL_TE_1",
+            "name": "Stefon Hill",
+            "team": "BAL",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "40.0",
+            "receptions": "3.8",
+            "targets": "5.3",
+            "receivingTDs": "0.53",
+            "fantasyPoints": "11.0"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #20 TE defense",
+            "rank": 20
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 37.5,
+              "over": -110,
+              "under": -110,
+              "projection": 40
+            },
+            "receptions": {
+              "line": 3.5,
+              "over": -110,
+              "under": -110,
+              "projection": 3.8
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "BAL_TE_2",
+            "name": "Nick Hopkins 2",
+            "team": "BAL",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "21.1",
+            "receptions": "1.3",
+            "targets": "2.1",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "3.9"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #20 TE defense",
+            "rank": 20
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 17.5,
+              "over": -110,
+              "under": -110,
+              "projection": 21.1
+            },
+            "receptions": {
+              "line": 1,
+              "over": -110,
+              "under": -110,
+              "projection": 1.3
+            }
+          }
+        }
+      ]
+    }
+  },
+  "bettingAngles": [
+    {
+      "player": "Stefon Ekeler",
+      "team": "BAL",
+      "position": "QB",
+      "prop": "passingYards",
+      "bookLine": 245,
+      "projection": "253.5",
+      "edge": "8.5",
+      "edgePercent": "3.5%",
+      "recommendation": "OVER",
+      "confidence": 85,
+      "reasoning": "Projection exceeds book line by 8.5 units"
+    },
+    {
+      "player": "DK Barkley",
+      "team": "CIN",
+      "position": "QB",
+      "prop": "passingYards",
+      "bookLine": 295,
+      "projection": "302.7",
+      "edge": "7.7",
+      "edgePercent": "2.6%",
+      "recommendation": "OVER",
+      "confidence": 85,
+      "reasoning": "Projection exceeds book line by 7.7 units"
+    }
+  ],
+  "correlationPlays": [
+    {
+      "type": "QB_WR1_Stack",
+      "team": "CIN",
+      "players": [
+        {
+          "name": "DK Barkley",
+          "position": "QB",
+          "projection": "18.7"
+        },
+        {
+          "name": "Austin Waller",
+          "position": "WR",
+          "projection": "15.0"
+        }
+      ],
+      "combinedProjection": "33.7",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Both teams likely to throw frequently"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "CIN",
+      "players": [
+        {
+          "name": "Austin Waller",
+          "position": "WR1",
+          "projection": "15.0"
+        },
+        {
+          "name": "Calvin Herbert 2",
+          "position": "WR2",
+          "projection": "9.8"
+        }
+      ],
+      "combinedProjection": "24.8",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "Favorable for passing volume"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "CIN",
+      "players": [
+        {
+          "name": "DK Barkley",
+          "position": "QB",
+          "projection": "18.7"
+        },
+        {
+          "name": "Lamar Kelce",
+          "position": "TE",
+          "projection": "14.4"
+        }
+      ],
+      "combinedProjection": "33.1",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    },
+    {
+      "type": "QB_WR1_Stack",
+      "team": "BAL",
+      "players": [
+        {
+          "name": "Stefon Ekeler",
+          "position": "QB",
+          "projection": "18.8"
+        },
+        {
+          "name": "Russell Waller",
+          "position": "WR",
+          "projection": "15.2"
+        }
+      ],
+      "combinedProjection": "34.0",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Both teams likely to throw frequently"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "BAL",
+      "players": [
+        {
+          "name": "Russell Waller",
+          "position": "WR1",
+          "projection": "15.2"
+        },
+        {
+          "name": "Austin Hopkins 2",
+          "position": "WR2",
+          "projection": "9.8"
+        }
+      ],
+      "combinedProjection": "25.0",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "Favorable for passing volume"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "BAL",
+      "players": [
+        {
+          "name": "Stefon Ekeler",
+          "position": "QB",
+          "projection": "18.8"
+        },
+        {
+          "name": "Stefon Hill",
+          "position": "TE",
+          "projection": "11.0"
+        }
+      ],
+      "combinedProjection": "29.8",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    }
+  ],
+  "summary": {
+    "matchup": "CIN @ BAL",
+    "gameScript": "high_scoring",
+    "totalProjection": 51.7,
+    "keyPlayers": [
+      {
+        "name": "Stefon Ekeler",
+        "team": "BAL",
+        "position": "QB",
+        "projection": "18.8",
+        "confidence": 85
+      },
+      {
+        "name": "DK Barkley",
+        "team": "CIN",
+        "position": "QB",
+        "projection": "18.7",
+        "confidence": 85
+      },
+      {
+        "name": "Justin Brady",
+        "team": "BAL",
+        "position": "RB",
+        "projection": "18.7",
+        "confidence": 90
+      },
+      {
+        "name": "Russell Allen",
+        "team": "CIN",
+        "position": "RB",
+        "projection": "16.3",
+        "confidence": 85
+      },
+      {
+        "name": "Russell Waller",
+        "team": "BAL",
+        "position": "WR",
+        "projection": "15.2",
+        "confidence": 85
+      }
+    ],
+    "topBets": [],
+    "riskFactors": []
+  }
+}

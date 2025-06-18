@@ -1,0 +1,955 @@
+{
+  "gameInfo": {
+    "id": "2024_week15_game14",
+    "matchup": "TB @ NO",
+    "date": "2025-06-15T00:36:41.830Z",
+    "lines": {
+      "spread": "5.5",
+      "total": "44.2",
+      "moneyline": {
+        "home": 7,
+        "away": -178
+      }
+    }
+  },
+  "gameContext": {
+    "spread": 5.5,
+    "total": 44.2,
+    "impliedTotals": {
+      "home": "19.4",
+      "away": "24.9"
+    },
+    "gameScript": {
+      "type": "competitive",
+      "confidence": "high",
+      "impact": "Balanced game script expected"
+    },
+    "paceFactor": {
+      "expectedPlays": 65,
+      "paceRating": "average"
+    },
+    "environment": {
+      "venue": "New Orleans Saints Stadium",
+      "weather": {
+        "conditions": "Clear",
+        "temperature": 65,
+        "wind": 5,
+        "impact": "minimal"
+      },
+      "primetime": false
+    }
+  },
+  "keyInsights": [
+    {
+      "type": "player_spotlight",
+      "title": "TB Key Players",
+      "description": "Top projected performers: Calvin Allen (19.0 pts), Patrick Evans (18.7 pts), Saquon McCaffrey (17.0 pts), Travis Herbert (9.3 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    },
+    {
+      "type": "player_spotlight",
+      "title": "NO Key Players",
+      "description": "Top projected performers: Travis Diggs (17.8 pts), Tyler Kelce (14.9 pts), Austin Allen (14.2 pts), Patrick Chubb (12.6 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    }
+  ],
+  "playerAnalysis": {
+    "TB": {
+      "QB": [
+        {
+          "player": {
+            "id": "TB_QB_1",
+            "name": "Calvin Allen",
+            "team": "TB",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "206.7",
+            "passingTDs": "1.70",
+            "interceptions": "0.93",
+            "rushingYards": "27.6",
+            "rushingTDs": "0.50",
+            "fantasyPoints": "19.0"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #15 QB defense",
+            "rank": 15
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 205,
+              "over": -110,
+              "under": -110,
+              "projection": 206.7
+            },
+            "passingTDs": {
+              "line": 1,
+              "over": -115,
+              "under": -105,
+              "projection": 1.7
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "TB_RB_1",
+            "name": "Patrick Evans",
+            "team": "TB",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "79.5",
+            "rushingTDs": "0.47",
+            "carries": "13.3",
+            "receivingYards": "36.1",
+            "receptions": "3.8",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "18.7"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #21 RB defense",
+            "rank": 21
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 77.5,
+              "over": -110,
+              "under": -110,
+              "projection": 79.5
+            },
+            "receptions": {
+              "line": 3.5,
+              "over": -105,
+              "under": -115,
+              "projection": 3.8
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "TB_RB_2",
+            "name": "Russell Ertz 2",
+            "team": "TB",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "21.7",
+            "rushingTDs": "0.08",
+            "carries": "3.9",
+            "receivingYards": "10.9",
+            "receptions": "0.6",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "4.8"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #21 RB defense",
+            "rank": 21
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 17.5,
+              "over": -110,
+              "under": -110,
+              "projection": 21.7
+            },
+            "receptions": {
+              "line": 0,
+              "over": -105,
+              "under": -115,
+              "projection": 0.6
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "TB_WR_1",
+            "name": "Saquon McCaffrey",
+            "team": "TB",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "68.0",
+            "receptions": "6.9",
+            "targets": "6.0",
+            "receivingTDs": "0.55",
+            "fantasyPoints": "17.0"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #19 WR defense",
+            "rank": 19
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 67.5,
+              "over": -110,
+              "under": -110,
+              "projection": 68
+            },
+            "receptions": {
+              "line": 6.5,
+              "over": -110,
+              "under": -110,
+              "projection": 6.9
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "TB_WR_2",
+            "name": "George Henry 2",
+            "team": "TB",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "45.0",
+            "receptions": "4.0",
+            "targets": "7.6",
+            "receivingTDs": "0.66",
+            "fantasyPoints": "12.5"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #30 WR defense",
+            "rank": 30
+          },
+          "keyFactors": [
+            "Favorable matchup vs #30 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 42.5,
+              "over": -110,
+              "under": -110,
+              "projection": 45
+            },
+            "receptions": {
+              "line": 3.5,
+              "over": -110,
+              "under": -110,
+              "projection": 4
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "TB_WR_3",
+            "name": "Tom Prescott 3",
+            "team": "TB",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "34.4",
+            "receptions": "1.8",
+            "targets": "2.1",
+            "receivingTDs": "0.22",
+            "fantasyPoints": "6.6"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #8 WR defense",
+            "rank": 8
+          },
+          "keyFactors": [
+            "Faces tough #8 defense"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 32.5,
+              "over": -110,
+              "under": -110,
+              "projection": 34.4
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -110,
+              "under": -110,
+              "projection": 1.8
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "TB_TE_1",
+            "name": "Travis Herbert",
+            "team": "TB",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "31.8",
+            "receptions": "4.0",
+            "targets": "6.2",
+            "receivingTDs": "0.36",
+            "fantasyPoints": "9.3"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #19 TE defense",
+            "rank": 19
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 27.5,
+              "over": -110,
+              "under": -110,
+              "projection": 31.8
+            },
+            "receptions": {
+              "line": 3.5,
+              "over": -110,
+              "under": -110,
+              "projection": 4
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "TB_TE_2",
+            "name": "Alvin Andrews 2",
+            "team": "TB",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "18.8",
+            "receptions": "1.2",
+            "targets": "0.9",
+            "receivingTDs": "0.07",
+            "fantasyPoints": "3.5"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #19 TE defense",
+            "rank": 19
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 17.5,
+              "over": -110,
+              "under": -110,
+              "projection": 18.8
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -110,
+              "under": -110,
+              "projection": 1.2
+            }
+          }
+        }
+      ]
+    },
+    "NO": {
+      "QB": [
+        {
+          "player": {
+            "id": "NO_QB_1",
+            "name": "Travis Diggs",
+            "team": "NO",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "209.1",
+            "passingTDs": "2.03",
+            "interceptions": "0.45",
+            "rushingYards": "9.2",
+            "rushingTDs": "0.22",
+            "fantasyPoints": "17.8"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #29 QB defense",
+            "rank": 29
+          },
+          "keyFactors": [
+            "Favorable matchup vs #29 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 205,
+              "over": -110,
+              "under": -110,
+              "projection": 209.1
+            },
+            "passingTDs": {
+              "line": 1.5,
+              "over": -115,
+              "under": -105,
+              "projection": 2.03
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "NO_RB_1",
+            "name": "Austin Allen",
+            "team": "NO",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "44.3",
+            "rushingTDs": "0.66",
+            "carries": "16.0",
+            "receivingYards": "29.4",
+            "receptions": "1.5",
+            "receivingTDs": "0.22",
+            "fantasyPoints": "14.2"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #6 RB defense",
+            "rank": 6
+          },
+          "keyFactors": [
+            "Faces tough #6 defense"
+          ],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 42.5,
+              "over": -110,
+              "under": -110,
+              "projection": 44.3
+            },
+            "receptions": {
+              "line": 1,
+              "over": -105,
+              "under": -115,
+              "projection": 1.5
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NO_RB_2",
+            "name": "Calvin Diggs 2",
+            "team": "NO",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "18.1",
+            "rushingTDs": "0.07",
+            "carries": "4.7",
+            "receivingYards": "6.3",
+            "receptions": "0.9",
+            "receivingTDs": "0.07",
+            "fantasyPoints": "4.2"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #6 RB defense",
+            "rank": 6
+          },
+          "keyFactors": [
+            "Faces tough #6 defense"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 17.5,
+              "over": -110,
+              "under": -110,
+              "projection": 18.1
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -105,
+              "under": -115,
+              "projection": 0.9
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "NO_WR_1",
+            "name": "Tyler Kelce",
+            "team": "NO",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "80.9",
+            "receptions": "4.9",
+            "targets": "5.7",
+            "receivingTDs": "0.32",
+            "fantasyPoints": "14.9"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #25 WR defense",
+            "rank": 25
+          },
+          "keyFactors": [
+            "Favorable matchup vs #25 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 77.5,
+              "over": -110,
+              "under": -110,
+              "projection": 80.9
+            },
+            "receptions": {
+              "line": 4.5,
+              "over": -110,
+              "under": -110,
+              "projection": 4.9
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NO_WR_2",
+            "name": "Darren Ertz 2",
+            "team": "NO",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "67.4",
+            "receptions": "3.6",
+            "targets": "4.9",
+            "receivingTDs": "0.39",
+            "fantasyPoints": "12.7"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #25 WR defense",
+            "rank": 25
+          },
+          "keyFactors": [
+            "Favorable matchup vs #25 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 62.5,
+              "over": -110,
+              "under": -110,
+              "projection": 67.4
+            },
+            "receptions": {
+              "line": 3,
+              "over": -110,
+              "under": -110,
+              "projection": 3.6
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NO_WR_3",
+            "name": "Ezekiel Waller 3",
+            "team": "NO",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "30.4",
+            "receptions": "2.3",
+            "targets": "2.5",
+            "receivingTDs": "0.24",
+            "fantasyPoints": "6.8"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #24 WR defense",
+            "rank": 24
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 27.5,
+              "over": -110,
+              "under": -110,
+              "projection": 30.4
+            },
+            "receptions": {
+              "line": 2,
+              "over": -110,
+              "under": -110,
+              "projection": 2.3
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "NO_TE_1",
+            "name": "Patrick Chubb",
+            "team": "NO",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "65.3",
+            "receptions": "3.8",
+            "targets": "3.5",
+            "receivingTDs": "0.37",
+            "fantasyPoints": "12.6"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #11 TE defense",
+            "rank": 11
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 62.5,
+              "over": -110,
+              "under": -110,
+              "projection": 65.3
+            },
+            "receptions": {
+              "line": 3.5,
+              "over": -110,
+              "under": -110,
+              "projection": 3.8
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "NO_TE_2",
+            "name": "Tyreek Herbert 2",
+            "team": "NO",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "15.1",
+            "receptions": "0.8",
+            "targets": "1.1",
+            "receivingTDs": "0.21",
+            "fantasyPoints": "3.6"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #11 TE defense",
+            "rank": 11
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 12.5,
+              "over": -110,
+              "under": -110,
+              "projection": 15.1
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -110,
+              "under": -110,
+              "projection": 0.8
+            }
+          }
+        }
+      ]
+    }
+  },
+  "bettingAngles": [],
+  "correlationPlays": [
+    {
+      "type": "QB_WR1_Stack",
+      "team": "TB",
+      "players": [
+        {
+          "name": "Calvin Allen",
+          "position": "QB",
+          "projection": "19.0"
+        },
+        {
+          "name": "Saquon McCaffrey",
+          "position": "WR",
+          "projection": "17.0"
+        }
+      ],
+      "combinedProjection": "36.0",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "TB",
+      "players": [
+        {
+          "name": "Saquon McCaffrey",
+          "position": "WR1",
+          "projection": "17.0"
+        },
+        {
+          "name": "George Henry 2",
+          "position": "WR2",
+          "projection": "12.5"
+        }
+      ],
+      "combinedProjection": "29.5",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "May limit upside"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "TB",
+      "players": [
+        {
+          "name": "Calvin Allen",
+          "position": "QB",
+          "projection": "19.0"
+        },
+        {
+          "name": "Travis Herbert",
+          "position": "TE",
+          "projection": "9.3"
+        }
+      ],
+      "combinedProjection": "28.3",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    },
+    {
+      "type": "QB_WR1_Stack",
+      "team": "NO",
+      "players": [
+        {
+          "name": "Travis Diggs",
+          "position": "QB",
+          "projection": "17.8"
+        },
+        {
+          "name": "Tyler Kelce",
+          "position": "WR",
+          "projection": "14.9"
+        }
+      ],
+      "combinedProjection": "32.7",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "NO",
+      "players": [
+        {
+          "name": "Tyler Kelce",
+          "position": "WR1",
+          "projection": "14.9"
+        },
+        {
+          "name": "Darren Ertz 2",
+          "position": "WR2",
+          "projection": "12.7"
+        }
+      ],
+      "combinedProjection": "27.6",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "May limit upside"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "NO",
+      "players": [
+        {
+          "name": "Travis Diggs",
+          "position": "QB",
+          "projection": "17.8"
+        },
+        {
+          "name": "Patrick Chubb",
+          "position": "TE",
+          "projection": "12.6"
+        }
+      ],
+      "combinedProjection": "30.4",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    }
+  ],
+  "summary": {
+    "matchup": "TB @ NO",
+    "gameScript": "competitive",
+    "totalProjection": 44.2,
+    "keyPlayers": [
+      {
+        "name": "Calvin Allen",
+        "team": "TB",
+        "position": "QB",
+        "projection": "19.0",
+        "confidence": 90
+      },
+      {
+        "name": "Patrick Evans",
+        "team": "TB",
+        "position": "RB",
+        "projection": "18.7",
+        "confidence": 90
+      },
+      {
+        "name": "Travis Diggs",
+        "team": "NO",
+        "position": "QB",
+        "projection": "17.8",
+        "confidence": 95
+      },
+      {
+        "name": "Saquon McCaffrey",
+        "team": "TB",
+        "position": "WR",
+        "projection": "17.0",
+        "confidence": 90
+      },
+      {
+        "name": "Tyler Kelce",
+        "team": "NO",
+        "position": "WR",
+        "projection": "14.9",
+        "confidence": 90
+      }
+    ],
+    "topBets": [],
+    "riskFactors": []
+  }
+}

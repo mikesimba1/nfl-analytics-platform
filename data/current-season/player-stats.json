@@ -1,0 +1,7050 @@
+{
+  "QB": [
+    {
+      "id": "SEA_QB_1",
+      "name": "Keenan Brady",
+      "team": "SEA",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 608,
+        "passingYards": 3974,
+        "passingTDs": 27,
+        "interceptions": 10,
+        "completionPct": "62.6",
+        "rushingYards": 162,
+        "rushingTDs": 6,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAC_QB_1",
+      "name": "Nick Metcalf",
+      "team": "LAC",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 716,
+        "passingYards": 3969,
+        "passingTDs": 24,
+        "interceptions": 6,
+        "completionPct": "67.4",
+        "rushingYards": 173,
+        "rushingTDs": 6,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIA_QB_1",
+      "name": "George Pitts",
+      "team": "MIA",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 752,
+        "passingYards": 3968,
+        "passingTDs": 19,
+        "interceptions": 9,
+        "completionPct": "65.6",
+        "rushingYards": 263,
+        "rushingTDs": 6,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NE_QB_1",
+      "name": "Davante Gronkowski",
+      "team": "NE",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 642,
+        "passingYards": 3968,
+        "passingTDs": 17,
+        "interceptions": 9,
+        "completionPct": "72.0",
+        "rushingYards": 223,
+        "rushingTDs": 2,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ATL_QB_1",
+      "name": "Darren Andrews",
+      "team": "ATL",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 773,
+        "passingYards": 3919,
+        "passingTDs": 19,
+        "interceptions": 12,
+        "completionPct": "68.9",
+        "rushingYards": 255,
+        "rushingTDs": 7,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CLE_QB_1",
+      "name": "Nick Metcalf",
+      "team": "CLE",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 672,
+        "passingYards": 3903,
+        "passingTDs": 16,
+        "interceptions": 10,
+        "completionPct": "68.3",
+        "rushingYards": 199,
+        "rushingTDs": 7,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BUF_QB_1",
+      "name": "George Prescott",
+      "team": "BUF",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 766,
+        "passingYards": 3822,
+        "passingTDs": 22,
+        "interceptions": 10,
+        "completionPct": "64.4",
+        "rushingYards": 244,
+        "rushingTDs": 3,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PHI_QB_1",
+      "name": "Travis Pitts",
+      "team": "PHI",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 665,
+        "passingYards": 3808,
+        "passingTDs": 15,
+        "interceptions": 11,
+        "completionPct": "69.9",
+        "rushingYards": 371,
+        "rushingTDs": 7,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ARI_QB_1",
+      "name": "Mike McCaffrey",
+      "team": "ARI",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 605,
+        "passingYards": 3725,
+        "passingTDs": 25,
+        "interceptions": 10,
+        "completionPct": "62.2",
+        "rushingYards": 111,
+        "rushingTDs": 7,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CIN_QB_1",
+      "name": "DK Barkley",
+      "team": "CIN",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 773,
+        "passingYards": 3615,
+        "passingTDs": 17,
+        "interceptions": 13,
+        "completionPct": "68.9",
+        "rushingYards": 126,
+        "rushingTDs": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DAL_QB_1",
+      "name": "Travis Jackson",
+      "team": "DAL",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 647,
+        "passingYards": 3596,
+        "passingTDs": 20,
+        "interceptions": 6,
+        "completionPct": "71.1",
+        "rushingYards": 142,
+        "rushingTDs": 7,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "KC_QB_1",
+      "name": "DeAndre Ridley",
+      "team": "KC",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 711,
+        "passingYards": 3523,
+        "passingTDs": 22,
+        "interceptions": 13,
+        "completionPct": "62.6",
+        "rushingYards": 338,
+        "rushingTDs": 3,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PIT_QB_1",
+      "name": "Lamar Kamara",
+      "team": "PIT",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 636,
+        "passingYards": 3507,
+        "passingTDs": 21,
+        "interceptions": 7,
+        "completionPct": "68.5",
+        "rushingYards": 334,
+        "rushingTDs": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CAR_QB_1",
+      "name": "Nick Prescott",
+      "team": "CAR",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 686,
+        "passingYards": 3389,
+        "passingTDs": 17,
+        "interceptions": 9,
+        "completionPct": "69.7",
+        "rushingYards": 252,
+        "rushingTDs": 3,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIN_QB_1",
+      "name": "Rob Andrews",
+      "team": "MIN",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 612,
+        "passingYards": 3303,
+        "passingTDs": 22,
+        "interceptions": 7,
+        "completionPct": "64.0",
+        "rushingYards": 360,
+        "rushingTDs": 2,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DEN_QB_1",
+      "name": "Rob Prescott",
+      "team": "DEN",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 766,
+        "passingYards": 3255,
+        "passingTDs": 19,
+        "interceptions": 7,
+        "completionPct": "70.4",
+        "rushingYards": 201,
+        "rushingTDs": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "JAX_QB_1",
+      "name": "Joe Higbee",
+      "team": "JAX",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 654,
+        "passingYards": 3253,
+        "passingTDs": 29,
+        "interceptions": 10,
+        "completionPct": "71.5",
+        "rushingYards": 214,
+        "rushingTDs": 2,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "GB_QB_1",
+      "name": "Ezekiel Kelce",
+      "team": "GB",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 747,
+        "passingYards": 3213,
+        "passingTDs": 28,
+        "interceptions": 12,
+        "completionPct": "63.6",
+        "rushingYards": 375,
+        "rushingTDs": 7,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "WAS_QB_1",
+      "name": "Jonathan Prescott",
+      "team": "WAS",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 640,
+        "passingYards": 3126,
+        "passingTDs": 19,
+        "interceptions": 12,
+        "completionPct": "71.6",
+        "rushingYards": 355,
+        "rushingTDs": 2,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CHI_QB_1",
+      "name": "Tyreek Taylor",
+      "team": "CHI",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 617,
+        "passingYards": 3118,
+        "passingTDs": 21,
+        "interceptions": 11,
+        "completionPct": "65.3",
+        "rushingYards": 147,
+        "rushingTDs": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "HOU_QB_1",
+      "name": "Tyler Metcalf",
+      "team": "HOU",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 695,
+        "passingYards": 3079,
+        "passingTDs": 24,
+        "interceptions": 7,
+        "completionPct": "67.6",
+        "rushingYards": 200,
+        "rushingTDs": 7,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "IND_QB_1",
+      "name": "Mike Hill",
+      "team": "IND",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 634,
+        "passingYards": 2993,
+        "passingTDs": 20,
+        "interceptions": 13,
+        "completionPct": "70.8",
+        "rushingYards": 128,
+        "rushingTDs": 2,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DET_QB_1",
+      "name": "Ezekiel Kittle",
+      "team": "DET",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 700,
+        "passingYards": 2986,
+        "passingTDs": 17,
+        "interceptions": 8,
+        "completionPct": "66.3",
+        "rushingYards": 244,
+        "rushingTDs": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYG_QB_1",
+      "name": "Dak Allen",
+      "team": "NYG",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 785,
+        "passingYards": 2969,
+        "passingTDs": 27,
+        "interceptions": 8,
+        "completionPct": "63.0",
+        "rushingYards": 268,
+        "rushingTDs": 7,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TB_QB_1",
+      "name": "Calvin Allen",
+      "team": "TB",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 621,
+        "passingYards": 2904,
+        "passingTDs": 24,
+        "interceptions": 13,
+        "completionPct": "62.8",
+        "rushingYards": 388,
+        "rushingTDs": 7,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BAL_QB_1",
+      "name": "Stefon Ekeler",
+      "team": "BAL",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 769,
+        "passingYards": 2870,
+        "passingTDs": 19,
+        "interceptions": 9,
+        "completionPct": "67.0",
+        "rushingYards": 280,
+        "rushingTDs": 2,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAR_QB_1",
+      "name": "Tom Chubb",
+      "team": "LAR",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 732,
+        "passingYards": 2824,
+        "passingTDs": 20,
+        "interceptions": 6,
+        "completionPct": "64.4",
+        "rushingYards": 362,
+        "rushingTDs": 3,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NO_QB_1",
+      "name": "Travis Diggs",
+      "team": "NO",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 771,
+        "passingYards": 2787,
+        "passingTDs": 27,
+        "interceptions": 6,
+        "completionPct": "69.5",
+        "rushingYards": 122,
+        "rushingTDs": 3,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SF_QB_1",
+      "name": "Mike McCaffrey",
+      "team": "SF",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 622,
+        "passingYards": 2733,
+        "passingTDs": 16,
+        "interceptions": 12,
+        "completionPct": "68.3",
+        "rushingYards": 192,
+        "rushingTDs": 3,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYJ_QB_1",
+      "name": "DK Chubb",
+      "team": "NYJ",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 689,
+        "passingYards": 2713,
+        "passingTDs": 27,
+        "interceptions": 9,
+        "completionPct": "63.7",
+        "rushingYards": 149,
+        "rushingTDs": 3,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TEN_QB_1",
+      "name": "Derrick Ertz",
+      "team": "TEN",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 677,
+        "passingYards": 2635,
+        "passingTDs": 21,
+        "interceptions": 13,
+        "completionPct": "69.4",
+        "rushingYards": 152,
+        "rushingTDs": 3,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LV_QB_1",
+      "name": "Zach Taylor",
+      "team": "LV",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 635,
+        "passingYards": 2551,
+        "passingTDs": 19,
+        "interceptions": 13,
+        "completionPct": "70.9",
+        "rushingYards": 386,
+        "rushingTDs": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SF_QB_2",
+      "name": "Lamar Rodgers 2",
+      "team": "SF",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 327,
+        "passingYards": 666,
+        "passingTDs": 6,
+        "interceptions": 2,
+        "completionPct": "61.9",
+        "rushingYards": 57,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAC_QB_2",
+      "name": "Patrick Evans 2",
+      "team": "LAC",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 317,
+        "passingYards": 655,
+        "passingTDs": 5,
+        "interceptions": 3,
+        "completionPct": "56.7",
+        "rushingYards": 15,
+        "rushingTDs": 1,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "GB_QB_2",
+      "name": "Dak Evans 2",
+      "team": "GB",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 465,
+        "passingYards": 636,
+        "passingTDs": 2,
+        "interceptions": 1,
+        "completionPct": "58.6",
+        "rushingYards": 15,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "IND_QB_2",
+      "name": "Tua Allen 2",
+      "team": "IND",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 436,
+        "passingYards": 620,
+        "passingTDs": 2,
+        "interceptions": 1,
+        "completionPct": "63.1",
+        "rushingYards": 12,
+        "rushingTDs": 1,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PHI_QB_2",
+      "name": "Josh Waller 2",
+      "team": "PHI",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 387,
+        "passingYards": 599,
+        "passingTDs": 3,
+        "interceptions": 1,
+        "completionPct": "56.9",
+        "rushingYards": 52,
+        "rushingTDs": 1,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CAR_QB_2",
+      "name": "Zach Kittle 2",
+      "team": "CAR",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 426,
+        "passingYards": 570,
+        "passingTDs": 6,
+        "interceptions": 2,
+        "completionPct": "60.1",
+        "rushingYards": 31,
+        "rushingTDs": 1,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BUF_QB_2",
+      "name": "Saquon Rodgers 2",
+      "team": "BUF",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 312,
+        "passingYards": 562,
+        "passingTDs": 6,
+        "interceptions": 3,
+        "completionPct": "55.5",
+        "rushingYards": 48,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIA_QB_2",
+      "name": "Nick McCaffrey 2",
+      "team": "MIA",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 481,
+        "passingYards": 541,
+        "passingTDs": 2,
+        "interceptions": 2,
+        "completionPct": "62.2",
+        "rushingYards": 21,
+        "rushingTDs": 1,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SEA_QB_2",
+      "name": "George Wilson 2",
+      "team": "SEA",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 364,
+        "passingYards": 522,
+        "passingTDs": 5,
+        "interceptions": 2,
+        "completionPct": "62.7",
+        "rushingYards": 28,
+        "rushingTDs": 1,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TEN_QB_2",
+      "name": "Travis Kelce 2",
+      "team": "TEN",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 405,
+        "passingYards": 517,
+        "passingTDs": 2,
+        "interceptions": 2,
+        "completionPct": "61.2",
+        "rushingYards": 13,
+        "rushingTDs": 1,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DAL_QB_2",
+      "name": "Tom Ertz 2",
+      "team": "DAL",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 350,
+        "passingYards": 512,
+        "passingTDs": 3,
+        "interceptions": 1,
+        "completionPct": "57.9",
+        "rushingYards": 23,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "WAS_QB_2",
+      "name": "DK Hopkins 2",
+      "team": "WAS",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 342,
+        "passingYards": 483,
+        "passingTDs": 4,
+        "interceptions": 3,
+        "completionPct": "61.5",
+        "rushingYards": 46,
+        "rushingTDs": 1,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NO_QB_2",
+      "name": "Lamar Wilson 2",
+      "team": "NO",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 334,
+        "passingYards": 475,
+        "passingTDs": 2,
+        "interceptions": 1,
+        "completionPct": "56.8",
+        "rushingYards": 43,
+        "rushingTDs": 1,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "JAX_QB_2",
+      "name": "Justin Gronkowski 2",
+      "team": "JAX",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 331,
+        "passingYards": 457,
+        "passingTDs": 4,
+        "interceptions": 1,
+        "completionPct": "61.7",
+        "rushingYards": 13,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYJ_QB_2",
+      "name": "Saquon Hopkins 2",
+      "team": "NYJ",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 409,
+        "passingYards": 443,
+        "passingTDs": 3,
+        "interceptions": 3,
+        "completionPct": "60.9",
+        "rushingYards": 32,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ATL_QB_2",
+      "name": "Stefon Ekeler 2",
+      "team": "ATL",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 302,
+        "passingYards": 401,
+        "passingTDs": 4,
+        "interceptions": 1,
+        "completionPct": "64.0",
+        "rushingYards": 20,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NE_QB_2",
+      "name": "Joe Wilson 2",
+      "team": "NE",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 363,
+        "passingYards": 400,
+        "passingTDs": 2,
+        "interceptions": 1,
+        "completionPct": "60.3",
+        "rushingYards": 59,
+        "rushingTDs": 1,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LV_QB_2",
+      "name": "George Kittle 2",
+      "team": "LV",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 404,
+        "passingYards": 398,
+        "passingTDs": 5,
+        "interceptions": 2,
+        "completionPct": "58.4",
+        "rushingYards": 44,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIN_QB_2",
+      "name": "DK Herbert 2",
+      "team": "MIN",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 453,
+        "passingYards": 398,
+        "passingTDs": 3,
+        "interceptions": 3,
+        "completionPct": "56.4",
+        "rushingYards": 10,
+        "rushingTDs": 1,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CLE_QB_2",
+      "name": "Rob Allen 2",
+      "team": "CLE",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 421,
+        "passingYards": 385,
+        "passingTDs": 3,
+        "interceptions": 2,
+        "completionPct": "59.4",
+        "rushingYards": 22,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "KC_QB_2",
+      "name": "Aaron Chubb 2",
+      "team": "KC",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 403,
+        "passingYards": 377,
+        "passingTDs": 5,
+        "interceptions": 1,
+        "completionPct": "58.2",
+        "rushingYards": 35,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BAL_QB_2",
+      "name": "Russell Rodgers 2",
+      "team": "BAL",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 453,
+        "passingYards": 368,
+        "passingTDs": 4,
+        "interceptions": 1,
+        "completionPct": "64.1",
+        "rushingYards": 37,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ARI_QB_2",
+      "name": "DeAndre Kelce 2",
+      "team": "ARI",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 312,
+        "passingYards": 347,
+        "passingTDs": 5,
+        "interceptions": 2,
+        "completionPct": "63.8",
+        "rushingYards": 12,
+        "rushingTDs": 1,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CIN_QB_2",
+      "name": "DK Pitts 2",
+      "team": "CIN",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 307,
+        "passingYards": 345,
+        "passingTDs": 4,
+        "interceptions": 2,
+        "completionPct": "56.3",
+        "rushingYards": 20,
+        "rushingTDs": 1,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DET_QB_2",
+      "name": "Stefon Allen 2",
+      "team": "DET",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 488,
+        "passingYards": 335,
+        "passingTDs": 2,
+        "interceptions": 2,
+        "completionPct": "55.4",
+        "rushingYards": 41,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PIT_QB_2",
+      "name": "Alvin Kamara 2",
+      "team": "PIT",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 416,
+        "passingYards": 299,
+        "passingTDs": 3,
+        "interceptions": 3,
+        "completionPct": "62.5",
+        "rushingYards": 29,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DEN_QB_2",
+      "name": "Christian Barkley 2",
+      "team": "DEN",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 350,
+        "passingYards": 298,
+        "passingTDs": 2,
+        "interceptions": 3,
+        "completionPct": "63.6",
+        "rushingYards": 32,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYG_QB_2",
+      "name": "Ezekiel Hill 2",
+      "team": "NYG",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 448,
+        "passingYards": 298,
+        "passingTDs": 2,
+        "interceptions": 1,
+        "completionPct": "61.2",
+        "rushingYards": 52,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TB_QB_2",
+      "name": "DeAndre Kelce 2",
+      "team": "TB",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 310,
+        "passingYards": 215,
+        "passingTDs": 2,
+        "interceptions": 2,
+        "completionPct": "60.4",
+        "rushingYards": 18,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAR_QB_2",
+      "name": "Travis Kamara 2",
+      "team": "LAR",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 316,
+        "passingYards": 209,
+        "passingTDs": 3,
+        "interceptions": 1,
+        "completionPct": "58.1",
+        "rushingYards": 16,
+        "rushingTDs": 1,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "HOU_QB_2",
+      "name": "Josh Gronkowski 2",
+      "team": "HOU",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 470,
+        "passingYards": 208,
+        "passingTDs": 4,
+        "interceptions": 1,
+        "completionPct": "58.9",
+        "rushingYards": 41,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CHI_QB_2",
+      "name": "Ezekiel Higbee 2",
+      "team": "CHI",
+      "position": "QB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 491,
+        "passingYards": 204,
+        "passingTDs": 6,
+        "interceptions": 1,
+        "completionPct": "57.4",
+        "rushingYards": 28,
+        "rushingTDs": 0,
+        "fantasyPoints": 0
+      }
+    }
+  ],
+  "RB": [
+    {
+      "id": "MIA_RB_1",
+      "name": "Darren Evans",
+      "team": "MIA",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 709,
+        "rushingYards": 1182,
+        "rushingTDs": 5,
+        "carries": 193,
+        "receivingYards": 403,
+        "receptions": 25,
+        "targets": 69,
+        "receivingTDs": 1,
+        "redZoneCarries": 16,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BAL_RB_1",
+      "name": "Justin Brady",
+      "team": "BAL",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 707,
+        "rushingYards": 1121,
+        "rushingTDs": 4,
+        "carries": 214,
+        "receivingYards": 415,
+        "receptions": 45,
+        "targets": 62,
+        "receivingTDs": 4,
+        "redZoneCarries": 15,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "GB_RB_1",
+      "name": "Nick Henry",
+      "team": "GB",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 747,
+        "rushingYards": 1050,
+        "rushingTDs": 5,
+        "carries": 223,
+        "receivingYards": 269,
+        "receptions": 38,
+        "targets": 67,
+        "receivingTDs": 2,
+        "redZoneCarries": 23,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TB_RB_1",
+      "name": "Patrick Evans",
+      "team": "TB",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 776,
+        "rushingYards": 1013,
+        "rushingTDs": 6,
+        "carries": 169,
+        "receivingYards": 460,
+        "receptions": 48,
+        "targets": 42,
+        "receivingTDs": 1,
+        "redZoneCarries": 23,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ARI_RB_1",
+      "name": "Austin Herbert",
+      "team": "ARI",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 765,
+        "rushingYards": 1010,
+        "rushingTDs": 9,
+        "carries": 171,
+        "receivingYards": 338,
+        "receptions": 43,
+        "targets": 30,
+        "receivingTDs": 4,
+        "redZoneCarries": 13,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DEN_RB_1",
+      "name": "Davante Kelce",
+      "team": "DEN",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 658,
+        "rushingYards": 1003,
+        "rushingTDs": 8,
+        "carries": 182,
+        "receivingYards": 487,
+        "receptions": 23,
+        "targets": 31,
+        "receivingTDs": 2,
+        "redZoneCarries": 11,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DET_RB_1",
+      "name": "Darren Taylor",
+      "team": "DET",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 778,
+        "rushingYards": 984,
+        "rushingTDs": 10,
+        "carries": 181,
+        "receivingYards": 441,
+        "receptions": 39,
+        "targets": 65,
+        "receivingTDs": 4,
+        "redZoneCarries": 27,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ATL_RB_1",
+      "name": "Tua Hill",
+      "team": "ATL",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 770,
+        "rushingYards": 973,
+        "rushingTDs": 5,
+        "carries": 181,
+        "receivingYards": 484,
+        "receptions": 38,
+        "targets": 68,
+        "receivingTDs": 1,
+        "redZoneCarries": 22,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "KC_RB_1",
+      "name": "Austin Ertz",
+      "team": "KC",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 600,
+        "rushingYards": 935,
+        "rushingTDs": 7,
+        "carries": 222,
+        "receivingYards": 431,
+        "receptions": 23,
+        "targets": 39,
+        "receivingTDs": 3,
+        "redZoneCarries": 22,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CHI_RB_1",
+      "name": "Davante Gronkowski",
+      "team": "CHI",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 751,
+        "rushingYards": 901,
+        "rushingTDs": 6,
+        "carries": 110,
+        "receivingYards": 245,
+        "receptions": 46,
+        "targets": 68,
+        "receivingTDs": 1,
+        "redZoneCarries": 29,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "HOU_RB_1",
+      "name": "Russell Evans",
+      "team": "HOU",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 738,
+        "rushingYards": 879,
+        "rushingTDs": 6,
+        "carries": 194,
+        "receivingYards": 494,
+        "receptions": 25,
+        "targets": 49,
+        "receivingTDs": 1,
+        "redZoneCarries": 22,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYJ_RB_1",
+      "name": "Austin Ertz",
+      "team": "NYJ",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 793,
+        "rushingYards": 784,
+        "rushingTDs": 11,
+        "carries": 101,
+        "receivingYards": 430,
+        "receptions": 30,
+        "targets": 38,
+        "receivingTDs": 2,
+        "redZoneCarries": 22,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PHI_RB_1",
+      "name": "DK Herbert",
+      "team": "PHI",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 697,
+        "rushingYards": 771,
+        "rushingTDs": 5,
+        "carries": 150,
+        "receivingYards": 442,
+        "receptions": 46,
+        "targets": 60,
+        "receivingTDs": 1,
+        "redZoneCarries": 12,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAR_RB_1",
+      "name": "Tyler McCaffrey",
+      "team": "LAR",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 716,
+        "rushingYards": 752,
+        "rushingTDs": 7,
+        "carries": 199,
+        "receivingYards": 386,
+        "receptions": 23,
+        "targets": 58,
+        "receivingTDs": 4,
+        "redZoneCarries": 15,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BUF_RB_1",
+      "name": "Ezekiel Herbert",
+      "team": "BUF",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 632,
+        "rushingYards": 736,
+        "rushingTDs": 7,
+        "carries": 140,
+        "receivingYards": 476,
+        "receptions": 28,
+        "targets": 62,
+        "receivingTDs": 2,
+        "redZoneCarries": 11,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PIT_RB_1",
+      "name": "Kyle Waller",
+      "team": "PIT",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 641,
+        "rushingYards": 732,
+        "rushingTDs": 8,
+        "carries": 219,
+        "receivingYards": 383,
+        "receptions": 49,
+        "targets": 61,
+        "receivingTDs": 1,
+        "redZoneCarries": 17,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIN_RB_1",
+      "name": "Josh Ridley",
+      "team": "MIN",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 647,
+        "rushingYards": 724,
+        "rushingTDs": 8,
+        "carries": 151,
+        "receivingYards": 484,
+        "receptions": 26,
+        "targets": 35,
+        "receivingTDs": 1,
+        "redZoneCarries": 21,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "JAX_RB_1",
+      "name": "Tua Kittle",
+      "team": "JAX",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 635,
+        "rushingYards": 701,
+        "rushingTDs": 10,
+        "carries": 124,
+        "receivingYards": 200,
+        "receptions": 42,
+        "targets": 39,
+        "receivingTDs": 1,
+        "redZoneCarries": 14,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAC_RB_1",
+      "name": "George Taylor",
+      "team": "LAC",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 685,
+        "rushingYards": 693,
+        "rushingTDs": 5,
+        "carries": 130,
+        "receivingYards": 476,
+        "receptions": 38,
+        "targets": 68,
+        "receivingTDs": 1,
+        "redZoneCarries": 19,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DAL_RB_1",
+      "name": "Tua Diggs",
+      "team": "DAL",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 772,
+        "rushingYards": 629,
+        "rushingTDs": 6,
+        "carries": 107,
+        "receivingYards": 412,
+        "receptions": 24,
+        "targets": 61,
+        "receivingTDs": 4,
+        "redZoneCarries": 11,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYG_RB_1",
+      "name": "Davante Andrews",
+      "team": "NYG",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 766,
+        "rushingYards": 616,
+        "rushingTDs": 11,
+        "carries": 164,
+        "receivingYards": 431,
+        "receptions": 49,
+        "targets": 30,
+        "receivingTDs": 2,
+        "redZoneCarries": 23,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TEN_RB_1",
+      "name": "Calvin Hopkins",
+      "team": "TEN",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 709,
+        "rushingYards": 606,
+        "rushingTDs": 5,
+        "carries": 175,
+        "receivingYards": 243,
+        "receptions": 28,
+        "targets": 48,
+        "receivingTDs": 4,
+        "redZoneCarries": 23,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NO_RB_1",
+      "name": "Austin Allen",
+      "team": "NO",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 645,
+        "rushingYards": 601,
+        "rushingTDs": 9,
+        "carries": 217,
+        "receivingYards": 399,
+        "receptions": 21,
+        "targets": 48,
+        "receivingTDs": 3,
+        "redZoneCarries": 25,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NE_RB_1",
+      "name": "Darren Pitts",
+      "team": "NE",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 634,
+        "rushingYards": 567,
+        "rushingTDs": 10,
+        "carries": 198,
+        "receivingYards": 380,
+        "receptions": 20,
+        "targets": 64,
+        "receivingTDs": 2,
+        "redZoneCarries": 10,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CAR_RB_1",
+      "name": "Darren Henry",
+      "team": "CAR",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 686,
+        "rushingYards": 543,
+        "rushingTDs": 9,
+        "carries": 248,
+        "receivingYards": 392,
+        "receptions": 34,
+        "targets": 43,
+        "receivingTDs": 4,
+        "redZoneCarries": 23,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CIN_RB_1",
+      "name": "Russell Allen",
+      "team": "CIN",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 752,
+        "rushingYards": 521,
+        "rushingTDs": 10,
+        "carries": 138,
+        "receivingYards": 422,
+        "receptions": 20,
+        "targets": 55,
+        "receivingTDs": 4,
+        "redZoneCarries": 22,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "IND_RB_1",
+      "name": "Alvin Andrews",
+      "team": "IND",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 670,
+        "rushingYards": 499,
+        "rushingTDs": 7,
+        "carries": 204,
+        "receivingYards": 373,
+        "receptions": 47,
+        "targets": 65,
+        "receivingTDs": 2,
+        "redZoneCarries": 11,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LV_RB_1",
+      "name": "Nick Barkley",
+      "team": "LV",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 666,
+        "rushingYards": 496,
+        "rushingTDs": 4,
+        "carries": 139,
+        "receivingYards": 298,
+        "receptions": 23,
+        "targets": 52,
+        "receivingTDs": 2,
+        "redZoneCarries": 19,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CLE_RB_1",
+      "name": "Tyreek Allen",
+      "team": "CLE",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 729,
+        "rushingYards": 484,
+        "rushingTDs": 11,
+        "carries": 155,
+        "receivingYards": 240,
+        "receptions": 29,
+        "targets": 68,
+        "receivingTDs": 1,
+        "redZoneCarries": 21,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PIT_RB_2",
+      "name": "Davante Ekeler 2",
+      "team": "PIT",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 321,
+        "rushingYards": 475,
+        "rushingTDs": 2,
+        "carries": 92,
+        "receivingYards": 91,
+        "receptions": 11,
+        "targets": 16,
+        "receivingTDs": 0,
+        "redZoneCarries": 11,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "IND_RB_2",
+      "name": "Lamar Hill 2",
+      "team": "IND",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 303,
+        "rushingYards": 462,
+        "rushingTDs": 4,
+        "carries": 88,
+        "receivingYards": 132,
+        "receptions": 13,
+        "targets": 19,
+        "receivingTDs": 0,
+        "redZoneCarries": 6,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SF_RB_1",
+      "name": "Derrick Herbert",
+      "team": "SF",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 750,
+        "rushingYards": 432,
+        "rushingTDs": 6,
+        "carries": 125,
+        "receivingYards": 416,
+        "receptions": 24,
+        "targets": 65,
+        "receivingTDs": 4,
+        "redZoneCarries": 21,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PHI_RB_2",
+      "name": "Nick Waller 2",
+      "team": "PHI",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 435,
+        "rushingYards": 418,
+        "rushingTDs": 3,
+        "carries": 60,
+        "receivingYards": 91,
+        "receptions": 9,
+        "targets": 21,
+        "receivingTDs": 0,
+        "redZoneCarries": 7,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SEA_RB_1",
+      "name": "Alvin Chubb",
+      "team": "SEA",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 624,
+        "rushingYards": 418,
+        "rushingTDs": 4,
+        "carries": 240,
+        "receivingYards": 371,
+        "receptions": 25,
+        "targets": 57,
+        "receivingTDs": 3,
+        "redZoneCarries": 22,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "GB_RB_2",
+      "name": "Calvin Pitts 2",
+      "team": "GB",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 300,
+        "rushingYards": 411,
+        "rushingTDs": 3,
+        "carries": 93,
+        "receivingYards": 173,
+        "receptions": 9,
+        "targets": 25,
+        "receivingTDs": 1,
+        "redZoneCarries": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "WAS_RB_1",
+      "name": "Tua Kelce",
+      "team": "WAS",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 724,
+        "rushingYards": 409,
+        "rushingTDs": 8,
+        "carries": 169,
+        "receivingYards": 245,
+        "receptions": 32,
+        "targets": 37,
+        "receivingTDs": 4,
+        "redZoneCarries": 10,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "WAS_RB_2",
+      "name": "Keenan Mahomes 2",
+      "team": "WAS",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 496,
+        "rushingYards": 407,
+        "rushingTDs": 2,
+        "carries": 48,
+        "receivingYards": 155,
+        "receptions": 9,
+        "targets": 25,
+        "receivingTDs": 1,
+        "redZoneCarries": 11,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SEA_RB_2",
+      "name": "Rob Diggs 2",
+      "team": "SEA",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 425,
+        "rushingYards": 398,
+        "rushingTDs": 2,
+        "carries": 87,
+        "receivingYards": 114,
+        "receptions": 18,
+        "targets": 25,
+        "receivingTDs": 1,
+        "redZoneCarries": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BAL_RB_2",
+      "name": "Patrick Ridley 2",
+      "team": "BAL",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 452,
+        "rushingYards": 382,
+        "rushingTDs": 2,
+        "carries": 71,
+        "receivingYards": 101,
+        "receptions": 10,
+        "targets": 27,
+        "receivingTDs": 0,
+        "redZoneCarries": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LV_RB_2",
+      "name": "Christian Ertz 2",
+      "team": "LV",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 484,
+        "rushingYards": 378,
+        "rushingTDs": 4,
+        "carries": 59,
+        "receivingYards": 123,
+        "receptions": 8,
+        "targets": 18,
+        "receivingTDs": 1,
+        "redZoneCarries": 8,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIA_RB_2",
+      "name": "Justin Pitts 2",
+      "team": "MIA",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 413,
+        "rushingYards": 375,
+        "rushingTDs": 1,
+        "carries": 89,
+        "receivingYards": 111,
+        "receptions": 9,
+        "targets": 17,
+        "receivingTDs": 0,
+        "redZoneCarries": 8,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "KC_RB_2",
+      "name": "Kyle Higbee 2",
+      "team": "KC",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 418,
+        "rushingYards": 368,
+        "rushingTDs": 2,
+        "carries": 48,
+        "receivingYards": 129,
+        "receptions": 19,
+        "targets": 25,
+        "receivingTDs": 1,
+        "redZoneCarries": 11,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYJ_RB_2",
+      "name": "Dak Evans 2",
+      "team": "NYJ",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 325,
+        "rushingYards": 348,
+        "rushingTDs": 2,
+        "carries": 98,
+        "receivingYards": 160,
+        "receptions": 9,
+        "targets": 21,
+        "receivingTDs": 1,
+        "redZoneCarries": 6,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "JAX_RB_2",
+      "name": "Stefon Allen 2",
+      "team": "JAX",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 487,
+        "rushingYards": 331,
+        "rushingTDs": 2,
+        "carries": 59,
+        "receivingYards": 165,
+        "receptions": 17,
+        "targets": 27,
+        "receivingTDs": 0,
+        "redZoneCarries": 11,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DET_RB_2",
+      "name": "Stefon Hopkins 2",
+      "team": "DET",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 384,
+        "rushingYards": 321,
+        "rushingTDs": 2,
+        "carries": 81,
+        "receivingYards": 197,
+        "receptions": 19,
+        "targets": 16,
+        "receivingTDs": 0,
+        "redZoneCarries": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DEN_RB_2",
+      "name": "Kyle Brady 2",
+      "team": "DEN",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 406,
+        "rushingYards": 304,
+        "rushingTDs": 2,
+        "carries": 63,
+        "receivingYards": 110,
+        "receptions": 19,
+        "targets": 16,
+        "receivingTDs": 1,
+        "redZoneCarries": 9,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ATL_RB_2",
+      "name": "Jonathan Taylor 2",
+      "team": "ATL",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 433,
+        "rushingYards": 303,
+        "rushingTDs": 3,
+        "carries": 96,
+        "receivingYards": 103,
+        "receptions": 17,
+        "targets": 12,
+        "receivingTDs": 1,
+        "redZoneCarries": 8,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIN_RB_2",
+      "name": "Josh Brady 2",
+      "team": "MIN",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 351,
+        "rushingYards": 299,
+        "rushingTDs": 2,
+        "carries": 98,
+        "receivingYards": 193,
+        "receptions": 10,
+        "targets": 24,
+        "receivingTDs": 1,
+        "redZoneCarries": 9,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TEN_RB_2",
+      "name": "Ezekiel Andrews 2",
+      "team": "TEN",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 364,
+        "rushingYards": 298,
+        "rushingTDs": 4,
+        "carries": 66,
+        "receivingYards": 158,
+        "receptions": 10,
+        "targets": 20,
+        "receivingTDs": 0,
+        "redZoneCarries": 6,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CIN_RB_2",
+      "name": "Kyle Rodgers 2",
+      "team": "CIN",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 463,
+        "rushingYards": 294,
+        "rushingTDs": 2,
+        "carries": 95,
+        "receivingYards": 129,
+        "receptions": 15,
+        "targets": 26,
+        "receivingTDs": 0,
+        "redZoneCarries": 11,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TB_RB_2",
+      "name": "Russell Ertz 2",
+      "team": "TB",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 390,
+        "rushingYards": 277,
+        "rushingTDs": 1,
+        "carries": 50,
+        "receivingYards": 139,
+        "receptions": 8,
+        "targets": 26,
+        "receivingTDs": 1,
+        "redZoneCarries": 7,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BUF_RB_2",
+      "name": "Mike Diggs 2",
+      "team": "BUF",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 431,
+        "rushingYards": 272,
+        "rushingTDs": 2,
+        "carries": 98,
+        "receivingYards": 94,
+        "receptions": 10,
+        "targets": 25,
+        "receivingTDs": 0,
+        "redZoneCarries": 7,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NO_RB_2",
+      "name": "Calvin Diggs 2",
+      "team": "NO",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 393,
+        "rushingYards": 264,
+        "rushingTDs": 1,
+        "carries": 69,
+        "receivingYards": 93,
+        "receptions": 12,
+        "targets": 17,
+        "receivingTDs": 1,
+        "redZoneCarries": 10,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ARI_RB_2",
+      "name": "Travis Hill 2",
+      "team": "ARI",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 396,
+        "rushingYards": 249,
+        "rushingTDs": 4,
+        "carries": 58,
+        "receivingYards": 166,
+        "receptions": 11,
+        "targets": 26,
+        "receivingTDs": 0,
+        "redZoneCarries": 10,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CLE_RB_2",
+      "name": "Christian Adams 2",
+      "team": "CLE",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 413,
+        "rushingYards": 234,
+        "rushingTDs": 4,
+        "carries": 85,
+        "receivingYards": 158,
+        "receptions": 12,
+        "targets": 16,
+        "receivingTDs": 1,
+        "redZoneCarries": 7,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYJ_RB_3",
+      "name": "Alvin Pitts 3",
+      "team": "NYJ",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 182,
+        "rushingYards": 232,
+        "rushingTDs": 1,
+        "carries": 25,
+        "receivingYards": 61,
+        "receptions": 8,
+        "targets": 6,
+        "receivingTDs": 0,
+        "redZoneCarries": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NO_RB_3",
+      "name": "Tyreek Andrews 3",
+      "team": "NO",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 177,
+        "rushingYards": 232,
+        "rushingTDs": 1,
+        "carries": 23,
+        "receivingYards": 80,
+        "receptions": 9,
+        "targets": 6,
+        "receivingTDs": 0,
+        "redZoneCarries": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SF_RB_2",
+      "name": "Alvin Pitts 2",
+      "team": "SF",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 447,
+        "rushingYards": 232,
+        "rushingTDs": 3,
+        "carries": 94,
+        "receivingYards": 101,
+        "receptions": 10,
+        "targets": 20,
+        "receivingTDs": 0,
+        "redZoneCarries": 10,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NE_RB_3",
+      "name": "George Brady 3",
+      "team": "NE",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 111,
+        "rushingYards": 228,
+        "rushingTDs": 1,
+        "carries": 36,
+        "receivingYards": 97,
+        "receptions": 4,
+        "targets": 8,
+        "receivingTDs": 0,
+        "redZoneCarries": 3,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BUF_RB_3",
+      "name": "Jonathan Henry 3",
+      "team": "BUF",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 270,
+        "rushingYards": 220,
+        "rushingTDs": 1,
+        "carries": 43,
+        "receivingYards": 76,
+        "receptions": 4,
+        "targets": 6,
+        "receivingTDs": 0,
+        "redZoneCarries": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ATL_RB_3",
+      "name": "Tyreek Adams 3",
+      "team": "ATL",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 107,
+        "rushingYards": 220,
+        "rushingTDs": 2,
+        "carries": 42,
+        "receivingYards": 64,
+        "receptions": 5,
+        "targets": 10,
+        "receivingTDs": 0,
+        "redZoneCarries": 3,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "WAS_RB_3",
+      "name": "DeAndre Kamara 3",
+      "team": "WAS",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 128,
+        "rushingYards": 219,
+        "rushingTDs": 2,
+        "carries": 27,
+        "receivingYards": 58,
+        "receptions": 8,
+        "targets": 8,
+        "receivingTDs": 0,
+        "redZoneCarries": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAC_RB_2",
+      "name": "Tyler Adams 2",
+      "team": "LAC",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 373,
+        "rushingYards": 217,
+        "rushingTDs": 1,
+        "carries": 83,
+        "receivingYards": 166,
+        "receptions": 16,
+        "targets": 19,
+        "receivingTDs": 0,
+        "redZoneCarries": 6,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SF_RB_3",
+      "name": "Derrick Diggs 3",
+      "team": "SF",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 131,
+        "rushingYards": 206,
+        "rushingTDs": 2,
+        "carries": 32,
+        "receivingYards": 49,
+        "receptions": 4,
+        "targets": 9,
+        "receivingTDs": 0,
+        "redZoneCarries": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYG_RB_2",
+      "name": "Aaron Chubb 2",
+      "team": "NYG",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 466,
+        "rushingYards": 205,
+        "rushingTDs": 1,
+        "carries": 86,
+        "receivingYards": 120,
+        "receptions": 19,
+        "targets": 25,
+        "receivingTDs": 0,
+        "redZoneCarries": 6,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SEA_RB_3",
+      "name": "Stefon Adams 3",
+      "team": "SEA",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 205,
+        "rushingYards": 203,
+        "rushingTDs": 1,
+        "carries": 30,
+        "receivingYards": 55,
+        "receptions": 6,
+        "targets": 6,
+        "receivingTDs": 0,
+        "redZoneCarries": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CHI_RB_3",
+      "name": "Christian Ekeler 3",
+      "team": "CHI",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 218,
+        "rushingYards": 201,
+        "rushingTDs": 2,
+        "carries": 49,
+        "receivingYards": 55,
+        "receptions": 5,
+        "targets": 10,
+        "receivingTDs": 0,
+        "redZoneCarries": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TB_RB_3",
+      "name": "Patrick Henry 3",
+      "team": "TB",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 261,
+        "rushingYards": 200,
+        "rushingTDs": 1,
+        "carries": 37,
+        "receivingYards": 97,
+        "receptions": 8,
+        "targets": 12,
+        "receivingTDs": 0,
+        "redZoneCarries": 2,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CAR_RB_2",
+      "name": "Tua Hill 2",
+      "team": "CAR",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 444,
+        "rushingYards": 190,
+        "rushingTDs": 3,
+        "carries": 77,
+        "receivingYards": 118,
+        "receptions": 16,
+        "targets": 24,
+        "receivingTDs": 1,
+        "redZoneCarries": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NE_RB_2",
+      "name": "Alvin Pitts 2",
+      "team": "NE",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 473,
+        "rushingYards": 188,
+        "rushingTDs": 2,
+        "carries": 60,
+        "receivingYards": 151,
+        "receptions": 9,
+        "targets": 20,
+        "receivingTDs": 0,
+        "redZoneCarries": 7,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "HOU_RB_2",
+      "name": "Nick Henry 2",
+      "team": "HOU",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 366,
+        "rushingYards": 184,
+        "rushingTDs": 1,
+        "carries": 92,
+        "receivingYards": 172,
+        "receptions": 10,
+        "targets": 17,
+        "receivingTDs": 1,
+        "redZoneCarries": 9,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAR_RB_2",
+      "name": "Mike Waller 2",
+      "team": "LAR",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 350,
+        "rushingYards": 179,
+        "rushingTDs": 3,
+        "carries": 80,
+        "receivingYards": 126,
+        "receptions": 9,
+        "targets": 23,
+        "receivingTDs": 1,
+        "redZoneCarries": 10,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYG_RB_3",
+      "name": "Davante Metcalf 3",
+      "team": "NYG",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 162,
+        "rushingYards": 178,
+        "rushingTDs": 2,
+        "carries": 34,
+        "receivingYards": 78,
+        "receptions": 7,
+        "targets": 9,
+        "receivingTDs": 0,
+        "redZoneCarries": 2,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CHI_RB_2",
+      "name": "Austin Ridley 2",
+      "team": "CHI",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 302,
+        "rushingYards": 171,
+        "rushingTDs": 1,
+        "carries": 77,
+        "receivingYards": 144,
+        "receptions": 10,
+        "targets": 15,
+        "receivingTDs": 0,
+        "redZoneCarries": 6,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DAL_RB_2",
+      "name": "Dak Ertz 2",
+      "team": "DAL",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 303,
+        "rushingYards": 164,
+        "rushingTDs": 4,
+        "carries": 66,
+        "receivingYards": 159,
+        "receptions": 19,
+        "targets": 27,
+        "receivingTDs": 1,
+        "redZoneCarries": 8,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BAL_RB_3",
+      "name": "Tyler Mahomes 3",
+      "team": "BAL",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 260,
+        "rushingYards": 158,
+        "rushingTDs": 1,
+        "carries": 38,
+        "receivingYards": 75,
+        "receptions": 4,
+        "targets": 11,
+        "receivingTDs": 0,
+        "redZoneCarries": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DET_RB_3",
+      "name": "Tyreek Taylor 3",
+      "team": "DET",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 230,
+        "rushingYards": 152,
+        "rushingTDs": 2,
+        "carries": 24,
+        "receivingYards": 49,
+        "receptions": 7,
+        "targets": 11,
+        "receivingTDs": 0,
+        "redZoneCarries": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "GB_RB_3",
+      "name": "Mark Barkley 3",
+      "team": "GB",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 139,
+        "rushingYards": 145,
+        "rushingTDs": 1,
+        "carries": 35,
+        "receivingYards": 97,
+        "receptions": 7,
+        "targets": 8,
+        "receivingTDs": 0,
+        "redZoneCarries": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PHI_RB_3",
+      "name": "Calvin Ertz 3",
+      "team": "PHI",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 201,
+        "rushingYards": 139,
+        "rushingTDs": 1,
+        "carries": 43,
+        "receivingYards": 70,
+        "receptions": 9,
+        "targets": 12,
+        "receivingTDs": 0,
+        "redZoneCarries": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ARI_RB_3",
+      "name": "DeAndre Waller 3",
+      "team": "ARI",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 165,
+        "rushingYards": 138,
+        "rushingTDs": 1,
+        "carries": 42,
+        "receivingYards": 70,
+        "receptions": 7,
+        "targets": 7,
+        "receivingTDs": 0,
+        "redZoneCarries": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAR_RB_3",
+      "name": "Joe Higbee 3",
+      "team": "LAR",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 192,
+        "rushingYards": 138,
+        "rushingTDs": 2,
+        "carries": 23,
+        "receivingYards": 68,
+        "receptions": 4,
+        "targets": 11,
+        "receivingTDs": 0,
+        "redZoneCarries": 3,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TEN_RB_3",
+      "name": "Joe Taylor 3",
+      "team": "TEN",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 297,
+        "rushingYards": 131,
+        "rushingTDs": 2,
+        "carries": 46,
+        "receivingYards": 75,
+        "receptions": 9,
+        "targets": 13,
+        "receivingTDs": 0,
+        "redZoneCarries": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "KC_RB_3",
+      "name": "Tom Kittle 3",
+      "team": "KC",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 219,
+        "rushingYards": 120,
+        "rushingTDs": 1,
+        "carries": 48,
+        "receivingYards": 94,
+        "receptions": 4,
+        "targets": 10,
+        "receivingTDs": 0,
+        "redZoneCarries": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAC_RB_3",
+      "name": "Christian Diggs 3",
+      "team": "LAC",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 291,
+        "rushingYards": 120,
+        "rushingTDs": 2,
+        "carries": 25,
+        "receivingYards": 98,
+        "receptions": 4,
+        "targets": 8,
+        "receivingTDs": 0,
+        "redZoneCarries": 3,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DAL_RB_3",
+      "name": "Darren Kamara 3",
+      "team": "DAL",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 106,
+        "rushingYards": 118,
+        "rushingTDs": 1,
+        "carries": 43,
+        "receivingYards": 46,
+        "receptions": 7,
+        "targets": 8,
+        "receivingTDs": 0,
+        "redZoneCarries": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CIN_RB_3",
+      "name": "Keenan Ekeler 3",
+      "team": "CIN",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 190,
+        "rushingYards": 116,
+        "rushingTDs": 2,
+        "carries": 27,
+        "receivingYards": 69,
+        "receptions": 8,
+        "targets": 7,
+        "receivingTDs": 0,
+        "redZoneCarries": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DEN_RB_3",
+      "name": "Josh Adams 3",
+      "team": "DEN",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 231,
+        "rushingYards": 115,
+        "rushingTDs": 1,
+        "carries": 27,
+        "receivingYards": 61,
+        "receptions": 6,
+        "targets": 7,
+        "receivingTDs": 0,
+        "redZoneCarries": 3,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CLE_RB_3",
+      "name": "Mark Pitts 3",
+      "team": "CLE",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 109,
+        "rushingYards": 113,
+        "rushingTDs": 1,
+        "carries": 41,
+        "receivingYards": 77,
+        "receptions": 7,
+        "targets": 13,
+        "receivingTDs": 0,
+        "redZoneCarries": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIN_RB_3",
+      "name": "Travis Ertz 3",
+      "team": "MIN",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 263,
+        "rushingYards": 106,
+        "rushingTDs": 2,
+        "carries": 31,
+        "receivingYards": 70,
+        "receptions": 5,
+        "targets": 10,
+        "receivingTDs": 0,
+        "redZoneCarries": 2,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "HOU_RB_3",
+      "name": "Alvin Ekeler 3",
+      "team": "HOU",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 159,
+        "rushingYards": 104,
+        "rushingTDs": 1,
+        "carries": 24,
+        "receivingYards": 69,
+        "receptions": 5,
+        "targets": 10,
+        "receivingTDs": 0,
+        "redZoneCarries": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CAR_RB_3",
+      "name": "Keenan Taylor 3",
+      "team": "CAR",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 206,
+        "rushingYards": 102,
+        "rushingTDs": 1,
+        "carries": 28,
+        "receivingYards": 93,
+        "receptions": 4,
+        "targets": 8,
+        "receivingTDs": 0,
+        "redZoneCarries": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LV_RB_3",
+      "name": "Russell Adams 3",
+      "team": "LV",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 100,
+        "rushingYards": 100,
+        "rushingTDs": 1,
+        "carries": 24,
+        "receivingYards": 92,
+        "receptions": 4,
+        "targets": 7,
+        "receivingTDs": 0,
+        "redZoneCarries": 3,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "IND_RB_3",
+      "name": "Tyreek Higbee 3",
+      "team": "IND",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 109,
+        "rushingYards": 90,
+        "rushingTDs": 2,
+        "carries": 43,
+        "receivingYards": 90,
+        "receptions": 9,
+        "targets": 7,
+        "receivingTDs": 0,
+        "redZoneCarries": 4,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PIT_RB_3",
+      "name": "Mike Prescott 3",
+      "team": "PIT",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 276,
+        "rushingYards": 87,
+        "rushingTDs": 2,
+        "carries": 31,
+        "receivingYards": 97,
+        "receptions": 5,
+        "targets": 11,
+        "receivingTDs": 0,
+        "redZoneCarries": 2,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIA_RB_3",
+      "name": "Nick Mahomes 3",
+      "team": "MIA",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 134,
+        "rushingYards": 85,
+        "rushingTDs": 2,
+        "carries": 22,
+        "receivingYards": 40,
+        "receptions": 4,
+        "targets": 11,
+        "receivingTDs": 0,
+        "redZoneCarries": 5,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "JAX_RB_3",
+      "name": "Christian Jackson 3",
+      "team": "JAX",
+      "position": "RB",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 227,
+        "rushingYards": 82,
+        "rushingTDs": 1,
+        "carries": 34,
+        "receivingYards": 89,
+        "receptions": 4,
+        "targets": 11,
+        "receivingTDs": 0,
+        "redZoneCarries": 4,
+        "fantasyPoints": 0
+      }
+    }
+  ],
+  "WR": [
+    {
+      "id": "LAC_WR_1",
+      "name": "Kyle Chubb",
+      "team": "LAC",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 636,
+        "receivingYards": 1391,
+        "receptions": 62,
+        "targets": 100,
+        "receivingTDs": 9,
+        "airYards": 526,
+        "yac": 444,
+        "redZoneTargets": 13,
+        "targetShare": "22.8",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ARI_WR_1",
+      "name": "Austin Mahomes",
+      "team": "ARI",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 634,
+        "receivingYards": 1378,
+        "receptions": 60,
+        "targets": 118,
+        "receivingTDs": 10,
+        "airYards": 588,
+        "yac": 360,
+        "redZoneTargets": 11,
+        "targetShare": "18.0",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TEN_WR_1",
+      "name": "Justin Metcalf",
+      "team": "TEN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 785,
+        "receivingYards": 1361,
+        "receptions": 64,
+        "targets": 78,
+        "receivingTDs": 6,
+        "airYards": 591,
+        "yac": 273,
+        "redZoneTargets": 16,
+        "targetShare": "19.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LV_WR_1",
+      "name": "Justin Evans",
+      "team": "LV",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 620,
+        "receivingYards": 1355,
+        "receptions": 77,
+        "targets": 78,
+        "receivingTDs": 9,
+        "airYards": 575,
+        "yac": 366,
+        "redZoneTargets": 18,
+        "targetShare": "15.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PIT_WR_1",
+      "name": "Russell Allen",
+      "team": "PIT",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 611,
+        "receivingYards": 1351,
+        "receptions": 84,
+        "targets": 81,
+        "receivingTDs": 7,
+        "airYards": 427,
+        "yac": 277,
+        "redZoneTargets": 8,
+        "targetShare": "11.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NE_WR_1",
+      "name": "Justin Allen",
+      "team": "NE",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 765,
+        "receivingYards": 1264,
+        "receptions": 74,
+        "targets": 64,
+        "receivingTDs": 11,
+        "airYards": 664,
+        "yac": 410,
+        "redZoneTargets": 18,
+        "targetShare": "17.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIA_WR_1",
+      "name": "Christian Brady",
+      "team": "MIA",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 731,
+        "receivingYards": 1261,
+        "receptions": 81,
+        "targets": 78,
+        "receivingTDs": 9,
+        "airYards": 662,
+        "yac": 332,
+        "redZoneTargets": 19,
+        "targetShare": "15.4",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DEN_WR_1",
+      "name": "Darren Ekeler",
+      "team": "DEN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 758,
+        "receivingYards": 1224,
+        "receptions": 89,
+        "targets": 68,
+        "receivingTDs": 5,
+        "airYards": 979,
+        "yac": 296,
+        "redZoneTargets": 20,
+        "targetShare": "10.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "IND_WR_1",
+      "name": "Lamar Diggs",
+      "team": "IND",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 682,
+        "receivingYards": 1183,
+        "receptions": 69,
+        "targets": 113,
+        "receivingTDs": 8,
+        "airYards": 602,
+        "yac": 439,
+        "redZoneTargets": 17,
+        "targetShare": "10.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BAL_WR_1",
+      "name": "Russell Waller",
+      "team": "BAL",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 712,
+        "receivingYards": 1167,
+        "receptions": 58,
+        "targets": 84,
+        "receivingTDs": 6,
+        "airYards": 810,
+        "yac": 287,
+        "redZoneTargets": 10,
+        "targetShare": "22.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SF_WR_1",
+      "name": "Davante Taylor",
+      "team": "SF",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 716,
+        "receivingYards": 1157,
+        "receptions": 49,
+        "targets": 78,
+        "receivingTDs": 10,
+        "airYards": 528,
+        "yac": 459,
+        "redZoneTargets": 10,
+        "targetShare": "12.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DET_WR_1",
+      "name": "George Brady",
+      "team": "DET",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 639,
+        "receivingYards": 1154,
+        "receptions": 40,
+        "targets": 113,
+        "receivingTDs": 7,
+        "airYards": 705,
+        "yac": 314,
+        "redZoneTargets": 21,
+        "targetShare": "13.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CLE_WR_1",
+      "name": "Tom Metcalf",
+      "team": "CLE",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 725,
+        "receivingYards": 1133,
+        "receptions": 72,
+        "targets": 63,
+        "receivingTDs": 5,
+        "airYards": 844,
+        "yac": 329,
+        "redZoneTargets": 22,
+        "targetShare": "19.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIN_WR_1",
+      "name": "Calvin Diggs",
+      "team": "MIN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 656,
+        "receivingYards": 1119,
+        "receptions": 76,
+        "targets": 107,
+        "receivingTDs": 11,
+        "airYards": 592,
+        "yac": 239,
+        "redZoneTargets": 15,
+        "targetShare": "21.3",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DAL_WR_1",
+      "name": "DK Gronkowski",
+      "team": "DAL",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 623,
+        "receivingYards": 1113,
+        "receptions": 88,
+        "targets": 98,
+        "receivingTDs": 4,
+        "airYards": 952,
+        "yac": 234,
+        "redZoneTargets": 12,
+        "targetShare": "18.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CAR_WR_1",
+      "name": "Darren Andrews",
+      "team": "CAR",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 786,
+        "receivingYards": 1060,
+        "receptions": 50,
+        "targets": 136,
+        "receivingTDs": 5,
+        "airYards": 740,
+        "yac": 273,
+        "redZoneTargets": 19,
+        "targetShare": "18.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "HOU_WR_1",
+      "name": "Zach Prescott",
+      "team": "HOU",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 761,
+        "receivingYards": 1034,
+        "receptions": 57,
+        "targets": 76,
+        "receivingTDs": 4,
+        "airYards": 489,
+        "yac": 279,
+        "redZoneTargets": 17,
+        "targetShare": "13.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAR_WR_1",
+      "name": "Derrick Ertz",
+      "team": "LAR",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 727,
+        "receivingYards": 1030,
+        "receptions": 42,
+        "targets": 107,
+        "receivingTDs": 10,
+        "airYards": 576,
+        "yac": 379,
+        "redZoneTargets": 20,
+        "targetShare": "17.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NO_WR_1",
+      "name": "Tyler Kelce",
+      "team": "NO",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 773,
+        "receivingYards": 1016,
+        "receptions": 61,
+        "targets": 72,
+        "receivingTDs": 4,
+        "airYards": 714,
+        "yac": 449,
+        "redZoneTargets": 18,
+        "targetShare": "19.3",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SEA_WR_1",
+      "name": "Stefon Chubb",
+      "team": "SEA",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 681,
+        "receivingYards": 988,
+        "receptions": 73,
+        "targets": 100,
+        "receivingTDs": 10,
+        "airYards": 829,
+        "yac": 209,
+        "redZoneTargets": 13,
+        "targetShare": "10.8",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SEA_WR_2",
+      "name": "Zach Hopkins 2",
+      "team": "SEA",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 458,
+        "receivingYards": 972,
+        "receptions": 41,
+        "targets": 49,
+        "receivingTDs": 3,
+        "airYards": 497,
+        "yac": 321,
+        "redZoneTargets": 8,
+        "targetShare": "7.4",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CHI_WR_1",
+      "name": "Nick Adams",
+      "team": "CHI",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 665,
+        "receivingYards": 968,
+        "receptions": 75,
+        "targets": 97,
+        "receivingTDs": 4,
+        "airYards": 703,
+        "yac": 431,
+        "redZoneTargets": 21,
+        "targetShare": "22.3",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PHI_WR_2",
+      "name": "Ezekiel Elliott 2",
+      "team": "PHI",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 497,
+        "receivingYards": 960,
+        "receptions": 62,
+        "targets": 65,
+        "receivingTDs": 6,
+        "airYards": 632,
+        "yac": 299,
+        "redZoneTargets": 15,
+        "targetShare": "8.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "WAS_WR_1",
+      "name": "Lamar Herbert",
+      "team": "WAS",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 629,
+        "receivingYards": 950,
+        "receptions": 55,
+        "targets": 127,
+        "receivingTDs": 6,
+        "airYards": 955,
+        "yac": 403,
+        "redZoneTargets": 10,
+        "targetShare": "20.8",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DET_WR_2",
+      "name": "DK Kelce 2",
+      "team": "DET",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 312,
+        "receivingYards": 933,
+        "receptions": 35,
+        "targets": 48,
+        "receivingTDs": 8,
+        "airYards": 665,
+        "yac": 270,
+        "redZoneTargets": 15,
+        "targetShare": "13.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ATL_WR_2",
+      "name": "Calvin Allen 2",
+      "team": "ATL",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 358,
+        "receivingYards": 930,
+        "receptions": 58,
+        "targets": 51,
+        "receivingTDs": 5,
+        "airYards": 685,
+        "yac": 326,
+        "redZoneTargets": 7,
+        "targetShare": "9.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "IND_WR_2",
+      "name": "Saquon Hill 2",
+      "team": "IND",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 369,
+        "receivingYards": 908,
+        "receptions": 45,
+        "targets": 65,
+        "receivingTDs": 5,
+        "airYards": 401,
+        "yac": 163,
+        "redZoneTargets": 13,
+        "targetShare": "15.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ARI_WR_2",
+      "name": "Russell Brady 2",
+      "team": "ARI",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 306,
+        "receivingYards": 906,
+        "receptions": 31,
+        "targets": 53,
+        "receivingTDs": 7,
+        "airYards": 559,
+        "yac": 144,
+        "redZoneTargets": 12,
+        "targetShare": "10.4",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LV_WR_2",
+      "name": "Stefon Metcalf 2",
+      "team": "LV",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 368,
+        "receivingYards": 895,
+        "receptions": 48,
+        "targets": 47,
+        "receivingTDs": 4,
+        "airYards": 696,
+        "yac": 328,
+        "redZoneTargets": 10,
+        "targetShare": "17.0",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CAR_WR_2",
+      "name": "Mark Adams 2",
+      "team": "CAR",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 435,
+        "receivingYards": 885,
+        "receptions": 43,
+        "targets": 72,
+        "receivingTDs": 2,
+        "airYards": 320,
+        "yac": 265,
+        "redZoneTargets": 10,
+        "targetShare": "10.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAR_WR_2",
+      "name": "Tom Brady 2",
+      "team": "LAR",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 306,
+        "receivingYards": 884,
+        "receptions": 56,
+        "targets": 89,
+        "receivingTDs": 3,
+        "airYards": 645,
+        "yac": 185,
+        "redZoneTargets": 13,
+        "targetShare": "10.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAC_WR_2",
+      "name": "Rob Kamara 2",
+      "team": "LAC",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 464,
+        "receivingYards": 881,
+        "receptions": 57,
+        "targets": 79,
+        "receivingTDs": 6,
+        "airYards": 643,
+        "yac": 266,
+        "redZoneTargets": 13,
+        "targetShare": "11.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TB_WR_1",
+      "name": "Saquon McCaffrey",
+      "team": "TB",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 667,
+        "receivingYards": 873,
+        "receptions": 88,
+        "targets": 77,
+        "receivingTDs": 7,
+        "airYards": 527,
+        "yac": 324,
+        "redZoneTargets": 14,
+        "targetShare": "15.8",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "JAX_WR_1",
+      "name": "Rob Barkley",
+      "team": "JAX",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 649,
+        "receivingYards": 865,
+        "receptions": 86,
+        "targets": 115,
+        "receivingTDs": 11,
+        "airYards": 720,
+        "yac": 420,
+        "redZoneTargets": 20,
+        "targetShare": "19.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYJ_WR_1",
+      "name": "Christian Metcalf",
+      "team": "NYJ",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 752,
+        "receivingYards": 858,
+        "receptions": 66,
+        "targets": 76,
+        "receivingTDs": 4,
+        "airYards": 527,
+        "yac": 231,
+        "redZoneTargets": 19,
+        "targetShare": "13.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "HOU_WR_2",
+      "name": "Tua Taylor 2",
+      "team": "HOU",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 381,
+        "receivingYards": 853,
+        "receptions": 53,
+        "targets": 57,
+        "receivingTDs": 4,
+        "airYards": 341,
+        "yac": 291,
+        "redZoneTargets": 15,
+        "targetShare": "12.8",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NO_WR_2",
+      "name": "Darren Ertz 2",
+      "team": "NO",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 463,
+        "receivingYards": 848,
+        "receptions": 46,
+        "targets": 61,
+        "receivingTDs": 5,
+        "airYards": 640,
+        "yac": 313,
+        "redZoneTargets": 10,
+        "targetShare": "12.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "KC_WR_1",
+      "name": "Nick Jackson",
+      "team": "KC",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 731,
+        "receivingYards": 841,
+        "receptions": 65,
+        "targets": 139,
+        "receivingTDs": 9,
+        "airYards": 423,
+        "yac": 232,
+        "redZoneTargets": 16,
+        "targetShare": "23.4",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PHI_WR_1",
+      "name": "Davante Ekeler",
+      "team": "PHI",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 748,
+        "receivingYards": 818,
+        "receptions": 55,
+        "targets": 74,
+        "receivingTDs": 4,
+        "airYards": 599,
+        "yac": 488,
+        "redZoneTargets": 17,
+        "targetShare": "13.8",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "GB_WR_2",
+      "name": "Kyle Waller 2",
+      "team": "GB",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 446,
+        "receivingYards": 806,
+        "receptions": 56,
+        "targets": 71,
+        "receivingTDs": 7,
+        "airYards": 654,
+        "yac": 203,
+        "redZoneTargets": 11,
+        "targetShare": "8.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CIN_WR_1",
+      "name": "Austin Waller",
+      "team": "CIN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 765,
+        "receivingYards": 786,
+        "receptions": 60,
+        "targets": 101,
+        "receivingTDs": 8,
+        "airYards": 966,
+        "yac": 219,
+        "redZoneTargets": 19,
+        "targetShare": "17.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "WAS_WR_2",
+      "name": "Stefon Rodgers 2",
+      "team": "WAS",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 435,
+        "receivingYards": 768,
+        "receptions": 43,
+        "targets": 57,
+        "receivingTDs": 7,
+        "airYards": 614,
+        "yac": 346,
+        "redZoneTargets": 6,
+        "targetShare": "10.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ATL_WR_1",
+      "name": "Rob Rodgers",
+      "team": "ATL",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 625,
+        "receivingYards": 737,
+        "receptions": 64,
+        "targets": 68,
+        "receivingTDs": 10,
+        "airYards": 627,
+        "yac": 253,
+        "redZoneTargets": 15,
+        "targetShare": "12.3",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BUF_WR_1",
+      "name": "Austin Gronkowski",
+      "team": "BUF",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 627,
+        "receivingYards": 726,
+        "receptions": 84,
+        "targets": 134,
+        "receivingTDs": 10,
+        "airYards": 688,
+        "yac": 257,
+        "redZoneTargets": 19,
+        "targetShare": "16.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NE_WR_2",
+      "name": "Calvin Henry 2",
+      "team": "NE",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 321,
+        "receivingYards": 722,
+        "receptions": 48,
+        "targets": 58,
+        "receivingTDs": 5,
+        "airYards": 481,
+        "yac": 236,
+        "redZoneTargets": 6,
+        "targetShare": "11.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PIT_WR_2",
+      "name": "Alvin Evans 2",
+      "team": "PIT",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 486,
+        "receivingYards": 701,
+        "receptions": 59,
+        "targets": 92,
+        "receivingTDs": 4,
+        "airYards": 424,
+        "yac": 331,
+        "redZoneTargets": 7,
+        "targetShare": "15.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BAL_WR_2",
+      "name": "Austin Hopkins 2",
+      "team": "BAL",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 377,
+        "receivingYards": 677,
+        "receptions": 33,
+        "targets": 92,
+        "receivingTDs": 2,
+        "airYards": 366,
+        "yac": 186,
+        "redZoneTargets": 16,
+        "targetShare": "16.8",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CHI_WR_2",
+      "name": "Saquon Adams 2",
+      "team": "CHI",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 417,
+        "receivingYards": 664,
+        "receptions": 39,
+        "targets": 81,
+        "receivingTDs": 7,
+        "airYards": 586,
+        "yac": 280,
+        "redZoneTargets": 14,
+        "targetShare": "7.8",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DAL_WR_2",
+      "name": "Alvin Herbert 2",
+      "team": "DAL",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 377,
+        "receivingYards": 663,
+        "receptions": 47,
+        "targets": 62,
+        "receivingTDs": 3,
+        "airYards": 296,
+        "yac": 300,
+        "redZoneTargets": 13,
+        "targetShare": "7.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIN_WR_2",
+      "name": "Patrick Pitts 2",
+      "team": "MIN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 458,
+        "receivingYards": 654,
+        "receptions": 53,
+        "targets": 72,
+        "receivingTDs": 7,
+        "airYards": 387,
+        "yac": 303,
+        "redZoneTargets": 13,
+        "targetShare": "7.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "JAX_WR_2",
+      "name": "Tyler Barkley 2",
+      "team": "JAX",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 377,
+        "receivingYards": 650,
+        "receptions": 44,
+        "targets": 67,
+        "receivingTDs": 5,
+        "airYards": 340,
+        "yac": 336,
+        "redZoneTargets": 8,
+        "targetShare": "8.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "GB_WR_1",
+      "name": "Davante Elliott",
+      "team": "GB",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 631,
+        "receivingYards": 624,
+        "receptions": 78,
+        "targets": 126,
+        "receivingTDs": 11,
+        "airYards": 620,
+        "yac": 419,
+        "redZoneTargets": 22,
+        "targetShare": "15.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CIN_WR_2",
+      "name": "Calvin Herbert 2",
+      "team": "CIN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 356,
+        "receivingYards": 618,
+        "receptions": 28,
+        "targets": 79,
+        "receivingTDs": 7,
+        "airYards": 570,
+        "yac": 144,
+        "redZoneTargets": 14,
+        "targetShare": "14.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYG_WR_1",
+      "name": "Patrick Metcalf",
+      "team": "NYG",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 739,
+        "receivingYards": 618,
+        "receptions": 60,
+        "targets": 105,
+        "receivingTDs": 4,
+        "airYards": 906,
+        "yac": 490,
+        "redZoneTargets": 12,
+        "targetShare": "18.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TEN_WR_2",
+      "name": "George Hill 2",
+      "team": "TEN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 333,
+        "receivingYards": 588,
+        "receptions": 33,
+        "targets": 96,
+        "receivingTDs": 5,
+        "airYards": 612,
+        "yac": 171,
+        "redZoneTargets": 9,
+        "targetShare": "15.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CLE_WR_2",
+      "name": "Mike Jackson 2",
+      "team": "CLE",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 378,
+        "receivingYards": 580,
+        "receptions": 35,
+        "targets": 96,
+        "receivingTDs": 8,
+        "airYards": 482,
+        "yac": 250,
+        "redZoneTargets": 5,
+        "targetShare": "15.4",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ARI_WR_3",
+      "name": "Josh Diggs 3",
+      "team": "ARI",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 189,
+        "receivingYards": 558,
+        "receptions": 20,
+        "targets": 37,
+        "receivingTDs": 1,
+        "airYards": 224,
+        "yac": 103,
+        "redZoneTargets": 4,
+        "targetShare": "8.4",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TB_WR_2",
+      "name": "George Henry 2",
+      "team": "TB",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 459,
+        "receivingYards": 554,
+        "receptions": 49,
+        "targets": 93,
+        "receivingTDs": 8,
+        "airYards": 636,
+        "yac": 208,
+        "redZoneTargets": 14,
+        "targetShare": "14.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "GB_WR_3",
+      "name": "Tom Barkley 3",
+      "team": "GB",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 150,
+        "receivingYards": 547,
+        "receptions": 27,
+        "targets": 48,
+        "receivingTDs": 2,
+        "airYards": 315,
+        "yac": 113,
+        "redZoneTargets": 8,
+        "targetShare": "9.0",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CAR_WR_3",
+      "name": "Kyle Higbee 3",
+      "team": "CAR",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 173,
+        "receivingYards": 547,
+        "receptions": 34,
+        "targets": 37,
+        "receivingTDs": 4,
+        "airYards": 165,
+        "yac": 83,
+        "redZoneTargets": 8,
+        "targetShare": "4.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PHI_WR_3",
+      "name": "Austin Hill 3",
+      "team": "PHI",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 220,
+        "receivingYards": 541,
+        "receptions": 30,
+        "targets": 26,
+        "receivingTDs": 2,
+        "airYards": 298,
+        "yac": 163,
+        "redZoneTargets": 6,
+        "targetShare": "5.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SF_WR_2",
+      "name": "Tom Ridley 2",
+      "team": "SF",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 309,
+        "receivingYards": 530,
+        "receptions": 54,
+        "targets": 58,
+        "receivingTDs": 3,
+        "airYards": 356,
+        "yac": 333,
+        "redZoneTargets": 14,
+        "targetShare": "8.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BAL_WR_3",
+      "name": "DK Allen 3",
+      "team": "BAL",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 223,
+        "receivingYards": 527,
+        "receptions": 27,
+        "targets": 36,
+        "receivingTDs": 3,
+        "airYards": 212,
+        "yac": 190,
+        "redZoneTargets": 5,
+        "targetShare": "8.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BUF_WR_2",
+      "name": "Calvin Barkley 2",
+      "team": "BUF",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 303,
+        "receivingYards": 518,
+        "receptions": 62,
+        "targets": 44,
+        "receivingTDs": 4,
+        "airYards": 545,
+        "yac": 190,
+        "redZoneTargets": 8,
+        "targetShare": "7.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CIN_WR_3",
+      "name": "Lamar McCaffrey 3",
+      "team": "CIN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 260,
+        "receivingYards": 513,
+        "receptions": 31,
+        "targets": 55,
+        "receivingTDs": 4,
+        "airYards": 307,
+        "yac": 156,
+        "redZoneTargets": 7,
+        "targetShare": "8.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TEN_WR_3",
+      "name": "Justin Hopkins 3",
+      "team": "TEN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 241,
+        "receivingYards": 511,
+        "receptions": 16,
+        "targets": 38,
+        "receivingTDs": 1,
+        "airYards": 347,
+        "yac": 191,
+        "redZoneTargets": 5,
+        "targetShare": "5.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "HOU_WR_3",
+      "name": "Derrick Allen 3",
+      "team": "HOU",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 199,
+        "receivingYards": 504,
+        "receptions": 20,
+        "targets": 38,
+        "receivingTDs": 4,
+        "airYards": 345,
+        "yac": 133,
+        "redZoneTargets": 6,
+        "targetShare": "8.8",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYJ_WR_2",
+      "name": "Mike Adams 2",
+      "team": "NYJ",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 495,
+        "receivingYards": 502,
+        "receptions": 38,
+        "targets": 72,
+        "receivingTDs": 5,
+        "airYards": 407,
+        "yac": 324,
+        "redZoneTargets": 11,
+        "targetShare": "8.3",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAR_WR_3",
+      "name": "Jonathan Barkley 3",
+      "team": "LAR",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 257,
+        "receivingYards": 495,
+        "receptions": 25,
+        "targets": 54,
+        "receivingTDs": 2,
+        "airYards": 342,
+        "yac": 97,
+        "redZoneTargets": 5,
+        "targetShare": "4.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "KC_WR_3",
+      "name": "Russell Allen 3",
+      "team": "KC",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 158,
+        "receivingYards": 493,
+        "receptions": 19,
+        "targets": 54,
+        "receivingTDs": 1,
+        "airYards": 337,
+        "yac": 93,
+        "redZoneTargets": 8,
+        "targetShare": "9.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "IND_WR_3",
+      "name": "Russell Kamara 3",
+      "team": "IND",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 299,
+        "receivingYards": 490,
+        "receptions": 34,
+        "targets": 30,
+        "receivingTDs": 4,
+        "airYards": 341,
+        "yac": 123,
+        "redZoneTargets": 6,
+        "targetShare": "6.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "KC_WR_2",
+      "name": "Alvin Kittle 2",
+      "team": "KC",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 425,
+        "receivingYards": 490,
+        "receptions": 51,
+        "targets": 51,
+        "receivingTDs": 3,
+        "airYards": 484,
+        "yac": 147,
+        "redZoneTargets": 16,
+        "targetShare": "7.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIA_WR_2",
+      "name": "DeAndre Higbee 2",
+      "team": "MIA",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 318,
+        "receivingYards": 485,
+        "receptions": 56,
+        "targets": 94,
+        "receivingTDs": 5,
+        "airYards": 478,
+        "yac": 256,
+        "redZoneTargets": 9,
+        "targetShare": "10.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DEN_WR_2",
+      "name": "Jonathan Metcalf 2",
+      "team": "DEN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 371,
+        "receivingYards": 483,
+        "receptions": 59,
+        "targets": 42,
+        "receivingTDs": 5,
+        "airYards": 300,
+        "yac": 275,
+        "redZoneTargets": 10,
+        "targetShare": "12.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "JAX_WR_3",
+      "name": "Zach Jackson 3",
+      "team": "JAX",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 187,
+        "receivingYards": 481,
+        "receptions": 26,
+        "targets": 35,
+        "receivingTDs": 3,
+        "airYards": 380,
+        "yac": 188,
+        "redZoneTargets": 4,
+        "targetShare": "5.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DEN_WR_3",
+      "name": "Tom Higbee 3",
+      "team": "DEN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 140,
+        "receivingYards": 479,
+        "receptions": 22,
+        "targets": 37,
+        "receivingTDs": 3,
+        "airYards": 250,
+        "yac": 83,
+        "redZoneTargets": 4,
+        "targetShare": "8.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIN_WR_3",
+      "name": "Darren Kelce 3",
+      "team": "MIN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 155,
+        "receivingYards": 471,
+        "receptions": 31,
+        "targets": 33,
+        "receivingTDs": 2,
+        "airYards": 293,
+        "yac": 141,
+        "redZoneTargets": 3,
+        "targetShare": "7.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SEA_WR_3",
+      "name": "Travis Hopkins 3",
+      "team": "SEA",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 146,
+        "receivingYards": 467,
+        "receptions": 17,
+        "targets": 28,
+        "receivingTDs": 4,
+        "airYards": 178,
+        "yac": 160,
+        "redZoneTargets": 4,
+        "targetShare": "4.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LV_WR_3",
+      "name": "Austin Barkley 3",
+      "team": "LV",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 223,
+        "receivingYards": 465,
+        "receptions": 20,
+        "targets": 29,
+        "receivingTDs": 4,
+        "airYards": 373,
+        "yac": 177,
+        "redZoneTargets": 5,
+        "targetShare": "9.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYG_WR_2",
+      "name": "Rob Rodgers 2",
+      "team": "NYG",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 348,
+        "receivingYards": 463,
+        "receptions": 62,
+        "targets": 96,
+        "receivingTDs": 5,
+        "airYards": 350,
+        "yac": 231,
+        "redZoneTargets": 15,
+        "targetShare": "14.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TB_WR_3",
+      "name": "Tom Prescott 3",
+      "team": "TB",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 264,
+        "receivingYards": 462,
+        "receptions": 25,
+        "targets": 29,
+        "receivingTDs": 3,
+        "airYards": 247,
+        "yac": 151,
+        "redZoneTargets": 7,
+        "targetShare": "6.3",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DAL_WR_3",
+      "name": "Mark Allen 3",
+      "team": "DAL",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 263,
+        "receivingYards": 460,
+        "receptions": 23,
+        "targets": 43,
+        "receivingTDs": 1,
+        "airYards": 309,
+        "yac": 127,
+        "redZoneTargets": 4,
+        "targetShare": "8.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "WAS_WR_3",
+      "name": "Aaron Metcalf 3",
+      "team": "WAS",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 159,
+        "receivingYards": 439,
+        "receptions": 34,
+        "targets": 36,
+        "receivingTDs": 4,
+        "airYards": 170,
+        "yac": 166,
+        "redZoneTargets": 4,
+        "targetShare": "4.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYJ_WR_3",
+      "name": "Joe Jackson 3",
+      "team": "NYJ",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 114,
+        "receivingYards": 413,
+        "receptions": 24,
+        "targets": 32,
+        "receivingTDs": 2,
+        "airYards": 180,
+        "yac": 129,
+        "redZoneTargets": 4,
+        "targetShare": "6.3",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CHI_WR_3",
+      "name": "Tyler Andrews 3",
+      "team": "CHI",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 260,
+        "receivingYards": 389,
+        "receptions": 23,
+        "targets": 52,
+        "receivingTDs": 3,
+        "airYards": 182,
+        "yac": 176,
+        "redZoneTargets": 8,
+        "targetShare": "5.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAC_WR_3",
+      "name": "Tua Henry 3",
+      "team": "LAC",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 220,
+        "receivingYards": 386,
+        "receptions": 31,
+        "targets": 54,
+        "receivingTDs": 4,
+        "airYards": 176,
+        "yac": 175,
+        "redZoneTargets": 6,
+        "targetShare": "4.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NO_WR_3",
+      "name": "Ezekiel Waller 3",
+      "team": "NO",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 242,
+        "receivingYards": 384,
+        "receptions": 29,
+        "targets": 31,
+        "receivingTDs": 3,
+        "airYards": 320,
+        "yac": 120,
+        "redZoneTargets": 5,
+        "targetShare": "4.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CLE_WR_3",
+      "name": "Zach Metcalf 3",
+      "team": "CLE",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 143,
+        "receivingYards": 379,
+        "receptions": 21,
+        "targets": 50,
+        "receivingTDs": 2,
+        "airYards": 365,
+        "yac": 182,
+        "redZoneTargets": 8,
+        "targetShare": "9.0",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PIT_WR_3",
+      "name": "Tyler Kittle 3",
+      "team": "PIT",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 164,
+        "receivingYards": 350,
+        "receptions": 34,
+        "targets": 48,
+        "receivingTDs": 4,
+        "airYards": 379,
+        "yac": 122,
+        "redZoneTargets": 5,
+        "targetShare": "6.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NE_WR_3",
+      "name": "DeAndre Hill 3",
+      "team": "NE",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 240,
+        "receivingYards": 341,
+        "receptions": 29,
+        "targets": 36,
+        "receivingTDs": 2,
+        "airYards": 260,
+        "yac": 144,
+        "redZoneTargets": 6,
+        "targetShare": "7.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BUF_WR_3",
+      "name": "Travis Metcalf 3",
+      "team": "BUF",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 220,
+        "receivingYards": 303,
+        "receptions": 30,
+        "targets": 27,
+        "receivingTDs": 3,
+        "airYards": 236,
+        "yac": 133,
+        "redZoneTargets": 5,
+        "targetShare": "8.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIA_WR_3",
+      "name": "Russell Pitts 3",
+      "team": "MIA",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 197,
+        "receivingYards": 295,
+        "receptions": 25,
+        "targets": 33,
+        "receivingTDs": 2,
+        "airYards": 163,
+        "yac": 167,
+        "redZoneTargets": 7,
+        "targetShare": "6.3",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SF_WR_3",
+      "name": "Kyle Hill 3",
+      "team": "SF",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 271,
+        "receivingYards": 294,
+        "receptions": 34,
+        "targets": 35,
+        "receivingTDs": 4,
+        "airYards": 355,
+        "yac": 162,
+        "redZoneTargets": 8,
+        "targetShare": "6.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ATL_WR_3",
+      "name": "Ezekiel Kelce 3",
+      "team": "ATL",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 218,
+        "receivingYards": 288,
+        "receptions": 20,
+        "targets": 49,
+        "receivingTDs": 2,
+        "airYards": 362,
+        "yac": 134,
+        "redZoneTargets": 5,
+        "targetShare": "9.8",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYG_WR_3",
+      "name": "DK Elliott 3",
+      "team": "NYG",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 239,
+        "receivingYards": 285,
+        "receptions": 19,
+        "targets": 53,
+        "receivingTDs": 2,
+        "airYards": 228,
+        "yac": 194,
+        "redZoneTargets": 9,
+        "targetShare": "5.3",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DAL_WR_5",
+      "name": "Stefon Gronkowski 5",
+      "team": "DAL",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 236,
+        "receivingYards": 276,
+        "receptions": 9,
+        "targets": 19,
+        "receivingTDs": 0,
+        "airYards": 163,
+        "yac": 54,
+        "redZoneTargets": 2,
+        "targetShare": "4.4",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "JAX_WR_5",
+      "name": "Tom Prescott 5",
+      "team": "JAX",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 106,
+        "receivingYards": 274,
+        "receptions": 16,
+        "targets": 17,
+        "receivingTDs": 1,
+        "airYards": 160,
+        "yac": 80,
+        "redZoneTargets": 3,
+        "targetShare": "3.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BUF_WR_5",
+      "name": "Lamar Barkley 5",
+      "team": "BUF",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 101,
+        "receivingYards": 272,
+        "receptions": 10,
+        "targets": 14,
+        "receivingTDs": 0,
+        "airYards": 147,
+        "yac": 84,
+        "redZoneTargets": 2,
+        "targetShare": "4.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAR_WR_5",
+      "name": "Joe Higbee 5",
+      "team": "LAR",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 150,
+        "receivingYards": 271,
+        "receptions": 15,
+        "targets": 21,
+        "receivingTDs": 1,
+        "airYards": 129,
+        "yac": 51,
+        "redZoneTargets": 2,
+        "targetShare": "3.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAC_WR_5",
+      "name": "Austin Rodgers 5",
+      "team": "LAC",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 179,
+        "receivingYards": 270,
+        "receptions": 10,
+        "targets": 22,
+        "receivingTDs": 1,
+        "airYards": 182,
+        "yac": 79,
+        "redZoneTargets": 3,
+        "targetShare": "4.0",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PIT_WR_4",
+      "name": "Saquon Elliott 4",
+      "team": "PIT",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 136,
+        "receivingYards": 268,
+        "receptions": 16,
+        "targets": 21,
+        "receivingTDs": 1,
+        "airYards": 166,
+        "yac": 49,
+        "redZoneTargets": 3,
+        "targetShare": "5.0",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "WAS_WR_5",
+      "name": "Travis Ridley 5",
+      "team": "WAS",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 286,
+        "receivingYards": 267,
+        "receptions": 12,
+        "targets": 14,
+        "receivingTDs": 1,
+        "airYards": 135,
+        "yac": 71,
+        "redZoneTargets": 2,
+        "targetShare": "4.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DET_WR_3",
+      "name": "Nick Ekeler 3",
+      "team": "DET",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 261,
+        "receivingYards": 265,
+        "receptions": 23,
+        "targets": 40,
+        "receivingTDs": 2,
+        "airYards": 245,
+        "yac": 175,
+        "redZoneTargets": 8,
+        "targetShare": "7.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIA_WR_4",
+      "name": "Mike Herbert 4",
+      "team": "MIA",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 150,
+        "receivingYards": 264,
+        "receptions": 11,
+        "targets": 21,
+        "receivingTDs": 0,
+        "airYards": 109,
+        "yac": 71,
+        "redZoneTargets": 4,
+        "targetShare": "2.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CHI_WR_5",
+      "name": "Patrick Kamara 5",
+      "team": "CHI",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 155,
+        "receivingYards": 263,
+        "receptions": 16,
+        "targets": 23,
+        "receivingTDs": 1,
+        "airYards": 126,
+        "yac": 60,
+        "redZoneTargets": 2,
+        "targetShare": "4.3",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ARI_WR_5",
+      "name": "Jonathan Wilson 5",
+      "team": "ARI",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 249,
+        "receivingYards": 263,
+        "receptions": 10,
+        "targets": 12,
+        "receivingTDs": 2,
+        "airYards": 98,
+        "yac": 57,
+        "redZoneTargets": 4,
+        "targetShare": "4.4",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYJ_WR_4",
+      "name": "Christian Evans 4",
+      "team": "NYJ",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 246,
+        "receivingYards": 260,
+        "receptions": 13,
+        "targets": 21,
+        "receivingTDs": 2,
+        "airYards": 137,
+        "yac": 66,
+        "redZoneTargets": 1,
+        "targetShare": "2.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "IND_WR_4",
+      "name": "Derrick Ertz 4",
+      "team": "IND",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 284,
+        "receivingYards": 260,
+        "receptions": 13,
+        "targets": 24,
+        "receivingTDs": 2,
+        "airYards": 126,
+        "yac": 96,
+        "redZoneTargets": 2,
+        "targetShare": "4.3",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BAL_WR_5",
+      "name": "Dak Evans 5",
+      "team": "BAL",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 274,
+        "receivingYards": 251,
+        "receptions": 14,
+        "targets": 14,
+        "receivingTDs": 0,
+        "airYards": 144,
+        "yac": 77,
+        "redZoneTargets": 3,
+        "targetShare": "4.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CLE_WR_4",
+      "name": "George Rodgers 4",
+      "team": "CLE",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 150,
+        "receivingYards": 251,
+        "receptions": 9,
+        "targets": 19,
+        "receivingTDs": 1,
+        "airYards": 169,
+        "yac": 55,
+        "redZoneTargets": 2,
+        "targetShare": "2.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PHI_WR_5",
+      "name": "Tyler Andrews 5",
+      "team": "PHI",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 154,
+        "receivingYards": 251,
+        "receptions": 13,
+        "targets": 14,
+        "receivingTDs": 1,
+        "airYards": 109,
+        "yac": 78,
+        "redZoneTargets": 4,
+        "targetShare": "4.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "HOU_WR_5",
+      "name": "Russell Andrews 5",
+      "team": "HOU",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 188,
+        "receivingYards": 247,
+        "receptions": 10,
+        "targets": 26,
+        "receivingTDs": 1,
+        "airYards": 164,
+        "yac": 70,
+        "redZoneTargets": 2,
+        "targetShare": "4.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIA_WR_5",
+      "name": "Stefon Higbee 5",
+      "team": "MIA",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 286,
+        "receivingYards": 246,
+        "receptions": 8,
+        "targets": 18,
+        "receivingTDs": 1,
+        "airYards": 164,
+        "yac": 42,
+        "redZoneTargets": 2,
+        "targetShare": "4.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ARI_WR_4",
+      "name": "Alvin Kittle 4",
+      "team": "ARI",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 228,
+        "receivingYards": 245,
+        "receptions": 17,
+        "targets": 23,
+        "receivingTDs": 0,
+        "airYards": 183,
+        "yac": 59,
+        "redZoneTargets": 3,
+        "targetShare": "4.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LV_WR_5",
+      "name": "Stefon Diggs 5",
+      "team": "LV",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 138,
+        "receivingYards": 243,
+        "receptions": 15,
+        "targets": 12,
+        "receivingTDs": 2,
+        "airYards": 88,
+        "yac": 92,
+        "redZoneTargets": 2,
+        "targetShare": "2.8",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LV_WR_4",
+      "name": "Joe Ekeler 4",
+      "team": "LV",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 236,
+        "receivingYards": 240,
+        "receptions": 15,
+        "targets": 17,
+        "receivingTDs": 0,
+        "airYards": 164,
+        "yac": 68,
+        "redZoneTargets": 3,
+        "targetShare": "2.4",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CIN_WR_5",
+      "name": "Calvin Elliott 5",
+      "team": "CIN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 229,
+        "receivingYards": 237,
+        "receptions": 13,
+        "targets": 18,
+        "receivingTDs": 1,
+        "airYards": 112,
+        "yac": 72,
+        "redZoneTargets": 1,
+        "targetShare": "2.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NO_WR_4",
+      "name": "Darren Waller 4",
+      "team": "NO",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 294,
+        "receivingYards": 234,
+        "receptions": 12,
+        "targets": 12,
+        "receivingTDs": 1,
+        "airYards": 94,
+        "yac": 98,
+        "redZoneTargets": 4,
+        "targetShare": "3.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DET_WR_5",
+      "name": "Justin Chubb 5",
+      "team": "DET",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 255,
+        "receivingYards": 233,
+        "receptions": 16,
+        "targets": 13,
+        "receivingTDs": 1,
+        "airYards": 132,
+        "yac": 71,
+        "redZoneTargets": 3,
+        "targetShare": "3.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIN_WR_4",
+      "name": "Justin Diggs 4",
+      "team": "MIN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 292,
+        "receivingYards": 231,
+        "receptions": 11,
+        "targets": 19,
+        "receivingTDs": 1,
+        "airYards": 103,
+        "yac": 78,
+        "redZoneTargets": 2,
+        "targetShare": "3.8",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DET_WR_4",
+      "name": "George Herbert 4",
+      "team": "DET",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 140,
+        "receivingYards": 228,
+        "receptions": 8,
+        "targets": 21,
+        "receivingTDs": 0,
+        "airYards": 165,
+        "yac": 76,
+        "redZoneTargets": 2,
+        "targetShare": "2.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYG_WR_4",
+      "name": "Justin Ekeler 4",
+      "team": "NYG",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 113,
+        "receivingYards": 224,
+        "receptions": 16,
+        "targets": 19,
+        "receivingTDs": 1,
+        "airYards": 88,
+        "yac": 56,
+        "redZoneTargets": 2,
+        "targetShare": "4.4",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYJ_WR_5",
+      "name": "Ezekiel Ertz 5",
+      "team": "NYJ",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 203,
+        "receivingYards": 220,
+        "receptions": 8,
+        "targets": 20,
+        "receivingTDs": 1,
+        "airYards": 186,
+        "yac": 59,
+        "redZoneTargets": 4,
+        "targetShare": "3.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TEN_WR_5",
+      "name": "Tom Metcalf 5",
+      "team": "TEN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 202,
+        "receivingYards": 220,
+        "receptions": 13,
+        "targets": 16,
+        "receivingTDs": 2,
+        "airYards": 96,
+        "yac": 45,
+        "redZoneTargets": 1,
+        "targetShare": "4.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIN_WR_5",
+      "name": "Austin Taylor 5",
+      "team": "MIN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 167,
+        "receivingYards": 217,
+        "receptions": 11,
+        "targets": 26,
+        "receivingTDs": 1,
+        "airYards": 123,
+        "yac": 85,
+        "redZoneTargets": 1,
+        "targetShare": "3.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TB_WR_5",
+      "name": "Mike Evans 5",
+      "team": "TB",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 181,
+        "receivingYards": 215,
+        "receptions": 8,
+        "targets": 13,
+        "receivingTDs": 1,
+        "airYards": 114,
+        "yac": 97,
+        "redZoneTargets": 3,
+        "targetShare": "4.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "KC_WR_5",
+      "name": "Tom Hopkins 5",
+      "team": "KC",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 252,
+        "receivingYards": 210,
+        "receptions": 9,
+        "targets": 15,
+        "receivingTDs": 1,
+        "airYards": 105,
+        "yac": 55,
+        "redZoneTargets": 2,
+        "targetShare": "3.0",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "KC_WR_4",
+      "name": "DeAndre Brady 4",
+      "team": "KC",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 143,
+        "receivingYards": 208,
+        "receptions": 13,
+        "targets": 17,
+        "receivingTDs": 1,
+        "airYards": 110,
+        "yac": 56,
+        "redZoneTargets": 3,
+        "targetShare": "3.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DEN_WR_4",
+      "name": "Tom Pitts 4",
+      "team": "DEN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 231,
+        "receivingYards": 206,
+        "receptions": 12,
+        "targets": 18,
+        "receivingTDs": 1,
+        "airYards": 145,
+        "yac": 46,
+        "redZoneTargets": 4,
+        "targetShare": "2.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DEN_WR_5",
+      "name": "DK Pitts 5",
+      "team": "DEN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 265,
+        "receivingYards": 206,
+        "receptions": 10,
+        "targets": 24,
+        "receivingTDs": 1,
+        "airYards": 155,
+        "yac": 57,
+        "redZoneTargets": 3,
+        "targetShare": "3.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYG_WR_5",
+      "name": "Austin Brady 5",
+      "team": "NYG",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 254,
+        "receivingYards": 200,
+        "receptions": 17,
+        "targets": 16,
+        "receivingTDs": 1,
+        "airYards": 158,
+        "yac": 45,
+        "redZoneTargets": 3,
+        "targetShare": "3.4",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CIN_WR_4",
+      "name": "DeAndre Allen 4",
+      "team": "CIN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 219,
+        "receivingYards": 198,
+        "receptions": 8,
+        "targets": 18,
+        "receivingTDs": 1,
+        "airYards": 118,
+        "yac": 74,
+        "redZoneTargets": 1,
+        "targetShare": "2.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "WAS_WR_4",
+      "name": "Mark Evans 4",
+      "team": "WAS",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 242,
+        "receivingYards": 198,
+        "receptions": 12,
+        "targets": 19,
+        "receivingTDs": 2,
+        "airYards": 167,
+        "yac": 53,
+        "redZoneTargets": 2,
+        "targetShare": "2.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DAL_WR_4",
+      "name": "Austin Higbee 4",
+      "team": "DAL",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 174,
+        "receivingYards": 196,
+        "receptions": 14,
+        "targets": 27,
+        "receivingTDs": 1,
+        "airYards": 160,
+        "yac": 42,
+        "redZoneTargets": 2,
+        "targetShare": "3.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NE_WR_5",
+      "name": "Nick Barkley 5",
+      "team": "NE",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 207,
+        "receivingYards": 192,
+        "receptions": 17,
+        "targets": 25,
+        "receivingTDs": 1,
+        "airYards": 151,
+        "yac": 79,
+        "redZoneTargets": 2,
+        "targetShare": "2.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NE_WR_4",
+      "name": "Russell Mahomes 4",
+      "team": "NE",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 110,
+        "receivingYards": 191,
+        "receptions": 12,
+        "targets": 19,
+        "receivingTDs": 1,
+        "airYards": 195,
+        "yac": 63,
+        "redZoneTargets": 2,
+        "targetShare": "2.8",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAR_WR_4",
+      "name": "Tom Allen 4",
+      "team": "LAR",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 146,
+        "receivingYards": 191,
+        "receptions": 11,
+        "targets": 14,
+        "receivingTDs": 1,
+        "airYards": 131,
+        "yac": 55,
+        "redZoneTargets": 3,
+        "targetShare": "4.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PHI_WR_4",
+      "name": "DeAndre Evans 4",
+      "team": "PHI",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 114,
+        "receivingYards": 187,
+        "receptions": 17,
+        "targets": 12,
+        "receivingTDs": 0,
+        "airYards": 188,
+        "yac": 70,
+        "redZoneTargets": 4,
+        "targetShare": "2.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BAL_WR_4",
+      "name": "Ezekiel Barkley 4",
+      "team": "BAL",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 118,
+        "receivingYards": 184,
+        "receptions": 10,
+        "targets": 24,
+        "receivingTDs": 2,
+        "airYards": 183,
+        "yac": 87,
+        "redZoneTargets": 2,
+        "targetShare": "3.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "JAX_WR_4",
+      "name": "Travis Kamara 4",
+      "team": "JAX",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 254,
+        "receivingYards": 182,
+        "receptions": 9,
+        "targets": 20,
+        "receivingTDs": 1,
+        "airYards": 140,
+        "yac": 84,
+        "redZoneTargets": 4,
+        "targetShare": "4.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PIT_WR_5",
+      "name": "Mark Andrews 5",
+      "team": "PIT",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 104,
+        "receivingYards": 178,
+        "receptions": 14,
+        "targets": 12,
+        "receivingTDs": 1,
+        "airYards": 179,
+        "yac": 91,
+        "redZoneTargets": 3,
+        "targetShare": "2.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SEA_WR_5",
+      "name": "Dak Gronkowski 5",
+      "team": "SEA",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 159,
+        "receivingYards": 178,
+        "receptions": 13,
+        "targets": 21,
+        "receivingTDs": 1,
+        "airYards": 158,
+        "yac": 49,
+        "redZoneTargets": 4,
+        "targetShare": "3.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "IND_WR_5",
+      "name": "Justin Diggs 5",
+      "team": "IND",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 136,
+        "receivingYards": 175,
+        "receptions": 8,
+        "targets": 18,
+        "receivingTDs": 2,
+        "airYards": 87,
+        "yac": 64,
+        "redZoneTargets": 1,
+        "targetShare": "4.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SF_WR_4",
+      "name": "Davante Andrews 4",
+      "team": "SF",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 240,
+        "receivingYards": 174,
+        "receptions": 13,
+        "targets": 21,
+        "receivingTDs": 1,
+        "airYards": 156,
+        "yac": 59,
+        "redZoneTargets": 2,
+        "targetShare": "4.0",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAC_WR_4",
+      "name": "Lamar Henry 4",
+      "team": "LAC",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 271,
+        "receivingYards": 169,
+        "receptions": 8,
+        "targets": 13,
+        "receivingTDs": 1,
+        "airYards": 136,
+        "yac": 45,
+        "redZoneTargets": 3,
+        "targetShare": "2.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "GB_WR_4",
+      "name": "Tua Higbee 4",
+      "team": "GB",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 256,
+        "receivingYards": 167,
+        "receptions": 12,
+        "targets": 14,
+        "receivingTDs": 0,
+        "airYards": 173,
+        "yac": 69,
+        "redZoneTargets": 2,
+        "targetShare": "2.6",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SEA_WR_4",
+      "name": "DK Andrews 4",
+      "team": "SEA",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 169,
+        "receivingYards": 167,
+        "receptions": 16,
+        "targets": 21,
+        "receivingTDs": 0,
+        "airYards": 116,
+        "yac": 89,
+        "redZoneTargets": 4,
+        "targetShare": "3.0",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TEN_WR_4",
+      "name": "Aaron Diggs 4",
+      "team": "TEN",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 289,
+        "receivingYards": 162,
+        "receptions": 14,
+        "targets": 13,
+        "receivingTDs": 1,
+        "airYards": 136,
+        "yac": 81,
+        "redZoneTargets": 2,
+        "targetShare": "3.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CAR_WR_5",
+      "name": "George Pitts 5",
+      "team": "CAR",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 143,
+        "receivingYards": 162,
+        "receptions": 14,
+        "targets": 13,
+        "receivingTDs": 0,
+        "airYards": 137,
+        "yac": 60,
+        "redZoneTargets": 2,
+        "targetShare": "2.0",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CLE_WR_5",
+      "name": "Lamar Chubb 5",
+      "team": "CLE",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 265,
+        "receivingYards": 157,
+        "receptions": 12,
+        "targets": 22,
+        "receivingTDs": 0,
+        "airYards": 171,
+        "yac": 66,
+        "redZoneTargets": 3,
+        "targetShare": "2.8",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BUF_WR_4",
+      "name": "Jonathan Kamara 4",
+      "team": "BUF",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 123,
+        "receivingYards": 154,
+        "receptions": 12,
+        "targets": 17,
+        "receivingTDs": 1,
+        "airYards": 82,
+        "yac": 80,
+        "redZoneTargets": 2,
+        "targetShare": "4.9",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NO_WR_5",
+      "name": "Christian Allen 5",
+      "team": "NO",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 256,
+        "receivingYards": 147,
+        "receptions": 16,
+        "targets": 19,
+        "receivingTDs": 1,
+        "airYards": 102,
+        "yac": 55,
+        "redZoneTargets": 2,
+        "targetShare": "2.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "GB_WR_5",
+      "name": "Darren Metcalf 5",
+      "team": "GB",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 153,
+        "receivingYards": 146,
+        "receptions": 9,
+        "targets": 22,
+        "receivingTDs": 0,
+        "airYards": 104,
+        "yac": 53,
+        "redZoneTargets": 3,
+        "targetShare": "2.4",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "HOU_WR_4",
+      "name": "Keenan Ekeler 4",
+      "team": "HOU",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 224,
+        "receivingYards": 141,
+        "receptions": 13,
+        "targets": 20,
+        "receivingTDs": 1,
+        "airYards": 162,
+        "yac": 71,
+        "redZoneTargets": 4,
+        "targetShare": "4.1",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SF_WR_5",
+      "name": "Russell Ertz 5",
+      "team": "SF",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 165,
+        "receivingYards": 138,
+        "receptions": 10,
+        "targets": 23,
+        "receivingTDs": 1,
+        "airYards": 114,
+        "yac": 79,
+        "redZoneTargets": 2,
+        "targetShare": "4.3",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ATL_WR_4",
+      "name": "Travis Hopkins 4",
+      "team": "ATL",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 213,
+        "receivingYards": 135,
+        "receptions": 15,
+        "targets": 17,
+        "receivingTDs": 1,
+        "airYards": 95,
+        "yac": 54,
+        "redZoneTargets": 2,
+        "targetShare": "4.7",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CHI_WR_4",
+      "name": "Lamar Gronkowski 4",
+      "team": "CHI",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 131,
+        "receivingYards": 128,
+        "receptions": 12,
+        "targets": 13,
+        "receivingTDs": 1,
+        "airYards": 92,
+        "yac": 82,
+        "redZoneTargets": 2,
+        "targetShare": "2.4",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ATL_WR_5",
+      "name": "Derrick Herbert 5",
+      "team": "ATL",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 158,
+        "receivingYards": 127,
+        "receptions": 15,
+        "targets": 20,
+        "receivingTDs": 1,
+        "airYards": 114,
+        "yac": 59,
+        "redZoneTargets": 4,
+        "targetShare": "4.5",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TB_WR_4",
+      "name": "Christian Andrews 4",
+      "team": "TB",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 212,
+        "receivingYards": 124,
+        "receptions": 13,
+        "targets": 17,
+        "receivingTDs": 1,
+        "airYards": 123,
+        "yac": 50,
+        "redZoneTargets": 2,
+        "targetShare": "2.2",
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CAR_WR_4",
+      "name": "Alvin Elliott 4",
+      "team": "CAR",
+      "position": "WR",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 206,
+        "receivingYards": 120,
+        "receptions": 11,
+        "targets": 24,
+        "receivingTDs": 1,
+        "airYards": 189,
+        "yac": 44,
+        "redZoneTargets": 1,
+        "targetShare": "2.8",
+        "fantasyPoints": 0
+      }
+    }
+  ],
+  "TE": [
+    {
+      "id": "NO_TE_1",
+      "name": "Patrick Chubb",
+      "team": "NO",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 663,
+        "receivingYards": 869,
+        "receptions": 51,
+        "targets": 47,
+        "receivingTDs": 5,
+        "redZoneTargets": 11,
+        "blockingSnaps": 139,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYJ_TE_1",
+      "name": "Patrick Prescott",
+      "team": "NYJ",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 784,
+        "receivingYards": 862,
+        "receptions": 55,
+        "targets": 84,
+        "receivingTDs": 6,
+        "redZoneTargets": 6,
+        "blockingSnaps": 293,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BUF_TE_1",
+      "name": "Josh Hill",
+      "team": "BUF",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 606,
+        "receivingYards": 810,
+        "receptions": 57,
+        "targets": 75,
+        "receivingTDs": 10,
+        "redZoneTargets": 17,
+        "blockingSnaps": 138,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PHI_TE_1",
+      "name": "Derrick Gronkowski",
+      "team": "PHI",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 755,
+        "receivingYards": 779,
+        "receptions": 58,
+        "targets": 98,
+        "receivingTDs": 6,
+        "redZoneTargets": 7,
+        "blockingSnaps": 269,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIN_TE_1",
+      "name": "Tom Metcalf",
+      "team": "MIN",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 673,
+        "receivingYards": 770,
+        "receptions": 69,
+        "targets": 83,
+        "receivingTDs": 8,
+        "redZoneTargets": 6,
+        "blockingSnaps": 123,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DAL_TE_1",
+      "name": "Rob Wilson",
+      "team": "DAL",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 753,
+        "receivingYards": 734,
+        "receptions": 36,
+        "targets": 67,
+        "receivingTDs": 6,
+        "redZoneTargets": 12,
+        "blockingSnaps": 141,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CLE_TE_1",
+      "name": "Mark Gronkowski",
+      "team": "CLE",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 654,
+        "receivingYards": 721,
+        "receptions": 41,
+        "targets": 62,
+        "receivingTDs": 4,
+        "redZoneTargets": 16,
+        "blockingSnaps": 150,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "KC_TE_1",
+      "name": "Jonathan Adams",
+      "team": "KC",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 758,
+        "receivingYards": 716,
+        "receptions": 45,
+        "targets": 47,
+        "receivingTDs": 7,
+        "redZoneTargets": 7,
+        "blockingSnaps": 254,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYG_TE_1",
+      "name": "Dak Henry",
+      "team": "NYG",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 637,
+        "receivingYards": 712,
+        "receptions": 66,
+        "targets": 98,
+        "receivingTDs": 4,
+        "redZoneTargets": 9,
+        "blockingSnaps": 259,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LV_TE_1",
+      "name": "Austin Adams",
+      "team": "LV",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 756,
+        "receivingYards": 692,
+        "receptions": 68,
+        "targets": 43,
+        "receivingTDs": 7,
+        "redZoneTargets": 15,
+        "blockingSnaps": 148,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SEA_TE_1",
+      "name": "Alvin Pitts",
+      "team": "SEA",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 709,
+        "receivingYards": 676,
+        "receptions": 41,
+        "targets": 87,
+        "receivingTDs": 10,
+        "redZoneTargets": 12,
+        "blockingSnaps": 299,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PIT_TE_1",
+      "name": "Rob Metcalf",
+      "team": "PIT",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 768,
+        "receivingYards": 660,
+        "receptions": 43,
+        "targets": 72,
+        "receivingTDs": 3,
+        "redZoneTargets": 13,
+        "blockingSnaps": 261,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DET_TE_1",
+      "name": "Tua Hopkins",
+      "team": "DET",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 797,
+        "receivingYards": 639,
+        "receptions": 32,
+        "targets": 51,
+        "receivingTDs": 5,
+        "redZoneTargets": 15,
+        "blockingSnaps": 164,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIA_TE_1",
+      "name": "Dak Adams",
+      "team": "MIA",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 621,
+        "receivingYards": 636,
+        "receptions": 68,
+        "targets": 94,
+        "receivingTDs": 6,
+        "redZoneTargets": 17,
+        "blockingSnaps": 211,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NE_TE_1",
+      "name": "Rob Allen",
+      "team": "NE",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 688,
+        "receivingYards": 623,
+        "receptions": 56,
+        "targets": 90,
+        "receivingTDs": 8,
+        "redZoneTargets": 17,
+        "blockingSnaps": 188,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "GB_TE_1",
+      "name": "Patrick Rodgers",
+      "team": "GB",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 794,
+        "receivingYards": 606,
+        "receptions": 43,
+        "targets": 63,
+        "receivingTDs": 4,
+        "redZoneTargets": 14,
+        "blockingSnaps": 146,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TEN_TE_1",
+      "name": "Calvin Diggs",
+      "team": "TEN",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 735,
+        "receivingYards": 586,
+        "receptions": 53,
+        "targets": 40,
+        "receivingTDs": 5,
+        "redZoneTargets": 17,
+        "blockingSnaps": 159,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SF_TE_1",
+      "name": "DK Prescott",
+      "team": "SF",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 752,
+        "receivingYards": 581,
+        "receptions": 47,
+        "targets": 86,
+        "receivingTDs": 4,
+        "redZoneTargets": 14,
+        "blockingSnaps": 233,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CHI_TE_1",
+      "name": "Calvin Allen",
+      "team": "CHI",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 617,
+        "receivingYards": 550,
+        "receptions": 68,
+        "targets": 48,
+        "receivingTDs": 5,
+        "redZoneTargets": 17,
+        "blockingSnaps": 294,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAR_TE_1",
+      "name": "Zach Henry",
+      "team": "LAR",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 755,
+        "receivingYards": 547,
+        "receptions": 47,
+        "targets": 94,
+        "receivingTDs": 8,
+        "redZoneTargets": 11,
+        "blockingSnaps": 164,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BAL_TE_1",
+      "name": "Stefon Hill",
+      "team": "BAL",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 761,
+        "receivingYards": 535,
+        "receptions": 50,
+        "targets": 72,
+        "receivingTDs": 7,
+        "redZoneTargets": 6,
+        "blockingSnaps": 285,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "WAS_TE_1",
+      "name": "Tom Ertz",
+      "team": "WAS",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 648,
+        "receivingYards": 530,
+        "receptions": 68,
+        "targets": 92,
+        "receivingTDs": 10,
+        "redZoneTargets": 10,
+        "blockingSnaps": 194,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ATL_TE_1",
+      "name": "Calvin Allen",
+      "team": "ATL",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 752,
+        "receivingYards": 528,
+        "receptions": 30,
+        "targets": 71,
+        "receivingTDs": 7,
+        "redZoneTargets": 7,
+        "blockingSnaps": 135,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ARI_TE_1",
+      "name": "Tyler Chubb",
+      "team": "ARI",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 630,
+        "receivingYards": 528,
+        "receptions": 40,
+        "targets": 66,
+        "receivingTDs": 6,
+        "redZoneTargets": 7,
+        "blockingSnaps": 290,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CIN_TE_1",
+      "name": "Lamar Kelce",
+      "team": "CIN",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 692,
+        "receivingYards": 526,
+        "receptions": 62,
+        "targets": 42,
+        "receivingTDs": 10,
+        "redZoneTargets": 7,
+        "blockingSnaps": 126,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "IND_TE_1",
+      "name": "Tyler Wilson",
+      "team": "IND",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 718,
+        "receivingYards": 490,
+        "receptions": 63,
+        "targets": 69,
+        "receivingTDs": 5,
+        "redZoneTargets": 11,
+        "blockingSnaps": 269,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CAR_TE_1",
+      "name": "Josh Hopkins",
+      "team": "CAR",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 739,
+        "receivingYards": 469,
+        "receptions": 68,
+        "targets": 96,
+        "receivingTDs": 8,
+        "redZoneTargets": 7,
+        "blockingSnaps": 189,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAC_TE_1",
+      "name": "Tyreek Ertz",
+      "team": "LAC",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 621,
+        "receivingYards": 443,
+        "receptions": 30,
+        "targets": 97,
+        "receivingTDs": 3,
+        "redZoneTargets": 8,
+        "blockingSnaps": 137,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TB_TE_1",
+      "name": "Travis Herbert",
+      "team": "TB",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 786,
+        "receivingYards": 439,
+        "receptions": 54,
+        "targets": 85,
+        "receivingTDs": 5,
+        "redZoneTargets": 11,
+        "blockingSnaps": 198,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "JAX_TE_1",
+      "name": "Jonathan Rodgers",
+      "team": "JAX",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 677,
+        "receivingYards": 411,
+        "receptions": 63,
+        "targets": 45,
+        "receivingTDs": 7,
+        "redZoneTargets": 11,
+        "blockingSnaps": 231,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "HOU_TE_1",
+      "name": "Travis Henry",
+      "team": "HOU",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 793,
+        "receivingYards": 375,
+        "receptions": 49,
+        "targets": 73,
+        "receivingTDs": 3,
+        "redZoneTargets": 6,
+        "blockingSnaps": 121,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DEN_TE_1",
+      "name": "Ezekiel Taylor",
+      "team": "DEN",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 706,
+        "receivingYards": 372,
+        "receptions": 64,
+        "targets": 65,
+        "receivingTDs": 4,
+        "redZoneTargets": 15,
+        "blockingSnaps": 239,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PHI_TE_2",
+      "name": "Zach Prescott 2",
+      "team": "PHI",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 326,
+        "receivingYards": 269,
+        "receptions": 10,
+        "targets": 18,
+        "receivingTDs": 3,
+        "redZoneTargets": 4,
+        "blockingSnaps": 125,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAC_TE_2",
+      "name": "Stefon Elliott 2",
+      "team": "LAC",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 494,
+        "receivingYards": 264,
+        "receptions": 12,
+        "targets": 27,
+        "receivingTDs": 1,
+        "redZoneTargets": 3,
+        "blockingSnaps": 286,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BAL_TE_2",
+      "name": "Nick Hopkins 2",
+      "team": "BAL",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 499,
+        "receivingYards": 263,
+        "receptions": 15,
+        "targets": 26,
+        "receivingTDs": 1,
+        "redZoneTargets": 4,
+        "blockingSnaps": 253,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CIN_TE_2",
+      "name": "Derrick Barkley 2",
+      "team": "CIN",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 341,
+        "receivingYards": 263,
+        "receptions": 12,
+        "targets": 20,
+        "receivingTDs": 2,
+        "redZoneTargets": 3,
+        "blockingSnaps": 107,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TB_TE_2",
+      "name": "Alvin Andrews 2",
+      "team": "TB",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 494,
+        "receivingYards": 260,
+        "receptions": 17,
+        "targets": 13,
+        "receivingTDs": 1,
+        "redZoneTargets": 3,
+        "blockingSnaps": 125,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "IND_TE_2",
+      "name": "Patrick Kamara 2",
+      "team": "IND",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 326,
+        "receivingYards": 256,
+        "receptions": 10,
+        "targets": 15,
+        "receivingTDs": 2,
+        "redZoneTargets": 3,
+        "blockingSnaps": 276,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "TEN_TE_2",
+      "name": "Darren Diggs 2",
+      "team": "TEN",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 385,
+        "receivingYards": 253,
+        "receptions": 18,
+        "targets": 17,
+        "receivingTDs": 1,
+        "redZoneTargets": 3,
+        "blockingSnaps": 174,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "BUF_TE_2",
+      "name": "Christian Andrews 2",
+      "team": "BUF",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 346,
+        "receivingYards": 241,
+        "receptions": 17,
+        "targets": 26,
+        "receivingTDs": 1,
+        "redZoneTargets": 4,
+        "blockingSnaps": 154,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "JAX_TE_2",
+      "name": "Darren Herbert 2",
+      "team": "JAX",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 321,
+        "receivingYards": 238,
+        "receptions": 11,
+        "targets": 27,
+        "receivingTDs": 2,
+        "redZoneTargets": 1,
+        "blockingSnaps": 209,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ARI_TE_2",
+      "name": "Mike Kelce 2",
+      "team": "ARI",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 354,
+        "receivingYards": 228,
+        "receptions": 11,
+        "targets": 17,
+        "receivingTDs": 1,
+        "redZoneTargets": 2,
+        "blockingSnaps": 128,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LV_TE_2",
+      "name": "George Waller 2",
+      "team": "LV",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 407,
+        "receivingYards": 219,
+        "receptions": 19,
+        "targets": 23,
+        "receivingTDs": 1,
+        "redZoneTargets": 3,
+        "blockingSnaps": 212,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NO_TE_2",
+      "name": "Tyreek Herbert 2",
+      "team": "NO",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 423,
+        "receivingYards": 216,
+        "receptions": 11,
+        "targets": 16,
+        "receivingTDs": 3,
+        "redZoneTargets": 5,
+        "blockingSnaps": 289,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DAL_TE_2",
+      "name": "George Andrews 2",
+      "team": "DAL",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 361,
+        "receivingYards": 215,
+        "receptions": 19,
+        "targets": 29,
+        "receivingTDs": 1,
+        "redZoneTargets": 3,
+        "blockingSnaps": 273,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "PIT_TE_2",
+      "name": "Josh Kamara 2",
+      "team": "PIT",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 462,
+        "receivingYards": 213,
+        "receptions": 11,
+        "targets": 18,
+        "receivingTDs": 1,
+        "redZoneTargets": 4,
+        "blockingSnaps": 244,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "LAR_TE_2",
+      "name": "Mark Ertz 2",
+      "team": "LAR",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 381,
+        "receivingYards": 210,
+        "receptions": 13,
+        "targets": 13,
+        "receivingTDs": 1,
+        "redZoneTargets": 1,
+        "blockingSnaps": 288,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CAR_TE_2",
+      "name": "Mark Ridley 2",
+      "team": "CAR",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 423,
+        "receivingYards": 208,
+        "receptions": 17,
+        "targets": 19,
+        "receivingTDs": 3,
+        "redZoneTargets": 3,
+        "blockingSnaps": 178,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DET_TE_2",
+      "name": "Darren Andrews 2",
+      "team": "DET",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 429,
+        "receivingYards": 206,
+        "receptions": 12,
+        "targets": 14,
+        "receivingTDs": 3,
+        "redZoneTargets": 1,
+        "blockingSnaps": 276,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SEA_TE_2",
+      "name": "Aaron Ertz 2",
+      "team": "SEA",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 379,
+        "receivingYards": 183,
+        "receptions": 13,
+        "targets": 28,
+        "receivingTDs": 1,
+        "redZoneTargets": 1,
+        "blockingSnaps": 186,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NE_TE_2",
+      "name": "Christian Kelce 2",
+      "team": "NE",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 498,
+        "receivingYards": 168,
+        "receptions": 17,
+        "targets": 29,
+        "receivingTDs": 2,
+        "redZoneTargets": 2,
+        "blockingSnaps": 120,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CHI_TE_2",
+      "name": "Alvin Taylor 2",
+      "team": "CHI",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 390,
+        "receivingYards": 163,
+        "receptions": 19,
+        "targets": 17,
+        "receivingTDs": 1,
+        "redZoneTargets": 3,
+        "blockingSnaps": 129,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "HOU_TE_2",
+      "name": "Davante Andrews 2",
+      "team": "HOU",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 458,
+        "receivingYards": 148,
+        "receptions": 9,
+        "targets": 25,
+        "receivingTDs": 1,
+        "redZoneTargets": 3,
+        "blockingSnaps": 161,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIA_TE_2",
+      "name": "Christian Herbert 2",
+      "team": "MIA",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 481,
+        "receivingYards": 143,
+        "receptions": 18,
+        "targets": 22,
+        "receivingTDs": 2,
+        "redZoneTargets": 2,
+        "blockingSnaps": 152,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "GB_TE_2",
+      "name": "Saquon Allen 2",
+      "team": "GB",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 392,
+        "receivingYards": 125,
+        "receptions": 13,
+        "targets": 22,
+        "receivingTDs": 1,
+        "redZoneTargets": 2,
+        "blockingSnaps": 250,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYJ_TE_2",
+      "name": "Calvin Ekeler 2",
+      "team": "NYJ",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 388,
+        "receivingYards": 122,
+        "receptions": 16,
+        "targets": 17,
+        "receivingTDs": 3,
+        "redZoneTargets": 4,
+        "blockingSnaps": 183,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "DEN_TE_2",
+      "name": "Josh Barkley 2",
+      "team": "DEN",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 14,
+        "snapCount": 402,
+        "receivingYards": 120,
+        "receptions": 20,
+        "targets": 27,
+        "receivingTDs": 1,
+        "redZoneTargets": 5,
+        "blockingSnaps": 275,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "SF_TE_2",
+      "name": "Russell Kittle 2",
+      "team": "SF",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 391,
+        "receivingYards": 112,
+        "receptions": 16,
+        "targets": 26,
+        "receivingTDs": 1,
+        "redZoneTargets": 3,
+        "blockingSnaps": 143,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "KC_TE_2",
+      "name": "Tyler Hill 2",
+      "team": "KC",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 342,
+        "receivingYards": 111,
+        "receptions": 18,
+        "targets": 21,
+        "receivingTDs": 2,
+        "redZoneTargets": 5,
+        "blockingSnaps": 269,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "WAS_TE_2",
+      "name": "Derrick Henry 2",
+      "team": "WAS",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 370,
+        "receivingYards": 110,
+        "receptions": 10,
+        "targets": 22,
+        "receivingTDs": 1,
+        "redZoneTargets": 2,
+        "blockingSnaps": 144,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "CLE_TE_2",
+      "name": "Rob Wilson 2",
+      "team": "CLE",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 316,
+        "receivingYards": 103,
+        "receptions": 13,
+        "targets": 21,
+        "receivingTDs": 1,
+        "redZoneTargets": 4,
+        "blockingSnaps": 117,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "NYG_TE_2",
+      "name": "Russell McCaffrey 2",
+      "team": "NYG",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 342,
+        "receivingYards": 102,
+        "receptions": 13,
+        "targets": 29,
+        "receivingTDs": 2,
+        "redZoneTargets": 2,
+        "blockingSnaps": 245,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "ATL_TE_2",
+      "name": "Calvin Kittle 2",
+      "team": "ATL",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 13,
+        "snapCount": 488,
+        "receivingYards": 101,
+        "receptions": 9,
+        "targets": 15,
+        "receivingTDs": 1,
+        "redZoneTargets": 3,
+        "blockingSnaps": 175,
+        "fantasyPoints": 0
+      }
+    },
+    {
+      "id": "MIN_TE_2",
+      "name": "DeAndre Hopkins 2",
+      "team": "MIN",
+      "position": "TE",
+      "stats": {
+        "gamesPlayed": 12,
+        "snapCount": 375,
+        "receivingYards": 98,
+        "receptions": 12,
+        "targets": 28,
+        "receivingTDs": 1,
+        "redZoneTargets": 3,
+        "blockingSnaps": 185,
+        "fantasyPoints": 0
+      }
+    }
+  ]
+}

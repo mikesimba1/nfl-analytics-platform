@@ -1,0 +1,56 @@
+{
+  "dataFlow": {
+    "source": [
+      "nfl_data/player_stats/2024_seasonal_stats.csv",
+      "nfl_data/player_stats/2024_weekly_stats.csv",
+      "nfl_data/rosters/2024_rosters.csv",
+      "nfl_data/rosters/2024_snap_counts.csv"
+    ],
+    "derived": [
+      "nfl_data/enhanced_rosters.csv",
+      "nfl_data/real_defensive_rankings_2024.csv",
+      "nfl_data/team_ratings.csv"
+    ]
+  },
+  "transformations": {
+    "enhanced_rosters.csv": {
+      "source": "player_stats/2024_seasonal_stats.csv + rosters/2024_rosters.csv",
+      "operations": [
+        "aggregation",
+        "calculation",
+        "normalization"
+      ],
+      "keyFields": [
+        "player_id",
+        "total_passing_yards",
+        "avg_passing_yards",
+        "fantasy_points"
+      ]
+    },
+    "real_defensive_rankings_2024.csv": {
+      "source": "team aggregated data",
+      "operations": [
+        "ranking",
+        "sorting"
+      ],
+      "keyFields": [
+        "team",
+        "passing_yards_rank",
+        "fantasy_points_rank"
+      ]
+    },
+    "team_ratings.csv": {
+      "source": "multiple team statistics",
+      "operations": [
+        "rating calculation",
+        "normalization"
+      ],
+      "keyFields": [
+        "team",
+        "offensive_rating",
+        "defensive_rating"
+      ]
+    }
+  },
+  "lastUpdated": "2025-06-12T22:22:00.912Z"
+}

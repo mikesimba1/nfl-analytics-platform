@@ -1,0 +1,702 @@
+{
+  "totalGames": 16,
+  "totalBettingAngles": 13,
+  "totalCorrelations": 96,
+  "topBettingAngles": [
+    {
+      "player": "Tyler Metcalf",
+      "team": "HOU",
+      "position": "QB",
+      "prop": "passingYards",
+      "bookLine": 245,
+      "projection": "254.6",
+      "edge": "9.6",
+      "edgePercent": "3.9%",
+      "recommendation": "OVER",
+      "confidence": 90,
+      "reasoning": "Projection exceeds book line by 9.6 units"
+    },
+    {
+      "player": "Lamar Kamara",
+      "team": "PIT",
+      "position": "QB",
+      "prop": "passingYards",
+      "bookLine": 235,
+      "projection": "244.2",
+      "edge": "9.2",
+      "edgePercent": "3.9%",
+      "recommendation": "OVER",
+      "confidence": 90,
+      "reasoning": "Projection exceeds book line by 9.2 units"
+    },
+    {
+      "player": "Stefon Ekeler",
+      "team": "BAL",
+      "position": "QB",
+      "prop": "passingYards",
+      "bookLine": 245,
+      "projection": "253.5",
+      "edge": "8.5",
+      "edgePercent": "3.5%",
+      "recommendation": "OVER",
+      "confidence": 85,
+      "reasoning": "Projection exceeds book line by 8.5 units"
+    },
+    {
+      "player": "Nick Metcalf",
+      "team": "LAC",
+      "position": "QB",
+      "prop": "passingYards",
+      "bookLine": 285,
+      "projection": "292.8",
+      "edge": "7.8",
+      "edgePercent": "2.7%",
+      "recommendation": "OVER",
+      "confidence": 90,
+      "reasoning": "Projection exceeds book line by 7.8 units"
+    },
+    {
+      "player": "DK Barkley",
+      "team": "CIN",
+      "position": "QB",
+      "prop": "passingYards",
+      "bookLine": 295,
+      "projection": "302.7",
+      "edge": "7.7",
+      "edgePercent": "2.6%",
+      "recommendation": "OVER",
+      "confidence": 85,
+      "reasoning": "Projection exceeds book line by 7.7 units"
+    }
+  ],
+  "gameBreakdowns": [
+    {
+      "gameId": "2024_week15_game1",
+      "matchup": "MIA @ BUF",
+      "keyPlayers": [
+        {
+          "name": "George Pitts",
+          "team": "MIA",
+          "position": "QB",
+          "projection": "23.6",
+          "confidence": 90
+        },
+        {
+          "name": "Christian Brady",
+          "team": "MIA",
+          "position": "WR",
+          "projection": "21.8",
+          "confidence": 90
+        },
+        {
+          "name": "George Prescott",
+          "team": "BUF",
+          "position": "QB",
+          "projection": "21.1",
+          "confidence": 90
+        }
+      ],
+      "topAngles": []
+    },
+    {
+      "gameId": "2024_week15_game2",
+      "matchup": "NYJ @ NE",
+      "keyPlayers": [
+        {
+          "name": "Justin Allen",
+          "team": "NE",
+          "position": "WR",
+          "projection": "23.9",
+          "confidence": 85
+        },
+        {
+          "name": "DK Chubb",
+          "team": "NYJ",
+          "position": "QB",
+          "projection": "18.7",
+          "confidence": 85
+        },
+        {
+          "name": "Austin Ertz",
+          "team": "NYJ",
+          "position": "RB",
+          "projection": "18.6",
+          "confidence": 85
+        }
+      ],
+      "topAngles": []
+    },
+    {
+      "gameId": "2024_week15_game3",
+      "matchup": "CIN @ BAL",
+      "keyPlayers": [
+        {
+          "name": "Stefon Ekeler",
+          "team": "BAL",
+          "position": "QB",
+          "projection": "18.8",
+          "confidence": 85
+        },
+        {
+          "name": "DK Barkley",
+          "team": "CIN",
+          "position": "QB",
+          "projection": "18.7",
+          "confidence": 85
+        },
+        {
+          "name": "Justin Brady",
+          "team": "BAL",
+          "position": "RB",
+          "projection": "18.7",
+          "confidence": 90
+        }
+      ],
+      "topAngles": [
+        {
+          "player": "Stefon Ekeler",
+          "team": "BAL",
+          "position": "QB",
+          "prop": "passingYards",
+          "bookLine": 245,
+          "projection": "253.5",
+          "edge": "8.5",
+          "edgePercent": "3.5%",
+          "recommendation": "OVER",
+          "confidence": 85,
+          "reasoning": "Projection exceeds book line by 8.5 units"
+        },
+        {
+          "player": "DK Barkley",
+          "team": "CIN",
+          "position": "QB",
+          "prop": "passingYards",
+          "bookLine": 295,
+          "projection": "302.7",
+          "edge": "7.7",
+          "edgePercent": "2.6%",
+          "recommendation": "OVER",
+          "confidence": 85,
+          "reasoning": "Projection exceeds book line by 7.7 units"
+        }
+      ]
+    },
+    {
+      "gameId": "2024_week15_game4",
+      "matchup": "PIT @ CLE",
+      "keyPlayers": [
+        {
+          "name": "Russell Allen",
+          "team": "PIT",
+          "position": "WR",
+          "projection": "21.4",
+          "confidence": 90
+        },
+        {
+          "name": "Lamar Kamara",
+          "team": "PIT",
+          "position": "QB",
+          "projection": "19.1",
+          "confidence": 90
+        },
+        {
+          "name": "Nick Metcalf",
+          "team": "CLE",
+          "position": "QB",
+          "projection": "18.7",
+          "confidence": 85
+        }
+      ],
+      "topAngles": [
+        {
+          "player": "Lamar Kamara",
+          "team": "PIT",
+          "position": "QB",
+          "prop": "passingYards",
+          "bookLine": 235,
+          "projection": "244.2",
+          "edge": "9.2",
+          "edgePercent": "3.9%",
+          "recommendation": "OVER",
+          "confidence": 90,
+          "reasoning": "Projection exceeds book line by 9.2 units"
+        }
+      ]
+    },
+    {
+      "gameId": "2024_week15_game5",
+      "matchup": "IND @ HOU",
+      "keyPlayers": [
+        {
+          "name": "Tyler Metcalf",
+          "team": "HOU",
+          "position": "QB",
+          "projection": "22.1",
+          "confidence": 90
+        },
+        {
+          "name": "Lamar Diggs",
+          "team": "IND",
+          "position": "WR",
+          "projection": "17.2",
+          "confidence": 90
+        },
+        {
+          "name": "Russell Evans",
+          "team": "HOU",
+          "position": "RB",
+          "projection": "16.6",
+          "confidence": 95
+        }
+      ],
+      "topAngles": [
+        {
+          "player": "Tyler Metcalf",
+          "team": "HOU",
+          "position": "QB",
+          "prop": "passingYards",
+          "bookLine": 245,
+          "projection": "254.6",
+          "edge": "9.6",
+          "edgePercent": "3.9%",
+          "recommendation": "OVER",
+          "confidence": 90,
+          "reasoning": "Projection exceeds book line by 9.6 units"
+        },
+        {
+          "player": "Mike Hill",
+          "team": "IND",
+          "position": "QB",
+          "prop": "passingYards",
+          "bookLine": 215,
+          "projection": "221.9",
+          "edge": "6.9",
+          "edgePercent": "3.2%",
+          "recommendation": "OVER",
+          "confidence": 90,
+          "reasoning": "Projection exceeds book line by 6.9 units"
+        }
+      ]
+    },
+    {
+      "gameId": "2024_week15_game6",
+      "matchup": "TEN @ JAX",
+      "keyPlayers": [
+        {
+          "name": "Justin Metcalf",
+          "team": "TEN",
+          "position": "WR",
+          "projection": "19.7",
+          "confidence": 90
+        },
+        {
+          "name": "Joe Higbee",
+          "team": "JAX",
+          "position": "QB",
+          "projection": "18.9",
+          "confidence": 90
+        },
+        {
+          "name": "Rob Barkley",
+          "team": "JAX",
+          "position": "WR",
+          "projection": "18.8",
+          "confidence": 95
+        }
+      ],
+      "topAngles": [
+        {
+          "player": "Derrick Ertz",
+          "team": "TEN",
+          "position": "QB",
+          "prop": "passingYards",
+          "bookLine": 185,
+          "projection": "190.6",
+          "edge": "5.6",
+          "edgePercent": "3.0%",
+          "recommendation": "OVER",
+          "confidence": 90,
+          "reasoning": "Projection exceeds book line by 5.6 units"
+        }
+      ]
+    },
+    {
+      "gameId": "2024_week15_game7",
+      "matchup": "KC @ DEN",
+      "keyPlayers": [
+        {
+          "name": "DeAndre Ridley",
+          "team": "KC",
+          "position": "QB",
+          "projection": "20.6",
+          "confidence": 95
+        },
+        {
+          "name": "Davante Kelce",
+          "team": "DEN",
+          "position": "RB",
+          "projection": "20.3",
+          "confidence": 90
+        },
+        {
+          "name": "Rob Prescott",
+          "team": "DEN",
+          "position": "QB",
+          "projection": "19.6",
+          "confidence": 90
+        }
+      ],
+      "topAngles": [
+        {
+          "player": "Rob Prescott",
+          "team": "DEN",
+          "position": "QB",
+          "prop": "passingYards",
+          "bookLine": 255,
+          "projection": "262.7",
+          "edge": "7.7",
+          "edgePercent": "3.0%",
+          "recommendation": "OVER",
+          "confidence": 90,
+          "reasoning": "Projection exceeds book line by 7.7 units"
+        }
+      ]
+    },
+    {
+      "gameId": "2024_week15_game8",
+      "matchup": "LAC @ LV",
+      "keyPlayers": [
+        {
+          "name": "Nick Metcalf",
+          "team": "LAC",
+          "position": "QB",
+          "projection": "21.8",
+          "confidence": 90
+        },
+        {
+          "name": "Kyle Chubb",
+          "team": "LAC",
+          "position": "WR",
+          "projection": "19.6",
+          "confidence": 90
+        },
+        {
+          "name": "Justin Evans",
+          "team": "LV",
+          "position": "WR",
+          "projection": "19.0",
+          "confidence": 90
+        }
+      ],
+      "topAngles": [
+        {
+          "player": "Nick Metcalf",
+          "team": "LAC",
+          "position": "QB",
+          "prop": "passingYards",
+          "bookLine": 285,
+          "projection": "292.8",
+          "edge": "7.8",
+          "edgePercent": "2.7%",
+          "recommendation": "OVER",
+          "confidence": 90,
+          "reasoning": "Projection exceeds book line by 7.8 units"
+        }
+      ]
+    },
+    {
+      "gameId": "2024_week15_game9",
+      "matchup": "NYG @ DAL",
+      "keyPlayers": [
+        {
+          "name": "Dak Allen",
+          "team": "NYG",
+          "position": "QB",
+          "projection": "22.4",
+          "confidence": 95
+        },
+        {
+          "name": "Travis Jackson",
+          "team": "DAL",
+          "position": "QB",
+          "projection": "18.5",
+          "confidence": 95
+        },
+        {
+          "name": "Davante Andrews",
+          "team": "NYG",
+          "position": "RB",
+          "projection": "18.3",
+          "confidence": 95
+        }
+      ],
+      "topAngles": []
+    },
+    {
+      "gameId": "2024_week15_game10",
+      "matchup": "WAS @ PHI",
+      "keyPlayers": [
+        {
+          "name": "Jonathan Prescott",
+          "team": "WAS",
+          "position": "QB",
+          "projection": "19.6",
+          "confidence": 85
+        },
+        {
+          "name": "Travis Pitts",
+          "team": "PHI",
+          "position": "QB",
+          "projection": "19.6",
+          "confidence": 85
+        },
+        {
+          "name": "DK Herbert",
+          "team": "PHI",
+          "position": "RB",
+          "projection": "15.2",
+          "confidence": 85
+        }
+      ],
+      "topAngles": [
+        {
+          "player": "Jonathan Prescott",
+          "team": "WAS",
+          "position": "QB",
+          "prop": "passingYards",
+          "bookLine": 265,
+          "projection": "272.3",
+          "edge": "7.3",
+          "edgePercent": "2.8%",
+          "recommendation": "OVER",
+          "confidence": 85,
+          "reasoning": "Projection exceeds book line by 7.3 units"
+        }
+      ]
+    },
+    {
+      "gameId": "2024_week15_game11",
+      "matchup": "DET @ CHI",
+      "keyPlayers": [
+        {
+          "name": "Darren Taylor",
+          "team": "DET",
+          "position": "RB",
+          "projection": "19.1",
+          "confidence": 90
+        },
+        {
+          "name": "Tyreek Taylor",
+          "team": "CHI",
+          "position": "QB",
+          "projection": "18.2",
+          "confidence": 90
+        },
+        {
+          "name": "Ezekiel Kittle",
+          "team": "DET",
+          "position": "QB",
+          "projection": "17.4",
+          "confidence": 90
+        }
+      ],
+      "topAngles": [
+        {
+          "player": "Tyreek Taylor",
+          "team": "CHI",
+          "position": "QB",
+          "prop": "passingYards",
+          "bookLine": 245,
+          "projection": "252.0",
+          "edge": "7.0",
+          "edgePercent": "2.9%",
+          "recommendation": "OVER",
+          "confidence": 90,
+          "reasoning": "Projection exceeds book line by 7.0 units"
+        }
+      ]
+    },
+    {
+      "gameId": "2024_week15_game12",
+      "matchup": "MIN @ GB",
+      "keyPlayers": [
+        {
+          "name": "Ezekiel Kelce",
+          "team": "GB",
+          "position": "QB",
+          "projection": "23.1",
+          "confidence": 90
+        },
+        {
+          "name": "Rob Andrews",
+          "team": "MIN",
+          "position": "QB",
+          "projection": "19.1",
+          "confidence": 95
+        },
+        {
+          "name": "Nick Henry",
+          "team": "GB",
+          "position": "RB",
+          "projection": "18.5",
+          "confidence": 90
+        }
+      ],
+      "topAngles": [
+        {
+          "player": "Ezekiel Kelce",
+          "team": "GB",
+          "position": "QB",
+          "prop": "passingYards",
+          "bookLine": 245,
+          "projection": "250.7",
+          "edge": "5.7",
+          "edgePercent": "2.3%",
+          "recommendation": "OVER",
+          "confidence": 90,
+          "reasoning": "Projection exceeds book line by 5.7 units"
+        }
+      ]
+    },
+    {
+      "gameId": "2024_week15_game13",
+      "matchup": "CAR @ ATL",
+      "keyPlayers": [
+        {
+          "name": "Darren Andrews",
+          "team": "ATL",
+          "position": "QB",
+          "projection": "23.4",
+          "confidence": 90
+        },
+        {
+          "name": "Tua Hill",
+          "team": "ATL",
+          "position": "RB",
+          "projection": "16.7",
+          "confidence": 95
+        },
+        {
+          "name": "Nick Prescott",
+          "team": "CAR",
+          "position": "QB",
+          "projection": "16.6",
+          "confidence": 95
+        }
+      ],
+      "topAngles": [
+        {
+          "player": "Darren Andrews",
+          "team": "ATL",
+          "position": "QB",
+          "prop": "passingYards",
+          "bookLine": 325,
+          "projection": "332.0",
+          "edge": "7.0",
+          "edgePercent": "2.2%",
+          "recommendation": "OVER",
+          "confidence": 90,
+          "reasoning": "Projection exceeds book line by 7.0 units"
+        }
+      ]
+    },
+    {
+      "gameId": "2024_week15_game14",
+      "matchup": "TB @ NO",
+      "keyPlayers": [
+        {
+          "name": "Calvin Allen",
+          "team": "TB",
+          "position": "QB",
+          "projection": "19.0",
+          "confidence": 90
+        },
+        {
+          "name": "Patrick Evans",
+          "team": "TB",
+          "position": "RB",
+          "projection": "18.7",
+          "confidence": 90
+        },
+        {
+          "name": "Travis Diggs",
+          "team": "NO",
+          "position": "QB",
+          "projection": "17.8",
+          "confidence": 95
+        }
+      ],
+      "topAngles": []
+    },
+    {
+      "gameId": "2024_week15_game15",
+      "matchup": "LAR @ ARI",
+      "keyPlayers": [
+        {
+          "name": "Mike McCaffrey",
+          "team": "ARI",
+          "position": "QB",
+          "projection": "23.9",
+          "confidence": 90
+        },
+        {
+          "name": "Austin Herbert",
+          "team": "ARI",
+          "position": "RB",
+          "projection": "20.9",
+          "confidence": 95
+        },
+        {
+          "name": "Austin Mahomes",
+          "team": "ARI",
+          "position": "WR",
+          "projection": "17.4",
+          "confidence": 95
+        }
+      ],
+      "topAngles": [
+        {
+          "player": "Tom Chubb",
+          "team": "LAR",
+          "position": "QB",
+          "prop": "passingYards",
+          "bookLine": 185,
+          "projection": "192.0",
+          "edge": "7.0",
+          "edgePercent": "3.8%",
+          "recommendation": "OVER",
+          "confidence": 95,
+          "reasoning": "Projection exceeds book line by 7.0 units"
+        }
+      ]
+    },
+    {
+      "gameId": "2024_week15_game16",
+      "matchup": "SEA @ SF",
+      "keyPlayers": [
+        {
+          "name": "Keenan Brady",
+          "team": "SEA",
+          "position": "QB",
+          "projection": "26.9",
+          "confidence": 90
+        },
+        {
+          "name": "Davante Taylor",
+          "team": "SF",
+          "position": "WR",
+          "projection": "20.3",
+          "confidence": 90
+        },
+        {
+          "name": "Stefon Chubb",
+          "team": "SEA",
+          "position": "WR",
+          "projection": "18.8",
+          "confidence": 85
+        }
+      ],
+      "topAngles": []
+    }
+  ]
+}

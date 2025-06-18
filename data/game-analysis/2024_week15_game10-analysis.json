@@ -1,0 +1,999 @@
+{
+  "gameInfo": {
+    "id": "2024_week15_game10",
+    "matchup": "WAS @ PHI",
+    "date": "2025-06-15T00:36:41.830Z",
+    "lines": {
+      "spread": "-6.5",
+      "total": "48.4",
+      "moneyline": {
+        "home": -75,
+        "away": 53
+      }
+    }
+  },
+  "gameContext": {
+    "spread": -6.5,
+    "total": 48.4,
+    "impliedTotals": {
+      "home": "27.4",
+      "away": "20.9"
+    },
+    "gameScript": {
+      "type": "high_scoring",
+      "confidence": "medium",
+      "impact": "Both teams likely to throw frequently"
+    },
+    "paceFactor": {
+      "expectedPlays": 67,
+      "paceRating": "fast"
+    },
+    "environment": {
+      "venue": "Philadelphia Eagles Stadium",
+      "weather": {
+        "conditions": "Clear",
+        "temperature": 65,
+        "wind": 5,
+        "impact": "minimal"
+      },
+      "primetime": false
+    }
+  },
+  "keyInsights": [
+    {
+      "type": "game_script",
+      "title": "High-Scoring Environment",
+      "description": "Game total of 48.4 suggests both teams will need to score frequently",
+      "impact": "Positive for all skill position players",
+      "confidence": "High"
+    },
+    {
+      "type": "pace",
+      "title": "Fast-Paced Game Expected",
+      "description": "Projected 67 plays creates more opportunities",
+      "impact": "Increases volume for all players",
+      "confidence": "Medium"
+    },
+    {
+      "type": "player_spotlight",
+      "title": "WAS Key Players",
+      "description": "Top projected performers: Jonathan Prescott (19.6 pts), Tom Ertz (14.2 pts), Lamar Herbert (14.1 pts), Tua Kelce (12.2 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    },
+    {
+      "type": "player_spotlight",
+      "title": "PHI Key Players",
+      "description": "Top projected performers: Travis Pitts (19.6 pts), DK Herbert (15.2 pts), Ezekiel Elliott 2 (15.0 pts), Derrick Gronkowski (13.3 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    }
+  ],
+  "playerAnalysis": {
+    "WAS": {
+      "QB": [
+        {
+          "player": {
+            "id": "WAS_QB_1",
+            "name": "Jonathan Prescott",
+            "team": "WAS",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "272.3",
+            "passingTDs": "1.65",
+            "interceptions": "1.05",
+            "rushingYards": "30.9",
+            "rushingTDs": "0.18",
+            "fantasyPoints": "19.6"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #20 QB defense",
+            "rank": 20
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 265,
+              "over": -110,
+              "under": -110,
+              "projection": 272.3
+            },
+            "passingTDs": {
+              "line": 1,
+              "over": -115,
+              "under": -105,
+              "projection": 1.65
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "WAS_RB_1",
+            "name": "Tua Kelce",
+            "team": "WAS",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "29.6",
+            "rushingTDs": "0.58",
+            "carries": "12.3",
+            "receivingYards": "17.7",
+            "receptions": "2.3",
+            "receivingTDs": "0.29",
+            "fantasyPoints": "12.2"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #12 RB defense",
+            "rank": 12
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 27.5,
+              "over": -110,
+              "under": -110,
+              "projection": 29.6
+            },
+            "receptions": {
+              "line": 2,
+              "over": -105,
+              "under": -115,
+              "projection": 2.3
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "WAS_RB_2",
+            "name": "Keenan Mahomes 2",
+            "team": "WAS",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "31.7",
+            "rushingTDs": "0.15",
+            "carries": "3.7",
+            "receivingYards": "12.0",
+            "receptions": "0.7",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "6.5"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #12 RB defense",
+            "rank": 12
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 27.5,
+              "over": -110,
+              "under": -110,
+              "projection": 31.7
+            },
+            "receptions": {
+              "line": 0,
+              "over": -105,
+              "under": -115,
+              "projection": 0.7
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "WAS_WR_1",
+            "name": "Lamar Herbert",
+            "team": "WAS",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "72.1",
+            "receptions": "4.1",
+            "targets": "9.7",
+            "receivingTDs": "0.46",
+            "fantasyPoints": "14.1"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #24 WR defense",
+            "rank": 24
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities",
+            "High target share indicates consistent volume"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 67.5,
+              "over": -110,
+              "under": -110,
+              "projection": 72.1
+            },
+            "receptions": {
+              "line": 3.5,
+              "over": -110,
+              "under": -110,
+              "projection": 4.1
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "WAS_WR_2",
+            "name": "Stefon Rodgers 2",
+            "team": "WAS",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "60.0",
+            "receptions": "3.4",
+            "targets": "4.5",
+            "receivingTDs": "0.55",
+            "fantasyPoints": "12.7"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #32 WR defense",
+            "rank": 32
+          },
+          "keyFactors": [
+            "Favorable matchup vs #32 defense",
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 57.5,
+              "over": -110,
+              "under": -110,
+              "projection": 60
+            },
+            "receptions": {
+              "line": 3,
+              "over": -110,
+              "under": -110,
+              "projection": 3.4
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "WAS_WR_3",
+            "name": "Aaron Metcalf 3",
+            "team": "WAS",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "32.3",
+            "receptions": "2.5",
+            "targets": "2.7",
+            "receivingTDs": "0.30",
+            "fantasyPoints": "7.5"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #16 WR defense",
+            "rank": 16
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 27.5,
+              "over": -110,
+              "under": -110,
+              "projection": 32.3
+            },
+            "receptions": {
+              "line": 2,
+              "over": -110,
+              "under": -110,
+              "projection": 2.5
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "WAS_TE_1",
+            "name": "Tom Ertz",
+            "team": "WAS",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "41.7",
+            "receptions": "5.3",
+            "targets": "7.2",
+            "receivingTDs": "0.79",
+            "fantasyPoints": "14.2"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #14 TE defense",
+            "rank": 14
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 37.5,
+              "over": -110,
+              "under": -110,
+              "projection": 41.7
+            },
+            "receptions": {
+              "line": 5,
+              "over": -110,
+              "under": -110,
+              "projection": 5.3
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "WAS_TE_2",
+            "name": "Derrick Henry 2",
+            "team": "WAS",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "9.4",
+            "receptions": "0.8",
+            "targets": "1.8",
+            "receivingTDs": "0.08",
+            "fantasyPoints": "2.2"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #14 TE defense",
+            "rank": 14
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 7.5,
+              "over": -110,
+              "under": -110,
+              "projection": 9.4
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -110,
+              "under": -110,
+              "projection": 0.8
+            }
+          }
+        }
+      ]
+    },
+    "PHI": {
+      "QB": [
+        {
+          "player": {
+            "id": "PHI_QB_1",
+            "name": "Travis Pitts",
+            "team": "PHI",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "277.3",
+            "passingTDs": "1.09",
+            "interceptions": "0.81",
+            "rushingYards": "27.0",
+            "rushingTDs": "0.51",
+            "fantasyPoints": "19.6"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #13 QB defense",
+            "rank": 13
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 275,
+              "over": -110,
+              "under": -110,
+              "projection": 277.3
+            },
+            "passingTDs": {
+              "line": 0.5,
+              "over": -115,
+              "under": -105,
+              "projection": 1.09
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "PHI_RB_1",
+            "name": "DK Herbert",
+            "team": "PHI",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "57.5",
+            "rushingTDs": "0.38",
+            "carries": "11.2",
+            "receivingYards": "33.0",
+            "receptions": "3.4",
+            "receivingTDs": "0.07",
+            "fantasyPoints": "15.2"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #19 RB defense",
+            "rank": 19
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 57.5,
+              "over": -110,
+              "under": -110,
+              "projection": 57.5
+            },
+            "receptions": {
+              "line": 3,
+              "over": -105,
+              "under": -115,
+              "projection": 3.4
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "PHI_RB_2",
+            "name": "Nick Waller 2",
+            "team": "PHI",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "36.3",
+            "rushingTDs": "0.26",
+            "carries": "5.2",
+            "receivingYards": "7.9",
+            "receptions": "0.8",
+            "receivingTDs": "0.00",
+            "fantasyPoints": "6.8"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #19 RB defense",
+            "rank": 19
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 32.5,
+              "over": -110,
+              "under": -110,
+              "projection": 36.3
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -105,
+              "under": -115,
+              "projection": 0.8
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "PHI_WR_2",
+            "name": "Ezekiel Elliott 2",
+            "team": "PHI",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "74.3",
+            "receptions": "4.8",
+            "targets": "5.0",
+            "receivingTDs": "0.46",
+            "fantasyPoints": "15.0"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #10 WR defense",
+            "rank": 10
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 72.5,
+              "over": -110,
+              "under": -110,
+              "projection": 74.3
+            },
+            "receptions": {
+              "line": 4.5,
+              "over": -110,
+              "under": -110,
+              "projection": 4.8
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "PHI_WR_1",
+            "name": "Davante Ekeler",
+            "team": "PHI",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "63.3",
+            "receptions": "4.3",
+            "targets": "5.7",
+            "receivingTDs": "0.31",
+            "fantasyPoints": "12.5"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #10 WR defense",
+            "rank": 10
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 62.5,
+              "over": -110,
+              "under": -110,
+              "projection": 63.3
+            },
+            "receptions": {
+              "line": 4,
+              "over": -110,
+              "under": -110,
+              "projection": 4.3
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "PHI_WR_3",
+            "name": "Austin Hill 3",
+            "team": "PHI",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "39.0",
+            "receptions": "2.1",
+            "targets": "1.9",
+            "receivingTDs": "0.14",
+            "fantasyPoints": "6.8"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #11 WR defense",
+            "rank": 11
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 37.5,
+              "over": -110,
+              "under": -110,
+              "projection": 39
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -110,
+              "under": -110,
+              "projection": 2.1
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "PHI_TE_1",
+            "name": "Derrick Gronkowski",
+            "team": "PHI",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "60.3",
+            "receptions": "4.5",
+            "targets": "7.6",
+            "receivingTDs": "0.46",
+            "fantasyPoints": "13.3"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #10 TE defense",
+            "rank": 10
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "NEUTRAL",
+            "reasoning": [],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 57.5,
+              "over": -110,
+              "under": -110,
+              "projection": 60.3
+            },
+            "receptions": {
+              "line": 4,
+              "over": -110,
+              "under": -110,
+              "projection": 4.5
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "PHI_TE_2",
+            "name": "Zach Prescott 2",
+            "team": "PHI",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "22.6",
+            "receptions": "0.8",
+            "targets": "1.5",
+            "receivingTDs": "0.25",
+            "fantasyPoints": "4.6"
+          },
+          "confidence": 85,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #10 TE defense",
+            "rank": 10
+          },
+          "keyFactors": [
+            "High game total suggests more opportunities"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 22.5,
+              "over": -110,
+              "under": -110,
+              "projection": 22.6
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -110,
+              "under": -110,
+              "projection": 0.8
+            }
+          }
+        }
+      ]
+    }
+  },
+  "bettingAngles": [
+    {
+      "player": "Jonathan Prescott",
+      "team": "WAS",
+      "position": "QB",
+      "prop": "passingYards",
+      "bookLine": 265,
+      "projection": "272.3",
+      "edge": "7.3",
+      "edgePercent": "2.8%",
+      "recommendation": "OVER",
+      "confidence": 85,
+      "reasoning": "Projection exceeds book line by 7.3 units"
+    }
+  ],
+  "correlationPlays": [
+    {
+      "type": "QB_WR1_Stack",
+      "team": "WAS",
+      "players": [
+        {
+          "name": "Jonathan Prescott",
+          "position": "QB",
+          "projection": "19.6"
+        },
+        {
+          "name": "Lamar Herbert",
+          "position": "WR",
+          "projection": "14.1"
+        }
+      ],
+      "combinedProjection": "33.7",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Both teams likely to throw frequently"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "WAS",
+      "players": [
+        {
+          "name": "Lamar Herbert",
+          "position": "WR1",
+          "projection": "14.1"
+        },
+        {
+          "name": "Stefon Rodgers 2",
+          "position": "WR2",
+          "projection": "12.7"
+        }
+      ],
+      "combinedProjection": "26.8",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "Favorable for passing volume"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "WAS",
+      "players": [
+        {
+          "name": "Jonathan Prescott",
+          "position": "QB",
+          "projection": "19.6"
+        },
+        {
+          "name": "Tom Ertz",
+          "position": "TE",
+          "projection": "14.2"
+        }
+      ],
+      "combinedProjection": "33.8",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    },
+    {
+      "type": "QB_WR1_Stack",
+      "team": "PHI",
+      "players": [
+        {
+          "name": "Travis Pitts",
+          "position": "QB",
+          "projection": "19.6"
+        },
+        {
+          "name": "Ezekiel Elliott 2",
+          "position": "WR",
+          "projection": "15.0"
+        }
+      ],
+      "combinedProjection": "34.6",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Both teams likely to throw frequently"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "PHI",
+      "players": [
+        {
+          "name": "Ezekiel Elliott 2",
+          "position": "WR1",
+          "projection": "15.0"
+        },
+        {
+          "name": "Davante Ekeler",
+          "position": "WR2",
+          "projection": "12.5"
+        }
+      ],
+      "combinedProjection": "27.5",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "Favorable for passing volume"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "PHI",
+      "players": [
+        {
+          "name": "Travis Pitts",
+          "position": "QB",
+          "projection": "19.6"
+        },
+        {
+          "name": "Derrick Gronkowski",
+          "position": "TE",
+          "projection": "13.3"
+        }
+      ],
+      "combinedProjection": "32.9",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    }
+  ],
+  "summary": {
+    "matchup": "WAS @ PHI",
+    "gameScript": "high_scoring",
+    "totalProjection": 48.4,
+    "keyPlayers": [
+      {
+        "name": "Jonathan Prescott",
+        "team": "WAS",
+        "position": "QB",
+        "projection": "19.6",
+        "confidence": 85
+      },
+      {
+        "name": "Travis Pitts",
+        "team": "PHI",
+        "position": "QB",
+        "projection": "19.6",
+        "confidence": 85
+      },
+      {
+        "name": "DK Herbert",
+        "team": "PHI",
+        "position": "RB",
+        "projection": "15.2",
+        "confidence": 85
+      },
+      {
+        "name": "Ezekiel Elliott 2",
+        "team": "PHI",
+        "position": "WR",
+        "projection": "15.0",
+        "confidence": 85
+      },
+      {
+        "name": "Tom Ertz",
+        "team": "WAS",
+        "position": "TE",
+        "projection": "14.2",
+        "confidence": 85
+      }
+    ],
+    "topBets": [],
+    "riskFactors": []
+  }
+}

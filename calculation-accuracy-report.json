@@ -1,0 +1,23 @@
+{
+  "playerStatsValidation": {
+    "verified": 0,
+    "failed": 0,
+    "issues": []
+  },
+  "aggregationValidation": {
+    "verified": 6,
+    "failed": 1,
+    "issues": [
+      "overall_defense_rank\r: Invalid ranking range (2-31) or too many duplicates"
+    ]
+  },
+  "calculationValidation": {
+    "verified": 21,
+    "failed": 0,
+    "issues": []
+  },
+  "overall": {
+    "score": 96,
+    "status": "EXCELLENT"
+  }
+}

@@ -1,0 +1,965 @@
+{
+  "gameInfo": {
+    "id": "2024_week15_game1",
+    "matchup": "MIA @ BUF",
+    "date": "2025-06-14T00:36:41.830Z",
+    "lines": {
+      "spread": "-4.2",
+      "total": "46.4",
+      "moneyline": {
+        "home": -117,
+        "away": 39
+      }
+    }
+  },
+  "gameContext": {
+    "spread": -4.2,
+    "total": 46.4,
+    "impliedTotals": {
+      "home": "25.3",
+      "away": "21.1"
+    },
+    "gameScript": {
+      "type": "competitive",
+      "confidence": "high",
+      "impact": "Balanced game script expected"
+    },
+    "paceFactor": {
+      "expectedPlays": 66,
+      "paceRating": "average"
+    },
+    "environment": {
+      "venue": "Buffalo Bills Stadium",
+      "weather": {
+        "conditions": "Clear",
+        "temperature": 65,
+        "wind": 5,
+        "impact": "minimal"
+      },
+      "primetime": false
+    }
+  },
+  "keyInsights": [
+    {
+      "type": "player_spotlight",
+      "title": "MIA Key Players",
+      "description": "Top projected performers: George Pitts (23.6 pts), Christian Brady (21.8 pts), Darren Evans (16.4 pts), Dak Adams (12.8 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    },
+    {
+      "type": "player_spotlight",
+      "title": "BUF Key Players",
+      "description": "Top projected performers: George Prescott (21.1 pts), Austin Gronkowski (18.8 pts), Josh Hill (17.6 pts), Ezekiel Herbert (17.3 pts)",
+      "impact": "Primary targets for betting and DFS",
+      "confidence": "High"
+    }
+  ],
+  "playerAnalysis": {
+    "MIA": {
+      "QB": [
+        {
+          "player": {
+            "id": "MIA_QB_1",
+            "name": "George Pitts",
+            "team": "MIA",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "335.4",
+            "passingTDs": "1.60",
+            "interceptions": "0.76",
+            "rushingYards": "22.2",
+            "rushingTDs": "0.51",
+            "fantasyPoints": "23.6"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #20 QB defense",
+            "rank": 20
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 335,
+              "over": -110,
+              "under": -110,
+              "projection": 335.4
+            },
+            "passingTDs": {
+              "line": 1,
+              "over": -115,
+              "under": -105,
+              "projection": 1.6
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "MIA_RB_1",
+            "name": "Darren Evans",
+            "team": "MIA",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "88.3",
+            "rushingTDs": "0.38",
+            "carries": "14.5",
+            "receivingYards": "30.1",
+            "receptions": "1.9",
+            "receivingTDs": "0.07",
+            "fantasyPoints": "16.4"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #28 RB defense",
+            "rank": 28
+          },
+          "keyFactors": [
+            "Favorable matchup vs #28 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 87.5,
+              "over": -110,
+              "under": -110,
+              "projection": 88.3
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -105,
+              "under": -115,
+              "projection": 1.9
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "MIA_RB_2",
+            "name": "Justin Pitts 2",
+            "team": "MIA",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "32.8",
+            "rushingTDs": "0.08",
+            "carries": "7.8",
+            "receivingYards": "9.7",
+            "receptions": "0.8",
+            "receivingTDs": "0.00",
+            "fantasyPoints": "5.5"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #28 RB defense",
+            "rank": 28
+          },
+          "keyFactors": [
+            "Favorable matchup vs #28 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 32.5,
+              "over": -110,
+              "under": -110,
+              "projection": 32.8
+            },
+            "receptions": {
+              "line": 0.5,
+              "over": -105,
+              "under": -115,
+              "projection": 0.8
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "MIA_WR_1",
+            "name": "Christian Brady",
+            "team": "MIA",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "104.5",
+            "receptions": "6.8",
+            "targets": "6.5",
+            "receivingTDs": "0.75",
+            "fantasyPoints": "21.8"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "C",
+            "description": "Average matchup vs #15 WR defense",
+            "rank": 15
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 102.5,
+              "over": -110,
+              "under": -110,
+              "projection": 104.5
+            },
+            "receptions": {
+              "line": 6.5,
+              "over": -110,
+              "under": -110,
+              "projection": 6.8
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "MIA_WR_2",
+            "name": "DeAndre Higbee 2",
+            "team": "MIA",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "37.5",
+            "receptions": "4.3",
+            "targets": "7.3",
+            "receivingTDs": "0.38",
+            "fantasyPoints": "10.3"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #18 WR defense",
+            "rank": 18
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 37.5,
+              "over": -110,
+              "under": -110,
+              "projection": 37.5
+            },
+            "receptions": {
+              "line": 4,
+              "over": -110,
+              "under": -110,
+              "projection": 4.3
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "MIA_WR_3",
+            "name": "Russell Pitts 3",
+            "team": "MIA",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "22.8",
+            "receptions": "1.9",
+            "targets": "2.5",
+            "receivingTDs": "0.15",
+            "fantasyPoints": "5.1"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #18 WR defense",
+            "rank": 18
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 22.5,
+              "over": -110,
+              "under": -110,
+              "projection": 22.8
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -110,
+              "under": -110,
+              "projection": 1.9
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "MIA_TE_1",
+            "name": "Dak Adams",
+            "team": "MIA",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "48.3",
+            "receptions": "5.2",
+            "targets": "7.1",
+            "receivingTDs": "0.46",
+            "fantasyPoints": "12.8"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #32 TE defense",
+            "rank": 32
+          },
+          "keyFactors": [
+            "Favorable matchup vs #32 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 47.5,
+              "over": -110,
+              "under": -110,
+              "projection": 48.3
+            },
+            "receptions": {
+              "line": 4.5,
+              "over": -110,
+              "under": -110,
+              "projection": 5.2
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "MIA_TE_2",
+            "name": "Christian Herbert 2",
+            "team": "MIA",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "12.7",
+            "receptions": "1.6",
+            "targets": "1.9",
+            "receivingTDs": "0.18",
+            "fantasyPoints": "4.0"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #32 TE defense",
+            "rank": 32
+          },
+          "keyFactors": [
+            "Favorable matchup vs #32 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 12.5,
+              "over": -110,
+              "under": -110,
+              "projection": 12.7
+            },
+            "receptions": {
+              "line": 1,
+              "over": -110,
+              "under": -110,
+              "projection": 1.6
+            }
+          }
+        }
+      ]
+    },
+    "BUF": {
+      "QB": [
+        {
+          "player": {
+            "id": "BUF_QB_1",
+            "name": "George Prescott",
+            "team": "BUF",
+            "position": "QB"
+          },
+          "projection": {
+            "passingYards": "306.3",
+            "passingTDs": "1.76",
+            "interceptions": "0.80",
+            "rushingYards": "19.5",
+            "rushingTDs": "0.24",
+            "fantasyPoints": "21.1"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #7 QB defense",
+            "rank": 7
+          },
+          "keyFactors": [
+            "Faces tough #7 defense"
+          ],
+          "recommendation": {
+            "rating": "PLAY",
+            "reasoning": [
+              "Strong fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "passingYards": {
+              "line": 305,
+              "over": -110,
+              "under": -110,
+              "projection": 306.3
+            },
+            "passingTDs": {
+              "line": 1.5,
+              "over": -115,
+              "under": -105,
+              "projection": 1.76
+            }
+          }
+        }
+      ],
+      "RB": [
+        {
+          "player": {
+            "id": "BUF_RB_1",
+            "name": "Ezekiel Herbert",
+            "team": "BUF",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "62.6",
+            "rushingTDs": "0.59",
+            "carries": "12.0",
+            "receivingYards": "40.6",
+            "receptions": "2.4",
+            "receivingTDs": "0.18",
+            "fantasyPoints": "17.3"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #22 RB defense",
+            "rank": 22
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 62.5,
+              "over": -110,
+              "under": -110,
+              "projection": 62.6
+            },
+            "receptions": {
+              "line": 2,
+              "over": -105,
+              "under": -115,
+              "projection": 2.4
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "BUF_RB_2",
+            "name": "Mike Diggs 2",
+            "team": "BUF",
+            "position": "RB"
+          },
+          "projection": {
+            "rushingYards": "19.8",
+            "rushingTDs": "0.14",
+            "carries": "7.2",
+            "receivingYards": "6.8",
+            "receptions": "0.7",
+            "receivingTDs": "0.00",
+            "fantasyPoints": "4.2"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "B",
+            "description": "Good matchup vs #22 RB defense",
+            "rank": 22
+          },
+          "keyFactors": [],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "rushingYards": {
+              "line": 17.5,
+              "over": -110,
+              "under": -110,
+              "projection": 19.8
+            },
+            "receptions": {
+              "line": 0,
+              "over": -105,
+              "under": -115,
+              "projection": 0.7
+            }
+          }
+        }
+      ],
+      "WR": [
+        {
+          "player": {
+            "id": "BUF_WR_1",
+            "name": "Austin Gronkowski",
+            "team": "BUF",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "63.3",
+            "receptions": "7.3",
+            "targets": "11.7",
+            "receivingTDs": "0.87",
+            "fantasyPoints": "18.8"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #28 WR defense",
+            "rank": 28
+          },
+          "keyFactors": [
+            "Favorable matchup vs #28 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 62.5,
+              "over": -110,
+              "under": -110,
+              "projection": 63.3
+            },
+            "receptions": {
+              "line": 7,
+              "over": -110,
+              "under": -110,
+              "projection": 7.3
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "BUF_WR_2",
+            "name": "Calvin Barkley 2",
+            "team": "BUF",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "41.6",
+            "receptions": "5.0",
+            "targets": "3.6",
+            "receivingTDs": "0.32",
+            "fantasyPoints": "11.1"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #28 WR defense",
+            "rank": 28
+          },
+          "keyFactors": [
+            "Favorable matchup vs #28 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 37.5,
+              "over": -110,
+              "under": -110,
+              "projection": 41.6
+            },
+            "receptions": {
+              "line": 4.5,
+              "over": -110,
+              "under": -110,
+              "projection": 5
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "BUF_WR_3",
+            "name": "Travis Metcalf 3",
+            "team": "BUF",
+            "position": "WR"
+          },
+          "projection": {
+            "receivingYards": "20.8",
+            "receptions": "2.0",
+            "targets": "1.8",
+            "receivingTDs": "0.20",
+            "fantasyPoints": "5.3"
+          },
+          "confidence": 90,
+          "matchupGrade": {
+            "grade": "D",
+            "description": "Tough matchup vs #7 WR defense",
+            "rank": 7
+          },
+          "keyFactors": [
+            "Faces tough #7 defense"
+          ],
+          "recommendation": {
+            "rating": "FADE",
+            "reasoning": [
+              "Low fantasy point projection"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 17.5,
+              "over": -110,
+              "under": -110,
+              "projection": 20.8
+            },
+            "receptions": {
+              "line": 1.5,
+              "over": -110,
+              "under": -110,
+              "projection": 2
+            }
+          }
+        }
+      ],
+      "TE": [
+        {
+          "player": {
+            "id": "BUF_TE_1",
+            "name": "Josh Hill",
+            "team": "BUF",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "71.7",
+            "receptions": "5.1",
+            "targets": "6.7",
+            "receivingTDs": "0.88",
+            "fantasyPoints": "17.6"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #32 TE defense",
+            "rank": 32
+          },
+          "keyFactors": [
+            "Favorable matchup vs #32 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 67.5,
+              "over": -110,
+              "under": -110,
+              "projection": 71.7
+            },
+            "receptions": {
+              "line": 4.5,
+              "over": -110,
+              "under": -110,
+              "projection": 5.1
+            }
+          }
+        },
+        {
+          "player": {
+            "id": "BUF_TE_2",
+            "name": "Christian Andrews 2",
+            "team": "BUF",
+            "position": "TE"
+          },
+          "projection": {
+            "receivingYards": "21.4",
+            "receptions": "1.5",
+            "targets": "2.4",
+            "receivingTDs": "0.09",
+            "fantasyPoints": "4.2"
+          },
+          "confidence": 95,
+          "matchupGrade": {
+            "grade": "A",
+            "description": "Excellent matchup vs #32 TE defense",
+            "rank": 32
+          },
+          "keyFactors": [
+            "Favorable matchup vs #32 defense"
+          ],
+          "recommendation": {
+            "rating": "STRONG PLAY",
+            "reasoning": [
+              "High confidence projection with favorable matchup"
+            ],
+            "riskLevel": "Low"
+          },
+          "bettingLines": {
+            "receivingYards": {
+              "line": 17.5,
+              "over": -110,
+              "under": -110,
+              "projection": 21.4
+            },
+            "receptions": {
+              "line": 1,
+              "over": -110,
+              "under": -110,
+              "projection": 1.5
+            }
+          }
+        }
+      ]
+    }
+  },
+  "bettingAngles": [],
+  "correlationPlays": [
+    {
+      "type": "QB_WR1_Stack",
+      "team": "MIA",
+      "players": [
+        {
+          "name": "George Pitts",
+          "position": "QB",
+          "projection": "23.6"
+        },
+        {
+          "name": "Christian Brady",
+          "position": "WR",
+          "projection": "21.8"
+        }
+      ],
+      "combinedProjection": "45.4",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "MIA",
+      "players": [
+        {
+          "name": "Christian Brady",
+          "position": "WR1",
+          "projection": "21.8"
+        },
+        {
+          "name": "DeAndre Higbee 2",
+          "position": "WR2",
+          "projection": "10.3"
+        }
+      ],
+      "combinedProjection": "32.1",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "May limit upside"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "MIA",
+      "players": [
+        {
+          "name": "George Pitts",
+          "position": "QB",
+          "projection": "23.6"
+        },
+        {
+          "name": "Dak Adams",
+          "position": "TE",
+          "projection": "12.8"
+        }
+      ],
+      "combinedProjection": "36.4",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    },
+    {
+      "type": "QB_WR1_Stack",
+      "team": "BUF",
+      "players": [
+        {
+          "name": "George Prescott",
+          "position": "QB",
+          "projection": "21.1"
+        },
+        {
+          "name": "Austin Gronkowski",
+          "position": "WR",
+          "projection": "18.8"
+        }
+      ],
+      "combinedProjection": "39.9",
+      "correlation": "High",
+      "reasoning": "QB passing success directly benefits WR1 targets and yards",
+      "gameContext": "Balanced game script expected"
+    },
+    {
+      "type": "Multi_WR_Stack",
+      "team": "BUF",
+      "players": [
+        {
+          "name": "Austin Gronkowski",
+          "position": "WR1",
+          "projection": "18.8"
+        },
+        {
+          "name": "Calvin Barkley 2",
+          "position": "WR2",
+          "projection": "11.1"
+        }
+      ],
+      "combinedProjection": "29.9",
+      "correlation": "Medium",
+      "reasoning": "High-volume passing games benefit multiple receivers",
+      "gameContext": "May limit upside"
+    },
+    {
+      "type": "QB_TE_Stack",
+      "team": "BUF",
+      "players": [
+        {
+          "name": "George Prescott",
+          "position": "QB",
+          "projection": "21.1"
+        },
+        {
+          "name": "Josh Hill",
+          "position": "TE",
+          "projection": "17.6"
+        }
+      ],
+      "combinedProjection": "38.7",
+      "correlation": "Medium-High",
+      "reasoning": "TEs often targeted in red zone and short-yardage situations",
+      "gameContext": "Reliable in all game scripts"
+    }
+  ],
+  "summary": {
+    "matchup": "MIA @ BUF",
+    "gameScript": "competitive",
+    "totalProjection": 46.4,
+    "keyPlayers": [
+      {
+        "name": "George Pitts",
+        "team": "MIA",
+        "position": "QB",
+        "projection": "23.6",
+        "confidence": 90
+      },
+      {
+        "name": "Christian Brady",
+        "team": "MIA",
+        "position": "WR",
+        "projection": "21.8",
+        "confidence": 90
+      },
+      {
+        "name": "George Prescott",
+        "team": "BUF",
+        "position": "QB",
+        "projection": "21.1",
+        "confidence": 90
+      },
+      {
+        "name": "Austin Gronkowski",
+        "team": "BUF",
+        "position": "WR",
+        "projection": "18.8",
+        "confidence": 95
+      },
+      {
+        "name": "Josh Hill",
+        "team": "BUF",
+        "position": "TE",
+        "projection": "17.6",
+        "confidence": 95
+      }
+    ],
+    "topBets": [],
+    "riskFactors": []
+  }
+}

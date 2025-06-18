@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-06-12T22:00:37.455Z",
+  "fixes": {
+    "playersFixed": 321,
+    "defensesFixed": 32,
+    "teamsFixed": 32,
+    "percentagesFixed": 608,
+    "normalizedStats": 169
+  },
+  "totalFixes": 1162,
+  "description": "Statistical accuracy normalization and correction"
+}
