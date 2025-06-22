@@ -1,0 +1,86 @@
+{
+  "forecast_date": "2025-06-22T18:11:12.079507",
+  "week": "Current Week",
+  "forecasts": [
+    {
+      "team": "GB",
+      "stadium": "Lambeau Field",
+      "city": "Green Bay",
+      "temperature": 47,
+      "wind_speed": 0,
+      "precipitation_chance": 20,
+      "conditions": "Clear",
+      "game_impact": "Low"
+    },
+    {
+      "team": "CHI",
+      "stadium": "Soldier Field",
+      "city": "Chicago",
+      "temperature": 64,
+      "wind_speed": 3,
+      "precipitation_chance": 17,
+      "conditions": "Clear",
+      "game_impact": "Low"
+    },
+    {
+      "team": "MIN",
+      "stadium": "U.S. Bank Stadium",
+      "city": "Minneapolis",
+      "temperature": 64,
+      "wind_speed": 8,
+      "precipitation_chance": 12,
+      "conditions": "Clear",
+      "game_impact": "Low"
+    },
+    {
+      "team": "DET",
+      "stadium": "Ford Field",
+      "city": "Detroit",
+      "temperature": 44,
+      "wind_speed": 2,
+      "precipitation_chance": 16,
+      "conditions": "Clear",
+      "game_impact": "Low"
+    },
+    {
+      "team": "DAL",
+      "stadium": "AT&T Stadium",
+      "city": "Arlington",
+      "temperature": 53,
+      "wind_speed": 17,
+      "precipitation_chance": 6,
+      "conditions": "Clear",
+      "game_impact": "Low"
+    },
+    {
+      "team": "NYG",
+      "stadium": "MetLife Stadium",
+      "city": "East Rutherford",
+      "temperature": 44,
+      "wind_speed": 13,
+      "precipitation_chance": 20,
+      "conditions": "Clear",
+      "game_impact": "Low"
+    },
+    {
+      "team": "PHI",
+      "stadium": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "temperature": 57,
+      "wind_speed": 4,
+      "precipitation_chance": 36,
+      "conditions": "Clear",
+      "game_impact": "Low"
+    },
+    {
+      "team": "WAS",
+      "stadium": "FedExField",
+      "city": "Landover",
+      "temperature": 67,
+      "wind_speed": 15,
+      "precipitation_chance": 37,
+      "conditions": "Clear",
+      "game_impact": "Low"
+    }
+  ]
+}
