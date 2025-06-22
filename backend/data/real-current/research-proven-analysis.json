@@ -1,0 +1,146 @@
+[
+  {
+    "game": "DAL @ PHI",
+    "our_spread": -0.6,
+    "home_win_prob": 0.52,
+    "confidence": 0.04,
+    "epa_differential": -0.006,
+    "dvoa_differential": -0.009,
+    "point_differential": -0.2
+  },
+  {
+    "game": "KC @ LAC",
+    "our_spread": 0.2,
+    "home_win_prob": 0.493,
+    "confidence": 0.013,
+    "epa_differential": -0.022,
+    "dvoa_differential": -0.035,
+    "point_differential": -0.8
+  },
+  {
+    "game": "TB @ ATL",
+    "our_spread": 1.3,
+    "home_win_prob": 0.454,
+    "confidence": 0.093,
+    "epa_differential": -0.048,
+    "dvoa_differential": -0.075,
+    "point_differential": -1.7
+  },
+  {
+    "game": "CIN @ CLE",
+    "our_spread": 2.2,
+    "home_win_prob": 0.421,
+    "confidence": 0.158,
+    "epa_differential": -0.069,
+    "dvoa_differential": -0.108,
+    "point_differential": -2.5
+  },
+  {
+    "game": "MIA @ IND",
+    "our_spread": -0.6,
+    "home_win_prob": 0.522,
+    "confidence": 0.044,
+    "epa_differential": -0.004,
+    "dvoa_differential": -0.007,
+    "point_differential": -0.1
+  },
+  {
+    "game": "LV @ NE",
+    "our_spread": 0.4,
+    "home_win_prob": 0.484,
+    "confidence": 0.031,
+    "epa_differential": -0.028,
+    "dvoa_differential": -0.044,
+    "point_differential": -1.0
+  },
+  {
+    "game": "ARI @ NO",
+    "our_spread": 0.4,
+    "home_win_prob": 0.487,
+    "confidence": 0.027,
+    "epa_differential": -0.027,
+    "dvoa_differential": -0.042,
+    "point_differential": -1.0
+  },
+  {
+    "game": "PIT @ NYJ",
+    "our_spread": -0.3,
+    "home_win_prob": 0.511,
+    "confidence": 0.022,
+    "epa_differential": -0.011,
+    "dvoa_differential": -0.018,
+    "point_differential": -0.4
+  },
+  {
+    "game": "NYG @ WSH",
+    "our_spread": -9.7,
+    "home_win_prob": 0.848,
+    "confidence": 0.696,
+    "epa_differential": -0.007,
+    "dvoa_differential": -0.011,
+    "point_differential": 9.7
+  },
+  {
+    "game": "CAR @ JAX",
+    "our_spread": -2.0,
+    "home_win_prob": 0.572,
+    "confidence": 0.145,
+    "epa_differential": 0.028,
+    "dvoa_differential": 0.044,
+    "point_differential": 1.0
+  },
+  {
+    "game": "TEN @ DEN",
+    "our_spread": -0.5,
+    "home_win_prob": 0.518,
+    "confidence": 0.035,
+    "epa_differential": -0.007,
+    "dvoa_differential": -0.011,
+    "point_differential": -0.2
+  },
+  {
+    "game": "SF @ SEA",
+    "our_spread": 0.7,
+    "home_win_prob": 0.473,
+    "confidence": 0.053,
+    "epa_differential": -0.035,
+    "dvoa_differential": -0.055,
+    "point_differential": -1.2
+  },
+  {
+    "game": "DET @ GB",
+    "our_spread": 1.7,
+    "home_win_prob": 0.438,
+    "confidence": 0.123,
+    "epa_differential": -0.057,
+    "dvoa_differential": -0.09,
+    "point_differential": -2.1
+  },
+  {
+    "game": "HOU @ LAR",
+    "our_spread": -3.9,
+    "home_win_prob": 0.64,
+    "confidence": 0.28,
+    "epa_differential": 0.073,
+    "dvoa_differential": 0.114,
+    "point_differential": 2.6
+  },
+  {
+    "game": "BAL @ BUF",
+    "our_spread": -0.2,
+    "home_win_prob": 0.507,
+    "confidence": 0.013,
+    "epa_differential": -0.014,
+    "dvoa_differential": -0.022,
+    "point_differential": -0.5
+  },
+  {
+    "game": "MIN @ CHI",
+    "our_spread": 3.2,
+    "home_win_prob": 0.385,
+    "confidence": 0.231,
+    "epa_differential": -0.092,
+    "dvoa_differential": -0.145,
+    "point_differential": -3.3
+  }
+]

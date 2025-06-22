@@ -1,0 +1,4050 @@
+{
+  "BUF": {
+    "team": "BUF",
+    "games": [
+      {
+        "gameId": "401671617",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671807",
+        "date": "2024-09-13T00:15Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671682",
+        "date": "2024-09-23T23:30Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671783",
+        "date": "2024-09-30T00:20Z",
+        "opponent": "BAL",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671859",
+        "date": "2024-10-06T17:00Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671684",
+        "date": "2024-10-15T00:15Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671616",
+        "date": "2024-10-20T17:00Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671760",
+        "date": "2024-10-27T20:05Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671493",
+        "date": "2024-11-03T18:00Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671863",
+        "date": "2024-11-10T18:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671665",
+        "date": "2024-11-17T21:25Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671781",
+        "date": "2024-12-02T01:20Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671773",
+        "date": "2024-12-08T21:25Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671681",
+        "date": "2024-12-15T21:25Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671494",
+        "date": "2024-12-22T21:25Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671495",
+        "date": "2024-12-29T18:00Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671831",
+        "date": "2025-01-05T18:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:04.777Z"
+  },
+  "MIA": {
+    "team": "MIA",
+    "games": [
+      {
+        "gameId": "401671849",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671807",
+        "date": "2024-09-13T00:15Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671662",
+        "date": "2024-09-22T20:05Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671683",
+        "date": "2024-09-30T23:30Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671700",
+        "date": "2024-10-06T17:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671864",
+        "date": "2024-10-20T17:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671850",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671493",
+        "date": "2024-11-03T18:00Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671693",
+        "date": "2024-11-12T01:15Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671851",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671847",
+        "date": "2024-11-24T18:00Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671798",
+        "date": "2024-11-29T01:20Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671848",
+        "date": "2024-12-08T18:00Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671860",
+        "date": "2024-12-15T18:00Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671874",
+        "date": "2024-12-22T21:25Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671877",
+        "date": "2024-12-29T21:05Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671833",
+        "date": "2025-01-05T21:25Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:05.312Z"
+  },
+  "NE": {
+    "team": "NE",
+    "games": [
+      {
+        "gameId": "401671628",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "CIN",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671702",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671808",
+        "date": "2024-09-20T00:15Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671758",
+        "date": "2024-09-29T20:05Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671700",
+        "date": "2024-10-06T17:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671619",
+        "date": "2024-10-13T17:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671801",
+        "date": "2024-10-20T13:30Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671618",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671822",
+        "date": "2024-11-03T18:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671873",
+        "date": "2024-11-10T18:00Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671701",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671847",
+        "date": "2024-11-24T18:00Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671620",
+        "date": "2024-12-01T18:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671677",
+        "date": "2024-12-15T21:25Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671494",
+        "date": "2024-12-22T21:25Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671832",
+        "date": "2024-12-28T18:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671831",
+        "date": "2025-01-05T18:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:05.564Z"
+  },
+  "NYJ": {
+    "team": "NYJ",
+    "games": [
+      {
+        "gameId": "401671696",
+        "date": "2024-09-10T00:15Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671636",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671808",
+        "date": "2024-09-20T00:15Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671622",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671804",
+        "date": "2024-10-06T13:30Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671684",
+        "date": "2024-10-15T00:15Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671785",
+        "date": "2024-10-21T00:20Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671618",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671809",
+        "date": "2024-11-01T00:15Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671678",
+        "date": "2024-11-10T21:25Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671782",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671703",
+        "date": "2024-12-01T18:00Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671848",
+        "date": "2024-12-08T18:00Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671706",
+        "date": "2024-12-15T18:00Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671621",
+        "date": "2024-12-22T18:00Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671495",
+        "date": "2024-12-29T18:00Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671833",
+        "date": "2025-01-05T21:25Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:05.813Z"
+  },
+  "BAL": {
+    "team": "BAL",
+    "games": [
+      {
+        "gameId": "401671789",
+        "date": "2024-09-06T00:40Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671624",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "BAL",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671763",
+        "date": "2024-09-22T20:25Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671783",
+        "date": "2024-09-30T00:20Z",
+        "opponent": "BAL",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671626",
+        "date": "2024-10-06T17:00Z",
+        "opponent": "CIN",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671625",
+        "date": "2024-10-13T17:00Z",
+        "opponent": "BAL",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671695",
+        "date": "2024-10-22T00:15Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671852",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671623",
+        "date": "2024-11-03T18:00Z",
+        "opponent": "BAL",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671810",
+        "date": "2024-11-08T01:15Z",
+        "opponent": "BAL",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671630",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671689",
+        "date": "2024-11-26T01:15Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671666",
+        "date": "2024-12-01T21:25Z",
+        "opponent": "BAL",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671639",
+        "date": "2024-12-15T18:00Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671778",
+        "date": "2024-12-21T21:30Z",
+        "opponent": "BAL",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671800",
+        "date": "2024-12-25T21:30Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671834",
+        "date": "2025-01-04T21:30Z",
+        "opponent": "BAL",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:06.465Z"
+  },
+  "CIN": {
+    "team": "CIN",
+    "games": [
+      {
+        "gameId": "401671628",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "CIN",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671670",
+        "date": "2024-09-15T20:25Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671490",
+        "date": "2024-09-24T00:15Z",
+        "opponent": "CIN",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671745",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671626",
+        "date": "2024-10-06T17:00Z",
+        "opponent": "CIN",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671791",
+        "date": "2024-10-14T00:20Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671853",
+        "date": "2024-10-20T17:00Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671667",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "CIN",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671704",
+        "date": "2024-11-03T18:00Z",
+        "opponent": "CIN",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671810",
+        "date": "2024-11-08T01:15Z",
+        "opponent": "BAL",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671675",
+        "date": "2024-11-18T01:20Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671627",
+        "date": "2024-12-01T18:00Z",
+        "opponent": "CIN",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671690",
+        "date": "2024-12-10T01:15Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671825",
+        "date": "2024-12-15T18:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671811",
+        "date": "2024-12-22T18:00Z",
+        "opponent": "CIN",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671835",
+        "date": "2024-12-28T21:30Z",
+        "opponent": "CIN",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671836",
+        "date": "2025-01-05T01:00Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:06.940Z"
+  },
+  "CLE": {
+    "team": "CLE",
+    "games": [
+      {
+        "gameId": "401671761",
+        "date": "2024-09-08T20:25Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671635",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671855",
+        "date": "2024-09-22T17:00Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671672",
+        "date": "2024-09-29T20:25Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671718",
+        "date": "2024-10-06T17:00Z",
+        "opponent": "WSH",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671714",
+        "date": "2024-10-13T17:00Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671853",
+        "date": "2024-10-20T17:00Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671852",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671629",
+        "date": "2024-11-03T18:00Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671746",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671875",
+        "date": "2024-11-22T01:15Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671686",
+        "date": "2024-12-03T01:15Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671631",
+        "date": "2024-12-08T18:00Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671854",
+        "date": "2024-12-15T18:00Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671811",
+        "date": "2024-12-22T18:00Z",
+        "opponent": "CIN",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671877",
+        "date": "2024-12-29T21:05Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671834",
+        "date": "2025-01-04T21:30Z",
+        "opponent": "BAL",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:07.201Z"
+  },
+  "PIT": {
+    "team": "PIT",
+    "games": [
+      {
+        "gameId": "401671744",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671668",
+        "date": "2024-09-15T20:25Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671632",
+        "date": "2024-09-22T17:00Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671867",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671784",
+        "date": "2024-10-07T01:45Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671657",
+        "date": "2024-10-13T20:05Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671785",
+        "date": "2024-10-21T00:20Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671685",
+        "date": "2024-10-29T00:15Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671641",
+        "date": "2024-11-10T18:00Z",
+        "opponent": "WSH",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671630",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671875",
+        "date": "2024-11-22T01:15Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671627",
+        "date": "2024-12-01T18:00Z",
+        "opponent": "CIN",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671631",
+        "date": "2024-12-08T18:00Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671766",
+        "date": "2024-12-15T21:25Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671778",
+        "date": "2024-12-21T21:30Z",
+        "opponent": "BAL",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671799",
+        "date": "2024-12-25T18:00Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671836",
+        "date": "2025-01-05T01:00Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:07.698Z"
+  },
+  "HOU": {
+    "team": "HOU",
+    "games": [
+      {
+        "gameId": "401671861",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671786",
+        "date": "2024-09-16T00:20Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671646",
+        "date": "2024-09-22T17:00Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671857",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671859",
+        "date": "2024-10-06T17:00Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671619",
+        "date": "2024-10-13T17:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671644",
+        "date": "2024-10-20T17:00Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671856",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671809",
+        "date": "2024-11-01T00:15Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671787",
+        "date": "2024-11-11T01:20Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671694",
+        "date": "2024-11-19T01:15Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671858",
+        "date": "2024-11-24T18:00Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671705",
+        "date": "2024-12-01T18:00Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671860",
+        "date": "2024-12-15T18:00Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671780",
+        "date": "2024-12-21T18:00Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671800",
+        "date": "2024-12-25T21:30Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671826",
+        "date": "2025-01-05T18:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:07.944Z"
+  },
+  "IND": {
+    "team": "IND",
+    "games": [
+      {
+        "gameId": "401671861",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671723",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671865",
+        "date": "2024-09-22T17:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671867",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671633",
+        "date": "2024-10-06T17:00Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671820",
+        "date": "2024-10-13T17:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671864",
+        "date": "2024-10-20T17:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671856",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671647",
+        "date": "2024-11-04T01:20Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671863",
+        "date": "2024-11-10T18:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671782",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671866",
+        "date": "2024-11-24T18:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671620",
+        "date": "2024-12-01T18:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671669",
+        "date": "2024-12-15T21:25Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671862",
+        "date": "2024-12-22T18:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671846",
+        "date": "2024-12-29T18:00Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671837",
+        "date": "2025-01-05T18:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:08.462Z"
+  },
+  "JAX": {
+    "team": "JAX",
+    "games": [
+      {
+        "gameId": "401671849",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671635",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671682",
+        "date": "2024-09-23T23:30Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671857",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671633",
+        "date": "2024-10-06T17:00Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671802",
+        "date": "2024-10-13T13:30Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671801",
+        "date": "2024-10-20T13:30Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671707",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671797",
+        "date": "2024-11-03T21:05Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671708",
+        "date": "2024-11-10T18:00Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671642",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671705",
+        "date": "2024-12-01T18:00Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671821",
+        "date": "2024-12-08T18:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671706",
+        "date": "2024-12-15T18:00Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671673",
+        "date": "2024-12-22T21:25Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671634",
+        "date": "2024-12-29T18:00Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671837",
+        "date": "2025-01-05T18:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:08.963Z"
+  },
+  "TEN": {
+    "team": "TEN",
+    "games": [
+      {
+        "gameId": "401671719",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671636",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671823",
+        "date": "2024-09-22T17:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671683",
+        "date": "2024-09-30T23:30Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671820",
+        "date": "2024-10-13T17:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671616",
+        "date": "2024-10-20T17:00Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671720",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671822",
+        "date": "2024-11-03T18:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671751",
+        "date": "2024-11-10T21:05Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671824",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671858",
+        "date": "2024-11-24T18:00Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671743",
+        "date": "2024-12-01T18:00Z",
+        "opponent": "WSH",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671821",
+        "date": "2024-12-08T18:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671825",
+        "date": "2024-12-15T18:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671862",
+        "date": "2024-12-22T18:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671634",
+        "date": "2024-12-29T18:00Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671826",
+        "date": "2025-01-05T18:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:09.206Z"
+  },
+  "DEN": {
+    "team": "DEN",
+    "games": [
+      {
+        "gameId": "401671664",
+        "date": "2024-09-08T20:05Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671668",
+        "date": "2024-09-15T20:25Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671741",
+        "date": "2024-09-22T17:00Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671622",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671747",
+        "date": "2024-10-06T20:05Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671655",
+        "date": "2024-10-13T20:05Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671816",
+        "date": "2024-10-18T00:15Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671600",
+        "date": "2024-10-27T20:25Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671623",
+        "date": "2024-11-03T18:00Z",
+        "opponent": "BAL",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671637",
+        "date": "2024-11-10T18:00Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671748",
+        "date": "2024-11-17T21:05Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671656",
+        "date": "2024-11-24T21:05Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671686",
+        "date": "2024-12-03T01:15Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671669",
+        "date": "2024-12-15T21:25Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671749",
+        "date": "2024-12-20T01:15Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671835",
+        "date": "2024-12-28T21:30Z",
+        "opponent": "CIN",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671838",
+        "date": "2025-01-05T21:25Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:09.633Z"
+  },
+  "KC": {
+    "team": "KC",
+    "games": [
+      {
+        "gameId": "401671789",
+        "date": "2024-09-06T00:40Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671670",
+        "date": "2024-09-15T20:25Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671793",
+        "date": "2024-09-23T00:20Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671674",
+        "date": "2024-09-29T20:25Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671687",
+        "date": "2024-10-08T00:15Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671777",
+        "date": "2024-10-20T20:25Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671671",
+        "date": "2024-10-27T20:25Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671688",
+        "date": "2024-11-05T01:15Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671637",
+        "date": "2024-11-10T18:00Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671665",
+        "date": "2024-11-17T21:25Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671651",
+        "date": "2024-11-24T18:00Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671806",
+        "date": "2024-11-29T20:00Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671788",
+        "date": "2024-12-09T01:20Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671854",
+        "date": "2024-12-15T18:00Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671780",
+        "date": "2024-12-21T18:00Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671799",
+        "date": "2024-12-25T18:00Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671838",
+        "date": "2025-01-05T21:25Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:09.885Z"
+  },
+  "LV": {
+    "team": "LV",
+    "games": [
+      {
+        "gameId": "401671659",
+        "date": "2024-09-08T20:05Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671624",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "BAL",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671658",
+        "date": "2024-09-22T20:05Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671672",
+        "date": "2024-09-29T20:25Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671747",
+        "date": "2024-10-06T20:05Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671657",
+        "date": "2024-10-13T20:05Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671663",
+        "date": "2024-10-20T20:05Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671671",
+        "date": "2024-10-27T20:25Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671704",
+        "date": "2024-11-03T18:00Z",
+        "opponent": "CIN",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671851",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671656",
+        "date": "2024-11-24T21:05Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671806",
+        "date": "2024-11-29T20:00Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671654",
+        "date": "2024-12-08T18:00Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671697",
+        "date": "2024-12-17T01:30Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671673",
+        "date": "2024-12-22T21:25Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671738",
+        "date": "2024-12-29T18:00Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671839",
+        "date": "2025-01-05T21:25Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:10.123Z"
+  },
+  "LAC": {
+    "team": "LAC",
+    "games": [
+      {
+        "gameId": "401671659",
+        "date": "2024-09-08T20:05Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671652",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671632",
+        "date": "2024-09-22T17:00Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671674",
+        "date": "2024-09-29T20:25Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671655",
+        "date": "2024-10-13T20:05Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671699",
+        "date": "2024-10-22T01:00Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671750",
+        "date": "2024-10-27T20:05Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671629",
+        "date": "2024-11-03T18:00Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671751",
+        "date": "2024-11-10T21:05Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671675",
+        "date": "2024-11-18T01:20Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671689",
+        "date": "2024-11-26T01:15Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671649",
+        "date": "2024-12-01T18:00Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671788",
+        "date": "2024-12-09T01:20Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671762",
+        "date": "2024-12-15T21:25Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671749",
+        "date": "2024-12-20T01:15Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671832",
+        "date": "2024-12-28T18:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671839",
+        "date": "2025-01-05T21:25Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:10.398Z"
+  },
+  "DAL": {
+    "team": "DAL",
+    "games": [
+      {
+        "gameId": "401671761",
+        "date": "2024-09-08T20:25Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671709",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671763",
+        "date": "2024-09-22T20:25Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671812",
+        "date": "2024-09-27T00:15Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671784",
+        "date": "2024-10-07T01:45Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671764",
+        "date": "2024-10-13T20:25Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671795",
+        "date": "2024-10-28T00:20Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671728",
+        "date": "2024-11-03T18:00Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671676",
+        "date": "2024-11-10T21:25Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671694",
+        "date": "2024-11-19T01:15Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671715",
+        "date": "2024-11-24T18:00Z",
+        "opponent": "WSH",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671779",
+        "date": "2024-11-28T21:30Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671690",
+        "date": "2024-12-10T01:15Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671731",
+        "date": "2024-12-15T18:00Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671790",
+        "date": "2024-12-23T01:20Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671765",
+        "date": "2024-12-29T18:00Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671840",
+        "date": "2025-01-05T18:00Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:10.836Z"
+  },
+  "NYG": {
+    "team": "NYG",
+    "games": [
+      {
+        "gameId": "401671712",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671716",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "WSH",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671855",
+        "date": "2024-09-22T17:00Z",
+        "opponent": "CLE",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671812",
+        "date": "2024-09-27T00:15Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671680",
+        "date": "2024-10-06T20:25Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671791",
+        "date": "2024-10-14T00:20Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671710",
+        "date": "2024-10-20T17:00Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671685",
+        "date": "2024-10-29T00:15Z",
+        "opponent": "PIT",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671711",
+        "date": "2024-11-03T18:00Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671803",
+        "date": "2024-11-10T14:30Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671638",
+        "date": "2024-11-24T18:00Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671779",
+        "date": "2024-11-28T21:30Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671601",
+        "date": "2024-12-08T18:00Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671639",
+        "date": "2024-12-15T18:00Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671729",
+        "date": "2024-12-22T18:00Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671846",
+        "date": "2024-12-29T18:00Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671841",
+        "date": "2025-01-05T18:00Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:11.248Z"
+  },
+  "PHI": {
+    "team": "PHI",
+    "games": [
+      {
+        "gameId": "401671805",
+        "date": "2024-09-07T00:15Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671691",
+        "date": "2024-09-17T00:15Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671736",
+        "date": "2024-09-22T17:00Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671740",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671714",
+        "date": "2024-10-13T17:00Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671710",
+        "date": "2024-10-20T17:00Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671667",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "CIN",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671797",
+        "date": "2024-11-03T21:05Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671676",
+        "date": "2024-11-10T21:25Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671813",
+        "date": "2024-11-15T01:15Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671794",
+        "date": "2024-11-25T01:20Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671666",
+        "date": "2024-12-01T21:25Z",
+        "opponent": "BAL",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671713",
+        "date": "2024-12-08T18:00Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671766",
+        "date": "2024-12-15T21:25Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671717",
+        "date": "2024-12-22T18:00Z",
+        "opponent": "WSH",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671765",
+        "date": "2024-12-29T18:00Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671841",
+        "date": "2025-01-05T18:00Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:11.496Z"
+  },
+  "WAS": {
+    "team": "WAS",
+    "games": [
+      {
+        "week": 1,
+        "opponent": "DAL",
+        "isHome": true,
+        "gameType": "divisional"
+      },
+      {
+        "week": 2,
+        "opponent": "DAL",
+        "isHome": false,
+        "gameType": "divisional"
+      },
+      {
+        "week": 3,
+        "opponent": "NYG",
+        "isHome": true,
+        "gameType": "divisional"
+      },
+      {
+        "week": 4,
+        "opponent": "NYG",
+        "isHome": false,
+        "gameType": "divisional"
+      },
+      {
+        "week": 5,
+        "opponent": "PHI",
+        "isHome": true,
+        "gameType": "divisional"
+      },
+      {
+        "week": 6,
+        "opponent": "PHI",
+        "isHome": false,
+        "gameType": "divisional"
+      },
+      {
+        "week": 7,
+        "opponent": "BUF",
+        "isHome": true,
+        "gameType": "non-divisional"
+      },
+      {
+        "week": 8,
+        "opponent": "MIA",
+        "isHome": false,
+        "gameType": "non-divisional"
+      },
+      {
+        "week": 9,
+        "opponent": "NE",
+        "isHome": true,
+        "gameType": "non-divisional"
+      },
+      {
+        "week": 10,
+        "opponent": "NYJ",
+        "isHome": false,
+        "gameType": "non-divisional"
+      },
+      {
+        "week": 11,
+        "opponent": "BAL",
+        "isHome": true,
+        "gameType": "non-divisional"
+      },
+      {
+        "week": 12,
+        "opponent": "CIN",
+        "isHome": false,
+        "gameType": "non-divisional"
+      },
+      {
+        "week": 13,
+        "opponent": "CLE",
+        "isHome": true,
+        "gameType": "non-divisional"
+      },
+      {
+        "week": 14,
+        "opponent": "PIT",
+        "isHome": false,
+        "gameType": "non-divisional"
+      },
+      {
+        "week": 15,
+        "opponent": "HOU",
+        "isHome": true,
+        "gameType": "non-divisional"
+      },
+      {
+        "week": 16,
+        "opponent": "IND",
+        "isHome": false,
+        "gameType": "non-divisional"
+      },
+      {
+        "week": 17,
+        "opponent": "JAX",
+        "isHome": true,
+        "gameType": "non-divisional"
+      }
+    ],
+    "totalGames": 17,
+    "source": "Generated_Logic",
+    "collected": "2025-06-21T04:27:11.764Z",
+    "note": "Generated from NFL scheduling rules - may not match exact 2024 schedule"
+  },
+  "CHI": {
+    "team": "CHI",
+    "games": [
+      {
+        "gameId": "401671719",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671786",
+        "date": "2024-09-16T00:20Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671865",
+        "date": "2024-09-22T17:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671871",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671872",
+        "date": "2024-10-06T17:00Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671802",
+        "date": "2024-10-13T13:30Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671599",
+        "date": "2024-10-27T20:25Z",
+        "opponent": "WSH",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671661",
+        "date": "2024-11-03T21:05Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671873",
+        "date": "2024-11-10T18:00Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671869",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671870",
+        "date": "2024-11-24T18:00Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671492",
+        "date": "2024-11-28T17:30Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671774",
+        "date": "2024-12-08T21:25Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671489",
+        "date": "2024-12-17T01:00Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671868",
+        "date": "2024-12-22T18:00Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671876",
+        "date": "2024-12-27T01:15Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671844",
+        "date": "2025-01-05T18:00Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:12.199Z"
+  },
+  "DET": {
+    "team": "DET",
+    "games": [
+      {
+        "gameId": "401671792",
+        "date": "2024-09-09T00:20Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671721",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671771",
+        "date": "2024-09-22T20:25Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671491",
+        "date": "2024-10-01T00:15Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671764",
+        "date": "2024-10-13T20:25Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671724",
+        "date": "2024-10-20T17:00Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671720",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671767",
+        "date": "2024-11-03T21:25Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671787",
+        "date": "2024-11-11T01:20Z",
+        "opponent": "HOU",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671642",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671866",
+        "date": "2024-11-24T18:00Z",
+        "opponent": "IND",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671492",
+        "date": "2024-11-28T17:30Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671814",
+        "date": "2024-12-06T01:15Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671681",
+        "date": "2024-12-15T21:25Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671868",
+        "date": "2024-12-22T18:00Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671698",
+        "date": "2024-12-31T01:15Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671843",
+        "date": "2025-01-06T01:20Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:12.706Z"
+  },
+  "GB": {
+    "team": "GB",
+    "games": [
+      {
+        "gameId": "401671805",
+        "date": "2024-09-07T00:15Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671723",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671823",
+        "date": "2024-09-22T17:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671643",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671679",
+        "date": "2024-10-06T20:25Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671722",
+        "date": "2024-10-13T17:00Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671644",
+        "date": "2024-10-20T17:00Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671707",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671767",
+        "date": "2024-11-03T21:25Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671869",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671768",
+        "date": "2024-11-24T21:25Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671798",
+        "date": "2024-11-29T01:20Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671814",
+        "date": "2024-12-06T01:15Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671796",
+        "date": "2024-12-16T01:20Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671692",
+        "date": "2024-12-24T01:15Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671725",
+        "date": "2024-12-29T21:25Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671844",
+        "date": "2025-01-05T18:00Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:13.154Z"
+  },
+  "MIN": {
+    "team": "MIN",
+    "games": [
+      {
+        "gameId": "401671712",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671645",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671646",
+        "date": "2024-09-22T17:00Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671643",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671804",
+        "date": "2024-10-06T13:30Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671724",
+        "date": "2024-10-20T17:00Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671817",
+        "date": "2024-10-25T00:15Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671647",
+        "date": "2024-11-04T01:20Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671708",
+        "date": "2024-11-10T18:00Z",
+        "opponent": "JAX",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671824",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "TEN",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671870",
+        "date": "2024-11-24T18:00Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671726",
+        "date": "2024-12-01T18:00Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671648",
+        "date": "2024-12-08T18:00Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671489",
+        "date": "2024-12-17T01:00Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671759",
+        "date": "2024-12-22T21:05Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671725",
+        "date": "2024-12-29T21:25Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671843",
+        "date": "2025-01-06T01:20Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:13.595Z"
+  },
+  "ATL": {
+    "team": "ATL",
+    "games": [
+      {
+        "gameId": "401671744",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671691",
+        "date": "2024-09-17T00:15Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671793",
+        "date": "2024-09-23T00:20Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671727",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671815",
+        "date": "2024-10-04T00:15Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671769",
+        "date": "2024-10-13T20:25Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671730",
+        "date": "2024-10-20T17:00Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671739",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671728",
+        "date": "2024-11-03T18:00Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671733",
+        "date": "2024-11-10T18:00Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671748",
+        "date": "2024-11-17T21:05Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671649",
+        "date": "2024-12-01T18:00Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671648",
+        "date": "2024-12-08T18:00Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671697",
+        "date": "2024-12-17T01:30Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671729",
+        "date": "2024-12-22T18:00Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671842",
+        "date": "2024-12-30T01:20Z",
+        "opponent": "WSH",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671827",
+        "date": "2025-01-05T18:00Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:13.852Z"
+  },
+  "CAR": {
+    "team": "CAR",
+    "games": [
+      {
+        "gameId": "401671734",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671652",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671658",
+        "date": "2024-09-22T20:05Z",
+        "opponent": "LV",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671745",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671872",
+        "date": "2024-10-06T17:00Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671769",
+        "date": "2024-10-13T20:25Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671640",
+        "date": "2024-10-20T20:05Z",
+        "opponent": "WSH",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671600",
+        "date": "2024-10-27T20:25Z",
+        "opponent": "DEN",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671650",
+        "date": "2024-11-03T18:00Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671803",
+        "date": "2024-11-10T14:30Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671651",
+        "date": "2024-11-24T18:00Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671752",
+        "date": "2024-12-01T21:05Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671713",
+        "date": "2024-12-08T18:00Z",
+        "opponent": "PHI",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671731",
+        "date": "2024-12-15T18:00Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671732",
+        "date": "2024-12-22T18:00Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671653",
+        "date": "2024-12-29T18:00Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671827",
+        "date": "2025-01-05T18:00Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:14.094Z"
+  },
+  "NO": {
+    "team": "NO",
+    "games": [
+      {
+        "gameId": "401671734",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671709",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671736",
+        "date": "2024-09-22T17:00Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671727",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671687",
+        "date": "2024-10-08T00:15Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671735",
+        "date": "2024-10-13T17:00Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671816",
+        "date": "2024-10-18T00:15Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671750",
+        "date": "2024-10-27T20:05Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671650",
+        "date": "2024-11-03T18:00Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671733",
+        "date": "2024-11-10T18:00Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671746",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671753",
+        "date": "2024-12-01T21:05Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671601",
+        "date": "2024-12-08T18:00Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671737",
+        "date": "2024-12-15T18:00Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671692",
+        "date": "2024-12-24T01:15Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671738",
+        "date": "2024-12-29T18:00Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671828",
+        "date": "2025-01-05T18:00Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:14.553Z"
+  },
+  "TB": {
+    "team": "TB",
+    "games": [
+      {
+        "gameId": "401671770",
+        "date": "2024-09-08T20:25Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671721",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671741",
+        "date": "2024-09-22T17:00Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671740",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671815",
+        "date": "2024-10-04T00:15Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671735",
+        "date": "2024-10-13T17:00Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671695",
+        "date": "2024-10-22T00:15Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671739",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671688",
+        "date": "2024-11-05T01:15Z",
+        "opponent": "KC",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671742",
+        "date": "2024-11-10T18:00Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671638",
+        "date": "2024-11-24T18:00Z",
+        "opponent": "NYG",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671752",
+        "date": "2024-12-01T21:05Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671654",
+        "date": "2024-12-08T18:00Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671762",
+        "date": "2024-12-15T21:25Z",
+        "opponent": "LAC",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671790",
+        "date": "2024-12-23T01:20Z",
+        "opponent": "DAL",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671653",
+        "date": "2024-12-29T18:00Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671828",
+        "date": "2025-01-05T18:00Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:14.990Z"
+  },
+  "ARI": {
+    "team": "ARI",
+    "games": [
+      {
+        "gameId": "401671617",
+        "date": "2024-09-08T17:00Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671754",
+        "date": "2024-09-15T20:05Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671771",
+        "date": "2024-09-22T20:25Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671755",
+        "date": "2024-09-29T20:05Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671756",
+        "date": "2024-10-06T20:05Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671722",
+        "date": "2024-10-13T17:00Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671699",
+        "date": "2024-10-22T01:00Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671850",
+        "date": "2024-10-27T17:00Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671661",
+        "date": "2024-11-03T21:05Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671678",
+        "date": "2024-11-10T21:25Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671775",
+        "date": "2024-11-24T21:25Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671726",
+        "date": "2024-12-01T18:00Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671660",
+        "date": "2024-12-08T21:05Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671677",
+        "date": "2024-12-15T21:25Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671732",
+        "date": "2024-12-22T18:00Z",
+        "opponent": "CAR",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671829",
+        "date": "2024-12-29T01:00Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671845",
+        "date": "2025-01-05T21:25Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:15.250Z"
+  },
+  "LAR": {
+    "team": "LAR",
+    "games": [
+      {
+        "gameId": "401671792",
+        "date": "2024-09-09T00:20Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671754",
+        "date": "2024-09-15T20:05Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671772",
+        "date": "2024-09-22T20:25Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671871",
+        "date": "2024-09-29T17:00Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671679",
+        "date": "2024-10-06T20:25Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671663",
+        "date": "2024-10-20T20:05Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671817",
+        "date": "2024-10-25T00:15Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671776",
+        "date": "2024-11-03T21:25Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671693",
+        "date": "2024-11-12T01:15Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671701",
+        "date": "2024-11-17T18:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671794",
+        "date": "2024-11-25T01:20Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671753",
+        "date": "2024-12-01T21:05Z",
+        "opponent": "NO",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671773",
+        "date": "2024-12-08T21:25Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671818",
+        "date": "2024-12-13T01:15Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671621",
+        "date": "2024-12-22T18:00Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671829",
+        "date": "2024-12-29T01:00Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671830",
+        "date": "2025-01-05T21:25Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:15.496Z"
+  },
+  "SF": {
+    "team": "SF",
+    "games": [
+      {
+        "gameId": "401671696",
+        "date": "2024-09-10T00:15Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671645",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "MIN",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671772",
+        "date": "2024-09-22T20:25Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671758",
+        "date": "2024-09-29T20:05Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671756",
+        "date": "2024-10-06T20:05Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671819",
+        "date": "2024-10-11T00:15Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671777",
+        "date": "2024-10-20T20:25Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671795",
+        "date": "2024-10-28T00:20Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671742",
+        "date": "2024-11-10T18:00Z",
+        "opponent": "TB",
+        "isHome": false,
+        "week": 10
+      },
+      {
+        "gameId": "401671757",
+        "date": "2024-11-17T21:05Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671768",
+        "date": "2024-11-24T21:25Z",
+        "opponent": "GB",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671781",
+        "date": "2024-12-02T01:20Z",
+        "opponent": "BUF",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671774",
+        "date": "2024-12-08T21:25Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671818",
+        "date": "2024-12-13T01:15Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671874",
+        "date": "2024-12-22T21:25Z",
+        "opponent": "MIA",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671698",
+        "date": "2024-12-31T01:15Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671845",
+        "date": "2025-01-05T21:25Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:15.945Z"
+  },
+  "SEA": {
+    "team": "SEA",
+    "games": [
+      {
+        "gameId": "401671664",
+        "date": "2024-09-08T20:05Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 1
+      },
+      {
+        "gameId": "401671702",
+        "date": "2024-09-15T17:00Z",
+        "opponent": "NE",
+        "isHome": false,
+        "week": 2
+      },
+      {
+        "gameId": "401671662",
+        "date": "2024-09-22T20:05Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 3
+      },
+      {
+        "gameId": "401671491",
+        "date": "2024-10-01T00:15Z",
+        "opponent": "DET",
+        "isHome": false,
+        "week": 4
+      },
+      {
+        "gameId": "401671680",
+        "date": "2024-10-06T20:25Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 5
+      },
+      {
+        "gameId": "401671819",
+        "date": "2024-10-11T00:15Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 6
+      },
+      {
+        "gameId": "401671730",
+        "date": "2024-10-20T17:00Z",
+        "opponent": "ATL",
+        "isHome": false,
+        "week": 7
+      },
+      {
+        "gameId": "401671760",
+        "date": "2024-10-27T20:05Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 8
+      },
+      {
+        "gameId": "401671776",
+        "date": "2024-11-03T21:25Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 9
+      },
+      {
+        "gameId": "401671757",
+        "date": "2024-11-17T21:05Z",
+        "opponent": "SF",
+        "isHome": false,
+        "week": 11
+      },
+      {
+        "gameId": "401671775",
+        "date": "2024-11-24T21:25Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 12
+      },
+      {
+        "gameId": "401671703",
+        "date": "2024-12-01T18:00Z",
+        "opponent": "NYJ",
+        "isHome": false,
+        "week": 13
+      },
+      {
+        "gameId": "401671660",
+        "date": "2024-12-08T21:05Z",
+        "opponent": "ARI",
+        "isHome": false,
+        "week": 14
+      },
+      {
+        "gameId": "401671796",
+        "date": "2024-12-16T01:20Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 15
+      },
+      {
+        "gameId": "401671759",
+        "date": "2024-12-22T21:05Z",
+        "opponent": "SEA",
+        "isHome": false,
+        "week": 16
+      },
+      {
+        "gameId": "401671876",
+        "date": "2024-12-27T01:15Z",
+        "opponent": "CHI",
+        "isHome": false,
+        "week": 17
+      },
+      {
+        "gameId": "401671830",
+        "date": "2025-01-05T21:25Z",
+        "opponent": "LAR",
+        "isHome": false,
+        "week": 18
+      }
+    ],
+    "totalGames": 17,
+    "source": "ESPN_API",
+    "collected": "2025-06-21T04:27:16.335Z"
+  }
+}

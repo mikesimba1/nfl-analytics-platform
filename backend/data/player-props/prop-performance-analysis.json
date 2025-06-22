@@ -1,0 +1,178 @@
+{
+  "topPerformers": {
+    "passingYards": [
+      {
+        "actualYards": 4918,
+        "estimatedLine": 289,
+        "season": 2024
+      },
+      {
+        "actualYards": 4629,
+        "estimatedLine": 272,
+        "season": 2024
+      },
+      {
+        "actualYards": 4500,
+        "estimatedLine": 265,
+        "season": 2024
+      },
+      {
+        "actualYards": 4320,
+        "estimatedLine": 254,
+        "season": 2024
+      },
+      {
+        "actualYards": 4319,
+        "estimatedLine": 254,
+        "season": 2024
+      },
+      {
+        "actualYards": 4172,
+        "estimatedLine": 245,
+        "season": 2024
+      },
+      {
+        "actualYards": 3928,
+        "estimatedLine": 231,
+        "season": 2024
+      },
+      {
+        "actualYards": 3897,
+        "estimatedLine": 229,
+        "season": 2024
+      },
+      {
+        "actualYards": 3870,
+        "estimatedLine": 228,
+        "season": 2024
+      },
+      {
+        "actualYards": 3864,
+        "estimatedLine": 227,
+        "season": 2024
+      }
+    ],
+    "rushingYards": [
+      {
+        "actualYards": 2005,
+        "estimatedLine": 118,
+        "season": 2024
+      },
+      {
+        "actualYards": 1921,
+        "estimatedLine": 113,
+        "season": 2024
+      },
+      {
+        "actualYards": 1456,
+        "estimatedLine": 86,
+        "season": 2024
+      },
+      {
+        "actualYards": 1431,
+        "estimatedLine": 84,
+        "season": 2024
+      },
+      {
+        "actualYards": 1412,
+        "estimatedLine": 83,
+        "season": 2024
+      },
+      {
+        "actualYards": 1329,
+        "estimatedLine": 78,
+        "season": 2024
+      },
+      {
+        "actualYards": 1299,
+        "estimatedLine": 76,
+        "season": 2024
+      },
+      {
+        "actualYards": 1195,
+        "estimatedLine": 70,
+        "season": 2024
+      },
+      {
+        "actualYards": 1138,
+        "estimatedLine": 67,
+        "season": 2024
+      },
+      {
+        "actualYards": 1122,
+        "estimatedLine": 66,
+        "season": 2024
+      }
+    ],
+    "receivingYards": [
+      {
+        "actualYards": 1708,
+        "estimatedLine": 100,
+        "season": 2024
+      },
+      {
+        "actualYards": 1533,
+        "estimatedLine": 90,
+        "season": 2024
+      },
+      {
+        "actualYards": 1282,
+        "estimatedLine": 75,
+        "season": 2024
+      },
+      {
+        "actualYards": 1271,
+        "estimatedLine": 75,
+        "season": 2024
+      },
+      {
+        "actualYards": 1263,
+        "estimatedLine": 74,
+        "season": 2024
+      },
+      {
+        "actualYards": 1229,
+        "estimatedLine": 72,
+        "season": 2024
+      },
+      {
+        "actualYards": 1204,
+        "estimatedLine": 71,
+        "season": 2024
+      },
+      {
+        "actualYards": 1194,
+        "estimatedLine": 70,
+        "season": 2024
+      },
+      {
+        "actualYards": 1194,
+        "estimatedLine": 70,
+        "season": 2024
+      },
+      {
+        "actualYards": 1149,
+        "estimatedLine": 68,
+        "season": 2024
+      }
+    ]
+  },
+  "propLines": {
+    "passingYards": {
+      "average": 168.5609756097561,
+      "highest": 289,
+      "lowest": 63
+    },
+    "rushingYards": {
+      "average": 36.05555555555556,
+      "highest": 118,
+      "lowest": 12
+    },
+    "receivingYards": {
+      "average": 37.729032258064514,
+      "highest": 100,
+      "lowest": 18
+    }
+  },
+  "insights": []
+}

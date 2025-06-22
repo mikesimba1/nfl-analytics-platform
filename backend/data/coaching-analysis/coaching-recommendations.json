@@ -1,0 +1,14 @@
+{
+  "analyticsApproach": {
+    "difficulty": "HIGH",
+    "reasoning": "Coaching changes create significant uncertainty in tendency prediction",
+    "recommendations": [
+      "Focus on player performance rather than coaching tendencies",
+      "Weight recent games more heavily as new tendencies emerge",
+      "Use conservative estimates for teams with major changes"
+    ]
+  },
+  "recommendation": "SKIP coaching tendency integration for now - too complex and risky",
+  "alternative": "Focus on player performance, injuries, and matchups for more reliable predictions",
+  "created": "2025-06-21T04:27:30.638Z"
+}

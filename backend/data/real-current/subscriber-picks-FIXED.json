@@ -1,0 +1,178 @@
+[
+  {
+    "matchup": "DAL @ PHI",
+    "game_date": "2025-09-05T00:20Z",
+    "recommendation": "STRONG BET",
+    "confidence": 85,
+    "recommended_bet": "DAL +7.0",
+    "market_home_spread": -7.0,
+    "our_home_spread": -10.4,
+    "edge": -3.4,
+    "bet_team": "DAL"
+  },
+  {
+    "matchup": "KC @ LAC",
+    "game_date": "2025-09-06T00:00Z",
+    "recommendation": "GOOD BET",
+    "confidence": 75,
+    "recommended_bet": "KC -2.5",
+    "market_home_spread": 2.5,
+    "our_home_spread": 1.3,
+    "edge": -1.2,
+    "bet_team": "KC"
+  },
+  {
+    "matchup": "TB @ ATL",
+    "game_date": "2025-09-07T17:00Z",
+    "recommendation": "GOOD BET",
+    "confidence": 80,
+    "recommended_bet": "TB -2.5",
+    "market_home_spread": 2.5,
+    "our_home_spread": 0.1,
+    "edge": -2.4,
+    "bet_team": "TB"
+  },
+  {
+    "matchup": "CIN @ CLE",
+    "game_date": "2025-09-07T17:00Z",
+    "recommendation": "GOOD BET",
+    "confidence": 80,
+    "recommended_bet": "CIN -5.5",
+    "market_home_spread": 5.5,
+    "our_home_spread": 3.3,
+    "edge": -2.2,
+    "bet_team": "CIN"
+  },
+  {
+    "matchup": "MIA @ IND",
+    "game_date": "2025-09-07T17:00Z",
+    "recommendation": "STRONG BET",
+    "confidence": 85,
+    "recommended_bet": "IND -1.5",
+    "market_home_spread": -1.5,
+    "our_home_spread": 9.6,
+    "edge": 11.1,
+    "bet_team": "IND"
+  },
+  {
+    "matchup": "LV @ NE",
+    "game_date": "2025-09-07T17:00Z",
+    "recommendation": "STRONG BET",
+    "confidence": 85,
+    "recommended_bet": "NE -3.0",
+    "market_home_spread": -3.0,
+    "our_home_spread": 3.1,
+    "edge": 6.1,
+    "bet_team": "NE"
+  },
+  {
+    "matchup": "ARI @ NO",
+    "game_date": "2025-09-07T17:00Z",
+    "recommendation": "GOOD BET",
+    "confidence": 80,
+    "recommended_bet": "NO +5.5",
+    "market_home_spread": 5.5,
+    "our_home_spread": 7.1,
+    "edge": 1.6,
+    "bet_team": "NO"
+  },
+  {
+    "matchup": "PIT @ NYJ",
+    "game_date": "2025-09-07T17:00Z",
+    "recommendation": "STRONG BET",
+    "confidence": 80,
+    "recommended_bet": "PIT -3.0",
+    "market_home_spread": 3.0,
+    "our_home_spread": 0.0,
+    "edge": -3.0,
+    "bet_team": "PIT"
+  },
+  {
+    "matchup": "NYG @ WSH",
+    "game_date": "2025-09-07T17:00Z",
+    "recommendation": "STRONG BET",
+    "confidence": 85,
+    "recommended_bet": "WSH -6.5",
+    "market_home_spread": -6.5,
+    "our_home_spread": 21.4,
+    "edge": 27.9,
+    "bet_team": "WSH"
+  },
+  {
+    "matchup": "CAR @ JAX",
+    "game_date": "2025-09-07T17:00Z",
+    "recommendation": "STRONG BET",
+    "confidence": 85,
+    "recommended_bet": "JAX -2.5",
+    "market_home_spread": -2.5,
+    "our_home_spread": 7.4,
+    "edge": 9.9,
+    "bet_team": "JAX"
+  },
+  {
+    "matchup": "TEN @ DEN",
+    "game_date": "2025-09-07T20:05Z",
+    "recommendation": "STRONG BET",
+    "confidence": 85,
+    "recommended_bet": "DEN -7.0",
+    "market_home_spread": -7.0,
+    "our_home_spread": 1.5,
+    "edge": 8.5,
+    "bet_team": "DEN"
+  },
+  {
+    "matchup": "SF @ SEA",
+    "game_date": "2025-09-07T20:05Z",
+    "recommendation": "STRONG BET",
+    "confidence": 85,
+    "recommended_bet": "SEA +1.5",
+    "market_home_spread": 1.5,
+    "our_home_spread": 9.0,
+    "edge": 7.5,
+    "bet_team": "SEA"
+  },
+  {
+    "matchup": "DET @ GB",
+    "game_date": "2025-09-07T20:25Z",
+    "recommendation": "PASS",
+    "confidence": 75,
+    "recommended_bet": "DET +1.5",
+    "market_home_spread": -1.5,
+    "our_home_spread": -2.2,
+    "edge": -0.7,
+    "bet_team": "DET"
+  },
+  {
+    "matchup": "HOU @ LAR",
+    "game_date": "2025-09-07T20:25Z",
+    "recommendation": "STRONG BET",
+    "confidence": 85,
+    "recommended_bet": "HOU +2.5",
+    "market_home_spread": -2.5,
+    "our_home_spread": -8.3,
+    "edge": -5.8,
+    "bet_team": "HOU"
+  },
+  {
+    "matchup": "BAL @ BUF",
+    "game_date": "2025-09-08T00:20Z",
+    "recommendation": "STRONG BET",
+    "confidence": 85,
+    "recommended_bet": "BUF -1.5",
+    "market_home_spread": -1.5,
+    "our_home_spread": 12.9,
+    "edge": 14.4,
+    "bet_team": "BUF"
+  },
+  {
+    "matchup": "MIN @ CHI",
+    "game_date": "2025-09-09T00:15Z",
+    "recommendation": "STRONG BET",
+    "confidence": 80,
+    "recommended_bet": "CHI -1.5",
+    "market_home_spread": -1.5,
+    "our_home_spread": 1.1,
+    "edge": 2.6,
+    "bet_team": "CHI"
+  }
+]

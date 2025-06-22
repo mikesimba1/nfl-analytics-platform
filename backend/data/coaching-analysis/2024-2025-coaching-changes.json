@@ -1,0 +1,36 @@
+{
+  "season": "2024-2025",
+  "totalChanges": 2,
+  "highImpactChanges": 2,
+  "changes": {
+    "headCoaches": [
+      {
+        "team": "CHI",
+        "previousCoach": "Matt Eberflus",
+        "newCoach": "Ben Johnson",
+        "previousTeam": "DET (OC)",
+        "changeType": "Head Coach",
+        "impact": "HIGH",
+        "tendencyChange": "Offensive philosophy shift - Lions-style aggressive play-calling"
+      },
+      {
+        "team": "NYJ",
+        "previousCoach": "Robert Saleh",
+        "newCoach": "Aaron Glenn",
+        "previousTeam": "DET (DC)",
+        "changeType": "Head Coach",
+        "impact": "HIGH",
+        "tendencyChange": "Defensive scheme change - Lions-style aggressive defense"
+      }
+    ]
+  },
+  "impactTeams": [
+    "CHI",
+    "NYJ"
+  ],
+  "analysis": {
+    "difficulty": "HIGH",
+    "reason": "Multiple coordinator-to-HC promotions create ripple effects"
+  },
+  "created": "2025-06-21T04:27:30.636Z"
+}
