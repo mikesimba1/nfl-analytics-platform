@@ -1,0 +1,23 @@
+[
+  {
+    "game": "CAR @ JAX",
+    "recommendation": "MODERATE BET",
+    "our_spread": 5.6,
+    "confidence": 0.6331147692838359,
+    "edge_score": 354.5442707989481
+  },
+  {
+    "game": "HOU @ LAR",
+    "recommendation": "MODERATE BET",
+    "our_spread": 8.3,
+    "confidence": 0.6577032385478834,
+    "edge_score": 545.8936879947432
+  },
+  {
+    "game": "MIN @ CHI",
+    "recommendation": "MODERATE BET",
+    "our_spread": -3.4,
+    "confidence": 0.6944228903854298,
+    "edge_score": 236.10378273104615
+  }
+]

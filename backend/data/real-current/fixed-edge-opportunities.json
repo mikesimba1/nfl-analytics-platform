@@ -1,0 +1,86 @@
+[
+  {
+    "game": "DAL @ PHI",
+    "recommendation": "MODERATE BET",
+    "our_spread": 3.7,
+    "confidence": 0.8082213825148585,
+    "edge_score": 299.04191153049766
+  },
+  {
+    "game": "KC @ LAC",
+    "recommendation": "GOOD BET",
+    "our_spread": -7.1,
+    "confidence": 0.94,
+    "edge_score": 667.4
+  },
+  {
+    "game": "TB @ ATL",
+    "recommendation": "STRONG BET",
+    "our_spread": -10.0,
+    "confidence": 0.94,
+    "edge_score": 939.9999999999999
+  },
+  {
+    "game": "CIN @ CLE",
+    "recommendation": "STRONG BET",
+    "our_spread": -18.9,
+    "confidence": 0.94,
+    "edge_score": 1776.6
+  },
+  {
+    "game": "MIA @ IND",
+    "recommendation": "GOOD BET",
+    "our_spread": -5.6,
+    "confidence": 0.94,
+    "edge_score": 526.4
+  },
+  {
+    "game": "LV @ NE",
+    "recommendation": "MODERATE BET",
+    "our_spread": -3.2,
+    "confidence": 0.7579600334328829,
+    "edge_score": 242.54721069852252
+  },
+  {
+    "game": "NYG @ WSH",
+    "recommendation": "GOOD BET",
+    "our_spread": 5.0,
+    "confidence": 0.8036444592338261,
+    "edge_score": 401.8222296169131
+  },
+  {
+    "game": "CAR @ JAX",
+    "recommendation": "STRONG BET",
+    "our_spread": 17.9,
+    "confidence": 0.94,
+    "edge_score": 1682.5999999999997
+  },
+  {
+    "game": "SF @ SEA",
+    "recommendation": "STRONG BET",
+    "our_spread": 9.6,
+    "confidence": 0.94,
+    "edge_score": 902.3999999999999
+  },
+  {
+    "game": "DET @ GB",
+    "recommendation": "STRONG BET",
+    "our_spread": -16.2,
+    "confidence": 0.94,
+    "edge_score": 1522.7999999999997
+  },
+  {
+    "game": "HOU @ LAR",
+    "recommendation": "STRONG BET",
+    "our_spread": 26.1,
+    "confidence": 0.94,
+    "edge_score": 2453.4
+  },
+  {
+    "game": "MIN @ CHI",
+    "recommendation": "STRONG BET",
+    "our_spread": -26.8,
+    "confidence": 0.94,
+    "edge_score": 2519.2
+  }
+]
