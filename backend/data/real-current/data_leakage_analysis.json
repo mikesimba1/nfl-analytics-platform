@@ -1,0 +1,32 @@
+{
+  "analysis_date": "2025-06-22T18:22:25.599914",
+  "total_leakage_issues": 7,
+  "severity": "CRITICAL",
+  "leakage_analysis": {
+    "temporal_data_usage": [
+      "CRITICAL: Team ratings have no temporal information",
+      "ISSUE: Same ratings used for all historical predictions",
+      "LEAKAGE: Future performance included in past predictions"
+    ],
+    "validation_methodology": [
+      "ISSUE: Used random split instead of temporal split",
+      "POTENTIAL LEAKAGE: Team ratings used without temporal validation"
+    ],
+    "historical_data_structure": [],
+    "data_2024_usage": [
+      "NEED TO VERIFY: Were team ratings calculated using future 2024 results?"
+    ],
+    "team_ratings_calculation": [
+      "CRITICAL: No team rating calculation scripts found"
+    ]
+  },
+  "recommendations": [
+    "Implement proper temporal train/test split",
+    "Recalculate team ratings with temporal awareness",
+    "Use walk-forward validation methodology",
+    "Add timestamps to all features",
+    "Implement time-series cross-validation",
+    "Verify no future data leakage in any features"
+  ],
+  "corrective_actions_required": true
+}
