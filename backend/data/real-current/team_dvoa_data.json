@@ -1,0 +1,194 @@
+{
+  "KC": {
+    "offensive_dvoa": 0.396492565764397,
+    "defensive_dvoa": 11.120853983987804,
+    "total_dvoa": 5.7586732748761005,
+    "games_played": 20
+  },
+  "BAL": {
+    "offensive_dvoa": 30.61380099123142,
+    "defensive_dvoa": 8.044224170796795,
+    "total_dvoa": 19.32901258101411,
+    "games_played": 19
+  },
+  "PHI": {
+    "offensive_dvoa": 25.83192636566636,
+    "defensive_dvoa": 21.35504602145853,
+    "total_dvoa": 23.593486193562445,
+    "games_played": 21
+  },
+  "GB": {
+    "offensive_dvoa": 13.483288855000634,
+    "defensive_dvoa": 13.076629813191005,
+    "total_dvoa": 13.27995933409582,
+    "games_played": 18
+  },
+  "ATL": {
+    "offensive_dvoa": -0.5494382274449994,
+    "defensive_dvoa": -8.1428987912359,
+    "total_dvoa": -4.34616850934045,
+    "games_played": 17
+  },
+  "PIT": {
+    "offensive_dvoa": -4.867200406659041,
+    "defensive_dvoa": 9.454822722073967,
+    "total_dvoa": 2.2938111577074634,
+    "games_played": 18
+  },
+  "BUF": {
+    "offensive_dvoa": 32.99275638581777,
+    "defensive_dvoa": 6.122760198246278,
+    "total_dvoa": 19.557758292032027,
+    "games_played": 20
+  },
+  "ARI": {
+    "offensive_dvoa": 2.2627884550694146,
+    "defensive_dvoa": 3.106007938821741,
+    "total_dvoa": 2.684398196945578,
+    "games_played": 17
+  },
+  "CHI": {
+    "offensive_dvoa": -20.746338947321213,
+    "defensive_dvoa": 5.406920679060794,
+    "total_dvoa": -7.669709134130209,
+    "games_played": 17
+  },
+  "TEN": {
+    "offensive_dvoa": -20.490681976183538,
+    "defensive_dvoa": -17.602206723329818,
+    "total_dvoa": -19.04644434975668,
+    "games_played": 17
+  },
+  "CIN": {
+    "offensive_dvoa": 20.670090376981904,
+    "defensive_dvoa": -10.955125473750314,
+    "total_dvoa": 4.857482451615795,
+    "games_played": 17
+  },
+  "NE": {
+    "offensive_dvoa": -26.115135341212355,
+    "defensive_dvoa": -6.608956964409865,
+    "total_dvoa": -16.36204615281111,
+    "games_played": 17
+  },
+  "IND": {
+    "offensive_dvoa": -3.617321881097086,
+    "defensive_dvoa": -9.165526675786591,
+    "total_dvoa": -6.391424278441839,
+    "games_played": 17
+  },
+  "HOU": {
+    "offensive_dvoa": -4.384292794510104,
+    "defensive_dvoa": 6.900495615707201,
+    "total_dvoa": 1.2581014105985486,
+    "games_played": 19
+  },
+  "MIA": {
+    "offensive_dvoa": -11.798344957502641,
+    "defensive_dvoa": 6.940862505886845,
+    "total_dvoa": -2.4287412258078978,
+    "games_played": 17
+  },
+  "JAX": {
+    "offensive_dvoa": -18.18976923594447,
+    "defensive_dvoa": -11.210782444887988,
+    "total_dvoa": -14.70027584041623,
+    "games_played": 17
+  },
+  "NO": {
+    "offensive_dvoa": -13.58794375546635,
+    "defensive_dvoa": -1.751474512794054,
+    "total_dvoa": -7.669709134130202,
+    "games_played": 17
+  },
+  "CAR": {
+    "offensive_dvoa": -12.82097284205333,
+    "defensive_dvoa": -36.52082258751766,
+    "total_dvoa": -24.670897714785493,
+    "games_played": 17
+  },
+  "NYG": {
+    "offensive_dvoa": -30.20564687941513,
+    "defensive_dvoa": -6.097643022134504,
+    "total_dvoa": -18.151644950774816,
+    "games_played": 17
+  },
+  "MIN": {
+    "offensive_dvoa": 6.481128478841021,
+    "defensive_dvoa": 13.318083619265481,
+    "total_dvoa": 9.89960604905325,
+    "games_played": 18
+  },
+  "LAC": {
+    "offensive_dvoa": -0.03812428516965415,
+    "defensive_dvoa": 19.595882577201678,
+    "total_dvoa": 9.778879146016012,
+    "games_played": 18
+  },
+  "LV": {
+    "offensive_dvoa": -21.001995918458885,
+    "defensive_dvoa": -10.955125473750314,
+    "total_dvoa": -15.9785606961046,
+    "games_played": 17
+  },
+  "SEA": {
+    "offensive_dvoa": -4.128635823372432,
+    "defensive_dvoa": 5.91823462133614,
+    "total_dvoa": 0.8947993989818541,
+    "games_played": 17
+  },
+  "DEN": {
+    "offensive_dvoa": 4.3080442241707955,
+    "defensive_dvoa": 17.422798322531456,
+    "total_dvoa": 10.865421273351124,
+    "games_played": 18
+  },
+  "CLE": {
+    "offensive_dvoa": -34.040501446480235,
+    "defensive_dvoa": -11.210782444887988,
+    "total_dvoa": -22.625641945684112,
+    "games_played": 17
+  },
+  "DAL": {
+    "offensive_dvoa": -10.520060101814261,
+    "defensive_dvoa": -19.647462492431213,
+    "total_dvoa": -15.083761297122738,
+    "games_played": 17
+  },
+  "TB": {
+    "offensive_dvoa": 26.03888677087304,
+    "defensive_dvoa": 1.4868471216164656,
+    "total_dvoa": 13.762866946244753,
+    "games_played": 18
+  },
+  "WAS": {
+    "offensive_dvoa": 25.16965306900496,
+    "defensive_dvoa": -8.002287457110183,
+    "total_dvoa": 8.583682805947387,
+    "games_played": 20
+  },
+  "DET": {
+    "offensive_dvoa": 43.66501461430932,
+    "defensive_dvoa": 6.557377049180328,
+    "total_dvoa": 25.111195831744826,
+    "games_played": 18
+  },
+  "LA": {
+    "offensive_dvoa": -4.841784216545938,
+    "defensive_dvoa": 3.2405642394205105,
+    "total_dvoa": -0.800609988562714,
+    "games_played": 19
+  },
+  "SF": {
+    "offensive_dvoa": -0.5494382274449994,
+    "defensive_dvoa": -11.46643941602566,
+    "total_dvoa": -6.00793882173533,
+    "games_played": 17
+  },
+  "NYJ": {
+    "offensive_dvoa": -13.58794375546635,
+    "defensive_dvoa": -3.285416339620105,
+    "total_dvoa": -8.436680047543227,
+    "games_played": 17
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "validation_date": "2025-06-24T23:33:34.191005",
+  "overall_health": 90,
+  "component_results": {
+    "epa_data": {
+      "status": "good",
+      "issues": [],
+      "coverage": 60
+    },
+    "dvoa_data": {
+      "status": "good",
+      "issues": [],
+      "coverage": 75
+    },
+    "team_ratings": {
+      "status": "excellent",
+      "issues": [],
+      "coverage": 90
+    },
+    "api_connectivity": {
+      "status": "excellent",
+      "issues": [],
+      "coverage": 100
+    },
+    "historical_data": {
+      "status": "excellent",
+      "issues": [],
+      "coverage": 130
+    },
+    "prediction_readiness": {
+      "status": "excellent",
+      "issues": [],
+      "coverage": 88
+    }
+  },
+  "status_summary": {
+    "excellent": 4,
+    "good": 2,
+    "fair": 0,
+    "poor": 0
+  },
+  "total_issues": 0,
+  "all_issues": [],
+  "recommendations": [
+    "System is production-ready",
+    "Consider implementing advanced features",
+    "Monitor system performance",
+    "Plan for scaling"
+  ]
+}
