@@ -1,0 +1,89 @@
+[
+  {
+    "predicted_spread": -0.9,
+    "predicted_total": 51.0,
+    "confidence": "LOW",
+    "home_win_probability": 0.533,
+    "strength_differential": -0.127,
+    "game_id": "week1_game1",
+    "home_team": "KC",
+    "away_team": "BUF",
+    "prediction_date": "2025-06-25T00:41:06.429048"
+  },
+  {
+    "predicted_spread": -4.6,
+    "predicted_total": 54.9,
+    "confidence": "LOW",
+    "home_win_probability": 0.667,
+    "strength_differential": 0.122,
+    "game_id": "week1_game2",
+    "home_team": "BAL",
+    "away_team": "CIN",
+    "prediction_date": "2025-06-25T00:41:06.430001"
+  },
+  {
+    "predicted_spread": -4.1,
+    "predicted_total": 52.3,
+    "confidence": "LOW",
+    "home_win_probability": 0.65,
+    "strength_differential": 0.089,
+    "game_id": "week1_game3",
+    "home_team": "PHI",
+    "away_team": "GB",
+    "prediction_date": "2025-06-25T00:41:06.430498"
+  },
+  {
+    "predicted_spread": -4.9,
+    "predicted_total": 54.7,
+    "confidence": "LOW",
+    "home_win_probability": 0.676,
+    "strength_differential": 0.14,
+    "game_id": "week1_game4",
+    "home_team": "DET",
+    "away_team": "MIN",
+    "prediction_date": "2025-06-25T00:41:06.430949"
+  },
+  {
+    "predicted_spread": -5.2,
+    "predicted_total": 49.3,
+    "confidence": "MEDIUM",
+    "home_win_probability": 0.686,
+    "strength_differential": 0.16,
+    "game_id": "week1_game5",
+    "home_team": "TB",
+    "away_team": "ATL",
+    "prediction_date": "2025-06-25T00:41:06.431455"
+  },
+  {
+    "predicted_spread": 0.0,
+    "predicted_total": 44.0,
+    "confidence": "LOW",
+    "home_win_probability": 0.5,
+    "game_id": "week1_game6",
+    "home_team": "SF",
+    "away_team": "LAR",
+    "prediction_date": "2025-06-25T00:41:06.431790"
+  },
+  {
+    "predicted_spread": -3.4,
+    "predicted_total": 34.8,
+    "confidence": "LOW",
+    "home_win_probability": 0.624,
+    "strength_differential": 0.038,
+    "game_id": "week1_game7",
+    "home_team": "DAL",
+    "away_team": "NYG",
+    "prediction_date": "2025-06-25T00:41:06.432220"
+  },
+  {
+    "predicted_spread": -4.6,
+    "predicted_total": 35.4,
+    "confidence": "LOW",
+    "home_win_probability": 0.667,
+    "strength_differential": 0.123,
+    "game_id": "week1_game8",
+    "home_team": "MIA",
+    "away_team": "NE",
+    "prediction_date": "2025-06-25T00:41:06.432816"
+  }
+]
