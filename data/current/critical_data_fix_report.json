@@ -1,0 +1,17 @@
+{
+  "fix_date": "2025-06-25T00:36:47.069696",
+  "total_fixes_attempted": 4,
+  "successful_fixes": 3,
+  "success_rate": 75.0,
+  "fixes_applied": [
+    "Simplified EPA data calculated from game results",
+    "DVOA ratings calculated from game results",
+    "Live odds API integration restored"
+  ],
+  "data_gaps_filled": [
+    "EPA differential (22% of model)",
+    "DVOA differential (13.5% of model)"
+  ],
+  "model_coverage_restored": 35.5,
+  "production_readiness": "PARTIAL"
+}

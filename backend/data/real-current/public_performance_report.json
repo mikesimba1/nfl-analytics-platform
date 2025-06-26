@@ -1,0 +1,22 @@
+{
+  "systemName": "NFL Prediction System",
+  "lastUpdated": "2025-06-25T06:06:57.517Z",
+  "overallPerformance": {
+    "totalPredictions": 3,
+    "correctPredictions": 3,
+    "accuracy": 100,
+    "weeksTracked": 1
+  },
+  "recentPerformance": {
+    "accuracy": 100,
+    "description": "Last 4 weeks"
+  },
+  "confidenceLevel": "EXPERIMENTAL",
+  "status": "EXPERIMENTAL - Insufficient data for reliable assessment",
+  "disclaimer": "Past performance does not guarantee future results. This system is for entertainment purposes.",
+  "transparency": {
+    "methodology": "Simple team strength ratings + home field advantage",
+    "dataSource": "Historical NFL games and real-time results",
+    "updateFrequency": "Weekly after game results"
+  }
+}

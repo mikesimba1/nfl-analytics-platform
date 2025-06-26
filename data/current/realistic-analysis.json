@@ -1,0 +1,274 @@
+[
+  {
+    "game": "DAL @ PHI",
+    "our_spread": 2.8,
+    "home_win_prob": 0.33444372574013465,
+    "confidence": 0.5885337591374463,
+    "epa_differential": 0.04452106033250089,
+    "dvoa_differential": -0.012000000000000177,
+    "point_differential": -0.16000000000000236,
+    "home_team": "PHI",
+    "away_team": "DAL",
+    "prediction_components": {
+      "xgboost": 2.7,
+      "random_forest": 2.74,
+      "logistic_regression": 2.84,
+      "ensemble": 2.75
+    }
+  },
+  {
+    "game": "KC @ LAC",
+    "our_spread": 2.3,
+    "home_win_prob": 0.3572411071984932,
+    "confidence": 0.6059846762812924,
+    "epa_differential": 0.031016893171403964,
+    "dvoa_differential": -0.04800000000000004,
+    "point_differential": -0.6400000000000006,
+    "home_team": "LAC",
+    "away_team": "KC",
+    "prediction_components": {
+      "xgboost": 2.66,
+      "random_forest": 2.26,
+      "logistic_regression": 2.03,
+      "ensemble": 2.35
+    }
+  },
+  {
+    "game": "TB @ ATL",
+    "our_spread": 0.1,
+    "home_win_prob": 0.49229955525693175,
+    "confidence": 0.618961905906415,
+    "epa_differential": -0.18784326040108684,
+    "dvoa_differential": -0.10199999999999995,
+    "point_differential": -1.3599999999999997,
+    "home_team": "ATL",
+    "away_team": "TB",
+    "prediction_components": {
+      "xgboost": -0.09,
+      "random_forest": 1.0,
+      "logistic_regression": -0.46,
+      "ensemble": 0.12
+    }
+  },
+  {
+    "game": "CIN @ CLE",
+    "our_spread": -2.0,
+    "home_win_prob": 0.6218460355891468,
+    "confidence": 0.6684992107316376,
+    "epa_differential": -0.2951205429277026,
+    "dvoa_differential": -0.14699999999999996,
+    "point_differential": -1.9599999999999995,
+    "home_team": "CLE",
+    "away_team": "CIN",
+    "prediction_components": {
+      "xgboost": -2.25,
+      "random_forest": -1.57,
+      "logistic_regression": -2.06,
+      "ensemble": -1.99
+    }
+  },
+  {
+    "game": "MIA @ IND",
+    "our_spread": 1.7,
+    "home_win_prob": 0.39561669298785535,
+    "confidence": 0.5994417604046167,
+    "epa_differential": -0.14719999373687,
+    "dvoa_differential": -0.008999999999999914,
+    "point_differential": -0.11999999999999889,
+    "home_team": "IND",
+    "away_team": "MIA",
+    "prediction_components": {
+      "xgboost": 1.57,
+      "random_forest": 1.88,
+      "logistic_regression": 1.68,
+      "ensemble": 1.7
+    }
+  },
+  {
+    "game": "LV @ NE",
+    "our_spread": 2.3,
+    "home_win_prob": 0.35918314736648155,
+    "confidence": 0.6023023106494917,
+    "epa_differential": 0.07672885607786355,
+    "dvoa_differential": -0.06,
+    "point_differential": -0.8,
+    "home_team": "NE",
+    "away_team": "LV",
+    "prediction_components": {
+      "xgboost": 2.11,
+      "random_forest": 2.83,
+      "logistic_regression": 2.08,
+      "ensemble": 2.32
+    }
+  },
+  {
+    "game": "ARI @ NO",
+    "our_spread": 2.3,
+    "home_win_prob": 0.3591515424125407,
+    "confidence": 0.5915773025430082,
+    "epa_differential": 0.02671891416655981,
+    "dvoa_differential": -0.05700000000000016,
+    "point_differential": -0.7600000000000022,
+    "home_team": "NO",
+    "away_team": "ARI",
+    "prediction_components": {
+      "xgboost": 2.33,
+      "random_forest": 2.8,
+      "logistic_regression": 1.82,
+      "ensemble": 2.32
+    }
+  },
+  {
+    "game": "PIT @ NYJ",
+    "our_spread": 2.0,
+    "home_win_prob": 0.3798815015258432,
+    "confidence": 0.5889074430025,
+    "epa_differential": -0.0059846994481648486,
+    "dvoa_differential": -0.024000000000000125,
+    "point_differential": -0.3200000000000017,
+    "home_team": "NYJ",
+    "away_team": "PIT",
+    "prediction_components": {
+      "xgboost": 1.86,
+      "random_forest": 1.78,
+      "logistic_regression": 2.28,
+      "ensemble": 1.96
+    }
+  },
+  {
+    "game": "NYG @ WSH",
+    "our_spread": 4.1,
+    "home_win_prob": 0.2649151849676181,
+    "confidence": 0.5987284585991035,
+    "epa_differential": 0.1021223550141049,
+    "dvoa_differential": 0.045,
+    "point_differential": 0.6000000000000001,
+    "home_team": "WSH",
+    "away_team": "NYG",
+    "prediction_components": {
+      "xgboost": 4.21,
+      "random_forest": 3.63,
+      "logistic_regression": 4.36,
+      "ensemble": 4.08
+    }
+  },
+  {
+    "game": "CAR @ JAX",
+    "our_spread": 5.6,
+    "home_win_prob": 0.1987882588408288,
+    "confidence": 0.6331147692838359,
+    "epa_differential": 0.2545341953519896,
+    "dvoa_differential": 0.06,
+    "point_differential": 0.8,
+    "home_team": "JAX",
+    "away_team": "CAR",
+    "prediction_components": {
+      "xgboost": 5.65,
+      "random_forest": 5.4,
+      "logistic_regression": 5.64,
+      "ensemble": 5.58
+    }
+  },
+  {
+    "game": "TEN @ DEN",
+    "our_spread": 1.3,
+    "home_win_prob": 0.4177383069967566,
+    "confidence": 0.6224749730002199,
+    "epa_differential": -0.23728116005569147,
+    "dvoa_differential": -0.014999999999999998,
+    "point_differential": -0.2,
+    "home_team": "DEN",
+    "away_team": "TEN",
+    "prediction_components": {
+      "xgboost": 1.49,
+      "random_forest": 1.46,
+      "logistic_regression": 0.98,
+      "ensemble": 1.33
+    }
+  },
+  {
+    "game": "SF @ SEA",
+    "our_spread": -1.1,
+    "home_win_prob": 0.5675205368002749,
+    "confidence": 0.6436759845566892,
+    "epa_differential": -0.27399969790600665,
+    "dvoa_differential": -0.075,
+    "point_differential": -1.0000000000000002,
+    "home_team": "SEA",
+    "away_team": "SF",
+    "prediction_components": {
+      "xgboost": -1.39,
+      "random_forest": -1.3,
+      "logistic_regression": -0.47,
+      "ensemble": -1.09
+    }
+  },
+  {
+    "game": "DET @ GB",
+    "our_spread": 0.2,
+    "home_win_prob": 0.48664180826467657,
+    "confidence": 0.6226166051599684,
+    "epa_differential": -0.09900888200987992,
+    "dvoa_differential": -0.12300000000000004,
+    "point_differential": -1.6400000000000006,
+    "home_team": "GB",
+    "away_team": "DET",
+    "prediction_components": {
+      "xgboost": 0.11,
+      "random_forest": 0.88,
+      "logistic_regression": -0.32,
+      "ensemble": 0.21
+    }
+  },
+  {
+    "game": "HOU @ LAR",
+    "our_spread": 8.3,
+    "home_win_prob": 0.1114465143981669,
+    "confidence": 0.6577032385478834,
+    "epa_differential": 0.3649758297309985,
+    "dvoa_differential": 0.15600000000000008,
+    "point_differential": 2.0800000000000014,
+    "home_team": "LAR",
+    "away_team": "HOU",
+    "prediction_components": {
+      "xgboost": 8.78,
+      "random_forest": 7.69,
+      "logistic_regression": 8.29,
+      "ensemble": 8.3
+    }
+  },
+  {
+    "game": "BAL @ BUF",
+    "our_spread": 1.2,
+    "home_win_prob": 0.4252465560523823,
+    "confidence": 0.606827738457013,
+    "epa_differential": -0.18650927671123668,
+    "dvoa_differential": -0.029999999999999992,
+    "point_differential": -0.40000000000000013,
+    "home_team": "BUF",
+    "away_team": "BAL",
+    "prediction_components": {
+      "xgboost": 1.08,
+      "random_forest": 1.57,
+      "logistic_regression": 1.0,
+      "ensemble": 1.21
+    }
+  },
+  {
+    "game": "MIN @ CHI",
+    "our_spread": -3.4,
+    "home_win_prob": 0.7008843744116514,
+    "confidence": 0.6944228903854298,
+    "epa_differential": -0.3895114377084968,
+    "dvoa_differential": -0.19800000000000004,
+    "point_differential": -2.6400000000000006,
+    "home_team": "CHI",
+    "away_team": "MIN",
+    "prediction_components": {
+      "xgboost": -3.62,
+      "random_forest": -2.83,
+      "logistic_regression": -3.69,
+      "ensemble": -3.41
+    }
+  }
+]

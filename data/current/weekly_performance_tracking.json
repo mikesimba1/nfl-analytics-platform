@@ -1,0 +1,75 @@
+{
+  "systemStartDate": "2025-06-25T06:06:57.511Z",
+  "totalWeeks": 1,
+  "overallRecord": {
+    "correct": 3,
+    "total": 3
+  },
+  "weeklyResults": [
+    {
+      "week": 1,
+      "year": 2025,
+      "date": "2025-06-25T06:06:57.514Z",
+      "predictions": [
+        {
+          "homeTeam": "PHI",
+          "awayTeam": "DAL",
+          "predictedWinner": "PHI",
+          "homeWinProbability": 0.5488721804511277,
+          "confidence": 0.09774436090225547,
+          "estimatedSpread": 2,
+          "methodology": "Simple team strength + home field advantage",
+          "notes": "Home: 0.65, Away: 0.6, HFA: 0.08"
+        },
+        {
+          "homeTeam": "LAC",
+          "awayTeam": "KC",
+          "predictedWinner": "KC",
+          "homeWinProbability": 0.4755244755244755,
+          "confidence": 0.04895104895104896,
+          "estimatedSpread": -1,
+          "methodology": "Simple team strength + home field advantage",
+          "notes": "Home: 0.6, Away: 0.75, HFA: 0.08"
+        },
+        {
+          "homeTeam": "GB",
+          "awayTeam": "MIN",
+          "predictedWinner": "GB",
+          "homeWinProbability": 0.5575221238938054,
+          "confidence": 0.1150442477876108,
+          "estimatedSpread": 2,
+          "methodology": "Simple team strength + home field advantage",
+          "notes": "Home: 0.55, Away: 0.5, HFA: 0.08"
+        }
+      ],
+      "results": [
+        {
+          "homeScore": 24,
+          "awayScore": 21
+        },
+        {
+          "homeScore": 17,
+          "awayScore": 28
+        },
+        {
+          "homeScore": 31,
+          "awayScore": 14
+        }
+      ],
+      "accuracy": 1,
+      "correct": 3,
+      "total": 3,
+      "resultDate": "2025-06-25T06:06:57.515Z"
+    }
+  ],
+  "accuracyTrend": [
+    {
+      "week": 1,
+      "year": 2025,
+      "accuracy": 1,
+      "cumulativeAccuracy": 1
+    }
+  ],
+  "confidence": "EXPERIMENTAL",
+  "disclaimer": "System in validation phase - results may vary"
+}

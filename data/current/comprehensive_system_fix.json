@@ -1,0 +1,29 @@
+{
+  "fix_date": "2025-06-22T18:29:57.405057",
+  "methodology": "PROPER_WEEKLY_PREDICTIONS",
+  "data_leakage_prevented": true,
+  "issues_fixed": [
+    "Implemented proper weekly team ratings calculation",
+    "Fixed temporal data leakage in validation",
+    "Added comprehensive team performance metrics",
+    "Implemented proper confidence scoring",
+    "Added recent form and home/away performance",
+    "Created production-ready weekly prediction system"
+  ],
+  "validation_methodology": {
+    "type": "Week-by-week validation",
+    "temporal_awareness": true,
+    "matches_production_usage": true,
+    "no_data_leakage": true
+  },
+  "data_sources": {
+    "historical_games": 2885,
+    "total_2024_games": 285,
+    "completed_2024_games": 285
+  },
+  "validation_results": {
+    "overall_accuracy": 0.6701754385964912,
+    "high_confidence_accuracy": 0.7208121827411168,
+    "medium_confidence_accuracy": 0.6111111111111112,
+    "total_predictions": 285,
+    "high_confidence_count": 

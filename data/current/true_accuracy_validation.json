@@ -1,0 +1,14 @@
+{
+  "validation_date": "2025-06-22T18:16:44.591825",
+  "methodology": "PROPER_TRAIN_TEST_SPLIT",
+  "training_games": 2885,
+  "test_games": 285,
+  "model_type": "TEAM_STRENGTH_WITH_HOME_ADVANTAGE",
+  "accuracy_results": {
+    "overall_accuracy": 0.5473684210526316,
+    "high_confidence_accuracy": 0.5473684210526316,
+    "medium_confidence_accuracy": 0.5473684210526316,
+    "baseline_accuracy": 0.5473684210526316,
+    "improvement_over_baseline": 0.0,
+    "total_predictions": 285,
+    "high_confidence_count": 

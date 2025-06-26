@@ -1,0 +1,16 @@
+[
+  {
+    "game": "NYG @ WSH",
+    "our_spread": -9.7,
+    "market_spread": -6.3,
+    "edge": 3.4,
+    "confidence": 0.696,
+    "recommendation": "MODERATE BET",
+    "bet_team": "WSH",
+    "market_odds": "-310/250",
+    "epa_differential": -0.007,
+    "dvoa_differential": -0.011,
+    "point_differential": 9.7,
+    "methodology": "Research-Proven: XGBoost Ensemble + EPA + DVOA"
+  }
+]

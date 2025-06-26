@@ -1,0 +1,48 @@
+{
+  "audit_date": "2025-06-22T18:15:09.419778",
+  "total_issues_found": 5,
+  "accuracy_measurements": [
+    {
+      "file": "production_report.json",
+      "field": "model_summary.validation_accuracy",
+      "value": 0.5258215962441314
+    }
+  ],
+  "audit_results": {
+    "data_sources": {
+      "status": "PASS",
+      "findings": []
+    },
+    "prediction_methodology": {
+      "status": "ISSUES_FOUND",
+      "findings": [
+        "Error analyzing prediction methodology: 'charmap' codec can't decode byte 0x8f in position 849: character maps to <undefined>"
+      ]
+    },
+    "accuracy_calculations": {
+      "status": "ISSUES_FOUND",
+      "findings": [
+        "Error reading data/real-current\\immediate-validation-report.json: Expecting value: line 18 column 18 (char 554)",
+        "Error reading data/real-current\\immediate-validation-report.json: Expecting value: line 18 column 18 (char 554)"
+      ]
+    },
+    "sample_validation": {
+      "status": "PASS",
+      "findings": []
+    },
+    "overfitting_check": {
+      "status": "ISSUES_FOUND",
+      "findings": [
+        "Suspiciously high accuracy: 100.0% (NFL betting >75% is extremely rare)",
+        "No training files found - may indicate lack of proper ML methodology"
+      ]
+    }
+  },
+  "overall_assessment": "ISSUES_REQUIRE_ATTENTION",
+  "recommendations": [
+    "Review and address identified accuracy testing issues",
+    "Implement proper train/test split methodology",
+    "Add cross-validation for more robust accuracy estimates",
+    "Document prediction methodology more thoroughly"
+  ]
+}

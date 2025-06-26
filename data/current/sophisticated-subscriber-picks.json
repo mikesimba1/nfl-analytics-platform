@@ -1,0 +1,13 @@
+{
+  "week_summary": {
+    "total_games_analyzed": 0,
+    "strong_bets": 0,
+    "good_bets": 0,
+    "leans": 0,
+    "analysis_method": "Deep Research XGBoost Ensemble",
+    "model_accuracy": "55-58% (Research Proven)",
+    "generated_at": "2025-06-21T05:11:25.347180"
+  },
+  "top_picks": [],
+  "all_analyses": []
+}

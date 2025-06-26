@@ -1,0 +1,18 @@
+{
+  "validation_date": "2025-06-22T17:36:52.079340",
+  "methodology": "2024 Historical Backtest - No Data Leakage",
+  "model_config": "Research-Proven Feature Weights + XGBoost Ensemble",
+  "results": {
+    "total_games": 208,
+    "overall_accuracy": 0.6394230769230769,
+    "high_confidence_accuracy": 0.6707317073170732,
+    "edge_detection_rate": 0.3942307692307692,
+    "benchmarks_passed": 3
+  },
+  "sample_predictions": [
+    {
+      "week": 1,
+      "game": "BAL @ KC",
+      "predicted_spread": -1.4,
+      "actual_margin": 7.0,
+      "correct": 

@@ -1,0 +1,1028 @@
+[
+  {
+    "matchup": "DAL @ PHI",
+    "game_date": "2025-09-05T00:20Z",
+    "venue": "Lincoln Financial Field",
+    "city": "Philadelphia",
+    "market_home_spread": -7.0,
+    "market_away_spread": 7.0,
+    "market_total": 46.5,
+    "home_moneyline": -310,
+    "away_moneyline": 250,
+    "our_home_spread": -10.4,
+    "confidence": 85,
+    "recommendation": "STRONG BET",
+    "spread_edge": -3.4,
+    "edge_percentage": 48.6,
+    "bet_direction": "AWAY",
+    "bet_team": "DAL",
+    "recommended_bet": "DAL +7.0",
+    "home_injury_impact": 18.9,
+    "away_injury_impact": 5.7,
+    "home_key_injuries": [
+      {
+        "player": "Stefon Allen",
+        "position": "LB",
+        "status": "IR",
+        "injury": "Shoulder",
+        "impact": 1.5
+      },
+      {
+        "player": "Rob Chubb 2",
+        "position": "QB",
+        "status": "Doubtful",
+        "injury": "Knee",
+        "impact": 6.4
+      },
+      {
+        "player": "Calvin Taylor 3",
+        "position": "QB",
+        "status": "Out",
+        "injury": "Concussion",
+        "impact": 8.0
+      }
+    ],
+    "away_key_injuries": [
+      {
+        "player": "Nick Ridley",
+        "position": "S",
+        "status": "Out",
+        "injury": "Ankle",
+        "impact": 1.0
+      },
+      {
+        "player": "Mike Ekeler 2",
+        "position": "WR",
+        "status": "Doubtful",
+        "injury": "Ankle",
+        "impact": 2.0
+      },
+      {
+        "player": "Joe Adams 3",
+        "position": "CB",
+        "status": "IR",
+        "injury": "Ribs",
+        "impact": 1.2
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.820007",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  },
+  {
+    "matchup": "KC @ LAC",
+    "game_date": "2025-09-06T00:00Z",
+    "venue": "Corinthians Arena",
+    "city": "Sao Paulo",
+    "market_home_spread": 2.5,
+    "market_away_spread": -2.5,
+    "market_total": 45.5,
+    "home_moneyline": 118,
+    "away_moneyline": -138,
+    "our_home_spread": 1.3,
+    "confidence": 75,
+    "recommendation": "GOOD BET",
+    "spread_edge": -1.2,
+    "edge_percentage": 48.0,
+    "bet_direction": "AWAY",
+    "bet_team": "KC",
+    "recommended_bet": "KC -2.5",
+    "home_injury_impact": 11.0,
+    "away_injury_impact": 9.5,
+    "home_key_injuries": [
+      {
+        "player": "Rob Gronkowski",
+        "position": "RB",
+        "status": "Out",
+        "injury": "Shoulder",
+        "impact": 3.0
+      },
+      {
+        "player": "Aaron Higbee 2",
+        "position": "QB",
+        "status": "Doubtful",
+        "injury": "Shoulder",
+        "impact": 6.4
+      },
+      {
+        "player": "Tyreek Elliott 3",
+        "position": "OL",
+        "status": "Doubtful",
+        "injury": "Shoulder",
+        "impact": 1.6
+      }
+    ],
+    "away_key_injuries": [
+      {
+        "player": "Patrick Ekeler",
+        "position": "TE",
+        "status": "IR",
+        "injury": "Ribs",
+        "impact": 1.5
+      },
+      {
+        "player": "Travis Ekeler 2",
+        "position": "QB",
+        "status": "Out",
+        "injury": "Ribs",
+        "impact": 8.0
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.820882",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  },
+  {
+    "matchup": "TB @ ATL",
+    "game_date": "2025-09-07T17:00Z",
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta",
+    "market_home_spread": 2.5,
+    "market_away_spread": -2.5,
+    "market_total": 48.5,
+    "home_moneyline": 114,
+    "away_moneyline": -135,
+    "our_home_spread": 0.1,
+    "confidence": 80,
+    "recommendation": "GOOD BET",
+    "spread_edge": -2.4,
+    "edge_percentage": 96.0,
+    "bet_direction": "AWAY",
+    "bet_team": "TB",
+    "recommended_bet": "TB -2.5",
+    "home_injury_impact": 11.9,
+    "away_injury_impact": 9.2,
+    "home_key_injuries": [
+      {
+        "player": "Mike Waller",
+        "position": "WR",
+        "status": "Questionable",
+        "injury": "Knee",
+        "impact": 1.0
+      },
+      {
+        "player": "Keenan Allen 2",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Ribs",
+        "impact": 0.5
+      },
+      {
+        "player": "Davante Henry 3",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Hamstring",
+        "impact": 0.4
+      }
+    ],
+    "away_key_injuries": [
+      {
+        "player": "Rob Brady",
+        "position": "RB",
+        "status": "Questionable",
+        "injury": "Knee",
+        "impact": 1.2
+      },
+      {
+        "player": "Josh Andrews 2",
+        "position": "QB",
+        "status": "Out",
+        "injury": "Knee",
+        "impact": 8.0
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.821434",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  },
+  {
+    "matchup": "CIN @ CLE",
+    "game_date": "2025-09-07T17:00Z",
+    "venue": "Huntington Bank Field",
+    "city": "Cleveland",
+    "market_home_spread": 5.5,
+    "market_away_spread": -5.5,
+    "market_total": 44.5,
+    "home_moneyline": 190,
+    "away_moneyline": -230,
+    "our_home_spread": 3.3,
+    "confidence": 80,
+    "recommendation": "GOOD BET",
+    "spread_edge": -2.2,
+    "edge_percentage": 40.0,
+    "bet_direction": "AWAY",
+    "bet_team": "CIN",
+    "recommended_bet": "CIN -5.5",
+    "home_injury_impact": 2.2,
+    "away_injury_impact": 2.7,
+    "home_key_injuries": [
+      {
+        "player": "DK Ekeler",
+        "position": "OL",
+        "status": "Questionable",
+        "injury": "Wrist",
+        "impact": 0.8
+      },
+      {
+        "player": "Nick Ertz 2",
+        "position": "OL",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impact": 0.8
+      },
+      {
+        "player": "Calvin Taylor 3",
+        "position": "DL",
+        "status": "Questionable",
+        "injury": "Hamstring",
+        "impact": 0.6
+      }
+    ],
+    "away_key_injuries": [
+      {
+        "player": "Justin Henry",
+        "position": "DL",
+        "status": "Doubtful",
+        "injury": "Ribs",
+        "impact": 1.2
+      },
+      {
+        "player": "Lamar Gronkowski 2",
+        "position": "DL",
+        "status": "IR",
+        "injury": "Ankle",
+        "impact": 1.5
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.822067",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  },
+  {
+    "matchup": "MIA @ IND",
+    "game_date": "2025-09-07T17:00Z",
+    "venue": "Lucas Oil Stadium",
+    "city": "Indianapolis",
+    "market_home_spread": -1.5,
+    "market_away_spread": 1.5,
+    "market_total": 45.5,
+    "home_moneyline": -120,
+    "away_moneyline": 100,
+    "our_home_spread": 9.6,
+    "confidence": 85,
+    "recommendation": "STRONG BET",
+    "spread_edge": 11.1,
+    "edge_percentage": 740.0,
+    "bet_direction": "HOME",
+    "bet_team": "IND",
+    "recommended_bet": "IND -1.5",
+    "home_injury_impact": 4.7,
+    "away_injury_impact": 11.5,
+    "home_key_injuries": [
+      {
+        "player": "Justin Mahomes",
+        "position": "LB",
+        "status": "IR",
+        "injury": "Hamstring",
+        "impact": 1.5
+      },
+      {
+        "player": "Derrick Allen 2",
+        "position": "OL",
+        "status": "IR",
+        "injury": "Knee",
+        "impact": 2.0
+      },
+      {
+        "player": "Christian Allen 3",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Concussion",
+        "impact": 1.2
+      }
+    ],
+    "away_key_injuries": [
+      {
+        "player": "Davante Rodgers",
+        "position": "QB",
+        "status": "IR",
+        "injury": "Knee",
+        "impact": 8.0
+      },
+      {
+        "player": "Joe Diggs 2",
+        "position": "DL",
+        "status": "IR",
+        "injury": "Back",
+        "impact": 1.5
+      },
+      {
+        "player": "Christian Kelce 3",
+        "position": "S",
+        "status": "Doubtful",
+        "injury": "Ribs",
+        "impact": 0.8
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.822659",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  },
+  {
+    "matchup": "LV @ NE",
+    "game_date": "2025-09-07T17:00Z",
+    "venue": "Gillette Stadium",
+    "city": "Foxborough",
+    "market_home_spread": -3.0,
+    "market_away_spread": 3.0,
+    "market_total": 42.5,
+    "home_moneyline": -162,
+    "away_moneyline": 136,
+    "our_home_spread": 3.1,
+    "confidence": 85,
+    "recommendation": "STRONG BET",
+    "spread_edge": 6.1,
+    "edge_percentage": 203.3,
+    "bet_direction": "HOME",
+    "bet_team": "NE",
+    "recommended_bet": "NE -3.0",
+    "home_injury_impact": 5.5,
+    "away_injury_impact": 5.8,
+    "home_key_injuries": [
+      {
+        "player": "Joe Chubb",
+        "position": "S",
+        "status": "IR",
+        "injury": "Hamstring",
+        "impact": 1.0
+      },
+      {
+        "player": "George Hopkins 2",
+        "position": "DL",
+        "status": "Out",
+        "injury": "Hamstring",
+        "impact": 1.5
+      },
+      {
+        "player": "Aaron Adams 3",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Ankle",
+        "impact": 0.4
+      }
+    ],
+    "away_key_injuries": [
+      {
+        "player": "DeAndre Allen",
+        "position": "S",
+        "status": "Doubtful",
+        "injury": "Ankle",
+        "impact": 0.8
+      },
+      {
+        "player": "Davante Mahomes 2",
+        "position": "QB",
+        "status": "Questionable",
+        "injury": "Wrist",
+        "impact": 3.2
+      },
+      {
+        "player": "Tua Barkley 3",
+        "position": "TE",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impact": 0.6
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.823235",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  },
+  {
+    "matchup": "ARI @ NO",
+    "game_date": "2025-09-07T17:00Z",
+    "venue": "Caesars Superdome",
+    "city": "New Orleans",
+    "market_home_spread": 5.5,
+    "market_away_spread": -5.5,
+    "market_total": 42.5,
+    "home_moneyline": 190,
+    "away_moneyline": -230,
+    "our_home_spread": 7.1,
+    "confidence": 80,
+    "recommendation": "GOOD BET",
+    "spread_edge": 1.6,
+    "edge_percentage": 29.1,
+    "bet_direction": "HOME",
+    "bet_team": "NO",
+    "recommended_bet": "NO +5.5",
+    "home_injury_impact": 5.6,
+    "away_injury_impact": 9.9,
+    "home_key_injuries": [
+      {
+        "player": "Dak Ridley",
+        "position": "OL",
+        "status": "Out",
+        "injury": "Shoulder",
+        "impact": 2.0
+      },
+      {
+        "player": "Kyle Wilson 2",
+        "position": "RB",
+        "status": "IR",
+        "injury": "Wrist",
+        "impact": 3.0
+      },
+      {
+        "player": "Christian Pitts 3",
+        "position": "LB",
+        "status": "Questionable",
+        "injury": "Concussion",
+        "impact": 0.6
+      }
+    ],
+    "away_key_injuries": [
+      {
+        "player": "Alvin Jackson",
+        "position": "LB",
+        "status": "IR",
+        "injury": "Wrist",
+        "impact": 1.5
+      },
+      {
+        "player": "Josh Kittle 2",
+        "position": "RB",
+        "status": "Doubtful",
+        "injury": "Concussion",
+        "impact": 2.4
+      },
+      {
+        "player": "Rob Ekeler 3",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Ankle",
+        "impact": 1.2
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.823806",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  },
+  {
+    "matchup": "PIT @ NYJ",
+    "game_date": "2025-09-07T17:00Z",
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford",
+    "market_home_spread": 3.0,
+    "market_away_spread": -3.0,
+    "market_total": 39.5,
+    "home_moneyline": 130,
+    "away_moneyline": -155,
+    "our_home_spread": 0.0,
+    "confidence": 80,
+    "recommendation": "STRONG BET",
+    "spread_edge": -3.0,
+    "edge_percentage": 100.0,
+    "bet_direction": "AWAY",
+    "bet_team": "PIT",
+    "recommended_bet": "PIT -3.0",
+    "home_injury_impact": 9.6,
+    "away_injury_impact": 6.8,
+    "home_key_injuries": [
+      {
+        "player": "Aaron McCaffrey",
+        "position": "DL",
+        "status": "Doubtful",
+        "injury": "Ankle",
+        "impact": 1.2
+      },
+      {
+        "player": "Tyreek Taylor 2",
+        "position": "S",
+        "status": "Out",
+        "injury": "Back",
+        "impact": 1.0
+      },
+      {
+        "player": "Stefon Barkley 3",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Wrist",
+        "impact": 1.5
+      }
+    ],
+    "away_key_injuries": [
+      {
+        "player": "Kyle Metcalf",
+        "position": "CB",
+        "status": "IR",
+        "injury": "Concussion",
+        "impact": 1.2
+      },
+      {
+        "player": "Travis Chubb 2",
+        "position": "TE",
+        "status": "Doubtful",
+        "injury": "Hamstring",
+        "impact": 1.2
+      },
+      {
+        "player": "Christian Mahomes 3",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Hamstring",
+        "impact": 1.2
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.824373",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  },
+  {
+    "matchup": "NYG @ WSH",
+    "game_date": "2025-09-07T17:00Z",
+    "venue": "Northwest Stadium",
+    "city": "Landover",
+    "market_home_spread": -6.5,
+    "market_away_spread": 6.5,
+    "market_total": 45.5,
+    "home_moneyline": -300,
+    "away_moneyline": 240,
+    "our_home_spread": 21.4,
+    "confidence": 85,
+    "recommendation": "STRONG BET",
+    "spread_edge": 27.9,
+    "edge_percentage": 429.2,
+    "bet_direction": "HOME",
+    "bet_team": "WSH",
+    "recommended_bet": "WSH -6.5",
+    "home_injury_impact": 0.0,
+    "away_injury_impact": 18.6,
+    "home_key_injuries": [],
+    "away_key_injuries": [
+      {
+        "player": "Christian Ertz",
+        "position": "OL",
+        "status": "Questionable",
+        "injury": "Concussion",
+        "impact": 0.8
+      },
+      {
+        "player": "Christian Ekeler 2",
+        "position": "QB",
+        "status": "Questionable",
+        "injury": "Back",
+        "impact": 3.2
+      },
+      {
+        "player": "Mike Waller 3",
+        "position": "OL",
+        "status": "Out",
+        "injury": "Back",
+        "impact": 2.0
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.825043",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  },
+  {
+    "matchup": "CAR @ JAX",
+    "game_date": "2025-09-07T17:00Z",
+    "venue": "EverBank Stadium",
+    "city": "Jacksonville",
+    "market_home_spread": -2.5,
+    "market_away_spread": 2.5,
+    "market_total": 45.5,
+    "home_moneyline": -135,
+    "away_moneyline": 114,
+    "our_home_spread": 7.4,
+    "confidence": 85,
+    "recommendation": "STRONG BET",
+    "spread_edge": 9.9,
+    "edge_percentage": 396.0,
+    "bet_direction": "HOME",
+    "bet_team": "JAX",
+    "recommended_bet": "JAX -2.5",
+    "home_injury_impact": 4.4,
+    "away_injury_impact": 9.0,
+    "home_key_injuries": [
+      {
+        "player": "Aaron Ertz",
+        "position": "LB",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impact": 0.6
+      },
+      {
+        "player": "Saquon Evans 2",
+        "position": "OL",
+        "status": "Doubtful",
+        "injury": "Ribs",
+        "impact": 1.6
+      },
+      {
+        "player": "Derrick Allen 3",
+        "position": "LB",
+        "status": "Doubtful",
+        "injury": "Concussion",
+        "impact": 1.2
+      }
+    ],
+    "away_key_injuries": [
+      {
+        "player": "Ezekiel Elliott",
+        "position": "DL",
+        "status": "Doubtful",
+        "injury": "Shoulder",
+        "impact": 1.2
+      },
+      {
+        "player": "Mike Waller 2",
+        "position": "DL",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impact": 0.6
+      },
+      {
+        "player": "DK Hill 3",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Ankle",
+        "impact": 1.2
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.825601",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  },
+  {
+    "matchup": "TEN @ DEN",
+    "game_date": "2025-09-07T20:05Z",
+    "venue": "Empower Field at Mile High",
+    "city": "Denver",
+    "market_home_spread": -7.0,
+    "market_away_spread": 7.0,
+    "market_total": 41.5,
+    "home_moneyline": -370,
+    "away_moneyline": 295,
+    "our_home_spread": 1.5,
+    "confidence": 85,
+    "recommendation": "STRONG BET",
+    "spread_edge": 8.5,
+    "edge_percentage": 121.4,
+    "bet_direction": "HOME",
+    "bet_team": "DEN",
+    "recommended_bet": "DEN -7.0",
+    "home_injury_impact": 10.7,
+    "away_injury_impact": 9.4,
+    "home_key_injuries": [
+      {
+        "player": "Derrick Henry",
+        "position": "DL",
+        "status": "Out",
+        "injury": "Ribs",
+        "impact": 1.5
+      },
+      {
+        "player": "Mark Barkley 2",
+        "position": "OL",
+        "status": "Questionable",
+        "injury": "Ankle",
+        "impact": 0.8
+      },
+      {
+        "player": "Ezekiel Kamara 3",
+        "position": "WR",
+        "status": "IR",
+        "injury": "Shoulder",
+        "impact": 2.5
+      }
+    ],
+    "away_key_injuries": [
+      {
+        "player": "Tua Henry",
+        "position": "QB",
+        "status": "Doubtful",
+        "injury": "Concussion",
+        "impact": 6.4
+      },
+      {
+        "player": "Davante Higbee 2",
+        "position": "RB",
+        "status": "IR",
+        "injury": "Knee",
+        "impact": 3.0
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.826128",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  },
+  {
+    "matchup": "SF @ SEA",
+    "game_date": "2025-09-07T20:05Z",
+    "venue": "Lumen Field",
+    "city": "Seattle",
+    "market_home_spread": 1.5,
+    "market_away_spread": -1.5,
+    "market_total": 45.5,
+    "home_moneyline": 102,
+    "away_moneyline": -120,
+    "our_home_spread": 9.0,
+    "confidence": 85,
+    "recommendation": "STRONG BET",
+    "spread_edge": 7.5,
+    "edge_percentage": 500.0,
+    "bet_direction": "HOME",
+    "bet_team": "SEA",
+    "recommended_bet": "SEA +1.5",
+    "home_injury_impact": 3.4,
+    "away_injury_impact": 9.6,
+    "home_key_injuries": [
+      {
+        "player": "Tyreek Higbee",
+        "position": "CB",
+        "status": "Doubtful",
+        "injury": "Hamstring",
+        "impact": 1.0
+      },
+      {
+        "player": "Calvin Brady 2",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Concussion",
+        "impact": 0.4
+      },
+      {
+        "player": "Dak Jackson 3",
+        "position": "OL",
+        "status": "Out",
+        "injury": "Ankle",
+        "impact": 2.0
+      }
+    ],
+    "away_key_injuries": [
+      {
+        "player": "Travis Taylor",
+        "position": "QB",
+        "status": "Doubtful",
+        "injury": "Shoulder",
+        "impact": 6.4
+      },
+      {
+        "player": "Austin Ridley 2",
+        "position": "QB",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impact": 3.2
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.826665",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  },
+  {
+    "matchup": "DET @ GB",
+    "game_date": "2025-09-07T20:25Z",
+    "venue": "Lambeau Field",
+    "city": "Green Bay",
+    "market_home_spread": -1.5,
+    "market_away_spread": 1.5,
+    "market_total": 49.5,
+    "home_moneyline": -118,
+    "away_moneyline": 100,
+    "our_home_spread": -2.2,
+    "confidence": 75,
+    "recommendation": "PASS",
+    "spread_edge": -0.7,
+    "edge_percentage": 46.7,
+    "bet_direction": "AWAY",
+    "bet_team": "DET",
+    "recommended_bet": "DET +1.5",
+    "home_injury_impact": 7.4,
+    "away_injury_impact": 2.4,
+    "home_key_injuries": [
+      {
+        "player": "Tyreek Pitts",
+        "position": "TE",
+        "status": "Questionable",
+        "injury": "Knee",
+        "impact": 0.6
+      },
+      {
+        "player": "Jonathan Herbert 2",
+        "position": "DL",
+        "status": "Out",
+        "injury": "Ankle",
+        "impact": 1.5
+      },
+      {
+        "player": "Calvin Barkley 3",
+        "position": "WR",
+        "status": "IR",
+        "injury": "Concussion",
+        "impact": 2.5
+      }
+    ],
+    "away_key_injuries": [
+      {
+        "player": "Christian Taylor",
+        "position": "OL",
+        "status": "Out",
+        "injury": "Ribs",
+        "impact": 2.0
+      },
+      {
+        "player": "Aaron Herbert 2",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impact": 0.4
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.827207",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  },
+  {
+    "matchup": "HOU @ LAR",
+    "game_date": "2025-09-07T20:25Z",
+    "venue": "SoFi Stadium",
+    "city": "Inglewood",
+    "market_home_spread": -2.5,
+    "market_away_spread": 2.5,
+    "market_total": 46.5,
+    "home_moneyline": -146,
+    "away_moneyline": 124,
+    "our_home_spread": -8.3,
+    "confidence": 85,
+    "recommendation": "STRONG BET",
+    "spread_edge": -5.8,
+    "edge_percentage": 232.0,
+    "bet_direction": "AWAY",
+    "bet_team": "HOU",
+    "recommended_bet": "HOU +2.5",
+    "home_injury_impact": 13.3,
+    "away_injury_impact": 2.2,
+    "home_key_injuries": [
+      {
+        "player": "Mark Rodgers",
+        "position": "OL",
+        "status": "Doubtful",
+        "injury": "Hamstring",
+        "impact": 1.6
+      },
+      {
+        "player": "Keenan Ekeler 2",
+        "position": "WR",
+        "status": "Doubtful",
+        "injury": "Ribs",
+        "impact": 2.0
+      },
+      {
+        "player": "Rob Allen 3",
+        "position": "CB",
+        "status": "Doubtful",
+        "injury": "Hamstring",
+        "impact": 1.0
+      }
+    ],
+    "away_key_injuries": [
+      {
+        "player": "Christian Evans",
+        "position": "S",
+        "status": "IR",
+        "injury": "Knee",
+        "impact": 1.0
+      },
+      {
+        "player": "DeAndre Metcalf 2",
+        "position": "RB",
+        "status": "Questionable",
+        "injury": "Back",
+        "impact": 1.2
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.827738",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  },
+  {
+    "matchup": "BAL @ BUF",
+    "game_date": "2025-09-08T00:20Z",
+    "venue": "Highmark Stadium",
+    "city": "Orchard Park",
+    "market_home_spread": -1.5,
+    "market_away_spread": 1.5,
+    "market_total": 51.5,
+    "home_moneyline": -116,
+    "away_moneyline": -102,
+    "our_home_spread": 12.9,
+    "confidence": 85,
+    "recommendation": "STRONG BET",
+    "spread_edge": 14.4,
+    "edge_percentage": 960.0,
+    "bet_direction": "HOME",
+    "bet_team": "BUF",
+    "recommended_bet": "BUF -1.5",
+    "home_injury_impact": 2.0,
+    "away_injury_impact": 12.1,
+    "home_key_injuries": [
+      {
+        "player": "Tom Prescott",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Back",
+        "impact": 0.5
+      },
+      {
+        "player": "Dak Barkley 2",
+        "position": "LB",
+        "status": "IR",
+        "injury": "Ribs",
+        "impact": 1.5
+      }
+    ],
+    "away_key_injuries": [
+      {
+        "player": "Stefon Elliott",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Hamstring",
+        "impact": 1.2
+      },
+      {
+        "player": "DeAndre Gronkowski 2",
+        "position": "WR",
+        "status": "Doubtful",
+        "injury": "Ribs",
+        "impact": 2.0
+      },
+      {
+        "player": "Stefon Prescott 3",
+        "position": "QB",
+        "status": "Questionable",
+        "injury": "Ribs",
+        "impact": 3.2
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.828266",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  },
+  {
+    "matchup": "MIN @ CHI",
+    "game_date": "2025-09-09T00:15Z",
+    "venue": "Soldier Field",
+    "city": "Chicago",
+    "market_home_spread": -1.5,
+    "market_away_spread": 1.5,
+    "market_total": 44.5,
+    "home_moneyline": -108,
+    "away_moneyline": -108,
+    "our_home_spread": 1.1,
+    "confidence": 80,
+    "recommendation": "STRONG BET",
+    "spread_edge": 2.6,
+    "edge_percentage": 173.3,
+    "bet_direction": "HOME",
+    "bet_team": "CHI",
+    "recommended_bet": "CHI -1.5",
+    "home_injury_impact": 6.4,
+    "away_injury_impact": 4.7,
+    "home_key_injuries": [
+      {
+        "player": "Nick Hopkins",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Wrist",
+        "impact": 0.5
+      },
+      {
+        "player": "Davante Prescott 2",
+        "position": "RB",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "impact": 1.2
+      },
+      {
+        "player": "Tyreek Kelce 3",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Ankle",
+        "impact": 1.2
+      }
+    ],
+    "away_key_injuries": [
+      {
+        "player": "Aaron McCaffrey",
+        "position": "S",
+        "status": "Doubtful",
+        "injury": "Ribs",
+        "impact": 0.8
+      },
+      {
+        "player": "Zach Pitts 2",
+        "position": "DL",
+        "status": "Doubtful",
+        "injury": "Shoulder",
+        "impact": 1.2
+      },
+      {
+        "player": "Tom Jackson 3",
+        "position": "TE",
+        "status": "Doubtful",
+        "injury": "Back",
+        "impact": 1.2
+      }
+    ],
+    "analysis_timestamp": "2025-06-21T05:06:00.828943",
+    "data_sources": "ESPN API, The Odds API, Real Injury Data"
+  }
+]
