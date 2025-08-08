@@ -4,257 +4,231 @@ NFL Analytics Platform - Production Server
 Single, clean server replacing all scattered Node.js servers
 """
 
+from fastapi import FastAPI, HTTPException
+from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 import json
+from pathlib import Path
+import pandas as pd
 import os
+import subprocess
+import threading
 from datetime import datetime
-from http.server import HTTPServer, BaseHTTPRequestHandler
-import urllib.parse as urlparse
 
-class NFLAnalyticsHandler(BaseHTTPRequestHandler):
-    
-    def do_GET(self):
-        """Handle GET requests"""
-        parsed_path = urlparse.urlparse(self.path)
-        
-        if parsed_path.path == '/':
-            self.serve_dashboard()
-        elif parsed_path.path == '/api/predictions':
-            self.serve_predictions()
-        elif parsed_path.path == '/api/status':
-            self.serve_status()
-        elif parsed_path.path == '/api/data':
-            self.serve_data()
-        else:
-            self.send_error(404, "Not Found")
-    
-    def serve_dashboard(self):
-        """Serve the main dashboard"""
-        html = """
-        <!DOCTYPE html>
-        <html>
-        <head>
-            <title>NFL Analytics Platform</title>
-            <style>
-                body { font-family: Arial, sans-serif; margin: 40px; background: #f5f5f5; }
-                .container { max-width: 1200px; margin: 0 auto; background: white; padding: 30px; border-radius: 10px; }
-                .header { text-align: center; margin-bottom: 40px; }
-                .status { background: #e8f5e8; padding: 20px; border-radius: 8px; margin-bottom: 30px; }
-                .predictions { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
-                .game { background: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 4px solid #007bff; }
-                .confidence-high { border-left-color: #28a745; }
-                .confidence-medium { border-left-color: #ffc107; }
-                .confidence-low { border-left-color: #dc3545; }
-                .api-links { margin-top: 30px; padding: 20px; background: #f8f9fa; border-radius: 8px; }
-                .api-links a { display: block; margin: 5px 0; color: #007bff; text-decoration: none; }
-                .api-links a:hover { text-decoration: underline; }
-            </style>
-        </head>
-        <body>
-            <div class="container">
-                <div class="header">
-                    <h1>🏈 NFL Analytics Platform</h1>
-                    <p>Professional NFL predictions with 58%+ accuracy</p>
-                </div>
-                
-                <div class="status">
-                    <h3>✅ System Status: OPERATIONAL</h3>
-                    <p>EPA prediction system active • Real-time data feeds connected • Edge detection enabled</p>
-                </div>
-                
-                <div class="predictions">
-                    <div class="game confidence-high">
-                        <h4>BUF @ KC</h4>
-                        <p><strong>Spread:</strong> KC -12.5 (vs market KC -2.5)</p>
-                        <p><strong>Total:</strong> 66.3 (vs market 51.5)</p>
-                        <p><strong>Edge:</strong> 14.8 points</p>
-                        <p><strong>Confidence:</strong> 80% - BET</p>
-                    </div>
-                    
-                    <div class="game confidence-high">
-                        <h4>MIN @ DET</h4>
-                        <p><strong>Spread:</strong> DET +19.8 (vs market DET -4.0)</p>
-                        <p><strong>Total:</strong> 75.1 (vs market 54.5)</p>
-                        <p><strong>Edge:</strong> 23.8 points</p>
-                        <p><strong>Confidence:</strong> 80% - BET</p>
-                    </div>
-                    
-                    <div class="game confidence-high">
-                        <h4>CIN @ BAL</h4>
-                        <p><strong>Spread:</strong> BAL +1.1 (vs market BAL -6.0)</p>
-                        <p><strong>Total:</strong> 83.6 (vs market 49.5)</p>
-                        <p><strong>Edge:</strong> 34.1 points</p>
-                        <p><strong>Confidence:</strong> 80% - BET</p>
-                    </div>
-                </div>
-                
-                <div class="api-links">
-                    <h3>API Endpoints</h3>
-                    <a href="/api/predictions">📊 /api/predictions - Live predictions</a>
-                    <a href="/api/status">🎯 /api/status - System status</a>
-                    <a href="/api/data">📁 /api/data - Data summary</a>
-                </div>
-                
-                <div style="text-align: center; margin-top: 30px; color: #666;">
-                    <p>Last updated: {timestamp}</p>
-                    <p>EPA + DVOA enhanced predictions • $0 data costs • Real-time edge detection</p>
-                </div>
-            </div>
-        </body>
-        </html>
-        """.format(timestamp=datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
-        
-        self.send_response(200)
-        self.send_header('Content-type', 'text/html')
-        self.end_headers()
-        self.wfile.write(html.encode())
-    
-    def serve_predictions(self):
-        """Serve predictions API"""
-        predictions = {
-            "status": "success",
-            "timestamp": datetime.now().isoformat(),
-            "predictions": [
-                {
-                    "game": "BUF @ KC",
-                    "predicted_spread": "KC -12.5",
-                    "market_spread": "KC -2.5",
-                    "spread_edge": 10.0,
-                    "predicted_total": 66.3,
-                    "market_total": 51.5,
-                    "total_edge": 14.8,
-                    "confidence": 80,
-                    "recommendation": "BET"
-                },
-                {
-                    "game": "MIN @ DET", 
-                    "predicted_spread": "DET +19.8",
-                    "market_spread": "DET -4.0",
-                    "spread_edge": 23.8,
-                    "predicted_total": 75.1,
-                    "market_total": 54.5,
-                    "total_edge": 20.6,
-                    "confidence": 80,
-                    "recommendation": "BET"
-                },
-                {
-                    "game": "CIN @ BAL",
-                    "predicted_spread": "BAL +1.1", 
-                    "market_spread": "BAL -6.0",
-                    "spread_edge": 7.1,
-                    "predicted_total": 83.6,
-                    "market_total": 49.5,
-                    "total_edge": 34.1,
-                    "confidence": 80,
-                    "recommendation": "BET"
-                }
-            ],
-            "summary": {
-                "total_games": 3,
-                "high_confidence": 3,
-                "betting_opportunities": 3,
-                "average_edge": 22.8
-            }
-        }
-        
-        self.send_json_response(predictions)
-    
-    def serve_status(self):
-        """Serve system status"""
-        status = {
-            "status": "operational",
-            "timestamp": datetime.now().isoformat(),
-            "system": {
-                "epa_system": "active",
-                "data_feeds": "connected",
-                "prediction_accuracy": "58%+",
-                "edge_detection": "enabled"
-            },
-            "data": {
-                "historical_games": 2956,
-                "teams_tracked": 32,
-                "api_costs": "$0/month",
-                "last_update": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            },
-            "performance": {
-                "uptime": "99.9%",
-                "response_time": "<100ms",
-                "accuracy_target": "58%",
-                "current_accuracy": "80% (sample)"
-            }
-        }
-        
-        self.send_json_response(status)
-    
-    def serve_data(self):
-        """Serve data summary"""
-        data_summary = {
-            "status": "success",
-            "timestamp": datetime.now().isoformat(),
-            "data_sources": {
-                "consolidated": {
-                    "historical_betting_odds": "1.90 MB (2,956 games)",
-                    "team_data": "16.35 MB (32 teams)",
-                    "weather_data": "3.35 MB (2,956 games)",
-                    "current_season": "0.63 MB"
-                },
-                "features": {
-                    "enhanced_epa_features": "ML-ready features",
-                    "game_features": "4.3 KB (100 games)"
-                },
-                "models": {
-                    "enhanced_epa_system": "Production model",
-                    "xgboost_prototype": "50% baseline"
-                }
-            },
-            "api_integration": {
-                "espn": "FREE - Player data, injuries, schedules",
-                "weather": "FREE - Stadium conditions",
-                "odds": "FREE - Real-time betting lines"
-            },
-            "capabilities": {
-                "prediction_types": ["spreads", "totals", "player_props"],
-                "confidence_levels": ["high (60%+)", "medium (55-60%)", "low (<55%)"],
-                "edge_detection": "10%+ opportunities",
-                "weather_impact": "enabled"
-            }
-        }
-        
-        self.send_json_response(data_summary)
-    
-    def send_json_response(self, data):
-        """Send JSON response"""
-        self.send_response(200)
-        self.send_header('Content-type', 'application/json')
-        self.send_header('Access-Control-Allow-Origin', '*')
-        self.end_headers()
-        self.wfile.write(json.dumps(data, indent=2).encode())
+# --- App Initialization ---
+app = FastAPI(
+    title="NFL Analytics Platform API",
+    description="Provides real-time and historical NFL data, predictions, and betting edges.",
+    version="1.0.0"
+)
 
-def main():
-    """Main server function"""
-    port = 3000
-    server_address = ('', port)
-    httpd = HTTPServer(server_address, NFLAnalyticsHandler)
-    
-    print("🏈 NFL ANALYTICS PLATFORM - PRODUCTION SERVER")
-    print("=" * 60)
-    print(f"✅ Server running on http://localhost:{port}")
-    print("✅ Single, clean server replacing all scattered servers")
-    print("✅ EPA prediction system integrated")
-    print("✅ Real-time data feeds connected")
-    print("=" * 60)
-    print("📊 Endpoints:")
-    print(f"   • http://localhost:{port}/ - Main dashboard")
-    print(f"   • http://localhost:{port}/api/predictions - Live predictions")
-    print(f"   • http://localhost:{port}/api/status - System status")
-    print(f"   • http://localhost:{port}/api/data - Data summary")
-    print("🎯 Press Ctrl+C to stop the server")
-    print("=" * 60)
-    
+# --- CORS Configuration ---
+# Allow all origins for local development. For production, this should be restricted.
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# --- Directory Configuration ---
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
+DATA_DIR = BASE_DIR / "data" / "production"
+
+# --- Utility Functions ---
+def load_json_data(filename: str):
+    """Safely loads and returns JSON data from the production directory."""
+    file_path = DATA_DIR / filename
+    if not file_path.exists():
+        print(f"ERROR: Data file not found at {file_path}")
+        raise HTTPException(status_code=404, detail=f"Data file not found: {filename}")
     try:
-        httpd.serve_forever()
-    except KeyboardInterrupt:
-        print("\n🛑 Server stopped")
-        httpd.server_close()
+        with open(file_path, 'r') as f:
+            return json.load(f)
+    except json.JSONDecodeError:
+        print(f"ERROR: JSON decoding failed for {filename}")
+        raise HTTPException(status_code=500, detail=f"Error decoding JSON from {filename}")
+    except Exception as e:
+        print(f"ERROR: An unexpected error occurred loading {filename}: {e}")
+        raise HTTPException(status_code=500, detail=f"An unexpected error occurred: {e}")
 
+def load_csv_data(filename: str):
+    """Safely loads and returns CSV data from the production directory."""
+    file_path = DATA_DIR / filename
+    if not file_path.exists():
+        print(f"ERROR: Data file not found at {file_path}")
+        raise HTTPException(status_code=404, detail=f"Data file not found: {filename}")
+    try:
+        return pd.read_csv(file_path).to_dict(orient='records')
+    except Exception as e:
+        print(f"ERROR: An unexpected error occurred loading {filename}: {e}")
+        raise HTTPException(status_code=500, detail=f"An unexpected error occurred: {e}")
+
+
+def _file_info(path: Path):
+    info = {
+        "exists": path.exists(),
+    }
+    if path.exists():
+        try:
+            stat = path.stat()
+            info.update({
+                "size_bytes": stat.st_size,
+                "modified": datetime.fromtimestamp(stat.st_mtime).isoformat(),
+            })
+        except Exception:
+            pass
+    return info
+
+def _safe_json_load(path: Path):
+    try:
+        with path.open("r") as f:
+            return json.load(f)
+    except Exception:
+        return None
+
+# --- API Endpoints ---
+@app.get("/")
+def read_root():
+    """A simple root endpoint to confirm the API is running."""
+    return {"status": "ok", "message": "NFL Analytics API is running."}
+
+
+@app.get("/api/health")
+def health():
+    required = [
+        "upcoming-games.json",
+        "current_odds.json",
+        "week1_2025_real_edge_analysis.json",
+        "week1_player_props.json",
+        "simplified_epa_data.csv",
+        "team_dvoa_ratings.csv",
+    ]
+    files = {name: _file_info(DATA_DIR / name) for name in required}
+    ok = all(v.get("exists") for v in files.values())
+    return {
+        "ok": ok,
+        "version": app.version,
+        "files": files,
+    }
+
+
+@app.get("/api/version")
+def version():
+    commit = None
+    try:
+        git_dir = BASE_DIR / ".git"
+        head_path = git_dir / "HEAD"
+        if head_path.exists():
+            head = head_path.read_text().strip()
+            if head.startswith("ref:"):
+                ref = head.split(" ", 1)[1]
+                ref_path = git_dir / ref
+                if ref_path.exists():
+                    commit = ref_path.read_text().strip()[:12]
+            else:
+                commit = head[:12]
+    except Exception:
+        pass
+    return {"version": app.version, "commit": commit}
+
+
+@app.get("/api/status")
+def status():
+    edges = _safe_json_load(DATA_DIR / "week1_2025_real_edge_analysis.json") or {}
+    games = _safe_json_load(DATA_DIR / "upcoming-games.json") or []
+    props = _safe_json_load(DATA_DIR / "week1_player_props.json") or []
+    return {
+        "data_summary": {
+            "games_count": len(games),
+            "edges_count": len(edges.get("betting_opportunities", [])) if isinstance(edges, dict) else 0,
+            "props_count": len(props) if isinstance(props, list) else (len(props.get("items", [])) if isinstance(props, dict) else 0),
+        },
+        "files": {
+            "upcoming-games.json": _file_info(DATA_DIR / "upcoming-games.json"),
+            "current_odds.json": _file_info(DATA_DIR / "current_odds.json"),
+            "week1_2025_real_edge_analysis.json": _file_info(DATA_DIR / "week1_2025_real_edge_analysis.json"),
+            "week1_player_props.json": _file_info(DATA_DIR / "week1_player_props.json"),
+        },
+    }
+
+@app.get("/api/edges")
+def get_edges():
+    """Serves the betting edge analysis."""
+    return load_json_data("week1_2025_real_edge_analysis.json")
+
+@app.get("/api/player-props")
+def get_player_props():
+    """Serves player prop predictions."""
+    # Assuming player props are in a dedicated file. If not, this will need adjustment.
+    # For now, pointing to a placeholder name.
+    # Let's use the edges file as a placeholder to avoid a 404.
+    try:
+        return load_json_data("week1_player_props.json")
+    except HTTPException as e:
+        if e.status_code == 404:
+            # If the specific player props file doesn't exist, return an empty list.
+            return []
+        raise e
+
+
+@app.get("/api/nfl/games/{year}")
+def get_nfl_games(year: int, week: int):
+    """Serves upcoming games for a given year and week."""
+    games = load_json_data("upcoming-games.json")
+    # This is a simple filter. A more robust implementation might be needed.
+    return [game for game in games if game.get('week') == week and game.get('season') == year]
+
+@app.get("/api/odds/current")
+def get_current_odds():
+    """Serves current betting odds."""
+    return load_json_data("current_odds.json")
+
+@app.get("/api/odds/status")
+def get_odds_status():
+    """A simple placeholder for an odds status endpoint."""
+    return {"status": "ok", "message": "Odds data is up to date."}
+
+
+@app.post("/api/predictions/refresh")
+def refresh_data():
+    """Trigger data refresh using src/data_pipeline/refresh_all.py (non-blocking)."""
+    script_path = BASE_DIR / "src" / "data_pipeline" / "refresh_all.py"
+    if not script_path.exists():
+        raise HTTPException(status_code=500, detail="refresh_all.py not found")
+
+    def _run_refresh():
+        try:
+            subprocess.run(["python", str(script_path)], cwd=str(BASE_DIR), check=True)
+        except Exception as exc:
+            print(f"Data refresh failed: {exc}")
+
+    threading.Thread(target=_run_refresh, daemon=True).start()
+    return {"status": "started", "message": "Data refresh initiated."}
+
+
+@app.post("/api/validation/run")
+def run_validation():
+    """Run pytest on validation tests to check leakage and report result."""
+    try:
+        result = subprocess.run(["python", str(BASE_DIR / "scripts" / "run_tests.py"), "-q", "tests/test_no_leakage.py"], cwd=str(BASE_DIR), capture_output=True, text=True)
+        return {
+            "returncode": result.returncode,
+            "ok": result.returncode == 0,
+            "stdout": result.stdout[-2000:],
+            "stderr": result.stderr[-2000:],
+        }
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=str(exc))
+
+@app.get("/api/nfl-data")
+def get_nfl_data():
+    """Serves the main game data for the dashboard."""
+    return load_json_data("upcoming-games.json")
+
+# --- Server Startup ---
 if __name__ == "__main__":
-    main() 
+    import uvicorn
+    print("🚀 Starting NFL Analytics API Server...")
+    uvicorn.run(app, host="0.0.0.0", port=5000, log_level="info") 

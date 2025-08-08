@@ -1,0 +1,170 @@
+{
+  "test_date": "2025-06-27T19:24:12.601311",
+  "test_type": "Historical Week 1 Validation",
+  "games_tested": 15,
+  "overall_accuracy": 0.5333333333333333,
+  "average_edge": 29.085123145866042,
+  "detailed_results": [
+    {
+      "game": "DAL@TB",
+      "season": 2024,
+      "predicted_winner": "TB",
+      "actual_winner": "TB",
+      "correct": true,
+      "our_probability": 0.6712939739227295,
+      "confidence": 67.12939453125,
+      "edge": 11.086890871161657
+    },
+    {
+      "game": "GB@PHI",
+      "season": 2024,
+      "predicted_winner": "PHI",
+      "actual_winner": "PHI",
+      "correct": true,
+      "our_probability": 0.5636977553367615,
+      "confidence": 56.369773864746094,
+      "edge": 1.965607767519736
+    },
+    {
+      "game": "PIT@ATL",
+      "season": 2024,
+      "predicted_winner": "PIT",
+      "actual_winner": "PIT",
+      "correct": true,
+      "our_probability": 0.25470173358917236,
+      "confidence": 74.52982330322266,
+      "edge": 37.8776259538604
+    },
+    {
+      "game": "CHI@TEN",
+      "season": 2024,
+      "predicted_winner": "TEN",
+      "actual_winner": "CHI",
+      "correct": false,
+      "our_probability": 0.793088436126709,
+      "confidence": 79.30884552001953,
+      "edge": 86.60904379451976
+    },
+    {
+      "game": "HOU@IND",
+      "season": 2024,
+      "predicted_winner": "HOU",
+      "actual_winner": "HOU",
+      "correct": true,
+      "our_probability": 0.36265939474105835,
+      "confidence": 63.73406219482422,
+      "edge": 14.668377707986268
+    },
+    {
+      "game": "MIA@JAX",
+      "season": 2024,
+      "predicted_winner": "MIA",
+      "actual_winner": "MIA",
+      "correct": true,
+      "our_probability": 0.29395249485969543,
+      "confidence": 70.60475158691406,
+      "edge": 25.581646870963187
+    },
+    {
+      "game": "CAR@NO",
+      "season": 2024,
+      "predicted_winner": "CAR",
+      "actual_winner": "NO",
+      "correct": false,
+      "our_probability": 0.4199569523334503,
+      "confidence": 58.00430679321289,
+      "edge": 32.265007688153176
+    },
+    {
+      "game": "CIN@NE",
+      "season": 2024,
+      "predicted_winner": "NE",
+      "actual_winner": "CIN",
+      "correct": false,
+      "our_probability": 0.5053765177726746,
+      "confidence": 50.53765106201172,
+      "edge": 38.45931993771906
+    },
+    {
+      "game": "ARI@BUF",
+      "season": 2024,
+      "predicted_winner": "BUF",
+      "actual_winner": "BUF",
+      "correct": true,
+      "our_probability": 0.6344924569129944,
+      "confidence": 63.44924545288086,
+      "edge": 8.706121307482832
+    },
+    {
+      "game": "LV@LAC",
+      "season": 2024,
+      "predicted_winner": "LV",
+      "actual_winner": "LAC",
+      "correct": false,
+      "our_probability": 0.18545885384082794,
+      "confidence": 81.45411682128906,
+      "edge": 68.5662959591817
+    },
+    {
+      "game": "NYG@MIN",
+      "season": 2024,
+      "predicted_winner": "NYG",
+      "actual_winner": "MIN",
+      "correct": false,
+      "our_probability": 0.4641258716583252,
+      "confidence": 53.5874137878418,
+      "edge": 14.839289603977035
+    },
+    {
+      "game": "DEN@SEA",
+      "season": 2024,
+      "predicted_winner": "DEN",
+      "actual_winner": "SEA",
+      "correct": false,
+      "our_probability": 0.41216549277305603,
+      "confidence": 58.783447265625,
+      "edge": 39.38742753337411
+    },
+    {
+      "game": "CLE@DAL",
+      "season": 2023,
+      "predicted_winner": "DAL",
+      "actual_winner": "DAL",
+      "correct": true,
+      "our_probability": 0.6718493103981018,
+      "confidence": 67.18492889404297,
+      "edge": 1.0299714884363564
+    },
+    {
+      "game": "WSH@ARI",
+      "season": 2023,
+      "predicted_winner": "WSH",
+      "actual_winner": "ARI",
+      "correct": false,
+      "our_probability": 0.3943774104118347,
+      "confidence": 60.562259674072266,
+      "edge": 34.81365117159756
+    },
+    {
+      "game": "SF@PIT",
+      "season": 2023,
+      "predicted_winner": "SF",
+      "actual_winner": "SF",
+      "correct": true,
+      "our_probability": 0.3382125794887543,
+      "confidence": 66.17874145507812,
+      "edge": 20.420569532057815
+    }
+  ],
+  "conclusions": {
+    "model_works": "Yes - predictions are being generated",
+    "accuracy_reasonable": "Need more testing to determine",
+    "edges_realistic": "No - edges too high, need calibration",
+    "next_steps": [
+      "Implement probability calibration",
+      "Add market regression to predictions",
+      "Test with more historical data",
+      "Adjust edge detection thresholds"
+    ]
+  }
+}

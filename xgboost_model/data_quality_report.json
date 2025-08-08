@@ -1,0 +1,24 @@
+{
+  "total_games": 854,
+  "missing_data": {
+    "result": 2,
+    "away_score": 9,
+    "home_score": 5
+  },
+  "data_sources": [
+    "historical_betting_odds",
+    "team_data",
+    "2022_player_stats",
+    "2022_schedule",
+    "2023_player_stats",
+    "2023_schedule",
+    "2024_player_stats",
+    "2024_schedule"
+  ],
+  "date_range": {
+    "earliest": "2022-09-08",
+    "latest": "2025-02-09",
+    "total_games": 854
+  },
+  "validation_status": "complete"
+}

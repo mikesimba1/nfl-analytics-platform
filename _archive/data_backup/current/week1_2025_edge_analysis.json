@@ -1,0 +1,307 @@
+{
+  "analysis_date": "2025-06-27T18:56:27.091677",
+  "week": 1,
+  "season": 2025,
+  "total_games": 16,
+  "edges_found": 30,
+  "games_analyzed": [
+    {
+      "game_id": "2025_W1_DAL_PHI",
+      "matchup": "DAL @ PHI",
+      "date": "Thursday, Sept. 4, 8:20 PM ET"
+    },
+    {
+      "game_id": "2025_W1_KC_LAC",
+      "matchup": "KC @ LAC",
+      "date": "Friday, Sept. 5, 8:00 PM ET"
+    },
+    {
+      "game_id": "2025_W1_TB_ATL",
+      "matchup": "TB @ ATL",
+      "date": "Sunday, Sept. 7, 1:00 PM ET"
+    },
+    {
+      "game_id": "2025_W1_CIN_CLE",
+      "matchup": "CIN @ CLE",
+      "date": "Sunday, Sept. 7, 1:00 PM ET"
+    },
+    {
+      "game_id": "2025_W1_MIA_IND",
+      "matchup": "MIA @ IND",
+      "date": "Sunday, Sept. 7, 1:00 PM ET"
+    },
+    {
+      "game_id": "2025_W1_CAR_JAX",
+      "matchup": "CAR @ JAX",
+      "date": "Sunday, Sept. 7, 1:00 PM ET"
+    },
+    {
+      "game_id": "2025_W1_LV_NE",
+      "matchup": "LV @ NE",
+      "date": "Sunday, Sept. 7, 1:00 PM ET"
+    },
+    {
+      "game_id": "2025_W1_ARI_NO",
+      "matchup": "ARI @ NO",
+      "date": "Sunday, Sept. 7, 1:00 PM ET"
+    },
+    {
+      "game_id": "2025_W1_PIT_NYJ",
+      "matchup": "PIT @ NYJ",
+      "date": "Sunday, Sept. 7, 1:00 PM ET"
+    },
+    {
+      "game_id": "2025_W1_NYG_WSH",
+      "matchup": "NYG @ WSH",
+      "date": "Sunday, Sept. 7, 1:00 PM ET"
+    },
+    {
+      "game_id": "2025_W1_TEN_DEN",
+      "matchup": "TEN @ DEN",
+      "date": "Sunday, Sept. 7, 4:05 PM ET"
+    },
+    {
+      "game_id": "2025_W1_SF_SEA",
+      "matchup": "SF @ SEA",
+      "date": "Sunday, Sept. 7, 4:05 PM ET"
+    },
+    {
+      "game_id": "2025_W1_DET_GB",
+      "matchup": "DET @ GB",
+      "date": "Sunday, Sept. 7, 4:25 PM ET"
+    },
+    {
+      "game_id": "2025_W1_HOU_LAR",
+      "matchup": "HOU @ LAR",
+      "date": "Sunday, Sept. 7, 4:25 PM ET"
+    },
+    {
+      "game_id": "2025_W1_BAL_BUF",
+      "matchup": "BAL @ BUF",
+      "date": "Sunday, Sept. 7, 8:20 PM ET"
+    },
+    {
+      "game_id": "2025_W1_MIN_CHI",
+      "matchup": "MIN @ CHI",
+      "date": "Monday, Sept. 8, 8:15 PM ET"
+    }
+  ],
+  "betting_opportunities": [
+    {
+      "type": "moneyline",
+      "team": "ATL",
+      "edge": 92.74269580841064,
+      "confidence": 87.61031341552734,
+      "recommendation": "BET"
+    },
+    {
+      "type": "spread",
+      "bet": "BUF doesn't cover",
+      "edge": -84.37997996807098,
+      "confidence": 92.18999481201172,
+      "recommendation": "BET"
+    },
+    {
+      "type": "spread",
+      "bet": "JAX doesn't cover",
+      "edge": -82.0678785443306,
+      "confidence": 91.03394317626953,
+      "recommendation": "BET"
+    },
+    {
+      "type": "moneyline",
+      "team": "NE",
+      "edge": 76.7300307750702,
+      "confidence": 80.33183288574219,
+      "recommendation": "BET"
+    },
+    {
+      "type": "moneyline",
+      "team": "BAL",
+      "edge": -75.91137651886258,
+      "confidence": 84.6708755493164,
+      "recommendation": "BET"
+    },
+    {
+      "type": "spread",
+      "bet": "LAC doesn't cover",
+      "edge": -75.06941556930542,
+      "confidence": 87.53470611572266,
+      "recommendation": "BET"
+    },
+    {
+      "type": "moneyline",
+      "team": "KC",
+      "edge": -71.88125222921371,
+      "confidence": 91.47917175292969,
+      "recommendation": "BET"
+    },
+    {
+      "type": "spread",
+      "bet": "ATL covers",
+      "edge": 69.8121428489685,
+      "confidence": 84.90607452392578,
+      "recommendation": "BET"
+    },
+    {
+      "type": "spread",
+      "bet": "GB covers",
+      "edge": 69.77180242538452,
+      "confidence": 84.88590240478516,
+      "recommendation": "BET"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIN",
+      "edge": -66.83146357536316,
+      "confidence": 84.92339324951172,
+      "recommendation": "BET"
+    },
+    {
+      "type": "moneyline",
+      "team": "DAL",
+      "edge": -64.80105982886421,
+      "confidence": 77.37210845947266,
+      "recommendation": "BET"
+    },
+    {
+      "type": "spread",
+      "bet": "CHI doesn't cover",
+      "edge": -61.241164803504944,
+      "confidence": 80.6205825805664,
+      "recommendation": "BET"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYJ",
+      "edge": 58.88396382331849,
+      "confidence": 77.5043716430664,
+      "recommendation": "BET"
+    },
+    {
+      "type": "spread",
+      "bet": "NYJ covers",
+      "edge": 55.30611276626587,
+      "confidence": 77.6530532836914,
+      "recommendation": "BET"
+    },
+    {
+      "type": "moneyline",
+      "team": "HOU",
+      "edge": -51.91282078623771,
+      "confidence": 76.54283905029297,
+      "recommendation": "BET"
+    },
+    {
+      "type": "spread",
+      "bet": "CLE doesn't cover",
+      "edge": -50.978872179985046,
+      "confidence": 75.48944091796875,
+      "recommendation": "BET"
+    },
+    {
+      "type": "moneyline",
+      "team": "GB",
+      "edge": 50.3792953491211,
+      "confidence": 68.3542251586914,
+      "recommendation": "BET"
+    },
+    {
+      "type": "spread",
+      "bet": "LAR doesn't cover",
+      "edge": -45.65054178237915,
+      "confidence": 72.82527160644531,
+      "recommendation": "BET"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYG",
+      "edge": -43.05334006037031,
+      "confidence": 63.76121520996094,
+      "recommendation": "BET"
+    },
+    {
+      "type": "spread",
+      "bet": "IND doesn't cover",
+      "edge": -42.93883442878723,
+      "confidence": 71.46941375732422,
+      "recommendation": "BET"
+    },
+    {
+      "type": "moneyline",
+      "team": "ARI",
+      "edge": -41.926933825016015,
+      "confidence": 61.28462600708008,
+      "recommendation": "BET"
+    },
+    {
+      "type": "moneyline",
+      "team": "SEA",
+      "edge": 33.96906852722167,
+      "confidence": 53.58762741088867,
+      "recommendation": "BET"
+    },
+    {
+      "type": "spread",
+      "bet": "NO doesn't cover",
+      "edge": -23.921948671340942,
+      "confidence": 61.96097183227539,
+      "recommendation": "BET"
+    },
+    {
+      "type": "spread",
+      "bet": "DEN covers",
+      "edge": 21.27213478088379,
+      "confidence": 60.63606643676758,
+      "recommendation": "BET"
+    },
+    {
+      "type": "moneyline",
+      "team": "CAR",
+      "edge": -19.78314816951752,
+      "confidence": 55.43508529663086,
+      "recommendation": "BET"
+    },
+    {
+      "type": "spread",
+      "bet": "NE doesn't cover",
+      "edge": -18.184322118759155,
+      "confidence": 59.0921630859375,
+      "recommendation": "BET"
+    },
+    {
+      "type": "moneyline",
+      "team": "CIN",
+      "edge": -14.21800702810287,
+      "confidence": 68.22888946533203,
+      "recommendation": "BET"
+    },
+    {
+      "type": "moneyline",
+      "team": "DEN",
+      "edge": 13.896042108535772,
+      "confidence": 83.92340087890625,
+      "recommendation": "BET"
+    },
+    {
+      "type": "spread",
+      "bet": "PHI doesn't cover",
+      "edge": -13.598805665969849,
+      "confidence": 56.799400329589844,
+      "recommendation": "BET"
+    },
+    {
+      "type": "spread",
+      "bet": "SEA covers",
+      "edge": 10.608112812042236,
+      "confidence": 55.30405807495117,
+      "recommendation": "BET"
+    }
+  ],
+  "summary": {
+    "strong_bets": 30,
+    "lean_bets": 0,
+    "avg_edge": 50.05741892597347,
+    "max_edge": 92.74269580841064
+  }
+}

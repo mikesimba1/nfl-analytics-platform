@@ -1,9 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   env: {
-    BACKEND_URL: process.env.BACKEND_URL || 'http://localhost:3001',
+    BACKEND_URL: process.env.BACKEND_URL,
   },
-  output: 'standalone',
   poweredByHeader: false,
   compress: true,
   
@@ -18,7 +17,7 @@ const nextConfig = {
     return [
       {
         source: '/api/:path*',
-        destination: `${process.env.BACKEND_URL || 'http://localhost:3001'}/api/:path*`,
+        destination: `${process.env.BACKEND_URL}/api/:path*`,
       },
     ]
   },

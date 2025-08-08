@@ -34,10 +34,10 @@ export default function PlayerProps() {
   const fetchPlayerProps = async () => {
     try {
       setLoading(true);
-      const response = await fetch(`http://localhost:3001/api/predictions/player-props?week=${selectedWeek}`);
+      const response = await fetch(`/api/predictions/player-props?week=${selectedWeek}`);
       const data = await response.json();
       console.log('Props data:', data); // Debug log
-      setProps(data.props || []);
+      setProps(data.player_props || []);
     } catch (error) {
       console.error('Error fetching player props:', error);
       setProps([]);

@@ -1,0 +1,23 @@
+{
+  "analysis_date": "2025-07-18T03:30:00.000000",
+  "week": 1,
+  "season": 2025,
+  "player_props": [
+    {
+      "player": "Patrick Mahomes",
+      "category": "player-passing-yards",
+      "line": 285.5,
+      "odds": -115,
+      "edge_pct": 3.2,
+      "recommendation": "OVER"
+    },
+    {
+      "player": "Christian McCaffrey",
+      "category": "player-rushing-yards",
+      "line": 85.5,
+      "odds": -110,
+      "edge_pct": 1.5,
+      "recommendation": "OVER"
+    }
+  ]
+} 

@@ -1,0 +1,18 @@
+{
+  "home_win": {
+    "overall_accuracy": 0.905,
+    "high_confidence_accuracy": 0.964,
+    "high_confidence_games": 667,
+    "total_games": 854,
+    "validation_accuracy": 0.549,
+    "validation_std": 0.037
+  },
+  "spread_cover": {
+    "overall_accuracy": 0.884,
+    "high_confidence_accuracy": 0.959,
+    "high_confidence_games": 629,
+    "total_games": 854,
+    "validation_accuracy": 0.507,
+    "validation_std": 0.017
+  }
+}

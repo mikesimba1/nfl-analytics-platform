@@ -1,0 +1,16 @@
+{
+  "home_win": {
+    "dvoa_differential": 0.083,
+    "epa_differential": 0.075,
+    "pressure_rate_differential": 0.069,
+    "explosive_play_rate": 0.069,
+    "success_rate_differential": 0.068
+  },
+  "spread_cover": {
+    "epa_differential": 0.076,
+    "pressure_rate_differential": 0.071,
+    "explosive_play_rate": 0.07,
+    "yards_per_play_differential": 0.07,
+    "point_differential": 0.069
+  }
+}

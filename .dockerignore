@@ -1,0 +1,35 @@
+# Default ignored files
+.git
+.gitignore
+.dockerignore
+Dockerfile
+Dockerfile.backend
+docker-compose.yml
+
+# IDE and OS files
+.vscode
+.idea
+*.DS_Store
+
+# Node.js
+frontend/node_modules
+frontend/.next
+**/node_modules
+npm-debug.log*
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+venv
+.venv
+
+# Large data and archive directories that are not needed by the final app
+_archive
+nfl_data
+xgboost_model
+historical-odds-scraper
+backend/data
+scripts
+tests 

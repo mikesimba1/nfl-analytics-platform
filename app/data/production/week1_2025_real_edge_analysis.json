@@ -1,0 +1,3917 @@
+{
+  "analysis_date": "2025-06-27T19:09:26.095799",
+  "week": 1,
+  "season": 2025,
+  "data_source": "The Odds API (Real Lines)",
+  "total_games_with_odds": 258,
+  "edges_found": 487,
+  "betting_opportunities": [
+    {
+      "type": "moneyline",
+      "team": "CLE",
+      "edge": 151.8829144537449,
+      "confidence": 80.60253143310547,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +6.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "CLE",
+      "edge": 151.77632059369768,
+      "confidence": 61.68519973754883,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +8.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "ATL",
+      "edge": 143.0698388739477,
+      "confidence": 96.01258850097656,
+      "recommendation": "BET",
+      "market_data": "Spread: ATL +3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "PIT",
+      "edge": 141.0308792166514,
+      "confidence": 87.97627258300781,
+      "recommendation": "BET",
+      "market_data": "Spread: PIT +4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NO",
+      "edge": 138.2676765836518,
+      "confidence": 69.09762573242188,
+      "recommendation": "BET",
+      "market_data": "Spread: NO +7.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYG",
+      "edge": 134.497341059022,
+      "confidence": 69.17671203613281,
+      "recommendation": "BET",
+      "market_data": "Spread: NYG +6.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYJ",
+      "edge": 132.67812416201733,
+      "confidence": 70.96682739257812,
+      "recommendation": "BET",
+      "market_data": "Spread: NYJ +6.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CLE",
+      "edge": 130.06278590152138,
+      "confidence": 54.63991165161133,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +8.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "TEN",
+      "edge": 125.46596723060087,
+      "confidence": 82.29507446289062,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN +4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIA",
+      "edge": 123.8134127944263,
+      "confidence": 74.97749328613281,
+      "recommendation": "BET",
+      "market_data": "Spread: MIA +5.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "JAX",
+      "edge": 116.73522456999747,
+      "confidence": 83.98490142822266,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX +3.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIA",
+      "edge": 114.76251452994745,
+      "confidence": 96.1062240600586,
+      "recommendation": "BET",
+      "market_data": "Spread: MIA +1.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "ATL",
+      "edge": 110.79928127687369,
+      "confidence": 70.61775970458984,
+      "recommendation": "BET",
+      "market_data": "Spread: ATL +5.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYG",
+      "edge": 98.57787695087372,
+      "confidence": 60.566253662109375,
+      "recommendation": "BET",
+      "market_data": "Spread: NYG +6.5"
+    },
+    {
+      "type": "spread",
+      "bet": "GB covers -1.5",
+      "edge": 94.80680227279663,
+      "confidence": 97.40340423583984,
+      "recommendation": "BET",
+      "market_data": "Spread: GB -1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "JAX",
+      "edge": 93.39415833756729,
+      "confidence": 89.4448013305664,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "NYG covers -1.2",
+      "edge": -92.15142577886581,
+      "confidence": 96.07571411132812,
+      "recommendation": "BET",
+      "market_data": "Spread: NO +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "GB",
+      "edge": -91.16509764090827,
+      "confidence": 94.91992950439453,
+      "recommendation": "BET",
+      "market_data": "Spread: DET -2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NE",
+      "edge": -90.25386912146891,
+      "confidence": 93.81121063232422,
+      "recommendation": "BET",
+      "market_data": "Spread: CIN -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "ARI",
+      "edge": 89.27626996426969,
+      "confidence": 87.54027557373047,
+      "recommendation": "BET",
+      "market_data": "Spread: ARI +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "KC",
+      "edge": -89.0089698442041,
+      "confidence": 95.98827362060547,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX +4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "DAL",
+      "edge": 88.66129179258604,
+      "confidence": 87.25584411621094,
+      "recommendation": "BET",
+      "market_data": "Spread: DAL +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "TEN",
+      "edge": -88.58430365036274,
+      "confidence": 91.72361755371094,
+      "recommendation": "BET",
+      "market_data": "Spread: SF -7.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "HOU",
+      "edge": -88.16896736111168,
+      "confidence": 93.09574890136719,
+      "recommendation": "BET",
+      "market_data": "Spread: LAR -2.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "CLE",
+      "edge": 87.95248287827219,
+      "confidence": 62.964080810546875,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "SF covers -1.5",
+      "edge": -87.89414912462234,
+      "confidence": 93.94707489013672,
+      "recommendation": "BET",
+      "market_data": "Spread: SEA +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYJ",
+      "edge": 87.7980703835959,
+      "confidence": 85.4481201171875,
+      "recommendation": "BET",
+      "market_data": "Spread: NYJ +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CLE",
+      "edge": -86.9931310963777,
+      "confidence": 89.39940643310547,
+      "recommendation": "BET",
+      "market_data": "Spread: DET -10.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "ARI",
+      "edge": -85.05961057568385,
+      "confidence": 90.9610595703125,
+      "recommendation": "BET",
+      "market_data": "Spread: CIN -3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYJ",
+      "edge": -84.49263604063736,
+      "confidence": 89.68760681152344,
+      "recommendation": "BET",
+      "market_data": "Spread: NE -5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "SEA covers +4.5",
+      "edge": -83.75854790210724,
+      "confidence": 91.8792724609375,
+      "recommendation": "BET",
+      "market_data": "Spread: LAR -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "TEN",
+      "edge": -83.72331372013798,
+      "confidence": 89.01323699951172,
+      "recommendation": "BET",
+      "market_data": "Spread: HOU -5.8"
+    },
+    {
+      "type": "spread",
+      "bet": "LV covers -3.0",
+      "edge": 83.4615707397461,
+      "confidence": 91.73078918457031,
+      "recommendation": "BET",
+      "market_data": "Spread: LV -3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "KC covers -4.5",
+      "edge": -83.36813449859619,
+      "confidence": 91.68406677246094,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX +4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "MIA covers +1.8",
+      "edge": 83.22092294692993,
+      "confidence": 91.61045837402344,
+      "recommendation": "BET",
+      "market_data": "Spread: MIA +1.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "BAL",
+      "edge": -82.74847945651493,
+      "confidence": 92.02117156982422,
+      "recommendation": "BET",
+      "market_data": "Spread: GB +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "NYJ covers +5.5",
+      "edge": -80.26882857084274,
+      "confidence": 90.13441467285156,
+      "recommendation": "BET",
+      "market_data": "Spread: NE -5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CHI covers -2.5",
+      "edge": 80.16986846923828,
+      "confidence": 90.08493041992188,
+      "recommendation": "BET",
+      "market_data": "Spread: CHI -2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CAR",
+      "edge": 80.15864529187165,
+      "confidence": 71.16266632080078,
+      "recommendation": "BET",
+      "market_data": "Spread: CAR +3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "LAR covers -3.5",
+      "edge": -80.14722764492035,
+      "confidence": 90.07361602783203,
+      "recommendation": "BET",
+      "market_data": "Spread: CAR +3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "KC covers -4.5",
+      "edge": 80.09709119796753,
+      "confidence": 90.04854583740234,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "PIT",
+      "edge": 79.7898653742403,
+      "confidence": 82.47859954833984,
+      "recommendation": "BET",
+      "market_data": "Spread: PIT +1.4"
+    },
+    {
+      "type": "spread",
+      "bet": "ARI covers +1.2",
+      "edge": -79.76697981357574,
+      "confidence": 89.88349151611328,
+      "recommendation": "BET",
+      "market_data": "Spread: DAL -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "NO",
+      "edge": -79.57723543924443,
+      "confidence": 86.1125259399414,
+      "recommendation": "BET",
+      "market_data": "Spread: MIA -6.0"
+    },
+    {
+      "type": "spread",
+      "bet": "JAX covers +1.2",
+      "edge": 79.22931909561157,
+      "confidence": 89.61466217041016,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "PIT covers -3.5",
+      "edge": 78.60662937164307,
+      "confidence": 89.30331420898438,
+      "recommendation": "BET",
+      "market_data": "Spread: PIT -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CAR covers -1.2",
+      "edge": -78.5991758108139,
+      "confidence": 89.29959106445312,
+      "recommendation": "BET",
+      "market_data": "Spread: NO +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "SEA covers +1.2",
+      "edge": -78.32682579755783,
+      "confidence": 89.16341400146484,
+      "recommendation": "BET",
+      "market_data": "Spread: PIT -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "NO",
+      "edge": -78.20783003120665,
+      "confidence": 82.89314270019531,
+      "recommendation": "BET",
+      "market_data": "Spread: TB -9.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIA",
+      "edge": 77.22212351285494,
+      "confidence": 80.63606262207031,
+      "recommendation": "BET",
+      "market_data": "Spread: MIA +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "PIT",
+      "edge": -76.80976400225181,
+      "confidence": 85.27420043945312,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CAR",
+      "edge": 76.67689194550384,
+      "confidence": 81.71306610107422,
+      "recommendation": "BET",
+      "market_data": "Spread: CAR +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIN",
+      "edge": -76.43617847386528,
+      "confidence": 89.9853744506836,
+      "recommendation": "BET",
+      "market_data": "Spread: NYG +2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "PHI covers -1.3",
+      "edge": -74.94032680988312,
+      "confidence": 87.47016143798828,
+      "recommendation": "BET",
+      "market_data": "Spread: WSH +1.3"
+    },
+    {
+      "type": "spread",
+      "bet": "LV covers +2.9",
+      "edge": -74.85353946685791,
+      "confidence": 87.42677307128906,
+      "recommendation": "BET",
+      "market_data": "Spread: NE -2.9"
+    },
+    {
+      "type": "spread",
+      "bet": "HOU covers -3.0",
+      "edge": -74.67295229434967,
+      "confidence": 87.33647155761719,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN +3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "TEN covers +5.8",
+      "edge": -74.27372336387634,
+      "confidence": 87.1368637084961,
+      "recommendation": "BET",
+      "market_data": "Spread: HOU -5.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "IND",
+      "edge": -74.17344678220131,
+      "confidence": 82.05054473876953,
+      "recommendation": "BET",
+      "market_data": "Spread: LAR -6.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "KC",
+      "edge": -73.56648548789646,
+      "confidence": 84.80073547363281,
+      "recommendation": "BET",
+      "market_data": "Spread: BUF -2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CAR covers +7.0",
+      "edge": -73.51296246051788,
+      "confidence": 86.75647735595703,
+      "recommendation": "BET",
+      "market_data": "Spread: SF -7.0"
+    },
+    {
+      "type": "spread",
+      "bet": "PHI covers -1.8",
+      "edge": -73.14960956573486,
+      "confidence": 86.5748062133789,
+      "recommendation": "BET",
+      "market_data": "Spread: TB +1.8"
+    },
+    {
+      "type": "spread",
+      "bet": "DET covers -1.5",
+      "edge": -72.92234003543854,
+      "confidence": 86.46116638183594,
+      "recommendation": "BET",
+      "market_data": "Spread: LAR +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAR",
+      "edge": -72.39405784425857,
+      "confidence": 89.09564971923828,
+      "recommendation": "BET",
+      "market_data": "Spread: CAR +3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "DET covers +3.5",
+      "edge": -72.36955761909485,
+      "confidence": 86.18477630615234,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "NE covers +2.7",
+      "edge": -72.26759791374207,
+      "confidence": 86.13380432128906,
+      "recommendation": "BET",
+      "market_data": "Spread: MIA -2.7"
+    },
+    {
+      "type": "spread",
+      "bet": "BUF covers -7.0",
+      "edge": -71.97406589984894,
+      "confidence": 85.98703002929688,
+      "recommendation": "BET",
+      "market_data": "Spread: CAR +7.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "PHI",
+      "edge": -71.65593764056331,
+      "confidence": 86.96173095703125,
+      "recommendation": "BET",
+      "market_data": "Spread: WSH +1.3"
+    },
+    {
+      "type": "moneyline",
+      "team": "DET",
+      "edge": -71.6333602810954,
+      "confidence": 87.09317779541016,
+      "recommendation": "BET",
+      "market_data": "Spread: LAR +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CHI covers -3.0",
+      "edge": 71.39896154403687,
+      "confidence": 85.69947814941406,
+      "recommendation": "BET",
+      "market_data": "Spread: CHI -3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "ATL covers +4.5",
+      "edge": -70.23096978664398,
+      "confidence": 85.11548614501953,
+      "recommendation": "BET",
+      "market_data": "Spread: MIN -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "SEA",
+      "edge": -70.20599648759172,
+      "confidence": 86.22027587890625,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "LV",
+      "edge": -69.48813981023328,
+      "confidence": 77.87890625,
+      "recommendation": "BET",
+      "market_data": "Spread: WSH -7.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "LV",
+      "edge": -69.38509477985849,
+      "confidence": 78.72264099121094,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC -6.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "DAL",
+      "edge": -68.92047124904592,
+      "confidence": 85.85881805419922,
+      "recommendation": "BET",
+      "market_data": "Spread: LV +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "DAL",
+      "edge": -68.5031527609337,
+      "confidence": 79.99950408935547,
+      "recommendation": "BET",
+      "market_data": "Spread: DEN -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "TB covers +5.5",
+      "edge": -68.4095561504364,
+      "confidence": 84.20478057861328,
+      "recommendation": "BET",
+      "market_data": "Spread: BUF -5.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CHI",
+      "edge": -68.36252202672406,
+      "confidence": 80.85932922363281,
+      "recommendation": "BET",
+      "market_data": "Spread: GB -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "HOU covers -1.5",
+      "edge": -68.29146146774292,
+      "confidence": 84.1457290649414,
+      "recommendation": "BET",
+      "market_data": "Spread: IND +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "MIA covers -1.5",
+      "edge": -68.08921694755554,
+      "confidence": 84.04460906982422,
+      "recommendation": "BET",
+      "market_data": "Spread: NYJ +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CHI",
+      "edge": -67.85756137411472,
+      "confidence": 81.03595733642578,
+      "recommendation": "BET",
+      "market_data": "Spread: CIN -3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "ATL covers +3.5",
+      "edge": 67.35810041427612,
+      "confidence": 83.67904663085938,
+      "recommendation": "BET",
+      "market_data": "Spread: ATL +3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "DAL",
+      "edge": -66.21825677507064,
+      "confidence": 77.0284194946289,
+      "recommendation": "BET",
+      "market_data": "Spread: DET -6.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "SF",
+      "edge": -65.91680758708233,
+      "confidence": 84.23652648925781,
+      "recommendation": "BET",
+      "market_data": "Spread: ARI +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "LAR covers +4.5",
+      "edge": -65.64679741859436,
+      "confidence": 82.82339477539062,
+      "recommendation": "BET",
+      "market_data": "Spread: PHI -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CIN",
+      "edge": -65.5398614424512,
+      "confidence": 77.0840072631836,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -5.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CHI",
+      "edge": -65.16779065132141,
+      "confidence": 75.26913452148438,
+      "recommendation": "BET",
+      "market_data": "Spread: PHI -7.0"
+    },
+    {
+      "type": "spread",
+      "bet": "MIA covers -5.5",
+      "edge": 64.62717056274414,
+      "confidence": 82.31358337402344,
+      "recommendation": "BET",
+      "market_data": "Spread: MIA -5.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "SEA",
+      "edge": -64.56165062753779,
+      "confidence": 76.4334945678711,
+      "recommendation": "BET",
+      "market_data": "Spread: WSH -5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "LAR covers +1.2",
+      "edge": -64.48152959346771,
+      "confidence": 82.24076843261719,
+      "recommendation": "BET",
+      "market_data": "Spread: SF -1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "ARI covers -5.8",
+      "edge": 64.21482563018799,
+      "confidence": 82.10741424560547,
+      "recommendation": "BET",
+      "market_data": "Spread: ARI -5.8"
+    },
+    {
+      "type": "spread",
+      "bet": "NYJ covers +1.5",
+      "edge": 64.14862871170044,
+      "confidence": 82.0743179321289,
+      "recommendation": "BET",
+      "market_data": "Spread: NYJ +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CIN",
+      "edge": -64.11437923843796,
+      "confidence": 83.40290069580078,
+      "recommendation": "BET",
+      "market_data": "Spread: PIT +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "DET covers +1.8",
+      "edge": -63.78577947616577,
+      "confidence": 81.89289093017578,
+      "recommendation": "BET",
+      "market_data": "Spread: GB -1.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "JAX",
+      "edge": -63.39017845863519,
+      "confidence": 80.32221984863281,
+      "recommendation": "BET",
+      "market_data": "Spread: IND -1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "BAL covers -7.5",
+      "edge": 63.326847553253174,
+      "confidence": 81.66342163085938,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -7.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAC",
+      "edge": -63.30760620735787,
+      "confidence": 83.02976989746094,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "HOU",
+      "edge": 63.191541840758504,
+      "confidence": 64.46066284179688,
+      "recommendation": "BET",
+      "market_data": "Spread: HOU +3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "JAX covers +1.2",
+      "edge": -63.05406093597412,
+      "confidence": 81.52703094482422,
+      "recommendation": "BET",
+      "market_data": "Spread: IND -1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "ATL covers +1.2",
+      "edge": -62.59438097476959,
+      "confidence": 81.29718780517578,
+      "recommendation": "BET",
+      "market_data": "Spread: CAR -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "DET",
+      "edge": -62.57345308050065,
+      "confidence": 78.19903564453125,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -2.8"
+    },
+    {
+      "type": "spread",
+      "bet": "DAL covers +4.8",
+      "edge": -62.570956349372864,
+      "confidence": 81.28547668457031,
+      "recommendation": "BET",
+      "market_data": "Spread: WSH -4.8"
+    },
+    {
+      "type": "spread",
+      "bet": "BAL covers -3.5",
+      "edge": -62.508806586265564,
+      "confidence": 81.25440216064453,
+      "recommendation": "BET",
+      "market_data": "Spread: MIN +3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIN",
+      "edge": -62.07329852521912,
+      "confidence": 77.0543441772461,
+      "recommendation": "BET",
+      "market_data": "Spread: GB -3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYJ",
+      "edge": -62.05174711328991,
+      "confidence": 67.93372344970703,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -11.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "LV",
+      "edge": -61.75101929647059,
+      "confidence": 68.82707977294922,
+      "recommendation": "BET",
+      "market_data": "Spread: PHI -10.5"
+    },
+    {
+      "type": "spread",
+      "bet": "JAX covers -1.2",
+      "edge": -61.51735782623291,
+      "confidence": 80.75868225097656,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "JAX covers +1.2",
+      "edge": -61.343955993652344,
+      "confidence": 80.67198181152344,
+      "recommendation": "BET",
+      "market_data": "Spread: LV -1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "BUF covers -4.5",
+      "edge": -60.89668869972229,
+      "confidence": 80.4483413696289,
+      "recommendation": "BET",
+      "market_data": "Spread: PIT +4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "GB covers -1.5",
+      "edge": -60.75644791126251,
+      "confidence": 80.37821960449219,
+      "recommendation": "BET",
+      "market_data": "Spread: CHI +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CLE covers +6.0",
+      "edge": 60.75354814529419,
+      "confidence": 80.37677764892578,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +6.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "PHI",
+      "edge": -60.75092655856436,
+      "confidence": 83.90787506103516,
+      "recommendation": "BET",
+      "market_data": "Spread: MIN +3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "NE",
+      "edge": -60.64467540639915,
+      "confidence": 70.28672790527344,
+      "recommendation": "BET",
+      "market_data": "Spread: BUF -8.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "DEN",
+      "edge": -60.50842418227085,
+      "confidence": 78.77327728271484,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "DET",
+      "edge": -60.43061991350367,
+      "confidence": 78.43468475341797,
+      "recommendation": "BET",
+      "market_data": "Spread: WSH -1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "WSH",
+      "edge": 59.90857456041421,
+      "confidence": 91.94743347167969,
+      "recommendation": "BET",
+      "market_data": "Spread: WSH -2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "JAX",
+      "edge": -59.888778442193654,
+      "confidence": 75.73271179199219,
+      "recommendation": "BET",
+      "market_data": "Spread: HOU -3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CIN",
+      "edge": -59.6130924675086,
+      "confidence": 76.47462463378906,
+      "recommendation": "BET",
+      "market_data": "Spread: DEN -2.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "DET",
+      "edge": -59.11798056434182,
+      "confidence": 82.62513732910156,
+      "recommendation": "BET",
+      "market_data": "Spread: MIN +2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIA",
+      "edge": 59.0665062861656,
+      "confidence": 53.28728103637695,
+      "recommendation": "BET",
+      "market_data": "Spread: MIA +5.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYJ",
+      "edge": -58.76375149036276,
+      "confidence": 70.10371398925781,
+      "recommendation": "BET",
+      "market_data": "Spread: CIN -7.5"
+    },
+    {
+      "type": "spread",
+      "bet": "DET covers +1.5",
+      "edge": -58.26973915100098,
+      "confidence": 79.13487243652344,
+      "recommendation": "BET",
+      "market_data": "Spread: WSH -1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CLE",
+      "edge": -58.16984643106875,
+      "confidence": 75.94766235351562,
+      "recommendation": "BET",
+      "market_data": "Spread: NYJ -2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CLE covers -1.2",
+      "edge": 58.08931589126587,
+      "confidence": 79.0446548461914,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "NO",
+      "edge": 57.82614315257353,
+      "confidence": 67.07611083984375,
+      "recommendation": "BET",
+      "market_data": "Spread: NO +2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CHI",
+      "edge": -57.42199458475188,
+      "confidence": 72.96296691894531,
+      "recommendation": "BET",
+      "market_data": "Spread: DET -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAR",
+      "edge": 57.39423522621776,
+      "confidence": 91.68214416503906,
+      "recommendation": "BET",
+      "market_data": "Spread: LAR -2.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "NO",
+      "edge": -57.248361642695656,
+      "confidence": 74.13525390625,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN -3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIA",
+      "edge": -57.218482687666615,
+      "confidence": 80.21354675292969,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIA",
+      "edge": -57.17093254311196,
+      "confidence": 78.82637786865234,
+      "recommendation": "BET",
+      "market_data": "Spread: IND +0.2"
+    },
+    {
+      "type": "spread",
+      "bet": "CLE covers +10.5",
+      "edge": -57.14601278305054,
+      "confidence": 78.57300567626953,
+      "recommendation": "BET",
+      "market_data": "Spread: DET -10.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAR",
+      "edge": -56.94425494171852,
+      "confidence": 76.85753631591797,
+      "recommendation": "BET",
+      "market_data": "Spread: SF -1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "TB covers -2.3",
+      "edge": -56.559425592422485,
+      "confidence": 78.27970886230469,
+      "recommendation": "BET",
+      "market_data": "Spread: ATL +2.3"
+    },
+    {
+      "type": "spread",
+      "bet": "KC covers -6.0",
+      "edge": -56.47364854812622,
+      "confidence": 78.23682403564453,
+      "recommendation": "BET",
+      "market_data": "Spread: DAL +6.0"
+    },
+    {
+      "type": "spread",
+      "bet": "CHI covers +7.0",
+      "edge": -56.224530935287476,
+      "confidence": 78.11226654052734,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -7.0"
+    },
+    {
+      "type": "spread",
+      "bet": "MIN covers -6.9",
+      "edge": -56.22392296791077,
+      "confidence": 78.1119613647461,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +6.9"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIN",
+      "edge": -56.19425902495513,
+      "confidence": 76.70082092285156,
+      "recommendation": "BET",
+      "market_data": "Spread: CHI -1.1"
+    },
+    {
+      "type": "spread",
+      "bet": "SEA covers -1.2",
+      "edge": -55.699753761291504,
+      "confidence": 77.8498764038086,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "MIA covers +1.5",
+      "edge": -55.380597710609436,
+      "confidence": 77.69029998779297,
+      "recommendation": "BET",
+      "market_data": "Spread: ATL -1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "MIN covers -2.5",
+      "edge": -55.30787110328674,
+      "confidence": 77.6539306640625,
+      "recommendation": "BET",
+      "market_data": "Spread: NYG +2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "DAL covers -1.2",
+      "edge": -55.21913468837738,
+      "confidence": 77.60956573486328,
+      "recommendation": "BET",
+      "market_data": "Spread: CAR +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "DAL covers +6.0",
+      "edge": -54.96627688407898,
+      "confidence": 77.48313903808594,
+      "recommendation": "BET",
+      "market_data": "Spread: DET -6.0"
+    },
+    {
+      "type": "spread",
+      "bet": "NE covers +4.5",
+      "edge": -54.85039949417114,
+      "confidence": 77.42520141601562,
+      "recommendation": "BET",
+      "market_data": "Spread: CIN -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "SEA",
+      "edge": -54.83787669691929,
+      "confidence": 75.72535705566406,
+      "recommendation": "BET",
+      "market_data": "Spread: PIT -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "CAR",
+      "edge": -54.7268359557442,
+      "confidence": 73.96793365478516,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX -2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "TEN covers +1.2",
+      "edge": 54.68432903289795,
+      "confidence": 77.3421630859375,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "CIN",
+      "edge": 54.65182262462574,
+      "confidence": 70.3665771484375,
+      "recommendation": "BET",
+      "market_data": "Spread: CIN +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "MIA covers -1.2",
+      "edge": -54.37471568584442,
+      "confidence": 77.18736267089844,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "TEN",
+      "edge": 54.295111524647666,
+      "confidence": 55.254417419433594,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN +7.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "ATL",
+      "edge": -54.1756909663283,
+      "confidence": 70.90155792236328,
+      "recommendation": "BET",
+      "market_data": "Spread: MIN -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "HOU",
+      "edge": -53.806511789774724,
+      "confidence": 67.89552307128906,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -6.5"
+    },
+    {
+      "type": "spread",
+      "bet": "PIT covers -6.5",
+      "edge": 53.67989540100098,
+      "confidence": 76.83995056152344,
+      "recommendation": "BET",
+      "market_data": "Spread: PIT -6.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CIN covers -5.5",
+      "edge": -53.543198108673096,
+      "confidence": 76.77159881591797,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "JAX covers +5.0",
+      "edge": -53.532782196998596,
+      "confidence": 76.76638793945312,
+      "recommendation": "BET",
+      "market_data": "Spread: SF -5.0"
+    },
+    {
+      "type": "spread",
+      "bet": "TEN covers +7.5",
+      "edge": -52.76053845882416,
+      "confidence": 76.3802719116211,
+      "recommendation": "BET",
+      "market_data": "Spread: SF -7.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "ARI",
+      "edge": -52.34225407119625,
+      "confidence": 71.16706085205078,
+      "recommendation": "BET",
+      "market_data": "Spread: TB -3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "ARI",
+      "edge": -52.08963103916334,
+      "confidence": 72.4515380859375,
+      "recommendation": "BET",
+      "market_data": "Spread: HOU -2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "GB covers -1.2",
+      "edge": -52.025434374809265,
+      "confidence": 76.0127182006836,
+      "recommendation": "BET",
+      "market_data": "Spread: PIT +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "CLE",
+      "edge": -51.84517719528892,
+      "confidence": 57.623756408691406,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -12.7"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIN",
+      "edge": -51.62416617948931,
+      "confidence": 77.9889907836914,
+      "recommendation": "BET",
+      "market_data": "Spread: DAL +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "PHI",
+      "edge": -51.60401200449001,
+      "confidence": 78.3427963256836,
+      "recommendation": "BET",
+      "market_data": "Spread: TB +1.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "IND",
+      "edge": 51.3248598852823,
+      "confidence": 81.33711242675781,
+      "recommendation": "BET",
+      "market_data": "Spread: IND -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIA",
+      "edge": -51.23256693829548,
+      "confidence": 77.81082153320312,
+      "recommendation": "BET",
+      "market_data": "Spread: NYJ +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "ATL covers +5.5",
+      "edge": 51.19600296020508,
+      "confidence": 75.5979995727539,
+      "recommendation": "BET",
+      "market_data": "Spread: ATL +5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CLE covers +2.5",
+      "edge": -50.135910511016846,
+      "confidence": 75.06795501708984,
+      "recommendation": "BET",
+      "market_data": "Spread: NYJ -2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYG",
+      "edge": -50.01592185046222,
+      "confidence": 76.88236236572266,
+      "recommendation": "BET",
+      "market_data": "Spread: NO +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "GB covers +1.5",
+      "edge": -49.805331230163574,
+      "confidence": 74.90266418457031,
+      "recommendation": "BET",
+      "market_data": "Spread: DEN -1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "BUF covers -4.5",
+      "edge": -49.40182566642761,
+      "confidence": 74.70091247558594,
+      "recommendation": "BET",
+      "market_data": "Spread: NE +4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "DET covers +2.8",
+      "edge": -49.396973848342896,
+      "confidence": 74.698486328125,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -2.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "TB",
+      "edge": -49.11450058666628,
+      "confidence": 82.95335388183594,
+      "recommendation": "BET",
+      "market_data": "Spread: NO +5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "NYJ covers +1.5",
+      "edge": 48.90819787979126,
+      "confidence": 74.4541015625,
+      "recommendation": "BET",
+      "market_data": "Spread: NYJ +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "JAX covers +3.0",
+      "edge": -48.88038635253906,
+      "confidence": 74.44019317626953,
+      "recommendation": "BET",
+      "market_data": "Spread: ARI -3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "DEN covers +4.5",
+      "edge": -48.67892265319824,
+      "confidence": 74.33946228027344,
+      "recommendation": "BET",
+      "market_data": "Spread: PHI -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "BUF covers -5.5",
+      "edge": -48.54514002799988,
+      "confidence": 74.27257537841797,
+      "recommendation": "BET",
+      "market_data": "Spread: MIA +5.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "LV",
+      "edge": -48.19592228896327,
+      "confidence": 63.99616622924805,
+      "recommendation": "BET",
+      "market_data": "Spread: DEN -6.5"
+    },
+    {
+      "type": "spread",
+      "bet": "TEN covers -1.3",
+      "edge": 47.97816276550293,
+      "confidence": 73.98908233642578,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN -1.3"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAC",
+      "edge": -47.76170004855146,
+      "confidence": 76.23157501220703,
+      "recommendation": "BET",
+      "market_data": "Spread: DAL +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CAR",
+      "edge": -47.74310941427526,
+      "confidence": 62.89760971069336,
+      "recommendation": "BET",
+      "market_data": "Spread: SF -7.0"
+    },
+    {
+      "type": "spread",
+      "bet": "WSH covers -2.7",
+      "edge": -47.674280405044556,
+      "confidence": 73.8371353149414,
+      "recommendation": "BET",
+      "market_data": "Spread: DAL +2.7"
+    },
+    {
+      "type": "spread",
+      "bet": "SF covers -7.0",
+      "edge": -47.64878749847412,
+      "confidence": 73.82439422607422,
+      "recommendation": "BET",
+      "market_data": "Spread: NO +7.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "TEN",
+      "edge": -47.240135886452414,
+      "confidence": 68.08028411865234,
+      "recommendation": "BET",
+      "market_data": "Spread: IND -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "JAX covers -3.0",
+      "edge": 47.20968008041382,
+      "confidence": 73.60484313964844,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX -3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "DEN covers -3.5",
+      "edge": -47.13173508644104,
+      "confidence": 73.56586456298828,
+      "recommendation": "BET",
+      "market_data": "Spread: IND +3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "NE covers -1.2",
+      "edge": 47.0569372177124,
+      "confidence": 73.5284652709961,
+      "recommendation": "BET",
+      "market_data": "Spread: NE -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAC",
+      "edge": 46.87836662796904,
+      "confidence": 88.86141204833984,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "DAL covers -1.5",
+      "edge": -46.8372642993927,
+      "confidence": 73.41863250732422,
+      "recommendation": "BET",
+      "market_data": "Spread: LV +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYG",
+      "edge": -46.59010706276729,
+      "confidence": 61.27783203125,
+      "recommendation": "BET",
+      "market_data": "Spread: DEN -7.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "IND",
+      "edge": 46.56300951794879,
+      "confidence": 60.09083557128906,
+      "recommendation": "BET",
+      "market_data": "Spread: IND +3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "JAX",
+      "edge": 46.47176710225769,
+      "confidence": 86.41834259033203,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX -3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "CHI covers +4.5",
+      "edge": -46.45283818244934,
+      "confidence": 73.2264175415039,
+      "recommendation": "BET",
+      "market_data": "Spread: DET -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "LAC covers -1.2",
+      "edge": -46.31483554840088,
+      "confidence": 73.15741729736328,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "WSH",
+      "edge": -45.983585147630606,
+      "confidence": 77.3131103515625,
+      "recommendation": "BET",
+      "market_data": "Spread: DAL +2.7"
+    },
+    {
+      "type": "spread",
+      "bet": "NO covers +3.0",
+      "edge": 45.837199687957764,
+      "confidence": 72.9186019897461,
+      "recommendation": "BET",
+      "market_data": "Spread: NO +3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "WSH",
+      "edge": -45.29085545926481,
+      "confidence": 74.697021484375,
+      "recommendation": "BET",
+      "market_data": "Spread: MIN +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "NO",
+      "edge": -45.237057549612864,
+      "confidence": 52.08242416381836,
+      "recommendation": "BET",
+      "market_data": "Spread: BUF -12.5"
+    },
+    {
+      "type": "spread",
+      "bet": "LV covers +6.5",
+      "edge": -45.170438289642334,
+      "confidence": 72.58522033691406,
+      "recommendation": "BET",
+      "market_data": "Spread: DEN -6.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "ATL",
+      "edge": -45.13964915013575,
+      "confidence": 75.03854370117188,
+      "recommendation": "BET",
+      "market_data": "Spread: IND +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "BUF covers -8.5",
+      "edge": 45.13278007507324,
+      "confidence": 72.56639099121094,
+      "recommendation": "BET",
+      "market_data": "Spread: BUF -8.5"
+    },
+    {
+      "type": "spread",
+      "bet": "IND covers +6.5",
+      "edge": -45.07652521133423,
+      "confidence": 72.53826141357422,
+      "recommendation": "BET",
+      "market_data": "Spread: LAR -6.5"
+    },
+    {
+      "type": "spread",
+      "bet": "NYG covers +10.5",
+      "edge": -44.96560096740723,
+      "confidence": 72.48280334472656,
+      "recommendation": "BET",
+      "market_data": "Spread: PHI -10.5"
+    },
+    {
+      "type": "spread",
+      "bet": "GB covers -5.8",
+      "edge": -44.88764405250549,
+      "confidence": 72.44381713867188,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +5.8"
+    },
+    {
+      "type": "spread",
+      "bet": "NYJ covers +11.5",
+      "edge": -44.84869837760925,
+      "confidence": 72.42435455322266,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -11.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NE",
+      "edge": -44.53965640458904,
+      "confidence": 57.71148681640625,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -8.8"
+    },
+    {
+      "type": "spread",
+      "bet": "PIT covers +1.4",
+      "edge": 44.47376728057861,
+      "confidence": 72.23688507080078,
+      "recommendation": "BET",
+      "market_data": "Spread: PIT +1.4"
+    },
+    {
+      "type": "spread",
+      "bet": "MIN covers -2.5",
+      "edge": 44.401514530181885,
+      "confidence": 72.20075988769531,
+      "recommendation": "BET",
+      "market_data": "Spread: MIN -2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "NYG covers +6.8",
+      "edge": 44.26196813583374,
+      "confidence": 72.1309814453125,
+      "recommendation": "BET",
+      "market_data": "Spread: NYG +6.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "NE",
+      "edge": -44.06833519806733,
+      "confidence": 74.13160705566406,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "PIT",
+      "edge": -43.920324830447925,
+      "confidence": 76.1661376953125,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CHI",
+      "edge": -43.57592203247715,
+      "confidence": 59.938907623291016,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -7.0"
+    },
+    {
+      "type": "spread",
+      "bet": "HOU covers +2.8",
+      "edge": -43.42450499534607,
+      "confidence": 71.7122573852539,
+      "recommendation": "BET",
+      "market_data": "Spread: LAR -2.8"
+    },
+    {
+      "type": "spread",
+      "bet": "DAL covers +4.5",
+      "edge": -43.29495429992676,
+      "confidence": 71.64747619628906,
+      "recommendation": "BET",
+      "market_data": "Spread: DEN -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "TB covers -5.5",
+      "edge": -43.2350754737854,
+      "confidence": 71.61753845214844,
+      "recommendation": "BET",
+      "market_data": "Spread: NO +5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "TB covers -1.2",
+      "edge": -43.10687184333801,
+      "confidence": 71.55343627929688,
+      "recommendation": "BET",
+      "market_data": "Spread: SEA +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "IND covers +3.0",
+      "edge": 42.85186529159546,
+      "confidence": 71.42593383789062,
+      "recommendation": "BET",
+      "market_data": "Spread: IND +3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "GB",
+      "edge": -42.848721066036745,
+      "confidence": 73.56753540039062,
+      "recommendation": "BET",
+      "market_data": "Spread: PIT +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "JAX covers -1.2",
+      "edge": 42.68981218338013,
+      "confidence": 71.34490966796875,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX -1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "PIT covers -2.5",
+      "edge": -42.564940452575684,
+      "confidence": 71.282470703125,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYG",
+      "edge": 42.513464574944486,
+      "confidence": 52.01741409301758,
+      "recommendation": "BET",
+      "market_data": "Spread: NYG +4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYG",
+      "edge": 42.21782925762707,
+      "confidence": 56.17604064941406,
+      "recommendation": "BET",
+      "market_data": "Spread: NYG +3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "ARI",
+      "edge": 42.21745988597041,
+      "confidence": 81.77503967285156,
+      "recommendation": "BET",
+      "market_data": "Spread: ARI -2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "NYJ covers +1.5",
+      "edge": 42.20998287200928,
+      "confidence": 71.10498809814453,
+      "recommendation": "BET",
+      "market_data": "Spread: NYJ +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "SF covers +1.2",
+      "edge": -42.04288125038147,
+      "confidence": 71.02143859863281,
+      "recommendation": "BET",
+      "market_data": "Spread: LAR -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAR",
+      "edge": -41.99466705322266,
+      "confidence": 73.17253112792969,
+      "recommendation": "BET",
+      "market_data": "Spread: ARI +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "DAL",
+      "edge": -41.82390760081683,
+      "confidence": 62.47642135620117,
+      "recommendation": "BET",
+      "market_data": "Spread: WSH -4.8"
+    },
+    {
+      "type": "spread",
+      "bet": "GB covers -3.0",
+      "edge": 41.816580295562744,
+      "confidence": 70.90828704833984,
+      "recommendation": "BET",
+      "market_data": "Spread: GB -3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIN",
+      "edge": -41.65351035747123,
+      "confidence": 82.8607177734375,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +6.9"
+    },
+    {
+      "type": "spread",
+      "bet": "NYJ covers +7.5",
+      "edge": -41.451120376586914,
+      "confidence": 70.7255630493164,
+      "recommendation": "BET",
+      "market_data": "Spread: CIN -7.5"
+    },
+    {
+      "type": "spread",
+      "bet": "NO covers +7.5",
+      "edge": -41.134244203567505,
+      "confidence": 70.5671157836914,
+      "recommendation": "BET",
+      "market_data": "Spread: CHI -7.5"
+    },
+    {
+      "type": "spread",
+      "bet": "KC covers -2.6",
+      "edge": -41.09444618225098,
+      "confidence": 70.54722595214844,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC +2.6"
+    },
+    {
+      "type": "spread",
+      "bet": "TEN covers +3.5",
+      "edge": -40.61237573623657,
+      "confidence": 70.30619049072266,
+      "recommendation": "BET",
+      "market_data": "Spread: IND -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CHI covers -1.5",
+      "edge": -40.53966403007507,
+      "confidence": 70.26983642578125,
+      "recommendation": "BET",
+      "market_data": "Spread: LV +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "BAL",
+      "edge": -40.521580363632346,
+      "confidence": 67.58426666259766,
+      "recommendation": "BET",
+      "market_data": "Spread: BUF -1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "BAL",
+      "edge": -40.41997043392326,
+      "confidence": 76.46588897705078,
+      "recommendation": "BET",
+      "market_data": "Spread: MIN +3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYJ",
+      "edge": -39.87859389103881,
+      "confidence": 67.23383331298828,
+      "recommendation": "BET",
+      "market_data": "Spread: NO -1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "SF",
+      "edge": 39.856798442329946,
+      "confidence": 88.80906677246094,
+      "recommendation": "BET",
+      "market_data": "Spread: SF -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "SEA",
+      "edge": 39.84879186330749,
+      "confidence": 84.6085205078125,
+      "recommendation": "BET",
+      "market_data": "Spread: SEA -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "PIT covers +8.8",
+      "edge": -39.7533118724823,
+      "confidence": 69.87665557861328,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -8.8"
+    },
+    {
+      "type": "spread",
+      "bet": "SEA covers -1.2",
+      "edge": -39.71346616744995,
+      "confidence": 69.85673522949219,
+      "recommendation": "BET",
+      "market_data": "Spread: CAR +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "GB",
+      "edge": -39.543690000261584,
+      "confidence": 72.49237823486328,
+      "recommendation": "BET",
+      "market_data": "Spread: CHI +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "WSH covers -2.5",
+      "edge": 39.440345764160156,
+      "confidence": 69.72016906738281,
+      "recommendation": "BET",
+      "market_data": "Spread: WSH -2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "LV",
+      "edge": -38.957298473394644,
+      "confidence": 64.0992660522461,
+      "recommendation": "BET",
+      "market_data": "Spread: NE -2.9"
+    },
+    {
+      "type": "moneyline",
+      "team": "GB",
+      "edge": -38.917737880735906,
+      "confidence": 79.99555969238281,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +5.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "HOU",
+      "edge": -38.876982573624495,
+      "confidence": 72.18902587890625,
+      "recommendation": "BET",
+      "market_data": "Spread: IND +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIA",
+      "edge": 38.80876645649949,
+      "confidence": 50.665199279785156,
+      "recommendation": "BET",
+      "market_data": "Spread: MIA +4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIA",
+      "edge": 38.7191625466024,
+      "confidence": 92.24824523925781,
+      "recommendation": "BET",
+      "market_data": "Spread: MIA -5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "SF covers -3.5",
+      "edge": 38.57201337814331,
+      "confidence": 69.28600311279297,
+      "recommendation": "BET",
+      "market_data": "Spread: SF -3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "DEN",
+      "edge": -38.45043689247192,
+      "confidence": 60.91603088378906,
+      "recommendation": "BET",
+      "market_data": "Spread: PHI -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "LV covers +10.5",
+      "edge": -38.29936981201172,
+      "confidence": 69.14968872070312,
+      "recommendation": "BET",
+      "market_data": "Spread: PHI -10.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "SF",
+      "edge": -38.01242047613794,
+      "confidence": 71.795654296875,
+      "recommendation": "BET",
+      "market_data": "Spread: SEA +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "PHI covers -3.5",
+      "edge": 37.33961582183838,
+      "confidence": 68.66980743408203,
+      "recommendation": "BET",
+      "market_data": "Spread: PHI -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "PIT covers -3.0",
+      "edge": -37.22235560417175,
+      "confidence": 68.6111831665039,
+      "recommendation": "BET",
+      "market_data": "Spread: NYJ +3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "LAR covers -9.5",
+      "edge": 37.210702896118164,
+      "confidence": 68.60535430908203,
+      "recommendation": "BET",
+      "market_data": "Spread: LAR -9.5"
+    },
+    {
+      "type": "spread",
+      "bet": "SEA covers -1.2",
+      "edge": 36.76443099975586,
+      "confidence": 68.38221740722656,
+      "recommendation": "BET",
+      "market_data": "Spread: SEA -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAC",
+      "edge": 36.51918810467388,
+      "confidence": 73.37906646728516,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "TB",
+      "edge": -36.4658087189208,
+      "confidence": 72.64058685302734,
+      "recommendation": "BET",
+      "market_data": "Spread: ATL +2.3"
+    },
+    {
+      "type": "moneyline",
+      "team": "CHI",
+      "edge": 36.39762090600056,
+      "confidence": 78.42863464355469,
+      "recommendation": "BET",
+      "market_data": "Spread: CHI -2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CLE covers +8.5",
+      "edge": 36.31174564361572,
+      "confidence": 68.15587615966797,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +8.5"
+    },
+    {
+      "type": "spread",
+      "bet": "IND covers -1.2",
+      "edge": 36.29956245422363,
+      "confidence": 68.1497802734375,
+      "recommendation": "BET",
+      "market_data": "Spread: IND -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYJ",
+      "edge": 36.29334313528879,
+      "confidence": 66.6081314086914,
+      "recommendation": "BET",
+      "market_data": "Spread: NYJ +8.5"
+    },
+    {
+      "type": "spread",
+      "bet": "DET covers -4.5",
+      "edge": 36.16975545883179,
+      "confidence": 68.08487701416016,
+      "recommendation": "BET",
+      "market_data": "Spread: DET -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "TB covers -7.5",
+      "edge": 36.119699478149414,
+      "confidence": 68.05985260009766,
+      "recommendation": "BET",
+      "market_data": "Spread: TB -7.5"
+    },
+    {
+      "type": "spread",
+      "bet": "BAL covers -8.8",
+      "edge": 36.04545593261719,
+      "confidence": 68.0227279663086,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -8.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "TEN",
+      "edge": -36.00446495424859,
+      "confidence": 56.9630012512207,
+      "recommendation": "BET",
+      "market_data": "Spread: ARI -5.8"
+    },
+    {
+      "type": "spread",
+      "bet": "GB covers -4.5",
+      "edge": -35.8759343624115,
+      "confidence": 67.93797302246094,
+      "recommendation": "BET",
+      "market_data": "Spread: NYG +4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "DET",
+      "edge": -35.7037829170098,
+      "confidence": 64.35578155517578,
+      "recommendation": "BET",
+      "market_data": "Spread: GB -1.8"
+    },
+    {
+      "type": "spread",
+      "bet": "SEA covers -1.3",
+      "edge": 35.67253351211548,
+      "confidence": 67.83626556396484,
+      "recommendation": "BET",
+      "market_data": "Spread: SEA -1.3"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYG",
+      "edge": -35.4674040905537,
+      "confidence": 52.59406661987305,
+      "recommendation": "BET",
+      "market_data": "Spread: PHI -10.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "TB",
+      "edge": -35.352134525327756,
+      "confidence": 57.00917053222656,
+      "recommendation": "BET",
+      "market_data": "Spread: BUF -5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "LAR covers +5.8",
+      "edge": -35.22536754608154,
+      "confidence": 67.61268615722656,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -5.8"
+    },
+    {
+      "type": "spread",
+      "bet": "PIT covers +4.5",
+      "edge": -34.92584228515625,
+      "confidence": 67.46292114257812,
+      "recommendation": "BET",
+      "market_data": "Spread: CIN -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "KC covers -9.5",
+      "edge": 34.81895923614502,
+      "confidence": 67.40947723388672,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -9.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "DAL",
+      "edge": 34.77987609803676,
+      "confidence": 56.87043762207031,
+      "recommendation": "BET",
+      "market_data": "Spread: DAL +6.0"
+    },
+    {
+      "type": "spread",
+      "bet": "CHI covers -5.5",
+      "edge": 34.36838388442993,
+      "confidence": 67.18418884277344,
+      "recommendation": "BET",
+      "market_data": "Spread: CHI -5.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "ATL",
+      "edge": -34.23837221274941,
+      "confidence": 61.20064163208008,
+      "recommendation": "BET",
+      "market_data": "Spread: NE -3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "BUF covers -8.5",
+      "edge": 33.981192111968994,
+      "confidence": 66.99059295654297,
+      "recommendation": "BET",
+      "market_data": "Spread: BUF -8.5"
+    },
+    {
+      "type": "spread",
+      "bet": "BAL covers -1.2",
+      "edge": -33.92950892448425,
+      "confidence": 66.96475982666016,
+      "recommendation": "BET",
+      "market_data": "Spread: GB +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "CAR covers +3.5",
+      "edge": 33.68910551071167,
+      "confidence": 66.84455108642578,
+      "recommendation": "BET",
+      "market_data": "Spread: CAR +3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "KC covers -9.5",
+      "edge": 33.43988656997681,
+      "confidence": 66.71994018554688,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -9.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CAR covers +3.0",
+      "edge": -33.427441120147705,
+      "confidence": 66.7137222290039,
+      "recommendation": "BET",
+      "market_data": "Spread: ATL -3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "ARI",
+      "edge": -33.37252415901373,
+      "confidence": 59.69038009643555,
+      "recommendation": "BET",
+      "market_data": "Spread: LAR -3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "GB",
+      "edge": 33.2854130946168,
+      "confidence": 72.64054870605469,
+      "recommendation": "BET",
+      "market_data": "Spread: GB -1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "MIN covers +3.0",
+      "edge": -33.20693373680115,
+      "confidence": 66.60346984863281,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC -3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "SF",
+      "edge": 33.14490475930459,
+      "confidence": 80.55266571044922,
+      "recommendation": "BET",
+      "market_data": "Spread: SF -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "DET covers -1.5",
+      "edge": -33.12789797782898,
+      "confidence": 66.56394958496094,
+      "recommendation": "BET",
+      "market_data": "Spread: CIN +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "ATL",
+      "edge": -32.8863020423505,
+      "confidence": 53.355979919433594,
+      "recommendation": "BET",
+      "market_data": "Spread: SF -6.5"
+    },
+    {
+      "type": "spread",
+      "bet": "LAR covers -3.0",
+      "edge": -32.87544250488281,
+      "confidence": 66.4377212524414,
+      "recommendation": "BET",
+      "market_data": "Spread: ATL +3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "NO covers +2.5",
+      "edge": 32.33674764633179,
+      "confidence": 66.16837310791016,
+      "recommendation": "BET",
+      "market_data": "Spread: NO +2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "TB",
+      "edge": -31.808936694436817,
+      "confidence": 58.744407653808594,
+      "recommendation": "BET",
+      "market_data": "Spread: DET -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "HOU covers +1.2",
+      "edge": 31.769204139709473,
+      "confidence": 65.88460540771484,
+      "recommendation": "BET",
+      "market_data": "Spread: HOU +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "SF",
+      "edge": 31.737764065082253,
+      "confidence": 85.62954711914062,
+      "recommendation": "BET",
+      "market_data": "Spread: SF -5.0"
+    },
+    {
+      "type": "spread",
+      "bet": "IND covers +6.0",
+      "edge": -31.454968452453613,
+      "confidence": 65.72748565673828,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC -6.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "DAL",
+      "edge": -31.25553388853331,
+      "confidence": 68.20568084716797,
+      "recommendation": "BET",
+      "market_data": "Spread: CAR +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "ATL",
+      "edge": 31.07744313902775,
+      "confidence": 77.335693359375,
+      "recommendation": "BET",
+      "market_data": "Spread: ATL -3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYG",
+      "edge": -30.991755416061707,
+      "confidence": 52.10122299194336,
+      "recommendation": "BET",
+      "market_data": "Spread: DET -8.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "KC",
+      "edge": 30.885091654928836,
+      "confidence": 70.9397201538086,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -1.4"
+    },
+    {
+      "type": "spread",
+      "bet": "CAR covers +7.5",
+      "edge": -30.879884958267212,
+      "confidence": 65.43994140625,
+      "recommendation": "BET",
+      "market_data": "Spread: GB -7.5"
+    },
+    {
+      "type": "spread",
+      "bet": "KC covers -1.3",
+      "edge": 30.07112741470337,
+      "confidence": 65.03556060791016,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -1.3"
+    },
+    {
+      "type": "moneyline",
+      "team": "IND",
+      "edge": 29.94340703457216,
+      "confidence": 51.32764434814453,
+      "recommendation": "BET",
+      "market_data": "Spread: IND +3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "DEN covers -2.8",
+      "edge": 29.815363883972168,
+      "confidence": 64.90768432617188,
+      "recommendation": "BET",
+      "market_data": "Spread: DEN -2.8"
+    },
+    {
+      "type": "spread",
+      "bet": "SEA covers -1.2",
+      "edge": 29.63622808456421,
+      "confidence": 64.818115234375,
+      "recommendation": "BET",
+      "market_data": "Spread: SEA -1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "NYG covers +8.5",
+      "edge": -29.581540822982788,
+      "confidence": 64.790771484375,
+      "recommendation": "BET",
+      "market_data": "Spread: DET -8.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "SEA",
+      "edge": 29.475094551263858,
+      "confidence": 69.59286499023438,
+      "recommendation": "BET",
+      "market_data": "Spread: SEA -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "LV",
+      "edge": 29.106804564758963,
+      "confidence": 58.743595123291016,
+      "recommendation": "BET",
+      "market_data": "Spread: LV +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAC",
+      "edge": -28.959276102766207,
+      "confidence": 71.93891143798828,
+      "recommendation": "BET",
+      "market_data": "Spread: NYG +3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "SF",
+      "edge": 28.868256718659207,
+      "confidence": 77.96529388427734,
+      "recommendation": "BET",
+      "market_data": "Spread: SF -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "LAC covers -3.0",
+      "edge": -28.825193643569946,
+      "confidence": 64.41259765625,
+      "recommendation": "BET",
+      "market_data": "Spread: LV +3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "NYG covers +3.0",
+      "edge": -28.630244731903076,
+      "confidence": 64.31512451171875,
+      "recommendation": "BET",
+      "market_data": "Spread: NE -3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "CLE covers +7.0",
+      "edge": -28.439855575561523,
+      "confidence": 64.21992492675781,
+      "recommendation": "BET",
+      "market_data": "Spread: CHI -7.0"
+    },
+    {
+      "type": "spread",
+      "bet": "NYG covers +2.5",
+      "edge": -28.402167558670044,
+      "confidence": 64.20108032226562,
+      "recommendation": "BET",
+      "market_data": "Spread: LV -2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "TEN covers +7.4",
+      "edge": -28.209751844406128,
+      "confidence": 64.1048812866211,
+      "recommendation": "BET",
+      "market_data": "Spread: DEN -7.4"
+    },
+    {
+      "type": "spread",
+      "bet": "MIA covers +2.5",
+      "edge": -28.05538773536682,
+      "confidence": 64.02769470214844,
+      "recommendation": "BET",
+      "market_data": "Spread: PIT -2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "TEN",
+      "edge": 28.04238850833805,
+      "confidence": 58.06611633300781,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN +5.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "SEA",
+      "edge": -27.974638976450045,
+      "confidence": 54.26389694213867,
+      "recommendation": "BET",
+      "market_data": "Spread: LAR -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "NO covers +5.7",
+      "edge": 27.968430519104004,
+      "confidence": 63.984214782714844,
+      "recommendation": "BET",
+      "market_data": "Spread: NO +5.7"
+    },
+    {
+      "type": "spread",
+      "bet": "DET covers -2.5",
+      "edge": -27.845925092697144,
+      "confidence": 63.92296600341797,
+      "recommendation": "BET",
+      "market_data": "Spread: MIN +2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "KC covers -4.5",
+      "edge": 27.78646945953369,
+      "confidence": 63.89323425292969,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "TB",
+      "edge": -27.399036046620967,
+      "confidence": 66.42205810546875,
+      "recommendation": "BET",
+      "market_data": "Spread: SEA +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "DET",
+      "edge": -27.37202604940115,
+      "confidence": 56.06007385253906,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "KC covers -3.5",
+      "edge": 27.340853214263916,
+      "confidence": 63.67042541503906,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "MIA covers +1.5",
+      "edge": 27.23315954208374,
+      "confidence": 63.616580963134766,
+      "recommendation": "BET",
+      "market_data": "Spread: MIA +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "ARI covers -3.5",
+      "edge": 27.125489711761475,
+      "confidence": 63.562744140625,
+      "recommendation": "BET",
+      "market_data": "Spread: ARI -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CIN covers +5.5",
+      "edge": -26.901453733444214,
+      "confidence": 63.45072937011719,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CIN covers +5.5",
+      "edge": -26.81710720062256,
+      "confidence": 63.40855407714844,
+      "recommendation": "BET",
+      "market_data": "Spread: BUF -5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "NYG covers +4.5",
+      "edge": 26.54486894607544,
+      "confidence": 63.27243423461914,
+      "recommendation": "BET",
+      "market_data": "Spread: NYG +4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "SEA",
+      "edge": 26.24613531343229,
+      "confidence": 57.44198989868164,
+      "recommendation": "BET",
+      "market_data": "Spread: SEA +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CIN covers +1.2",
+      "edge": -26.203858852386475,
+      "confidence": 63.1019287109375,
+      "recommendation": "BET",
+      "market_data": "Spread: MIN -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "IND",
+      "edge": 26.147115552747568,
+      "confidence": 58.343040466308594,
+      "recommendation": "BET",
+      "market_data": "Spread: IND +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "ARI covers +2.5",
+      "edge": -26.051080226898193,
+      "confidence": 63.02553939819336,
+      "recommendation": "BET",
+      "market_data": "Spread: HOU -2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "NYJ covers +4.5",
+      "edge": -25.951027870178223,
+      "confidence": 62.97551345825195,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "GB covers -1.2",
+      "edge": -25.85453987121582,
+      "confidence": 62.927268981933594,
+      "recommendation": "BET",
+      "market_data": "Spread: DAL +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "KC covers -6.5",
+      "edge": -25.836288928985596,
+      "confidence": 62.91814422607422,
+      "recommendation": "BET",
+      "market_data": "Spread: NYG +6.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CHI covers +3.5",
+      "edge": -25.82518458366394,
+      "confidence": 62.912593841552734,
+      "recommendation": "BET",
+      "market_data": "Spread: GB -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "TEN covers +4.5",
+      "edge": 25.68737268447876,
+      "confidence": 62.843685150146484,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN +4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "TB",
+      "edge": -25.53306734839151,
+      "confidence": 59.97402572631836,
+      "recommendation": "BET",
+      "market_data": "Spread: HOU -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "BAL",
+      "edge": -25.43332554675915,
+      "confidence": 59.7339973449707,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -1.3"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAC",
+      "edge": -25.28358313042348,
+      "confidence": 52.55507278442383,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CLE covers +8.8",
+      "edge": 25.211942195892334,
+      "confidence": 62.60597229003906,
+      "recommendation": "BET",
+      "market_data": "Spread: CLE +8.8"
+    },
+    {
+      "type": "spread",
+      "bet": "LAR covers -2.8",
+      "edge": 25.179576873779297,
+      "confidence": 62.58979034423828,
+      "recommendation": "BET",
+      "market_data": "Spread: LAR -2.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "ATL",
+      "edge": 25.14361521092856,
+      "confidence": 51.30888366699219,
+      "recommendation": "BET",
+      "market_data": "Spread: ATL +3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYG",
+      "edge": -24.905828963545034,
+      "confidence": 50.0623779296875,
+      "recommendation": "BET",
+      "market_data": "Spread: CHI -5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "IND covers +0.2",
+      "edge": 24.87236261367798,
+      "confidence": 62.436180114746094,
+      "recommendation": "BET",
+      "market_data": "Spread: IND +0.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAR",
+      "edge": 24.868015910303875,
+      "confidence": 67.11656188964844,
+      "recommendation": "BET",
+      "market_data": "Spread: LAR -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIN",
+      "edge": 24.827662179636405,
+      "confidence": 67.0948715209961,
+      "recommendation": "BET",
+      "market_data": "Spread: MIN -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "DEN",
+      "edge": -24.817437262046997,
+      "confidence": 52.25907516479492,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "TB",
+      "edge": 24.52145509941634,
+      "confidence": 66.93028259277344,
+      "recommendation": "BET",
+      "market_data": "Spread: TB -1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "NYG covers +6.6",
+      "edge": -23.948603868484497,
+      "confidence": 61.974300384521484,
+      "recommendation": "BET",
+      "market_data": "Spread: WSH -6.6"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAC",
+      "edge": 23.797829429367276,
+      "confidence": 52.3819580078125,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC +2.6"
+    },
+    {
+      "type": "spread",
+      "bet": "NO covers +3.5",
+      "edge": -23.723047971725464,
+      "confidence": 61.86152648925781,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "WSH covers -4.5",
+      "edge": -23.602622747421265,
+      "confidence": 61.80131530761719,
+      "recommendation": "BET",
+      "market_data": "Spread: MIA +4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIN",
+      "edge": 23.487192651499882,
+      "confidence": 71.00513458251953,
+      "recommendation": "BET",
+      "market_data": "Spread: MIN -2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "MIA covers -6.0",
+      "edge": 23.445701599121094,
+      "confidence": 61.72285079956055,
+      "recommendation": "BET",
+      "market_data": "Spread: MIA -6.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "NO",
+      "edge": 23.398394198031035,
+      "confidence": 57.07175827026367,
+      "recommendation": "BET",
+      "market_data": "Spread: NO +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "NYG covers +3.5",
+      "edge": 23.396146297454834,
+      "confidence": 61.69807434082031,
+      "recommendation": "BET",
+      "market_data": "Spread: NYG +3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "ATL covers -1.5",
+      "edge": 23.199832439422607,
+      "confidence": 61.59991455078125,
+      "recommendation": "BET",
+      "market_data": "Spread: ATL -1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "MIA covers -1.2",
+      "edge": -23.18074107170105,
+      "confidence": 61.59037399291992,
+      "recommendation": "BET",
+      "market_data": "Spread: CAR +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "CLE covers +12.7",
+      "edge": -23.159050941467285,
+      "confidence": 61.579524993896484,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -12.7"
+    },
+    {
+      "type": "moneyline",
+      "team": "PIT",
+      "edge": 23.092070869777523,
+      "confidence": 70.77793884277344,
+      "recommendation": "BET",
+      "market_data": "Spread: PIT -2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CAR",
+      "edge": -22.57417726122643,
+      "confidence": 53.157379150390625,
+      "recommendation": "BET",
+      "market_data": "Spread: NE -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "TEN covers +7.0",
+      "edge": 22.376060485839844,
+      "confidence": 61.18803024291992,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN +7.0"
+    },
+    {
+      "type": "spread",
+      "bet": "BAL covers +1.5",
+      "edge": -22.32019305229187,
+      "confidence": 61.160099029541016,
+      "recommendation": "BET",
+      "market_data": "Spread: BUF -1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "HOU",
+      "edge": 22.11565069250158,
+      "confidence": 56.47848892211914,
+      "recommendation": "BET",
+      "market_data": "Spread: HOU +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "PHI covers +1.4",
+      "edge": -21.934711933135986,
+      "confidence": 60.96735763549805,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -1.4"
+    },
+    {
+      "type": "spread",
+      "bet": "LAC covers +2.5",
+      "edge": 21.871447563171387,
+      "confidence": 60.93572235107422,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC +2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CAR",
+      "edge": -21.800498304695918,
+      "confidence": 56.694637298583984,
+      "recommendation": "BET",
+      "market_data": "Spread: GB -7.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYG",
+      "edge": -21.65717027955136,
+      "confidence": 53.77772903442383,
+      "recommendation": "BET",
+      "market_data": "Spread: NE -3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "HOU covers +6.5",
+      "edge": -21.539700031280518,
+      "confidence": 60.76985168457031,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -6.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "JAX",
+      "edge": -21.459882779228963,
+      "confidence": 52.22917938232422,
+      "recommendation": "BET",
+      "market_data": "Spread: DEN -5.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "DAL",
+      "edge": -21.125166203632677,
+      "confidence": 55.853240966796875,
+      "recommendation": "BET",
+      "market_data": "Spread: PHI -6.9"
+    },
+    {
+      "type": "spread",
+      "bet": "NE covers -3.5",
+      "edge": 21.04160785675049,
+      "confidence": 60.52080535888672,
+      "recommendation": "BET",
+      "market_data": "Spread: NE -3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAC",
+      "edge": -20.777002485787,
+      "confidence": 67.51856994628906,
+      "recommendation": "BET",
+      "market_data": "Spread: LV +3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "DAL covers +1.5",
+      "edge": 20.753085613250732,
+      "confidence": 60.37654113769531,
+      "recommendation": "BET",
+      "market_data": "Spread: DAL +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "SF covers -1.2",
+      "edge": -20.612329244613647,
+      "confidence": 60.30616760253906,
+      "recommendation": "BET",
+      "market_data": "Spread: ARI +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "LV",
+      "edge": 20.50879152515266,
+      "confidence": 52.39902877807617,
+      "recommendation": "BET",
+      "market_data": "Spread: LV +3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "LV covers +7.5",
+      "edge": -20.48225998878479,
+      "confidence": 60.241127014160156,
+      "recommendation": "BET",
+      "market_data": "Spread: WSH -7.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CHI covers +3.0",
+      "edge": -20.453524589538574,
+      "confidence": 60.22676086425781,
+      "recommendation": "BET",
+      "market_data": "Spread: CIN -3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "BUF",
+      "edge": 20.428836435303648,
+      "confidence": 80.08517456054688,
+      "recommendation": "BET",
+      "market_data": "Spread: BUF -5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "MIN covers +1.2",
+      "edge": 20.30034065246582,
+      "confidence": 60.150169372558594,
+      "recommendation": "BET",
+      "market_data": "Spread: MIN +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "CIN covers -5.5",
+      "edge": 20.223116874694824,
+      "confidence": 60.11155700683594,
+      "recommendation": "BET",
+      "market_data": "Spread: CIN -5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "NO covers +4.5",
+      "edge": -20.20912766456604,
+      "confidence": 60.10456085205078,
+      "recommendation": "BET",
+      "market_data": "Spread: CAR -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NE",
+      "edge": -20.14698156221645,
+      "confidence": 50.7066650390625,
+      "recommendation": "BET",
+      "market_data": "Spread: TB -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYJ",
+      "edge": 19.999211008955783,
+      "confidence": 50.800323486328125,
+      "recommendation": "BET",
+      "market_data": "Spread: NYJ +3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "CHI",
+      "edge": 19.830733638698778,
+      "confidence": 70.70013427734375,
+      "recommendation": "BET",
+      "market_data": "Spread: CHI -3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAR",
+      "edge": -19.819127856277106,
+      "confidence": 50.914852142333984,
+      "recommendation": "BET",
+      "market_data": "Spread: PHI -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CAR covers +1.5",
+      "edge": -19.640111923217773,
+      "confidence": 59.8200569152832,
+      "recommendation": "BET",
+      "market_data": "Spread: NYJ -1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "DET covers -3.5",
+      "edge": 19.517314434051514,
+      "confidence": 59.7586555480957,
+      "recommendation": "BET",
+      "market_data": "Spread: DET -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "WSH covers +1.2",
+      "edge": -19.198858737945557,
+      "confidence": 59.599430084228516,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC -1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "IND covers +1.5",
+      "edge": 19.112491607666016,
+      "confidence": 59.556243896484375,
+      "recommendation": "BET",
+      "market_data": "Spread: IND +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "IND covers +1.2",
+      "edge": 19.07675266265869,
+      "confidence": 59.53837585449219,
+      "recommendation": "BET",
+      "market_data": "Spread: IND +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "GB covers -1.2",
+      "edge": -18.97750496864319,
+      "confidence": 59.48875045776367,
+      "recommendation": "BET",
+      "market_data": "Spread: ARI +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "IND",
+      "edge": -18.942136896981136,
+      "confidence": 56.228755950927734,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN -1.3"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAR",
+      "edge": 18.9031950227774,
+      "confidence": 93.33900451660156,
+      "recommendation": "BET",
+      "market_data": "Spread: LAR -9.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CAR",
+      "edge": 18.704725956094663,
+      "confidence": 65.57563018798828,
+      "recommendation": "BET",
+      "market_data": "Spread: CAR +7.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "IND",
+      "edge": -18.367047520244814,
+      "confidence": 55.510406494140625,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC -6.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "HOU",
+      "edge": -18.343061354102165,
+      "confidence": 66.5206527709961,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN +3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "BUF",
+      "edge": 18.29465901086089,
+      "confidence": 64.47058868408203,
+      "recommendation": "BET",
+      "market_data": "Spread: BUF -1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "SEA",
+      "edge": 18.285434190617057,
+      "confidence": 63.57842254638672,
+      "recommendation": "BET",
+      "market_data": "Spread: SEA -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "SEA",
+      "edge": -18.16147204932817,
+      "confidence": 55.39799880981445,
+      "recommendation": "BET",
+      "market_data": "Spread: ATL -1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "GB",
+      "edge": -18.161231443422658,
+      "confidence": 55.39786911010742,
+      "recommendation": "BET",
+      "market_data": "Spread: DEN -1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "GB covers +1.3",
+      "edge": 18.07929277420044,
+      "confidence": 59.03964614868164,
+      "recommendation": "BET",
+      "market_data": "Spread: GB +1.3"
+    },
+    {
+      "type": "moneyline",
+      "team": "WSH",
+      "edge": -18.051066477436663,
+      "confidence": 50.42089080810547,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CHI covers +4.5",
+      "edge": -17.649656534194946,
+      "confidence": 58.824825286865234,
+      "recommendation": "BET",
+      "market_data": "Spread: WSH -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "TEN",
+      "edge": -17.639119932130175,
+      "confidence": 59.557212829589844,
+      "recommendation": "BET",
+      "market_data": "Spread: DEN -7.4"
+    },
+    {
+      "type": "moneyline",
+      "team": "HOU",
+      "edge": 17.56711392789273,
+      "confidence": 54.37479019165039,
+      "recommendation": "BET",
+      "market_data": "Spread: HOU +1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "PIT",
+      "edge": -17.396217096047316,
+      "confidence": 62.98538589477539,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -8.8"
+    },
+    {
+      "type": "spread",
+      "bet": "PIT covers +4.5",
+      "edge": -17.333412170410156,
+      "confidence": 58.66670608520508,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "SF covers +1.2",
+      "edge": -17.262756824493408,
+      "confidence": 58.631378173828125,
+      "recommendation": "BET",
+      "market_data": "Spread: TB -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "CLE",
+      "edge": -17.229647026922475,
+      "confidence": 55.04228591918945,
+      "recommendation": "BET",
+      "market_data": "Spread: NE -5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "DEN covers +1.2",
+      "edge": -17.07872748374939,
+      "confidence": 58.53936767578125,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "CIN",
+      "edge": -16.953848580182605,
+      "confidence": 51.002769470214844,
+      "recommendation": "BET",
+      "market_data": "Spread: GB -3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "NE covers -3.0",
+      "edge": 16.843390464782715,
+      "confidence": 58.421695709228516,
+      "recommendation": "BET",
+      "market_data": "Spread: NE -3.0"
+    },
+    {
+      "type": "spread",
+      "bet": "HOU covers -3.5",
+      "edge": 16.758620738983154,
+      "confidence": 58.379310607910156,
+      "recommendation": "BET",
+      "market_data": "Spread: HOU -3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CHI",
+      "edge": 16.676671404234124,
+      "confidence": 82.84043884277344,
+      "recommendation": "BET",
+      "market_data": "Spread: CHI -7.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "NO",
+      "edge": -16.624139538771825,
+      "confidence": 57.946224212646484,
+      "recommendation": "BET",
+      "market_data": "Spread: SEA -6.5"
+    },
+    {
+      "type": "spread",
+      "bet": "DEN covers -7.5",
+      "edge": 16.54752492904663,
+      "confidence": 58.27376174926758,
+      "recommendation": "BET",
+      "market_data": "Spread: DEN -7.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "GB",
+      "edge": 16.311441297116485,
+      "confidence": 53.50326156616211,
+      "recommendation": "BET",
+      "market_data": "Spread: GB +1.3"
+    },
+    {
+      "type": "moneyline",
+      "team": "DAL",
+      "edge": 16.128217516921637,
+      "confidence": 73.74141693115234,
+      "recommendation": "BET",
+      "market_data": "Spread: DAL -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "DEN covers -6.5",
+      "edge": -16.120612621307373,
+      "confidence": 58.060306549072266,
+      "recommendation": "BET",
+      "market_data": "Spread: NYJ +6.5"
+    },
+    {
+      "type": "spread",
+      "bet": "NO covers +12.5",
+      "edge": -16.085249185562134,
+      "confidence": 58.04262161254883,
+      "recommendation": "BET",
+      "market_data": "Spread: BUF -12.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAC",
+      "edge": 15.960661102743712,
+      "confidence": 50.71672058105469,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC +2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "MIN covers +3.0",
+      "edge": 15.852248668670654,
+      "confidence": 57.926124572753906,
+      "recommendation": "BET",
+      "market_data": "Spread: MIN +3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "JAX",
+      "edge": -15.851792623830393,
+      "confidence": 54.77033996582031,
+      "recommendation": "BET",
+      "market_data": "Spread: LV -1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "DAL covers -4.5",
+      "edge": 15.771496295928955,
+      "confidence": 57.88574981689453,
+      "recommendation": "BET",
+      "market_data": "Spread: DAL -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "TEN",
+      "edge": 15.420521916569886,
+      "confidence": 53.38199234008789,
+      "recommendation": "BET",
+      "market_data": "Spread: TEN +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "DEN covers -3.5",
+      "edge": -15.182554721832275,
+      "confidence": 57.591278076171875,
+      "recommendation": "BET",
+      "market_data": "Spread: LV +3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CAR",
+      "edge": 15.137081446610095,
+      "confidence": 73.11204528808594,
+      "recommendation": "BET",
+      "market_data": "Spread: CAR -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "GB",
+      "edge": -15.101013771475175,
+      "confidence": 69.0118637084961,
+      "recommendation": "BET",
+      "market_data": "Spread: NYG +4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "NE covers +4.5",
+      "edge": -15.084344148635864,
+      "confidence": 57.54216766357422,
+      "recommendation": "BET",
+      "market_data": "Spread: TB -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "JAX",
+      "edge": 14.914028663334882,
+      "confidence": 72.97040557861328,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CLE covers +5.5",
+      "edge": -14.3967866897583,
+      "confidence": 57.198394775390625,
+      "recommendation": "BET",
+      "market_data": "Spread: NE -5.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "LAR",
+      "edge": -14.28291044270682,
+      "confidence": 57.64474105834961,
+      "recommendation": "BET",
+      "market_data": "Spread: BAL -5.8"
+    },
+    {
+      "type": "spread",
+      "bet": "SEA covers -3.5",
+      "edge": 14.194333553314209,
+      "confidence": 57.09716796875,
+      "recommendation": "BET",
+      "market_data": "Spread: SEA -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "LAR covers -1.2",
+      "edge": -13.866275548934937,
+      "confidence": 56.93313980102539,
+      "recommendation": "BET",
+      "market_data": "Spread: ARI +1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "LV covers +4.5",
+      "edge": -13.833367824554443,
+      "confidence": 56.916683197021484,
+      "recommendation": "BET",
+      "market_data": "Spread: HOU -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "SF covers -4.5",
+      "edge": 13.790619373321533,
+      "confidence": 56.89530944824219,
+      "recommendation": "BET",
+      "market_data": "Spread: SF -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "WSH covers -5.5",
+      "edge": 13.418960571289062,
+      "confidence": 56.70948028564453,
+      "recommendation": "BET",
+      "market_data": "Spread: WSH -5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "JAX covers +3.8",
+      "edge": 13.350963592529297,
+      "confidence": 56.67548370361328,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX +3.8"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYJ",
+      "edge": 13.323271929562743,
+      "confidence": 51.56208801269531,
+      "recommendation": "BET",
+      "market_data": "Spread: NYJ +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CAR covers +2.5",
+      "edge": -13.321250677108765,
+      "confidence": 56.66062927246094,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX -2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "PIT",
+      "edge": -13.316777371984767,
+      "confidence": 55.043846130371094,
+      "recommendation": "BET",
+      "market_data": "Spread: CIN -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "ARI",
+      "edge": 12.501322212865803,
+      "confidence": 66.37577819824219,
+      "recommendation": "BET",
+      "market_data": "Spread: ARI -3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "BAL",
+      "edge": -12.228401969460878,
+      "confidence": 62.69707107543945,
+      "recommendation": "BET",
+      "market_data": "Spread: CIN +2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "HOU",
+      "edge": 12.042567861361766,
+      "confidence": 71.14703369140625,
+      "recommendation": "BET",
+      "market_data": "Spread: HOU -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "LV",
+      "edge": -11.79041801744205,
+      "confidence": 69.24452209472656,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -9.5"
+    },
+    {
+      "type": "spread",
+      "bet": "LV covers +6.5",
+      "edge": -11.782771348953247,
+      "confidence": 55.89138412475586,
+      "recommendation": "BET",
+      "market_data": "Spread: LAC -6.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYJ",
+      "edge": -11.70709708641315,
+      "confidence": 64.0123519897461,
+      "recommendation": "BET",
+      "market_data": "Spread: TB -7.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "DAL",
+      "edge": 11.583544783396265,
+      "confidence": 59.272003173828125,
+      "recommendation": "BET",
+      "market_data": "Spread: DAL +4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NE",
+      "edge": -11.53310085165089,
+      "confidence": 51.3108024597168,
+      "recommendation": "BET",
+      "market_data": "Spread: MIA -2.7"
+    },
+    {
+      "type": "moneyline",
+      "team": "LV",
+      "edge": 11.33792089379353,
+      "confidence": 64.01930236816406,
+      "recommendation": "BET",
+      "market_data": "Spread: LV -2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CAR",
+      "edge": 10.836139945096752,
+      "confidence": 59.574424743652344,
+      "recommendation": "BET",
+      "market_data": "Spread: CAR -1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "CAR covers +4.5",
+      "edge": -10.760390758514404,
+      "confidence": 55.38019561767578,
+      "recommendation": "BET",
+      "market_data": "Spread: ARI -4.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CHI covers +7.0",
+      "edge": -10.657352209091187,
+      "confidence": 55.328678131103516,
+      "recommendation": "BET",
+      "market_data": "Spread: PHI -7.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "PIT",
+      "edge": -10.615416460259013,
+      "confidence": 51.95578384399414,
+      "recommendation": "BET",
+      "market_data": "Spread: NE -1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "SEA covers +1.5",
+      "edge": 10.572421550750732,
+      "confidence": 55.28620910644531,
+      "recommendation": "BET",
+      "market_data": "Spread: SEA +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "LV",
+      "edge": 10.30939675993839,
+      "confidence": 65.0825424194336,
+      "recommendation": "BET",
+      "market_data": "Spread: LV -3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "JAX",
+      "edge": 10.263114751771443,
+      "confidence": 59.26642608642578,
+      "recommendation": "BET",
+      "market_data": "Spread: JAX -1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "BUF covers -2.5",
+      "edge": 9.968304634094238,
+      "confidence": 54.984153747558594,
+      "recommendation": "LEAN",
+      "market_data": "Spread: BUF -2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CLE",
+      "edge": -9.605499651792245,
+      "confidence": 62.82417678833008,
+      "recommendation": "LEAN",
+      "market_data": "Spread: PIT -6.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIA",
+      "edge": -9.520247660645657,
+      "confidence": 50.688533782958984,
+      "recommendation": "LEAN",
+      "market_data": "Spread: ATL -1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "IND",
+      "edge": -9.478327271285321,
+      "confidence": 71.05950927734375,
+      "recommendation": "LEAN",
+      "market_data": "Spread: KC -9.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "DEN",
+      "edge": 9.43323046296507,
+      "confidence": 50.20787811279297,
+      "recommendation": "LEAN",
+      "market_data": "Spread: DEN +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "SEA",
+      "edge": 9.386355788619422,
+      "confidence": 59.068634033203125,
+      "recommendation": "LEAN",
+      "market_data": "Spread: SEA -1.3"
+    },
+    {
+      "type": "moneyline",
+      "team": "ARI",
+      "edge": -9.149139158187367,
+      "confidence": 70.07600402832031,
+      "recommendation": "LEAN",
+      "market_data": "Spread: NO +5.7"
+    },
+    {
+      "type": "spread",
+      "bet": "SEA covers +2.5",
+      "edge": -9.002262353897095,
+      "confidence": 54.501129150390625,
+      "recommendation": "LEAN",
+      "market_data": "Spread: ARI -2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "MIN covers +1.1",
+      "edge": -8.765590190887451,
+      "confidence": 54.38279342651367,
+      "recommendation": "LEAN",
+      "market_data": "Spread: CHI -1.1"
+    },
+    {
+      "type": "spread",
+      "bet": "BAL covers -2.5",
+      "edge": -8.722525835037231,
+      "confidence": 54.36125946044922,
+      "recommendation": "LEAN",
+      "market_data": "Spread: CIN +2.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "ATL",
+      "edge": -8.452871417211103,
+      "confidence": 55.38601303100586,
+      "recommendation": "LEAN",
+      "market_data": "Spread: ARI -3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CAR",
+      "edge": -8.421368110836962,
+      "confidence": 58.15243148803711,
+      "recommendation": "LEAN",
+      "market_data": "Spread: ARI -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "LV",
+      "edge": 8.233857745966638,
+      "confidence": 65.48148345947266,
+      "recommendation": "LEAN",
+      "market_data": "Spread: LV -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "GB covers +2.5",
+      "edge": -7.890492677688599,
+      "confidence": 53.94524383544922,
+      "recommendation": "LEAN",
+      "market_data": "Spread: DET -2.5"
+    },
+    {
+      "type": "spread",
+      "bet": "LAR covers -3.5",
+      "edge": 7.5591206550598145,
+      "confidence": 53.77956008911133,
+      "recommendation": "LEAN",
+      "market_data": "Spread: LAR -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "SF covers -6.5",
+      "edge": 7.372641563415527,
+      "confidence": 53.68632125854492,
+      "recommendation": "LEAN",
+      "market_data": "Spread: SF -6.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIN",
+      "edge": -7.0367569059837525,
+      "confidence": 59.03165817260742,
+      "recommendation": "LEAN",
+      "market_data": "Spread: DET -4.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CIN",
+      "edge": 6.9986551327812885,
+      "confidence": 71.15410614013672,
+      "recommendation": "LEAN",
+      "market_data": "Spread: CIN -5.5"
+    },
+    {
+      "type": "spread",
+      "bet": "CHI covers +3.5",
+      "edge": -6.836080551147461,
+      "confidence": 53.41804122924805,
+      "recommendation": "LEAN",
+      "market_data": "Spread: SF -3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CLE",
+      "edge": 6.750122336454174,
+      "confidence": 57.37818908691406,
+      "recommendation": "LEAN",
+      "market_data": "Spread: CLE -1.2"
+    },
+    {
+      "type": "spread",
+      "bet": "HOU covers -1.2",
+      "edge": 6.608390808105469,
+      "confidence": 53.304195404052734,
+      "recommendation": "LEAN",
+      "market_data": "Spread: HOU -1.2"
+    },
+    {
+      "type": "moneyline",
+      "team": "NYG",
+      "edge": -6.510018705255441,
+      "confidence": 65.32612609863281,
+      "recommendation": "LEAN",
+      "market_data": "Spread: WSH -6.6"
+    },
+    {
+      "type": "spread",
+      "bet": "LAC covers -3.5",
+      "edge": 6.451129913330078,
+      "confidence": 53.225563049316406,
+      "recommendation": "LEAN",
+      "market_data": "Spread: LAC -3.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "MIN",
+      "edge": -6.4009169400748505,
+      "confidence": 55.22345733642578,
+      "recommendation": "LEAN",
+      "market_data": "Spread: LAC -3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "ATL",
+      "edge": -6.339009005324289,
+      "confidence": 62.2845573425293,
+      "recommendation": "LEAN",
+      "market_data": "Spread: TB -5.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "BAL",
+      "edge": 6.301077480973872,
+      "confidence": 77.06828308105469,
+      "recommendation": "LEAN",
+      "market_data": "Spread: BAL -7.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "CIN",
+      "edge": -5.926080850454481,
+      "confidence": 57.19636535644531,
+      "recommendation": "LEAN",
+      "market_data": "Spread: MIA +1.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "NE",
+      "edge": -5.8673439956292945,
+      "confidence": 61.405609130859375,
+      "recommendation": "LEAN",
+      "market_data": "Spread: NO +3.0"
+    },
+    {
+      "type": "moneyline",
+      "team": "CHI",
+      "edge": 5.73188189802499,
+      "confidence": 76.6556167602539,
+      "recommendation": "LEAN",
+      "market_data": "Spread: CHI -7.5"
+    },
+    {
+      "type": "spread",
+      "bet": "KC covers -1.5",
+      "edge": -5.685180425643921,
+      "confidence": 52.842594146728516,
+      "recommendation": "LEAN",
+      "market_data": "Spread: DEN +1.5"
+    },
+    {
+      "type": "spread",
+      "bet": "GB covers -3.5",
+      "edge": 5.53056001663208,
+      "confidence": 52.765281677246094,
+      "recommendation": "LEAN",
+      "market_data": "Spread: GB -3.5"
+    },
+    {
+      "type": "spread",
+      "bet": "JAX covers +5.5",
+      "edge": -5.033797025680542,
+      "confidence": 52.516902923583984,
+      "recommendation": "LEAN",
+      "market_data": "Spread: DEN -5.5"
+    },
+    {
+      "type": "moneyline",
+      "team": "PIT",
+      "edge": -5.026879380731013,
+      "confidence": 64.58171844482422,
+      "recommendation": "LEAN",
+      "market_data": "Spread: DET -6.0"
+    }
+  ],
+  "summary": {
+    "strong_bets": 454,
+    "lean_bets": 33,
+    "avg_edge": 42.55739107123881,
+    "max_edge": 151.8829144537449
+  },
+  "market_data": {
+    "sportsbooks_used": "Multiple (DraftKings, BetMGM, etc.)",
+    "line_type": "Average of available lines",
+    "last_updated": "2026-01-04T18:00:00Z"
+  }
+}

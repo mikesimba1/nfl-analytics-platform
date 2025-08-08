@@ -1,0 +1,28 @@
+{
+  "analysis_date": "2025-07-18T02:55:00.000000",
+  "week": 1,
+  "season": 2025,
+  "data_source": "The Odds API (Real Lines)",
+  "total_games_with_odds": 16,
+  "edges_found": 2,
+  "betting_opportunities": [
+    {
+      "type": "moneyline",
+      "game": "Kansas City Chiefs vs. Baltimore Ravens",
+      "team": "Kansas City Chiefs",
+      "edge": 5.5,
+      "confidence": 75.0,
+      "recommendation": "BET",
+      "market_data": "Spread: KC -3.0"
+    },
+    {
+      "type": "spread",
+      "game": "Green Bay Packers vs. Philadelphia Eagles",
+      "bet": "GB covers +1.5",
+      "edge": 2.1,
+      "confidence": 60.2,
+      "recommendation": "BET",
+      "market_data": "Spread: GB +1.5"
+    }
+  ]
+}

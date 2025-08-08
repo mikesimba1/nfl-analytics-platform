@@ -1,0 +1,21 @@
+{
+  "verification_date": "2025-06-26T00:45:44.030557",
+  "results": {
+    "total_games": 4095,
+    "data_summary": {
+      "historical_odds": 2956,
+      "2021_games": 285,
+      "2022_games": 284,
+      "2023_games": 285,
+      "2024_games": 285,
+      "2024_seasonal_stats.csv": 607,
+      "2024_rosters.csv": 996,
+      "enhanced_rosters.csv": 346,
+      "2024_team_desc.csv": 36,
+      "real_defensive_rankings_2024.csv": 32,
+      "current-week-games.json": 16,
+      "injury-reports.json": 32
+    },
+    "trust_level": "HIGH"
+  }
+}

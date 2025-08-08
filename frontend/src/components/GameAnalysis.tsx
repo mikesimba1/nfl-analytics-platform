@@ -42,7 +42,7 @@ export default function GameAnalysis() {
   const fetchGames = async () => {
     try {
       setLoading(true);
-      const response = await fetch(`http://localhost:3001/api/nfl/games/2024?week=${selectedWeek}`);
+      const response = await fetch(`/api/nfl/games/2024?week=${selectedWeek}`);
       const data = await response.json();
       console.log('Games data:', data); // Debug log
       setGames(data.games || []);

@@ -1,0 +1,30 @@
+{
+  "tier_1": [
+    "epa_differential",
+    "dvoa_differential",
+    "point_differential",
+    "offensive_efficiency",
+    "defensive_efficiency"
+  ],
+  "tier_2": [
+    "success_rate_differential",
+    "explosive_play_rate",
+    "third_down_efficiency",
+    "red_zone_efficiency",
+    "turnover_differential",
+    "pressure_rate_differential",
+    "yards_per_play_differential",
+    "scoring_efficiency"
+  ],
+  "tier_3": [
+    "home_field_advantage",
+    "rest_differential",
+    "recent_form_trend",
+    "head_to_head_history",
+    "weather_impact_score",
+    "injury_impact_score",
+    "divisional_game_factor",
+    "primetime_performance",
+    "season_momentum"
+  ]
+}

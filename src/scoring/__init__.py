@@ -1,0 +1,1 @@
+"""Scoring utilities package: odds conversion, vig removal, edge calculations, calibration tools, etc.""" 
