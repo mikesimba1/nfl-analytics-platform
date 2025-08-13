@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
+import dynamic from "next/dynamic";
+const HealthPill = dynamic(() => import("@/components/HealthPill"), { ssr: false });
+const RefreshButton = dynamic(() => import("@/components/RefreshButton"), { ssr: false });
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -43,28 +46,4 @@ export default function RootLayout({
   );
 } 
 
-function HealthPill() {
-  const [ok, setOk] = React.useState<boolean | null>(null);
-  const [ts, setTs] = React.useState<string | null>(null);
-  React.useEffect(() => {
-    fetch('/api/health').then(r => r.json()).then((h) => {
-      setOk(Boolean(h?.ok));
-      setTs(new Date().toLocaleTimeString());
-    }).catch(() => setOk(null));
-  }, []);
-  const cls = ok == null ? 'bg-gray-400' : ok ? 'bg-green-600' : 'bg-red-600';
-  return <span title={ts || ''} className={`text-white text-xs px-2 py-1 rounded ${cls}`}>{ok == null ? '—' : ok ? 'Healthy' : 'Degraded'}</span>;
-}
-
-function RefreshButton() {
-  const [busy, setBusy] = React.useState(false);
-  return (
-    <button
-      className="px-2 py-1 rounded bg-blue-600 text-white text-sm disabled:opacity-60"
-      disabled={busy}
-      onClick={async () => {
-        try { setBusy(true); await fetch('/api/refresh/odds', { method: 'POST' }); } finally { setBusy(false); }
-      }}
-    >{busy ? 'Refreshing…' : 'Refresh Odds'}</button>
-  );
-}
+// client-only widgets moved to dynamic imports above
