@@ -4,90 +4,60 @@
 import { useEffect, useState } from 'react';
 import { useParams } from 'next/navigation';
 
-interface GameDetails {
-  id: string;
-  home_team: string;
-  away_team: string;
-  commence_time: string;
-  bookmakers: {
-    key: string;
-    title: string;
-    markets: {
-      key: string;
-      outcomes: {
-        name: string;
-        price: number;
-      }[];
-    }[];
-  }[];
-}
-
-export default function DeepDivePage() {
+export default function GameDetailPage() {
   const params = useParams();
   const gameId = params.gameId as string;
-  const [game, setGame] = useState<GameDetails | null>(null);
+  const [data, setData] = useState<any>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     if (!gameId) return;
-    async function fetchGameDetails() {
+    (async () => {
       try {
-        const response = await fetch(`/api/games/${gameId}`);
-        if (!response.ok) {
-          throw new Error('Failed to fetch game details');
-        }
-        const data = await response.json();
-        setGame(data);
-      } catch (err) {
-        setError(err instanceof Error ? err.message : 'An unknown error occurred');
+        const res = await fetch('/api/nfl-data');
+        const games = await res.json();
+        const game = games.find((g: any) => String(g.game_id) === gameId);
+        if (!game) throw new Error('Game not found');
+        const predRes = await fetch('/api/predictions/game', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ home_team: game.home_team, away_team: game.away_team, week: game.week }) });
+        const pred = await predRes.json();
+        setData({ game, pred });
+      } catch (e:any) {
+        setError(e.message || 'Error');
       } finally {
         setLoading(false);
       }
-    }
-    fetchGameDetails();
+    })();
   }, [gameId]);
 
-  if (loading) {
-    return <div className="text-center p-8">Loading game details...</div>;
-  }
-
-  if (error) {
-    return <div className="text-center p-8 text-red-500">Error: {error}</div>;
-  }
-
-  if (!game) {
-    return <div className="text-center p-8">Game not found.</div>;
-  }
+  if (loading) return <div className="p-6">Loading…</div>;
+  if (error) return <div className="p-6 text-red-600">{error}</div>;
+  if (!data) return null;
+  const { game, pred } = data;
+  const p = pred?.prediction || {};
 
   return (
-    <div className="container mx-auto p-4">
-      <h1 className="text-4xl font-bold mb-2">{game.away_team} @ {game.home_team}</h1>
-      <p className="text-gray-600 mb-8">{new Date(game.commence_time).toLocaleString()}</p>
-
-      <div className="bg-white p-6 rounded-lg shadow-md">
-        <h2 className="text-2xl font-semibold mb-4">Betting Odds</h2>
-        <div className="space-y-4">
-          {game.bookmakers && game.bookmakers.map((bookie) => (
-            <div key={bookie.key}>
-              <h3 className="text-xl font-semibold text-gray-700">{bookie.title}</h3>
-              {bookie.markets.map((market) => (
-                <div key={market.key} className="ml-4 mt-2">
-                  <h4 className="font-medium">{market.key === 'h2h' ? 'Moneyline' : market.key}</h4>
-                  <div className="flex space-x-4">
-                    {market.outcomes.map((outcome) => (
-                      <div key={outcome.name} className="flex-1 bg-gray-100 p-2 rounded">
-                        <p>{outcome.name}</p>
-                        <p className="font-bold text-lg">{outcome.price}</p>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              ))}
-            </div>
-          ))}
+    <div className="p-6 space-y-4">
+      <h1 className="text-2xl font-bold">{game.away_team} @ {game.home_team}</h1>
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <div className="p-4 rounded border bg-white">
+          <div className="font-semibold mb-2">Our Line vs Market</div>
+          <div>Spread: {game.home_team} {p.predicted_spread ?? '-'} (Market {game.home_spread})</div>
+          <div>Total: {p.predicted_total ?? '-'} (Market {game.total})</div>
+        </div>
+        <div className="p-4 rounded border bg-white">
+          <div className="font-semibold mb-2">Win Probability</div>
+          <div>Home win prob: {p.home_win_probability != null ? (p.home_win_probability*100).toFixed(1)+'%' : '-'}</div>
+          <div>Confidence: {p.confidence_score != null ? p.confidence_score+'%' : '-'}</div>
+          <div>CI: {p.prediction_interval ? `${p.prediction_interval[0]} to ${p.prediction_interval[1]}` : '-'}</div>
+        </div>
+        <div className="p-4 rounded border bg-white">
+          <div className="font-semibold mb-2">Key Factors</div>
+          <ul className="list-disc pl-5 text-sm">
+            {(p.key_factors || []).slice(0,5).map((k:string, i:number) => (<li key={i}>{k}</li>))}
+          </ul>
         </div>
       </div>
     </div>
   );
-} 
+}
